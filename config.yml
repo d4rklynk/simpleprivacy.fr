@@ -114,6 +114,10 @@ menu:
       name: Les guides
       url: /guides/
       weight: 20
+    - identifier: Les alternatives
+      name: Les alternatives
+      url: /alternatives/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
