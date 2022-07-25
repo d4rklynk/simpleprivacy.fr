@@ -12,6 +12,15 @@
     <language>fr-fr</language>
     <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://d4rklynk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Politique de confidentialité</title>
+      <link>http://d4rklynk.github.io/privacy/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://d4rklynk.github.io/privacy/</guid>
+      <description>Rien n&amp;rsquo;est collecté. Les cookies, je les mange.</description>
+    </item>
+    
+    <item>
       <title>Pourquoi s&#39;en soucier</title>
       <link>http://d4rklynk.github.io/basics/pourquoi-sen-soucier/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
@@ -19,15 +28,6 @@
       <guid>http://d4rklynk.github.io/basics/pourquoi-sen-soucier/</guid>
       <description>La vie privée est un droit inhérent à tous. Cela consiste à garder certaines choses pour soi : vous ne voulez pas par exemple que votre employeur sache que vous avez des problèmes médicaux, cependant vous voulez quand même que votre médecin ou votre famille soit au courant.
 Le concept de vie privée reste propre à chacun, et les limites varient selons les personnes ou les cultures. Beaucoup de gens se retrouvent à dire &amp;ldquo;Je n&amp;rsquo;ai rien à cacher&amp;rdquo; ou &amp;ldquo;Les gens qui gérent mes données ne me connaissent pas&amp;rdquo;; pourtant aimeriez-vous que quelqu&amp;rsquo;un dans la rue vous croise et vous dis qu&amp;rsquo;il sait ce que vous avez fait ce week-end ?</description>
-    </item>
-    
-    <item>
-      <title>privacy</title>
-      <link>http://d4rklynk.github.io/privacy/</link>
-      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://d4rklynk.github.io/privacy/</guid>
-      <description>Rien n&amp;rsquo;est collecté. Les cookies, je les mange.</description>
     </item>
     
     <item>
