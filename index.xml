@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>samsepi0l</title>
+    <link>http://d4rklynk.github.io/</link>
+    <description>Recent content on samsepi0l</description>
+    <image>
+      <url>http://d4rklynk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://d4rklynk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://d4rklynk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pourquoi s&#39;en soucier</title>
+      <link>http://d4rklynk.github.io/basics/pourquoi-sen-soucier/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://d4rklynk.github.io/basics/pourquoi-sen-soucier/</guid>
+      <description>La vie privée est un droit inhérent à tous. Cela consiste à garder certaines choses pour soi : vous ne voulez pas par exemple que votre employeur sache que vous avez des problèmes médicaux, cependant vous voulez quand même que votre médecin ou votre famille soit au courant.
+Le concept de vie privée reste propre à chacun, et les limites varient selons les personnes ou les cultures. Beaucoup de gens se retrouvent à dire &amp;ldquo;Je n&amp;rsquo;ai rien à cacher&amp;rdquo; ou &amp;ldquo;Les gens qui gérent mes données ne me connaissent pas&amp;rdquo;; pourtant aimeriez-vous que quelqu&amp;rsquo;un dans la rue vous croise et vous dis qu&amp;rsquo;il sait ce que vous avez fait ce week-end ?</description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>http://d4rklynk.github.io/privacy/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://d4rklynk.github.io/privacy/</guid>
+      <description>Rien n&amp;rsquo;est collecté. Les cookies, je les mange.</description>
+    </item>
+    
+    <item>
+      <title>A propos</title>
+      <link>http://d4rklynk.github.io/about/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://d4rklynk.github.io/about/</guid>
+      <description>Sur ce site vous pourrez apprendre comment utiliser Internet proprement, les bonnes pratiques à avoir, et comment éviter d&amp;rsquo;exposer ses informations personnelles gratuitement aux services tels que Google, Amazon, Facebook et j&amp;rsquo;en passe.
+J&amp;rsquo;essaye d&amp;rsquo;expliquer de la manière la plus simple possible afin que n&amp;rsquo;importe qui puisse comprendre. Le contenu de ce site est uniquement dévoué à expliquer simplement un concept si besoin, de vous présenter certains produits (non-affiliés) et de vous expliquer les bonnes pratiques sur Internet.</description>
+    </item>
+    
+  </channel>
+</rss>

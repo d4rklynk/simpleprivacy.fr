@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://d4rklynk.github.io/sitemap.xml
