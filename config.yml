@@ -80,6 +80,10 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/d4rklynk/samsepi0l.ovh"
+    - name: matrix
+      url: "https://matrix.to/#/@samsepi0l:arcticfoxes.net"
+    - name: rss
+      url: /index.xml
 
   analytics:
     google:
