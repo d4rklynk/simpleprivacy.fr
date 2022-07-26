@@ -108,7 +108,8 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: ["title", "summary", "content"]
+
 menu:
   main:
     - identifier: Les basiques
@@ -123,6 +124,7 @@ menu:
       name: Les alternatives
       url: /alternatives/
       weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
