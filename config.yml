@@ -20,7 +20,7 @@ params:
   title: samsepi0l
   description: "samsepi0l description"
   keywords: [Privacy, Sécurité, Vie Privée]
-  author: Me
+  author: samsepi0l
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
