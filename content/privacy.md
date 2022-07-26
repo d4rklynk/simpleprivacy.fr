@@ -4,4 +4,8 @@ date: 2022-07-25
 lastmod: 2022-07-25
 ---
 
-Rien n'est collecté. Les cookies, je les mange.
+Rien n'est collecté.
+
+Aucun méthode de pistage est utilisé sur ce site.
+Je me fiche de qui vous êtes, ou de ce que vous faites sur mon site web.
+Je suis là pour partager mes connaissances, et non vos informations.
