@@ -44,8 +44,8 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableHLJS: true # to disable highlight.js
+    disableFingerprinting: true
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
@@ -84,10 +84,6 @@ params:
       url: "https://matrix.to/#/@samsepi0l:arcticfoxes.net"
     - name: rss
       url: /index.xml
-
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data

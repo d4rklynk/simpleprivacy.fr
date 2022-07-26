@@ -71,7 +71,7 @@ Les 5 choses à retenir dans l'exemple de Bob sont :
 
 Ces 5 questions doivent être posées à chaque fois qu'un modèle de menace est établi, évidemment ce n'est pas immuable, le modèle de menace peut changer à cause de plusieurs facteurs, menaces technologiques, actifs plus importants/onéreux, etc.
 
-Le principe de ces 5 questions est simple : **Se protéger des menaces potentiels, et non de toutes les menaces possibles.**
+Le principe de ces 5 questions est simple : **Se protéger des menaces potentielles, et non de toutes les menaces possibles.**
 
 Cela demanderait beaucoup trop d'investissement, d'argent, et de temps pour pouvoir se protéger contre toutes les menaces.
 
