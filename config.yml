@@ -1,7 +1,7 @@
 baseURL: http://samsepi0l.ovh/
 languageCode: fr-fr
 title: samsepi0l
-theme: "PaperMod"
+theme: "WonderMod"
 copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)'
 
 enableRobotsTXT: true
@@ -125,7 +125,9 @@ menu:
 pygmentsUseClasses: true
 markup:
   highlight:
+    style: dracula
     noClasses: false
+    guessSyntax: true
     # anchorLineNos: true
     # codeFences: true
     # guessSyntax: true
