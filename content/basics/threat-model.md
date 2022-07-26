@@ -20,7 +20,7 @@ Elle se rend au café de sa ville chaque matin afin de lire son livre, elle pose
 Après une heure de lecture, elle reprend son sac, et remarque que le billet de 20 a disparu, un pickpocket lui aura sûrement voler.
 
 ### Que peut-on en déduire de cette histoire ?
-Les informations, possessions, données, ou toute autre entité que vous souhaitez protéger est appelé un **actif** (ici, le billet de 20 €) et la menace est appelé un **adversaire** (ici, le pickpocket).
+Les informations, possessions, données, ou toute autre entité que vous souhaitez protéger est appelé un **actif** (ici, le billet de 20 €) et le danger est appelé une **menace** (ici, le pickpocket).
 
 5 choses essentielles sont à retenir :
 1. Alice a perdu un billet de 20 €, c'est quand même beaucoup pour certains, mais elle n'a pas perdu tout son capital économique.
@@ -52,15 +52,15 @@ Bob possède une valise pour ses vacances. Il contient notamment :
 
 À l'aéroport, après l'atterrissage, sa valise est perdue parmi les autres. Impossible pour lui de la retrouver.
 
-On remarque tout de suite qu'un **actif** peut devenir des **actifs**, on peut perdre beaucoup de choses différentes en une seule fois. Vous avez peut-être remarqué qu'il n'y a pas d'adversaires, en fait si, mais ce n'est pas une personne. L'adversaire dans cet exemple est l'organisation de l'aéroport, ou les gens qui s'occupent de retirer les bagages de la soute.
+On remarque tout de suite qu'un **actif** peut devenir des **actifs**, on peut perdre beaucoup de choses différentes en une seule fois. Vous avez peut-être remarqué qu'il n'y a pas de "menaces", en fait si, mais ce n'est pas une personne. La menace dans cet exemple est l'organisation de l'aéroport, ou les gens qui s'occupent de retirer les bagages de la soute.
 
-**Un adversaire est toute entité qui porte atteinte à vos actifs**, cela peut être un incendie brûlant tous vos documents, un autre événement naturel, une personne, une entreprise, etc.
+**Une menace est toute entité qui porte atteinte à vos actifs**, cela peut être un incendie brûlant tous vos documents, un autre événement naturel, une personne, une entreprise, etc.
 
 Les 5 choses à retenir dans l'exemple de Bob sont :
 1. Qu’est-ce qui vaut la peine d’être protégé ?
 > Les actifs qu'il avait à protéger étaient le PC portable, ses papiers, et son argent en monnaie courante.
 2. Contre qui les protéger ?
-> L'adversaire étant l'aéroport (ou l'organisation, ou les gens, etc.).
+> La menace étant l'aéroport (ou l'organisation, ou les gens, etc.).
 3. Quelle est la probabilité que ça arrive ?
 > La probabilité que ça arrive est légère.
 4. Quelle est l'ampleur des conséquences si j'échoue ?
