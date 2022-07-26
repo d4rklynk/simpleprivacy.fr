@@ -110,9 +110,9 @@ menu:
       name: Les basiques
       url: /basics/
       weight: 10
-    - identifier: Les guides
-      name: Les guides
-      url: /guides/
+    - identifier: Les fiches
+      name: Les fiches
+      url: /fiches/
       weight: 20
     - identifier: Les alternatives
       name: Les alternatives
