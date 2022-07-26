@@ -95,7 +95,7 @@ Sur Internet, vos actifs sont vos données personnelles :
 
 ### Les géants de la tech ne sont pas la source du problème
 
-L'erreur du débutant est de penser que les grosses entreprises de technologies, les GAFAM (Google, Amazon, Facebook, Microsoft) sont les menaces. C'est une mauvaise approche, exemple :
+L'erreur du débutant est de penser que les grosses entreprises de technologie, les GAFAM (Google, Amazon, Facebook, Microsoft) sont les menaces. C'est une mauvaise approche, exemple :
 - Vous partagez vos photos de famille via Google Photos.
 - Google a un accès à vos données, il les analyse et revend toute info potentielle à des tiers.
 
@@ -111,11 +111,11 @@ La réelle menace, c'est que les données sont en clair sur les serveurs de ces 
 
 ## Exemple de modèles
 
-Je dirais qu'il y a 3 modèles de menaces différents concernant la vie privée sur Internet :
+Je dirais qu'il y a 4 modèles de menaces différents concernant la vie privée sur Internet :
 - Les fournisseurs de services qui espionnent ses utilisateurs
 - [Le capitalisme de surveillance](https://fr.wikipedia.org/wiki/%C3%89conomie_de_la_surveillance)
 - Informations publiques
-- Les piratages de masses (tels que les virus, les applications malintentionées, ...)
+- Les piratages de masse (tels que les virus, les applications malintentionées, ...)
 
 ### Protéger votre vie privée des fournisseurs de services
 
@@ -175,15 +175,15 @@ La vie privée sur Internet va de pair avec la sécurité. Si vous ne prenez pas
 
 C'est bien de fermer les rideaux et de fermer votre porte, mais si les fenêtres s'ouvrent de l'extérieur ou que la porte n'as pas de serrure, vous pouvez très vite subir une violation de votre vie privée. Et tout ce que vous aviez entrepris pour protéger votre vie privée est réduite à néant par une simple porte.
 
-En ce qui concerne les applications (qu'elles soient open source ou pas) on ne sait pas, ou on ne peut pas savoir si elles sont malveillantes ou qu'un jour elles le deviennent.
+En ce qui concerne les applications (qu'elles soient open source ou pas), on ne peut pas savoir si elles sont malveillantes ou si elles le deviendront un jour.
 
 ### Les solutions
 
-La meilleure technique dans ce cas est de, si vous avez la chance d'avoir plusieurs PC, d'utiliser vos appareils à des fins différentes. Par exemple, si vous avez deux ordinateurs, un fixe et un portable, utilisez le fixe pour vos fins personnelles, et utilisez le portable pour vos fins professionnelles.
+La meilleure technique dans ce cas est, si vous avez la chance d'avoir plusieurs PC, d'utiliser vos appareils à des fins différentes. Par exemple, si vous avez deux ordinateurs, un fixe et un portable, utilisez le fixe pour vos fins personnelles, et utilisez le portable pour vos fins professionnelles.
 
 Ça s'appelle le cloisonnement.
 
-Ne partagez pas votre PC, et au pire des cas, créez toujours une session dédié à cette personne.
+Ne partagez pas votre PC, et au pire des cas, créez toujours une session dédiée à cette personne.
 
 ### Mauvaises pratiques
 
@@ -198,7 +198,7 @@ Les erreurs de débutant les plus communes sont de :
 
 Alors qu'en chiffrant vos fichiers avant de les transférer sur votre service cloud préféré ou plus simple encore, d'utiliser un service qui propose un chiffrement de bout en bout par défaut comme Proton Drive, vous réglez le vrai problème de fond.
 
-En ce qui concerne les applications open source, ce n'est pas parcque qu'ils sont open source qu'ils respectent votre vie privée ou qu'ils sont très sécurisés. C'est mieux d'utiliser un logiciel open source, car d'autres personnes ont revu le code et savent ce que le programme fait, mais rien nous dit que son alternative propriétaire n'est pas plus sécurisé.
+En ce qui concerne les applications open source, ce n'est pas parce qu'elles sont open source qu'elles respectent votre vie privée ou qu'elles sont très sécurisées. C'est mieux d'utiliser un logiciel open source, car d'autres personnes ont revu le code et savent ce que le programme fait, mais rien nous dit que son alternative propriétaire (qui n'est pas open source) n'est pas plus sécurisée.
 
 
 ## Crédits
