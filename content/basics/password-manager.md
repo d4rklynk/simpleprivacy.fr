@@ -114,6 +114,11 @@ En effet, c'est compliqué à retenir. On peut cependant changer ça très simpl
 
 ## Les phrases de passe
 
+![xkcd entropie](/xkcd-entropie.png)
+*L'image vient de [xkcd](https://xkcd.lapin.org/index.php?number=936#strips)*
+
+*Je vous recommande encore une fois [l'article de Wonderfall](https://wonderfall.space/password/) qui explique très bien cette image*
+
 Les phrases de passe sont une excellente manière (pour un humain) de retenir ses mots de passe simplement tout en ayant une entropie élévée.
 
 On a la chance d'être français, car nous possédons beaucoup de caractères spéciaux dans notre langue, tel que justement :
