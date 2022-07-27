@@ -8,6 +8,8 @@ Je préfère dire la conclusion au tout début pour être sûr que ce soit clair
 
 ***Utilisez un gestionnaire de mots de passe, c'est la plus importante chose à faire sur toute votre vie numérique***
 
+***Je vous conseille chaudement de lire [l'article de Wonderfall sur les mots de passe.](https://wonderfall.space/password/)***
+
 *Je compte faire un tutoriel sur l'utilisation du gestionnaire de mots de passe **Bitwarden**, que je vous conseille fortement.
 Ce sera un de mes prochains articles. Je rajouterai le lien vers ce guide en haut de cette page.*
 
@@ -180,7 +182,7 @@ Les gestionnaires de mots de passe sont sécurisés, et super pratiques ! Donc u
 
 **[Bitwarden](https://bitwarden.com/)** : c'est gratuit, c'est open source, c'est simple.
 
-Pour ceux qui voudraient un gestionnaire de mots de passe uniquement en local, je vous conseille [KeepassXC](https://Keepassxc.org/).
+Pour ceux qui voudraient un gestionnaire de mots de passe uniquement en local, je vous conseille [Keepass](https://keepass.info/).
 
 Mais vous devriez quand même utiliser les solutions cloud comme Bitwarden. Puisque si vous voulez utiliser un gestionnaire de mots de passe, vous devez faire attention à ce que votre réseau à la maison soit suffisamment protégé, votre appareil aussi, etc.
 
