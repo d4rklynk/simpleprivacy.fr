@@ -1,5 +1,6 @@
 baseURL: http://samsepi0l.ovh/
-languageCode: fr-fr
+languageCode: fr-FR
+defaultContentLanguage: fr
 title: samsepi0l
 theme: "WonderMod"
 copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)'
