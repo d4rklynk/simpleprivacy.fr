@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright>
-    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vie privée : Pourquoi s&#39;en soucier ?</title>
       <link>http://samsepi0l.ovh/basics/pourquoi-sen-soucier/</link>
@@ -31,6 +31,17 @@ Le concept de vie privée reste propre à chacun, et les limites varient selon l
       <description>La modélisation des menaces (ou en anglais Threat Modeling) est un concept qui peut paraître compliqué aux premiers abords, mais qui s&amp;rsquo;avère être crucial pour comprendre ses besoins en matière de vie privée sur Internet. Afin de mieux comprendre, je vais vous présenter deux exemples.
 L&amp;rsquo;exemple d&amp;rsquo;Alice Alice possède un sac à dos, ce dernier contient :
 un livre des crayons un billet de 20 € Elle habite dans une petite ville de campagne.</description>
+    </item>
+    
+    <item>
+      <title>Les gestionnaires de mots de passe</title>
+      <link>http://samsepi0l.ovh/basics/password-manager/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/basics/password-manager/</guid>
+      <description>Je préfère dire la conclusion au tout début pour être sûr que ce soit clair pour tout le monde :
+Utilisez un gestionnaire de mots de passe, c&amp;rsquo;est la plus importante chose à faire sur toute votre vie numérique
+Je compte faire un tutoriel sur l&amp;rsquo;utilisation du gestionnaire de mots de passe Bitwarden, que je vous conseille fortement. Ce sera un de mes prochains articles. Je rajouterai le lien vers ce guide en haut de cette page.</description>
     </item>
     
     <item>
