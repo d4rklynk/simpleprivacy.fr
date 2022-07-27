@@ -4,7 +4,7 @@ date: 2022-07-27
 weight: 3
 ---
 
-Je préfère dire la conclusion au tout début pour être sûr que ce soit clair pour tout le monde :
+Je préfère écrire la conclusion dès le début pour être sûr que ce soit clair pour tout le monde :
 
 ***Utilisez un gestionnaire de mots de passe, c'est la plus importante chose à faire sur toute votre vie numérique***
 
