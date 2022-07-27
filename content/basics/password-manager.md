@@ -140,7 +140,7 @@ Cependant, la phrase reste prévisible, et une bonne phrase de passe ressemblera
 
 > timing paving hertz bacterium pliable angelfish
 
-Qui est également le titre de [l'article de Wonderfall](https://wonderfall.space/password/) que je vous recommende vivement.
+Qui est également le titre de [l'article de Wonderfall](https://wonderfall.space/password/) que je vous recommande vivement.
 
 Tous ces mots sont générés aléatoirement (par un ordinateur, et non par un humain). Il n'y a pas de majuscules ou de chiffres, mais il possède 6 mots générés **complètement aléatoirement**.
 
