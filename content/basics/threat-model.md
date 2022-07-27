@@ -1,5 +1,5 @@
 ---
-title: Le modèle de menace
+title: "Le modèle de menace \U0001f977"
 date: 2022-07-25
 author: samsepi0l
 weight: 2

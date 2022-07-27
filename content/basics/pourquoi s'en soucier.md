@@ -1,8 +1,10 @@
 ---
-title: "Vie privée : Pourquoi s'en soucier ?"
+title: "Vie privée : Pourquoi s'en soucier ? \U0001f914"
 date: 2022-07-25
 weight: 1
 ---
+
+![Camera images](/cameras.jpg)
 La vie privée est un droit inhérent à tous. Cela consiste à garder certaines choses pour soi : vous ne voulez pas par exemple que votre employeur sache que vous avez des problèmes médicaux, cependant vous voulez quand même que votre médecin ou votre famille soit au courant.
 
 Le concept de vie privée reste propre à chacun, et les limites varient selon les personnes ou les cultures.
@@ -22,6 +24,8 @@ Concernant les services tels que Google, Amazon, Facebook, etc. Vous allez peut-
 Je dois d'abord vous expliquer le fonctionnement basique de ces services.
 
 ### L'exemple du vélo
+
+![vélo](/bike.jpg)
 
 Vous souhaitez acheter un vélo. Vous allez donc sur votre moteur de recherche préféré, Google, et vous tombez sur une liste de liens concernant votre recherche. Vous visitez quelques liens et décidez de remettre ça à plus tard. Et pendant la pause-déjeuner, vous vous connectez à Facebook, et magie, vous avez des pubs de vélo !
 

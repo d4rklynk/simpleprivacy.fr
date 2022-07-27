@@ -1,8 +1,10 @@
 ---
-title: "Les gestionnaires de mots de passe"
+title: "Les gestionnaires de mots de passe \U0001f511"
 date: 2022-07-27
 weight: 3
 ---
+
+![Cadenas et clavier](/keys-and-keybinds.jpg)
 
 Je préfère écrire la conclusion dès le début pour être sûr que ce soit clair pour tout le monde :
 
@@ -67,7 +69,7 @@ Ces deux techniques peuvent être combinées.
 Pour imager l'attaque par **bruteforce**, imaginez un cadenas à code à 4 chiffres. Le bruteforce est le fait de tester 0000, puis 0001, puis 0002 puis 0003 jusqu'à 9999, c'est long (pas pour un ordinateur évidemment), mais ça fonctionne.
 Par exemple si votre mot de passe est `mot de passe`, le programme testera toutes les lettres, a puis b puis c jusqu'à z, puis continuera avec aa puis ab puis ac jusqu'à zz, etc. Notez bien que c'est un ordinateur qui fait ces calculs, le résultat sera donc très rapide. 
 
-Pour imager l'attaque par **dictionnaire**, au lieu de faire lettre par lettre, le programme utilisera des mots couramment utilisé pour les mots de passe (des noms de famille, des métiers, des prénoms, des animaux, des lieux, etc.s) tel que justement `mot de passe`, le résultat sera instantané.
+Pour imager l'attaque par **dictionnaire**, c'est comme le bruteforce, mais cette fois-ci avec des mots et non des carctères. Au lieu de faire caractère par caractère, le programme utilisera des mots couramment utilisé pour les mots de passe (des noms de famille, des métiers, des prénoms, des animaux, des lieux, etc.) tel que justement `mot de passe`. Le résultat sera instantané.
 
 Voici un exemple de dictionnaire qu'on appelle aussi communément une **wordlist** :
 [Wordlist française](https://raw.githubusercontent.com/scipag/password-list/main/countries/password-list-fr.txt).
@@ -108,7 +110,7 @@ Un bon mot de passe serait quelque chose comme ça :
 
 Mais t'es malade, comment crois-tu que je vais retenir ça ???
 
-En effet, c'est compliqué à retenir, on peut cependant changer ça très simplement en écrivant des phrases et non des mots de passe. Voire mieux, utilisez un gestionnaire de mots de passe.
+En effet, c'est compliqué à retenir. On peut cependant changer ça très simplement en écrivant des phrases et non des mots de passe. Voire mieux, utilisez un gestionnaire de mots de passe.
 
 ## Les phrases de passe
 
@@ -135,6 +137,8 @@ est parfaitement viable. (N'oubliez quand même pas de rajouter des chiffres). C
 - [x] Les caractères spéciaux ( l'apostrophe `'`, les espaces ` `, le `é`, le `ô`, le symbole `€` et le point final `.`)
 
 On voit tout de suite que c'est plus facile à retenir qu'un mot de passe de 35 caractères.
+
+![Dés](/dices.jpg)
 
 Cependant, la phrase reste prévisible, et une bonne phrase de passe ressemblerait plutôt à ça (aussi appelé diceware) :
 
@@ -221,7 +225,7 @@ Pour ceux qui voudraient un gestionnaire de mots de passe uniquement en local, j
 
 Mais vous devriez quand même utiliser les solutions cloud comme Bitwarden. Puisque si vous voulez utiliser un gestionnaire de mots de passe, vous devez faire attention à ce que votre réseau à la maison soit suffisamment protégé, votre appareil aussi, etc.
 
-> *Je rappelle qu'aucun produit n'est affilié, je choisis les solutions selon leurs mérites. J'utilise Bitwarden tous les jours, car à ma connaissance, c'est le seul gestionnaire de mot de passe open source qui propose autant de simplicité et de fonctionnalités.*
+> *Je rappelle qu'aucun produit n'est affilié, je choisis les solutions selon leurs mérites. J'utilise Bitwarden tous les jours, car à ma connaissance, c'est le seul gestionnaire de mots de passe open source qui propose autant de simplicité et de fonctionnalités.*
 
 ### Comment ça fonctionne
 
