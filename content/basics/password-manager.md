@@ -96,7 +96,7 @@ Le problème que beaucoup de gens et de sites web oublient, c'est que l'entropie
 
 > Au passage si votre mot de passe fait moins de 8 caractères, c'est cracké en quelques secondes, voir moins d'une seconde.
 
- Un bon mot de passe est un mot de passe qui est complexe et qui long. Si vous votre mot de passe ressemble à ça :
+ Un bon mot de passe est un mot de passe qui est complexe et qui long. Si votre mot de passe ressemble à ça :
 
 > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
@@ -112,7 +112,7 @@ En effet, c'est compliqué à retenir, on peut cependant changer ça très simpl
 
 ## Les phrases de passe
 
-Les phrases de passe sont une bonne manière (pour un humain) de retenir ses mots de passe simplement tout en ayant une entropie élévée.
+Les phrases de passe sont une excellente manière (pour un humain) de retenir ses mots de passe simplement tout en ayant une entropie élévée.
 
 On a la chance d'être français, car nous possédons beaucoup de caractères spéciaux dans notre langue, tel que justement :
 
@@ -135,6 +135,41 @@ est parfaitement viable. (N'oubliez quand même pas de rajouter des chiffres). C
 - [x] Les caractères spéciaux ( l'apostrophe `'`, les espaces ` `, le `é`, le `ô`, le symbole `€` et le point final `.`)
 
 On voit tout de suite que c'est plus facile à retenir qu'un mot de passe de 35 caractères.
+
+Cependant, la phrase reste prévisible, et une bonne phrase de passe ressemblerait plutôt à ça (aussi appelé diceware) :
+
+> timing paving hertz bacterium pliable angelfish
+
+Qui est également le titre de [l'article de Wonderfall](https://wonderfall.space/password/) que je vous recommende vivement.
+
+Tous ces mots sont générés aléatoirement (par un ordinateur, et non par un humain). Il n'y a pas de majuscules ou de chiffres, mais il possède 6 mots générés **complètement aléatoirement**.
+
+Vous pouvez générer des phrases de passe avec [ce site](https://www.rempe.us/diceware/#french) afin de tester un peu. Cependant, c'est mieux de générer votre phrase de passe avec votre gestionnaire de mots de passe. Bitwarden est capable de générer une liste de mots par exemple.
+
+Pour vous donner une idée, un ordinateur personnel est capable de tester quelques millions de mots de passe par seconde.
+Vous devez supposer qu'une personne mal intentionné peut aller jusqu'à tester un billion de mots de passe par seconde (soit mille milliards) si il en a les moyens. 
+
+La phrase de passe comme plus haut, contient 6 mots, et prendrait environ 3500 ans à cracker en testant un billion de mots de passe par seconde. Rajouter un autre mot comme ceci (pour arriver à 7) : 
+
+> timing paving hertz bacterium pliable angelfish massue
+
+Et vous passez à 27 millions d'années de calculs. Cependant, si vous passez de 6 à 5 mots :
+
+> timing paving hertz bacterium pliable
+
+On passe de 3500 ans (pour 6 mots) à 5 mois en testant un billion de mots de passe par seconde.
+
+*Ces infos proviennent directement du site [diceware](https://www.rempe.us/diceware/#french)*
+
+La meilleure solution serait la phrase de passe, couplé avec un gestionnaire de mots de passe.
+
+> Bitwarden propose la génération d'une phrase de passe composé de 3 mots par défaut séparé par un `-`, je vous conseille de le paramétrer à 6 mots. Vous pouvez aussi, si vous le souhaitez, activer les majuscules au début de chaque mot et ajouter un chiffre.
+
+Un humain pourra d'ailleurs plus facilement retenir une liste de mots qu'une suite de caractères incompréhensibles.
+
+Le minimum requis serait [6 mots](https://wonderfall.space/password/#calculs-dentropie) à mon opinion. **Avec un espace ou n'importe quel autre caractère spécial entre les mots**
+
+*Si un site web n'accepte pas plus de 20 caractères, vous serez incapable de faire plus de 3 mots. Je vous conseille de générer un mot de passe aléatoire.*
 
 ## Les gestionnaires de mots de passe
 
@@ -237,3 +272,4 @@ Une fois que vous avez un gestionnaire de mots de passe tel que Bitwarden. Certa
 
 - [How password managers work - Computerphile](https://www.youtube-nocookie.com/embed/w68BBPDAWr8) (Vidéo YouTube)
 - [How to choose a password - Computerphile](https://www.youtube-nocookie.com/embed/3NjQ9b3pgIg) (Vidéo YouTube)
+- [timing paving hertz bacterium pliable angelfish - Wonderfall](https://wonderfall.space/password/)
