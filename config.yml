@@ -106,6 +106,12 @@ params:
     minMatchCharLength: 0
     keys: ["title", "summary", "content"]
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
 menu:
   main:
     - identifier: Les basiques
@@ -120,6 +126,10 @@ menu:
       name: Les alternatives
       url: /alternatives/
       weight: 30
+    - identifier: Search
+      name: Rechercher
+      url: /search/
+      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
