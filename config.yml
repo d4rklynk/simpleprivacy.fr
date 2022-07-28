@@ -73,6 +73,22 @@ params:
       - name: Politique de confidentialité
         url: privacy
 
+frontmatter:
+  date:
+  - date
+  - publishDate
+  - lastmod
+  expiryDate:
+  - expiryDate
+  lastmod:
+  - :git
+  - lastmod
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date
+
   # home-info mode
   homeInfoParams:
     Title: "Hello friend \U0001F44B"
