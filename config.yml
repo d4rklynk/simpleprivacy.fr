@@ -119,7 +119,7 @@ menu:
   main:
     - identifier: Les basiques
       name: Les basiques
-      url: /basics/
+      url: /basiques/
       weight: 10
     - identifier: Les fiches
       name: Les fiches
