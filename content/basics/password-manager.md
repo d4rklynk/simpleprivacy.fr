@@ -8,22 +8,26 @@ weight: 3
 
 Je préfère écrire la conclusion dès le début pour être sûr que ce soit clair pour tout le monde :
 
+---
+
 ***Utilisez un gestionnaire de mots de passe, c'est la plus importante chose à faire sur toute votre vie numérique***
+
+---
 
 ***Je vous conseille chaudement de lire [l'article de Wonderfall sur les mots de passe.](https://wonderfall.space/password/)***
 
-*Je compte faire un tutoriel sur l'utilisation du gestionnaire de mots de passe **Bitwarden**, que je vous conseille fortement.
-Ce sera un de mes prochains articles. Je rajouterai le lien vers ce guide en haut de cette page.*
+> *Je compte faire un tutoriel sur l'utilisation du gestionnaire de mots de passe **Bitwarden**, que je vous conseille fortement.
+	Ce sera un de mes prochains articles. Je rajouterai le lien 		vers ce guide en haut de cette page.*
 
 ## Les mots de passe
 
-> Site web : Votre mot de passe ne comporte que des lettres !
+> **Site web :** Votre mot de passe ne comporte que des lettres !
 > 
-> Vous : Faut que je rajoute un caractère spécial en plus ???
+> **Vous :** Faut que je rajoute un caractère spécial en plus ???
 >  
-> Site web : Votre mot est passe est trop court !
+> **Site web :** Votre mot est passe est trop court !
 > 
-> Vous : Sérieusement ? Bon je vais rajouter ça
+> **Vous :** Sérieusement ? Bon je vais rajouter ça
 
 Cette situation a probablement déjà dû vous arriver, mais pourquoi ces sites web nous embêtent tant ? Et pourquoi je peux pas utiliser mon super mot de passe "monchat84" ?
 
@@ -34,9 +38,9 @@ Cependant, trop de gens ont tendance à utiliser le même mot de passe sur tous 
 
 Le principe de mettre le même mot de passe partout est peut-être plus facile, mais si quelqu'un arrivait à vous pirater ou n'importe quel autre site auquel vous vous êtes connecté, vous perdez tous vos comptes !
 
-Vous pouvez vérifier si vos identifiants ont été victime d'une fuite en allant sur [haveibeenpwned](https://haveibeenpwned.com/).
+Vous pouvez vérifier si vos identifiants ont été victime d'une fuite en allant sur [haveibeenpwned](https://haveibeenpwned.com/), un compte [twitter](https://twitter.com/haveibeenpwned) est également disponible pour être au courant des dernières failles.
 
-Juste pour que vous compreniez bien le problème d'utiliser le même mot de passe sur tous les comptes, je vais vous faire un exemple :
+Juste pour que vous comprenez bien le problème d'utiliser le même mot de passe sur tous les comptes, je vais vous faire un exemple :
 
 - Vous vous connectez avec le mot de passe `123456` sur Gmail.
 - Puis avec le même mot de passe sur Netflix.
@@ -69,16 +73,16 @@ Ces deux techniques peuvent être combinées.
 Pour imager l'attaque par **bruteforce**, imaginez un cadenas à code à 4 chiffres. Le bruteforce est le fait de tester 0000, puis 0001, puis 0002 puis 0003 jusqu'à 9999, c'est long (pas pour un ordinateur évidemment), mais ça fonctionne.
 Par exemple si votre mot de passe est `mot de passe`, le programme testera toutes les lettres, a puis b puis c jusqu'à z, puis continuera avec aa puis ab puis ac jusqu'à zz, etc. Notez bien que c'est un ordinateur qui fait ces calculs, le résultat sera donc très rapide. 
 
-Pour imager l'attaque par **dictionnaire**, c'est comme le bruteforce, mais cette fois-ci avec des mots et non des carctères. Au lieu de faire caractère par caractère, le programme utilisera des mots couramment utilisé pour les mots de passe (des noms de famille, des métiers, des prénoms, des animaux, des lieux, etc.) tel que justement `mot de passe`. Le résultat sera instantané.
+Pour imager l'attaque par **dictionnaire**, c'est comme le bruteforce, mais cette fois-ci avec des mots et non des caractères. Au lieu de faire caractère par caractère, le programme utilisera des mots couramment utilisé pour les mots de passe (des noms de famille, des métiers, des prénoms, des animaux, des lieux, etc.) tel que justement `mot de passe`. Le résultat sera instantané.
 
 Voici un exemple de dictionnaire qu'on appelle aussi communément une **wordlist** :
 [Wordlist française](https://raw.githubusercontent.com/scipag/password-list/main/countries/password-list-fr.txt).
 
 Un programme utilisera ce fichier comme base, puis on y ajoutera certains paramètres à ce programme comme :
 
-- les a peuvent être des @ ou des 4
-- les E peuvent être des 3
-- les o peuvent être des 0 (zéro)
+- les "a" peuvent être des @ ou des 4
+- les "e" peuvent être des 3
+- les "o" peuvent être des 0 (zéro)
 
 > Donc oui, `m0t de p@sse` ne vous aidera pas non plus.
 
@@ -98,7 +102,7 @@ Le problème que beaucoup de gens et de sites web oublient, c'est que l'entropie
 
 > Au passage si votre mot de passe fait moins de 8 caractères, c'est cracké en quelques secondes, voir moins d'une seconde.
 
- Un bon mot de passe est un mot de passe qui est complexe et qui long. Si votre mot de passe ressemble à ça :
+ Un bon mot de passe est un mot de passe qui est complexe et long. Si votre mot de passe ressemble à ça :
 
 > aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
@@ -115,9 +119,14 @@ En effet, c'est compliqué à retenir. On peut cependant changer ça très simpl
 ## Les phrases de passe
 
 ![xkcd entropie](/xkcd-entropie.png)
+
+---
+
 *L'image vient de [xkcd](https://xkcd.lapin.org/index.php?number=936#strips)*
 
 *Je vous recommande encore une fois [l'article de Wonderfall](https://wonderfall.space/password/) qui explique très bien cette image*
+
+---
 
 Les phrases de passe sont une excellente manière (pour un humain) de retenir ses mots de passe simplement tout en ayant une entropie élévée.
 
@@ -168,9 +177,13 @@ Et vous passez à 27 millions d'années de calculs. Cependant, si vous passez de
 
 On passe de 3500 ans (pour 6 mots) à 5 mois en testant un billion de mots de passe par seconde.
 
-*Ces infos proviennent directement du site [diceware](https://www.rempe.us/diceware/#french)*
+---
 
-La meilleure solution serait la phrase de passe, couplé avec un gestionnaire de mots de passe.
+*Ces calculs proviennent du site [diceware](https://www.rempe.us/diceware/#french)*
+
+---
+
+La meilleure solution serait la phrase de passe avec des mots alétoires (méthode diceware), couplé avec un gestionnaire de mots de passe.
 
 > Bitwarden propose la génération d'une phrase de passe composé de 3 mots par défaut séparé par un `-`, je vous conseille de le paramétrer à 6 mots. Vous pouvez aussi, si vous le souhaitez, activer les majuscules au début de chaque mot et ajouter un chiffre.
 
@@ -178,7 +191,7 @@ Un humain pourra d'ailleurs plus facilement retenir une liste de mots qu'une sui
 
 Le minimum requis serait [6 mots](https://wonderfall.space/password/#calculs-dentropie) à mon opinion. **Avec un espace ou n'importe quel autre caractère spécial entre les mots**
 
-*Si un site web n'accepte pas plus de 20 caractères, vous serez incapable de faire plus de 3 mots. Je vous conseille de générer un mot de passe aléatoire.*
+*Si un site web n'accepte pas plus d'une vingtaine de caractères, vous serez incapable de faire plus de 3 mots. Je vous conseille de générer un mot de passe aléatoire du nombre de caractères maximum autorisé du site web.*
 
 ## Les gestionnaires de mots de passe
 
@@ -194,30 +207,30 @@ Plusieurs solutions s'offrent à vous :
 
 ### La solution papier
 
-Le problème d'écrire sur un post-it ou carnet est que n'importe qui peut juste l'ouvrir et lire vos mots de passe et mail. Vous allez vous dire que vous avez juste à écrire votre mail de cette façon :
+Le problème d'écrire sur un post-it ou dans un carnet est que n'importe qui peut juste l'ouvrir et lire vos mots de passe et mail. Vous allez vous dire que vous avez juste à écrire votre mail de cette façon :
 
 > sam-----@--.com
 
-Mais ça ne vous aidera pas plus, beaucoup de gens utilisent le même mail pour tous leurs comptes également, donc cacher son mail n'est pas très utile. Surtout que c'est une info qui peut être retrouvée facilement sur Internet.
-Si vous commencez à vous dire que vous pouvez toujours décaler les caractères de vos mots de passe (par exemple `a` devient `b` ou `1` devient `2`), ou que vous omettez un caractère que vous ajoutez manuellement pendant la connexion du site, laissez-vous dire que vous vous prenez la tête pour très peu de sécurité et de commodité.
+Mais ça ne vous aidera pas non plus, beaucoup de gens utilisent le même mail pour tous leurs comptes également, donc cacher son mail n'est pas très utile. Surtout que c'est une info qui peut être retrouvée facilement sur Internet.
+Si vous commencez à vous dire que vous pouvez toujours décaler les caractères de vos mots de passe (par exemple `a` devient `b` ou `1` devient `2`), ou que vous omettez un caractère que vous ajoutez manuellement pendant la connexion du site, laissez-moi vous dire que vous vous prenez la tête pour très peu de sécurité et de commodité.
 
 ### Les applications de prise de notes
 
-Mettre votre mot de passe sur une application comme Google Keep est une aberration pour plusieurs choses.
+Mettre votre mot de passe sur une application comme Google Keep ou OneNote est une aberration pour plusieurs choses.
 
 La première est que ces applications ne sont pas faites pour enregistrer des identifiants. Vos données sont dans le cloud et votre fournisseur **voit** ces données en clair (Google, ou Microsoft (OneDrive), etc.). Comme ce n'est pas chiffré, si un hacker compromet un des serveurs, il aura accès à tous vos mots de passe.
 
-La deuxième, c'est que vous avez rarement un mot de passe à entrer pour accéder à votre application, si vous utilisez OneNote sur le téléphone par exemple, une fois connecté, vous restez connecté. Donc si vous laissez votre smartphone à quelqu'un ou ouvert sur une table en soirée, une personne peut juste aller sur votre téléphone et voler vos mots de passe. Ne minimisez pas le fait qu'il y ai peu de chances que ça arrive, c'est une menace réelle.
+La deuxième, c'est que vous avez rarement un mot de passe à entrer pour accéder à votre application, si vous utilisez OneNote sur le téléphone par exemple, une fois connecté, vous restez connecté. Donc si vous laissez votre smartphone à quelqu'un ou que vous le laisser ouvert sur une table en soirée, une personne peut juste aller sur votre téléphone et voler vos mots de passe. Ne minimisez pas le fait qu'il y ai peu de chances que ça arrive, c'est une menace réelle.
 
 ### Les gestionnaires de mots de passe
 
-Les gestionnaires de mots de passe sont souvent sous forme d'extension sur votre navigateur (Firefox, Google Chrome, Brave, Safari) vous cliquer sur l'extension puis cliquez sur l'identifiant et ça remplit automatiquement les champs de texte !
+Les gestionnaires de mots de passe sont souvent sous forme d'extension sur votre navigateur (Firefox, Google Chrome, Brave, Safari) vous cliquer sur l'extension puis cliquez sur l'identifiant et ça remplit automatiquement les champs de connexion !
 
 Si vous ne faites pas confiance aux gestionnaires de mots de passe parce que ça revient à dire que vous mettez tous vos oeufs dans le même panier. Le problème est exactement le même en utilisant une application de prise de notes ou en utilisant le même mot de passe partout. Et puis pourquoi faire confiance à OneNote ou Google Keep si vous ne faites pas confiance au gestionnaire de mots de passe ? 
 
 La différence est qu'un gestionnaire de mots de passe est fait pour ça, il implémente du chiffrement de bout en bout, et **vous seul** uniquement, avez accès à vos identifiants. Ni le gestionnaire de mots de passe ni un hacker pourrait voir vos identifiants, car tout est chiffré et vous seul avez la clé.
 
-Et puis les gestionnaires de mots de passe sont fait pour être simple, vous cliquez sur un bouton, et ça vous remplis automatiquement la page. Vous pouvez générer des mots de passe complexes, rajoutez des notes à vos identifiants, ajoutez vos carte bancaires, etc. Vous pouvez également installer Bitwarden sur votre PC (ou MacBook), sur votre smartphone (ou iPhone), et si vous êtes en sortie, que vous n'avez ni votre PC et ni votre smartphone vous pouvez directement accéder sur un navigateur !
+Et puis les gestionnaires de mots de passe sont fait pour être simple, vous cliquez sur un bouton, et ça vous remplis automatiquement la page. Vous pouvez générer des mots de passe complexes, rajoutez des notes à vos identifiants, ajoutez vos carte bancaires, etc. Vous pouvez également installer Bitwarden sur votre PC (ou MacBook), sur votre smartphone (ou iPhone), et si vous êtes en sortie, que vous n'avez ni votre PC et ni votre smartphone, vous pouvez directement accéder sur un navigateur !
 Je sais que Bitwarden le fait, vous pouvez y accéder en allant sur [vault.bitwarden.com](https://vault.bitwarden.com).
 
 Les gestionnaires de mots de passe sont sécurisés, et super pratiques ! Donc utilisez-les !
@@ -235,7 +248,12 @@ Mais vous devriez quand même utiliser les solutions cloud comme Bitwarden. Puis
 ### Comment ça fonctionne
 
 Vous vous créez un compte sur **Bitwarden** par exemple.
-Vous créez une phrase de passe (également appelé *master password*) pour être capable de le retenir (vous pouvez ajouter un caractère spécial en plein milieu d'un des mots comme `J'ai mangé` devient `J'ai man?gé` juste pour bien embêter le monde) et vous ajoutez vos identifiants de vos comptes.
+Vous créez une phrase de passe (également appelé *master password*) avec 6 mots alétoires comme ceci :
+
+> os lino nantit corder tapi vingt
+
+Vous pouvez ajouter un caractère spécial en plein milieu d'un des mots comme `"os lino nantit corder tapi vingt"` devient `"os lino nantit corder ta?pi vingt"` (juste pour bien embêter le monde).
+Une fois fait, vous pouvez ajouter vos identifiants de tous vos comptes.
 
 Un gestionnaire de mots de passe est basiquement une liste de vos mots de passe, chiffrés, que vous seul avez accès.
 
@@ -273,9 +291,10 @@ Si vous souhaitez en savoir plus je vous conseille d'aller voir ces liens, tous 
 
 Une fois que vous avez un gestionnaire de mots de passe tel que Bitwarden. Certaines bonnes pratiques sont quand même à prendre en compte.
 
-1. Si vous vous connectez sur [vault.bitwarden.com](https://vault.bitwarden.com) ou n'importe quel autre gestionnaire de mots de passe accessible en ligne. Pensez à ouvrir un nouvel onglet privé, car une fois que vous fermerez cette fenêtre, vous serez déconnecté de l'appareil. Au pire des cas, la version web de Bitwarden vous déconnecte automatiquement au bout de 15 minutes, vous pouvez raccourcir ce temps dans les paramètres de votre compte.
-2. Pensez à créer un mot de passe unique (une vingtaine de caractères aléatoires est déjà pas mal) sur chaque site web que vous visitez.
-3. Ne donnez sous aucun prétexte votre `master password` à qui que ce soit !
+1. Cela va de soit, n'écrivez pas votre `master password` sur OneNote. Cependant vous pouvez l'écrire sur un post-it que vous garder soigneusement à la maison. Vous le brûlez une fois que vous êtes sûr d'avoir retenu votre mot de passe.
+2. Si vous vous connectez sur l'interface web comme [vault.bitwarden.com](https://vault.bitwarden.com) ou n'importe quel autre gestionnaire de mots de passe accessible en ligne. Pensez à ouvrir un ***nouvel onglet privé***, car une fois que vous fermerez cette fenêtre, vous serez déconnecté de l'appareil. Au pire des cas, la version web de Bitwarden vous déconnecte automatiquement au bout de 15 minutes, vous pouvez raccourcir ce temps dans les paramètres de votre compte (je conseille.
+3. Pensez à créer un mot de passe unique (une vingtaine de caractères aléatoires est déjà pas mal) sur chaque site web que vous visitez.
+4. Ne donnez sous aucun prétexte votre `master password` à qui que ce soit !
 
 ## Credits
 

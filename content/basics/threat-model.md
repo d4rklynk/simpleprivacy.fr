@@ -177,6 +177,10 @@ C'est bien de fermer les rideaux et de fermer votre porte, mais si les fenêtres
 
 En ce qui concerne les applications (qu'elles soient open source ou pas), on ne peut pas savoir si elles sont malveillantes ou si elles le deviendront un jour.
 
+Je vous déconseille fortement d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. Utilisez juste Windows Defender, c'est parfait. Et n'installez pas d'antivirus sur votre téléphone, c'est inutile, voire dangereux.
+
+Au lieu de vous prouver quoique ce soit, je vous conseille plutôt d'aller voir le site de Wonderfall qui a un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) dédié à ce problème.
+
 ### Les solutions
 
 La meilleure technique dans ce cas est, si vous avez la chance d'avoir plusieurs PC, d'utiliser vos appareils à des fins différentes. Par exemple, si vous avez deux ordinateurs, un fixe et un portable, utilisez le fixe pour vos fins personnelles, et utilisez le portable pour vos fins professionnelles.
@@ -187,7 +191,7 @@ Ne partagez pas votre PC, et au pire des cas, créez toujours une session dédi�
 
 ### Mauvaises pratiques
 
-Les erreurs de débutant les plus communes sont de :
+Les **erreurs** de débutant les plus communes sont de :
 
 - Se concentrer uniquement sur les GAFAM, et non les [fournisseurs de services dans leur ensemble](#les-géants-de-la-tech-ne-sont-pas-la-source-du-problème).
 - Faire énormément confiance à la Politique de Confidentialité, alors que cette politique peut être violable à tout moment.
@@ -196,9 +200,9 @@ Les erreurs de débutant les plus communes sont de :
 
 [Comme dit plus haut](#les-géants-de-la-tech-ne-sont-pas-la-source-du-problème), essayer de déterminer le vrai problème de fond. Si vous n'aimez pas Google Drive parce qu'ils ont un accès complet à vos données, le problème n'est pas Google, mais le manque de chiffrement de bout en bout. Si vous passez de Google Drive à OneDrive par exemple, le problème reste exactement le même : Microsoft (OneDrive) a accès à vos données.
 
-Alors qu'en chiffrant vos fichiers avant de les transférer sur votre service cloud préféré ou plus simple encore, d'utiliser un service qui propose un chiffrement de bout en bout par défaut comme Proton Drive, vous réglez le vrai problème de fond.
+Alors qu'en chiffrant vos fichiers avant de les transférer sur votre service cloud préféré, ou plus simple encore, d'utiliser un service qui propose un chiffrement de bout en bout par défaut comme Proton Drive. Là, vous réglez le vrai problème de fond.
 
-En ce qui concerne les applications open source, ce n'est pas parce qu'elles sont open source qu'elles respectent votre vie privée ou qu'elles sont très sécurisées. C'est mieux d'utiliser un logiciel open source, car d'autres personnes ont revu le code et savent ce que le programme fait, mais rien nous dit que son alternative propriétaire (qui n'est pas open source) n'est pas plus sécurisée.
+En ce qui concerne les applications open source, ce n'est pas parce qu'elles sont open source qu'elles respectent votre vie privée ou qu'elles sont très sécurisées. C'est mieux d'utiliser un logiciel open source, car d'autres personnes ont revu le code et savent ce que le programme fait, mais rien nous dit que son alternative propriétaire (Une autre application du même style qui ne serait pas open source) n'est pas plus sécurisée.
 
 
 ## Crédits
