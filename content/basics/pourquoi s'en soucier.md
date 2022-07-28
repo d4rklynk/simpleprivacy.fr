@@ -76,7 +76,7 @@ Cela vous semble peut-être improbable que ca puisse arriver dans la vraie vie, 
 
 ### Le vrai problème
 
-Le problème n'est pas que Google nous envoie des pubs ou vendent nos données. Le réel problème est que ces services nous pistent, nous ciblent, et revendent nos données, sans notre consentement. Et quand bien même c'est dit dans la Politique de Confidentialité ou les CGU (Conditions Générales d'Utilisation) de ces services, soyons francs, on comprend rien, et c'est le but recherché.
+Le problème n'est pas que Google nous envoie des pubs ou vendent nos données. Le réel problème est que ces services nous pistent, nous ciblent, et revendent nos données, **sans notre consentement**. Et quand bien même c'est dit dans la Politique de Confidentialité ou les CGU (Conditions Générales d'Utilisation) de ces services, soyons francs, on comprend rien, et c'est le but recherché.
 
 C'est fait exprès pour embrouiller tout le monde, pour qu'on ne puisse pas lire ces CGU et qu'on clique finalement sur "Tout Accepter".
 
