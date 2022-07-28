@@ -43,6 +43,8 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  
+  enableGitInfo: true
 
   assets:
     disableHLJS: true # to disable highlight.js
@@ -72,22 +74,6 @@ params:
         url: about
       - name: Politique de confidentialité
         url: privacy
-
-frontmatter:
-  date:
-  - date
-  - publishDate
-  - lastmod
-  expiryDate:
-  - expiryDate
-  lastmod:
-  - :git
-  - lastmod
-  - date
-  - publishDate
-  publishDate:
-  - publishDate
-  - date
 
   # home-info mode
   homeInfoParams:
