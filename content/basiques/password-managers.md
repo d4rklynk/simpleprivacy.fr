@@ -14,10 +14,9 @@ Je préfère écrire la conclusion dès le début pour être sûr que ce soit cl
 
 ---
 
-***Je vous conseille chaudement de lire [l'article de Wonderfall sur les mots de passe.](https://wonderfall.space/password/)***
+J'ai écris un [tutoriel](/fiches/bitwarden) pour apprendre à utiliser Bitwarden.
 
-> *Je compte faire un tutoriel sur l'utilisation du gestionnaire de mots de passe **Bitwarden**, que je vous conseille fortement.
-	Ce sera un de mes prochains articles. Je rajouterai le lien 		vers ce guide en haut de cette page.*
+***Je vous conseille chaudement de lire [l'article de Wonderfall sur les mots de passe.](https://wonderfall.space/password/)***
 
 ## Les mots de passe
 
