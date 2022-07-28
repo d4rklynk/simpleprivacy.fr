@@ -4,7 +4,7 @@ date: 2022-07-25
 author: samsepi0l
 weight: 2
 ---
-![Modèle de menace de Batman](/threat-model-batman.png)
+![Modèle de menace de Batman](/threat-model/threat-model-batman.png)
 
 La modélisation des menaces (ou en anglais Threat Modeling) est un concept qui peut paraître compliqué aux premiers abords, mais qui s'avère être crucial pour comprendre ses besoins en matière de vie privée sur Internet.
 Afin de mieux comprendre, je vais vous présenter deux exemples.
@@ -81,7 +81,7 @@ Vous devez rester réaliste sur les menaces potentielles qui pourraient nuire à
 
 ## Le modèle de menace sur Internet
 
-![GAFAM](/gafam.png)
+![GAFAM](/threat-model/gafam.png)
 
 Sur Internet, vos actifs sont vos données personnelles :
 - Prénom/nom

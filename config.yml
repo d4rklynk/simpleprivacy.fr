@@ -43,8 +43,6 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
-  
-  enableGitInfo: true
 
   assets:
     disableHLJS: true # to disable highlight.js

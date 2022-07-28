@@ -4,7 +4,7 @@ date: 2022-07-27
 weight: 3
 ---
 
-![Cadenas et clavier](/keys-and-keybinds.jpg)
+![Cadenas et clavier](/password-managers/keys-and-keybinds.jpg)
 
 Je préfère écrire la conclusion dès le début pour être sûr que ce soit clair pour tout le monde :
 
@@ -118,7 +118,7 @@ En effet, c'est compliqué à retenir. On peut cependant changer ça très simpl
 
 ## Les phrases de passe
 
-![xkcd entropie](/xkcd-entropie.png)
+![xkcd entropie](/password-managers/xkcd-entropie.png)
 
 ---
 
@@ -152,7 +152,7 @@ est parfaitement viable. (N'oubliez quand même pas de rajouter des chiffres). C
 
 On voit tout de suite que c'est plus facile à retenir qu'un mot de passe de 35 caractères.
 
-![Dés](/dices.jpg)
+![Dés](/password-managers/dices.jpg)
 
 Cependant, la phrase reste prévisible, et une bonne phrase de passe ressemblerait plutôt à ça (aussi appelé diceware) :
 
@@ -248,7 +248,7 @@ Mais vous devriez quand même utiliser les solutions cloud comme Bitwarden. Puis
 ### Comment ça fonctionne
 
 Vous vous créez un compte sur **Bitwarden** par exemple.
-Vous créez une phrase de passe (également appelé *master password*) avec 6 mots alétoires comme ceci :
+Vous créez une phrase de passe (également appelé *mot de passe maître* ou *master password* en anglais) avec 6 mots alétoires comme ceci :
 
 > os lino nantit corder tapi vingt
 
@@ -261,7 +261,7 @@ Je vais redire ce que j'ai dit dans mon [article](/basics/threat-model/#prot%C3%
 
 *Je vais simplifier énormément les faits évidemment, mais ça permettra que tout le monde comprennent de quoi je parle.*
 
-![Image explicative](/bank-example.png)
+![Image explicative](/password-managers/bank-example.png)
 
 Vous avez un coffre à la banque, ce coffre est le numéro 1, les autres coffres sont à d'autres clients de la banque.
 
@@ -275,7 +275,7 @@ Votre banque est le gestionnaire de mots de passe, et les coffres sont les bases
 
 > Une base de données est une liste d'informations, ici, ce sont des identifiants de connexion. Mais vous pouvez imaginer ça comme une feuille Excel par exemple.
 
-Quand vous vous connectez à **Bitwarden** par exemple, vous donnez votre mail et votre `master password` et ça va permettre d'identifier à qui appartient telle base de données.
+Quand vous vous connectez à **Bitwarden** par exemple, vous donnez votre mail et votre `mot de passe maître` et ça va permettre d'identifier à qui appartient telle base de données.
 
 Bitwarden vous enverra votre base de données sur votre navigateur (toujours en chiffré) et tout sera déchiffré localement au niveau de votre navigateur.
 
@@ -291,10 +291,10 @@ Si vous souhaitez en savoir plus je vous conseille d'aller voir ces liens, tous 
 
 Une fois que vous avez un gestionnaire de mots de passe tel que Bitwarden. Certaines bonnes pratiques sont quand même à prendre en compte.
 
-1. Cela va de soit, n'écrivez pas votre `master password` sur OneNote. Cependant vous pouvez l'écrire sur un post-it que vous garder soigneusement à la maison. Vous le brûlez une fois que vous êtes sûr d'avoir retenu votre mot de passe.
+1. Cela va de soit, n'écrivez pas votre `mot de passe maître` sur OneNote. Cependant vous pouvez l'écrire sur un post-it que vous garder soigneusement à la maison. Vous le brûlez une fois que vous êtes sûr d'avoir retenu votre mot de passe.
 2. Si vous vous connectez sur l'interface web comme [vault.bitwarden.com](https://vault.bitwarden.com) ou n'importe quel autre gestionnaire de mots de passe accessible en ligne. Pensez à ouvrir un ***nouvel onglet privé***, car une fois que vous fermerez cette fenêtre, vous serez déconnecté de l'appareil. Au pire des cas, la version web de Bitwarden vous déconnecte automatiquement au bout de 15 minutes, vous pouvez raccourcir ce temps dans les paramètres de votre compte (je conseille.
 3. Pensez à créer un mot de passe unique (une vingtaine de caractères aléatoires est déjà pas mal) sur chaque site web que vous visitez.
-4. Ne donnez sous aucun prétexte votre `master password` à qui que ce soit !
+4. Ne donnez sous aucun prétexte votre `mot de passe maître` à qui que ce soit !
 
 ## Credits
 
