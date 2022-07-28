@@ -62,7 +62,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: samsepi0l.ovh
-    subtitle: "Une approche plus simple pour récuperer votre vie privée en ligne"
+    subtitle: "Une approche plus simple pour récuperer votre vie privée en ligne."
     # imageUrl: "<img location>"
     # imageWidth: 120
     # imageHeight: 120
