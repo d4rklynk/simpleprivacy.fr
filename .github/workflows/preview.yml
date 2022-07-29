@@ -1,13 +1,9 @@
 name: 🔂 Surge PR Preview
 
-on:
-  pull_request:
-    # when using teardown: 'true', add default event types + closed event type
-    types: [opened, synchronize, reopened, closed]
-  push:
+on: [pull_request]
 
 jobs:
-  preview:
+  preview-job-1:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,7 +12,18 @@ jobs:
           surge_token: ${{ secrets.SURGE_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           dist: public
-          teardown: 'true'
+          build: |
+            npm install
+            npm run build
+  preview-job-2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: afc163/surge-preview@v1
+        with:
+          surge_token: ${{ secrets.SURGE_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          dist: public
           build: |
             npm install
             npm run build
