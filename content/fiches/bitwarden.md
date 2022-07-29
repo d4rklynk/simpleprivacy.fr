@@ -150,6 +150,15 @@ Quand vous visitez un site web comme Proton Mail par exemple, voici les étapes 
 
 ## Les bonnes pratiques
 
-1. Je vous conseille de ne jamais cliquer sur le bandeau qui s'affichera en haut de la page quand vous vous connecterez sur un site web que vous n'avez pas enregistré. Des erreurs sont parfois commises par Bitwarden !
+1. Si vous êtes sur un appareil qui n'est pas le vôtre, je vous conseille très fortement d'ouvrir un ***nouvel onget en navigation privée*** ! Cela permettra de tout déconnecter une fois que vous aurez fermer la fenêtre ! De plus je vous conseille de paramétrer le délai d'expiration de l'interface web à ***1 minute*** et cocher la case "***Déconnexion***" ! Normalement vous aurez assez de temps de copier/coller vos identifiants.
+
+> Si c'est trop court pour vous, choisissez "**Personnalisé**" dans le menu déroulant et paramétrez à ***2 minutes***.
+
+![Bitwarden expiration](/bitwarden/bitwarden-deconnexion.png)
+
+
+2. Utilisez l'interface web uniquement quand vous n'avez ni accès à votre téléphone ni accès à votre PC.
+3. Je vous conseille de ne jamais cliquer sur le bandeau qui s'affichera en haut de la page quand vous vous connecterez sur un site web que vous n'avez pas enregistré. Des erreurs sont parfois commises par Bitwarden !
 Ajoutez manuellement vos identifiants à chaque fois, c'est beaucoup plus sûr !
-2. Ne partagez ***sous aucun prétexte*** votre **`mot de passe maître`**.
+4. Ne partagez ***sous aucun prétexte*** votre **`mot de passe maître`**.
+5. Je vous conseille fortement de paramétrer le délai d'expiration de votre coffre (uniquement pour l'interface web) à 1 minute ! Si vous vous connectez sur un appareil qui n'est pas le vôtre
