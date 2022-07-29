@@ -49,7 +49,7 @@ L'interface de bitwarden n'est pas très compliquée, mais je vais vous montrer 
 
 **En vert :**
 
-6. - Coffres-forts : Votre coffre, là où vous êtes actuellement, ce tous vos éléments.
+6. - Coffres-forts : Votre coffre, là où vous êtes actuellement, ce sont tous vos éléments.
 	- Send : Si vous souhaitez envoyer des fichiers (max : 1Go) à des amis (uniquement avec la version Premium, c'est 10€/an). Cependant, vous pouvez envoyer du texte à un ami avec la version gratuite.
 	- Outils : C'est ici que vous trouverez notamment le générateur de mots de passe
 	- Rapports : Ce sont des options premium (c'est pas essentiel, ne vous inquiétez pas)
