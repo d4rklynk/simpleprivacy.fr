@@ -160,5 +160,15 @@ Quand vous visitez un site web comme Proton Mail par exemple, voici les étapes 
 2. Utilisez l'interface web uniquement quand vous n'avez ni accès à votre téléphone ni accès à votre PC.
 3. Je vous conseille de ne jamais cliquer sur le bandeau qui s'affichera en haut de la page quand vous vous connecterez sur un site web que vous n'avez pas enregistré. Des erreurs sont parfois commises par Bitwarden !
 Ajoutez manuellement vos identifiants à chaque fois, c'est beaucoup plus sûr !
+
+![Bitwarden bandeau](/bitwarden/bitwarden-bandeau.png)
+
+Je vous conseille même de le désactiver via l'extension en allant dans "**Paramètres**" puis faites défiler vers le bas jusqu'à trouver "**Options**" :
+
+![Bitwarden options](/bitwarden/bitwarden-options.png)
+
+Ensuite décochez "**Désactiver la notification d'ajout d'identifiant**" et "**Désactiver la notification de changement de mot de passe**". Pensez-bien à remodifier le mot de passe dans Bitwarden si vous en avez changer un.
+
+![Bitwarden notification](/bitwarden/bitwarden-notification.png)
+
 4. Ne partagez ***sous aucun prétexte*** votre **`mot de passe maître`**.
-5. Je vous conseille fortement de paramétrer le délai d'expiration de votre coffre (uniquement pour l'interface web) à 1 minute ! Si vous vous connectez sur un appareil qui n'est pas le vôtre
