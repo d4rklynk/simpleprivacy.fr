@@ -63,7 +63,7 @@ Les pubs **comportementales** sont à un tout autre niveau, ils se basent sur vo
 
 Mais imaginons vous avez trouvé le partenaire de votre vie, vous êtes avec cette personne depuis quelques années, vous avez cherchez pendant toutes ces années des week-end romantiques, des sorties, des vacances, etc. Toutes ces infos sont accumulés au fur et à mesure par les fournisseurs de service comme Google et Facebook.
 Un jour vous décidez de lui demander en mariage, donc vous faites vos recherches sur des bagues, des lieux etc... Tout se passe bien. Mais à votre avis, après ce mariage, que Google va t'il vous proposer ?
-Des pubs pour des jouets d'enfants, des lits de bébé, des biberons, des annonces pour les femmes enceintes \U0001f601. 
+Des pubs pour des jouets d'enfants, des lits de bébé, des biberons, des annonces pour les femmes enceintes. 
 
 Ben oui vous avez implicitement dit à Google (et tout les fournisseurs de services fonctionnant sur les pubs **comportementales**) que vous aviez trouvé le partenaire de votre vie, que vous vous étiez installé ensemble, que vous êtes marié etc. Au bout d'un moment Google en déduit qu'il est temps pour vous d'avoir des enfants !
 
