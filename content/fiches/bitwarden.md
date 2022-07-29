@@ -143,10 +143,10 @@ Dans le cas où vous avez choisi de générer un **mot de passe** au lieu d'une 
 Quand vous visitez un site web comme Proton Mail par exemple, voici les étapes à suivre :
 
 1. ***Cliquez sur l'icône de Bitwarden***. L'icône vous affichera un numéro pour vous signifier que vous avez un compte (ou plusieurs) qui correspond à l'URL donné.
-2. ***Cliquez sur la zone où il y marqué le nom de l'élément*** (ici, "**Proton**"). Cela aura pour effet de remplir automatiquement les champs de texte ! C'est super pratique ! Cependant certains sites web ne fonctionneront pas pour des raisons obscures, dans ce cas vous allez devoir copier votre nom d'utilisateur et votre mot de passe grâce aux boutons.
-3. Ce bouton permet d'afficher en détail les identifiants que vous avez entré lors de la création des identifiants (Vous pourrez également le modifier en cliquant sur **modifier** qui s'affichera en **haut à droite**).
+2. ***Cliquez sur la zone où il y a marqué le nom de l'élément*** (ici, "**Proton**"). Cela aura pour effet de remplir automatiquement les champs de texte ! C'est super pratique ! Cependant le remplissage automatique sur certains sites web ne fonctionnera pas pour des raisons obscures, dans ce cas vous allez devoir copier votre nom d'utilisateur et votre mot de passe grâce aux boutons.
+3. Ce bouton permet d'afficher en détail les identifiants que vous avez entré lors de la création des identifiants (Vous pourrez également le modifier, si vous le souhaitez, en cliquant sur **modifier** qui s'affichera en **haut à droite**).
 4. Si vous cliquez sur le **petit bonhomme**, cela aura pour effet de copier le **nom d'utilisateur**, et vous pourrez le coller dans le champ de texte correspondant.
-5. Si vous cliquez la **petite clé**, cela aura pour effet de copier le **mot de passe**, et vous pourrez le coller dans le champ de texte correspondant.
+5. Si vous cliquez sur la **petite clé**, cela aura pour effet de copier le **mot de passe**, et vous pourrez le coller dans le champ de texte correspondant.
 
 ## Les bonnes pratiques
 
