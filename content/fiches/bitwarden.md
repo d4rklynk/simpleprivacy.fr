@@ -158,7 +158,7 @@ Quand vous visitez un site web comme Proton Mail par exemple, voici les étapes 
 
 
 2. Utilisez l'interface web uniquement quand vous n'avez ni accès à votre téléphone ni accès à votre PC.
-3. Je vous conseille de ne jamais cliquer sur le bandeau qui s'affichera en haut de la page quand vous vous connecterez sur un site web que vous n'avez pas enregistré. Des erreurs sont parfois commises par Bitwarden !
+3. Je vous conseille de ne jamais cliquer sur le bandeau qui s'affichera en haut de la page quand vous vous connecterez sur un site web que vous n'avez pas enregistré. *Ce bandeau vous propose d'enregistrer automatiquement, si vous cliquez sur **Enregistrer**, je vous conseille de vérifier manuellement à chaque fois que Bitwarden que le nom d'utilisateur et le mot de passe sont bien les bons !* Des erreurs sont parfois commises par Bitwarden !
 Ajoutez manuellement vos identifiants à chaque fois, c'est beaucoup plus sûr !
 
 ![Bitwarden bandeau](/bitwarden/bitwarden-bandeau.png)
