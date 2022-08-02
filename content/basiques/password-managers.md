@@ -161,6 +161,10 @@ Qui est également le titre de [l'article de Wonderfall](https://wonderfall.spac
 
 Tous ces mots sont générés aléatoirement (par un ordinateur, et non par un humain). Il n'y a pas de majuscules ou de chiffres, mais il possède 6 mots générés **complètement aléatoirement**.
 
+L'avantage de cette méthode est que cette phrase de passe est trop longue pour être **bruteforce**, et les mots de cette phrase de passe sont également trop aléatoires et peu communs pour être victime d'une **attaque par dictionnaire** (car l'attaque par dictionnaire se base sur des mots communs, et qui ont un rapport entre eux). Donc si vous choisissez vous-même vos mots pour créer une phrase de passe, ça ne fonctionnera pas ! Générez-le grâce à Bitwarden par exemple, et ne changez pas les mots !
+
+> Si vous souhaitez aller un peu plus loin, rajouter un chiffre quelque part dans la phrase de passe, ou en plein milieu d'un des mots (comme `timing` devient `tim5ing`) et ne changez pas les `a` avec des `@` ou tout autre combine de la sorte, car c'est pris en compte dans les attaques, et donc **complètement** inutile. Vous deviendrez beaucoup plus imprévisible en **rajoutant** un chiffre au milieu d'un des mots et/ou un caractère spécial.
+
 Vous pouvez générer des phrases de passe avec [ce site](https://www.rempe.us/diceware/#french) afin de tester un peu. Cependant, c'est mieux de générer votre phrase de passe avec votre gestionnaire de mots de passe. Bitwarden est capable de générer une liste de mots par exemple.
 
 Pour vous donner une idée, un ordinateur personnel est capable de tester quelques millions de mots de passe par seconde.
