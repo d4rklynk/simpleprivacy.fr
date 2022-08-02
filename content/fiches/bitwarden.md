@@ -10,6 +10,8 @@ weight: 1
 
 *J'ai écris un article sur les [gestionnaires de mots de passe](/basiques/password-managers) si vous voulez en savoir plus.*
 
+Grâce au gestionnaire de mots de passe, vous n'aurez plus qu'un seul mot de passe à retenir, celui pour accéder au gestionnaire : le `mot de passe maître`.
+
 Aujourd'hui, je vous explique comment l'utiliser.
 
 ## Création de votre compte
@@ -22,11 +24,11 @@ Vous arriverez sur cette page où vous créerez votre compte :
 
 ![Signup page image](/bitwarden/bitwarden-signup-page.png)
 
-Remplissez les cases comme montré ci-dessus et cliquez sur le bouton **Soumettre**, ce qui aura pourra effet de vous envoyer à la **page de connexion** de Bitwarden comme ci-dessous :
+Remplissez les cases comme montré ci-dessus, créez un mot de passe robuste tel que je l'ai expliqué dans mon autre [article](/basiques/password-managers/#les-phrases-de-passe) (faites-le, vraiment). ***Ce sera le seul mot de passe que vous aurez à retenir, donc créez un vrai mot de passe robuste.*** Vous pouvez ensuite cliquer sur le bouton **Soumettre** une fois que vous avez tout rempli, ce qui aura comme effet de vous envoyer à la **page de connexion** de Bitwarden comme ci-dessous :
 
 ![Bitwarden Login page image](/bitwarden/bitwarden-login-page.png)
 
-Vous entrez vos identifiants et tada !
+Vous entrez votre nom d'utilisateur et votre mot de passe maître et tada !
 
 ![Bitwarden Interface image](/bitwarden/bitwarden-interface.png)
 

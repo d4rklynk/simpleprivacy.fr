@@ -149,11 +149,13 @@ est parfaitement viable. (N'oubliez quand même pas de rajouter des chiffres). C
 - [x] Les minuscules
 - [x] Les caractères spéciaux ( l'apostrophe `'`, les espaces ` `, le `é`, le `ô`, le symbole `€` et le point final `.`)
 
-On voit tout de suite que c'est plus facile à retenir qu'un mot de passe de 35 caractères.
+On voit tout de suite que c'est plus facile à retenir qu'un mot de passe de 36 caractères.
+
+### La méthode diceware
 
 ![Dés](/password-managers/dices.jpg)
 
-Cependant, la phrase reste prévisible, et une bonne phrase de passe ressemblerait plutôt à ça (aussi appelé diceware) :
+Cependant, la phrase reste prévisible, et une bonne phrase de passe ressemblerait plutôt à ça (aussi appelée [méthode diceware](https://fr.wikipedia.org/wiki/Diceware)) :
 
 > timing paving hertz bacterium pliable angelfish
 
