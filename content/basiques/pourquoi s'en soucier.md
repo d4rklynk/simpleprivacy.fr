@@ -45,15 +45,15 @@ En faisant votre recherche, Google a enregistré le fait que **vous**, **personn
 
 Imaginez que vous êtes un vendeur de vélo, vous souhaitez payer Google afin qu'il puisse afficher ces pubs dans les recherches Google. 
 
-En temps normal, un certain nombre de personnes verrait cette pub, mais ne serait pas intéressé par un vélo (manque de moyens, utilise la voiture, habite au fin fond de la campagne, etc.) ; vous auriez payé cher pour un nombre infime de personnes souhaitant acheter ce vélo.
+En temps normal, un certain nombre de personnes verrait cette pub, mais ne serait pas intéressé par un vélo (manque de moyens, utilise la voiture, habite au fin fond de la campagne, etc.) ; vous auriez payé cher pour qu'un nombre infime de personnes souhaitant acheter ce vélo soit réellement intéressés.
 
-Maintenant, faisons mieux. Au lieu d'afficher des pubs de vélo à tout le monde aléatoirement, pourquoi ne pas cibler les gens potentiels ? Pour ce faire, Google, va analyser méticuleusement vos mails, vos photos, vos achats (Google Pay), les recherches Google, YouTube, etc. Afin de comprendre que **vous** avez le potentiel d'acheter le vélo (parce que vous êtes en ville, vous avez les moyens, etc.). Il utilisera vos données pour cibler très précisément ses pubs et se faire de l'argent sur votre dos.
+Maintenant, faisons mieux. Au lieu d'afficher des pubs de vélo à tout le monde aléatoirement, pourquoi ne pas cibler les gens potentiels ? Pour ce faire, Google, va analyser méticuleusement vos mails, vos photos, vos achats (Google Pay), les recherches Google, YouTube, etc. Afin de comprendre que **vous** avez le potentiel d'acheter le vélo (parce que vous êtes en ville, vous avez les moyens, etc.). Il utilisera vos données pour cibler très précisément ses pubs et se faire de l'argent sur votre dos (beaucoup d'argent).
 
-Il faut bien comprendre que Facebook et Google (je n'en ai pas d'autres en tête) sont en premier lieu des agences publicitaires, leur modèle économique est basé sur la publicité.
+Il faut bien comprendre que Facebook et Google (je n'en ai pas d'autres en tête) sont en premier lieu des agences publicitaires, leurs modèles économiques sont basés sur la publicité.
 
-### Les types de publcités sur Internet
+### Les types de publicités sur Internet
 
-Je tiens à préciser que le fait de se faire de l'argent n'est pas un problème en soit. Il faut distinguer deux types de pubs :
+Je tiens à préciser que le fait de se faire de l'argent grâce à la publicité n'est pas un problème en soit. Il faut distinguer deux types de pubs :
 
 - Les pubs **contextuelles**.
 - Les pubs **comportementales**.
@@ -67,13 +67,14 @@ Les pubs **contextuelles** fonctionnent de cette manière :
 
 Simple n'est-ce pas ? L'avantage dans les pubs contextuelles, c'est que ça permet aux entreprises de gagner de l'argent sans vous pister. Les moteurs de recherche DuckDuckGo et StartPage sont deux exemples qui fonctionnent de cette manière.
 
-Les pubs **comportementales** sont à un tout autre niveau, ils se basent sur vos centres d'intérêt, c'est compliqué de vous faire un exemple, car cela demenderait beaucoup plus d'infos. 
+Les pubs **comportementales** sont à un tout autre niveau, ils se basent sur vos centres d'intérêt, vos recherches, vos vidéos préférées sur YouTube, vos achats, votre localisation, etc. C'est compliqué de vous faire un exemple, car cela demanderait beaucoup plus d'infos. 
 
 Mais imaginons vous avez trouvé le partenaire de votre vie, vous êtes avec cette personne depuis quelques années, vous avez cherchez pendant toutes ces années des week-end romantiques, des sorties, des vacances, etc. Toutes ces infos sont accumulés au fur et à mesure par les fournisseurs de service comme Google et Facebook.
 Un jour vous décidez de lui demander en mariage, donc vous faites vos recherches sur des bagues, des lieux etc... Tout se passe bien. Mais à votre avis, après ce mariage, que Google va t'il vous proposer ?
+
 Des pubs pour des jouets d'enfants, des lits de bébé, des biberons, des annonces pour les femmes enceintes. 
 
-Ben oui vous avez implicitement dit à Google (et tout les fournisseurs de services fonctionnant sur les pubs **comportementales**) que vous aviez trouvé le partenaire de votre vie, que vous vous étiez installé ensemble, que vous êtes marié etc. Au bout d'un moment Google en déduit qu'il est temps pour vous d'avoir des enfants !
+Ben oui vous avez implicitement dit à Google (et tout autre fournisseur de service fonctionnant sur les pubs **comportementales**) que vous aviez trouvé le partenaire de votre vie, que vous vous étiez installé ensemble, que vous vous êtes marié etc. Au bout d'un moment Google en déduit qu'il est temps pour vous d'avoir des enfants !
 
 ### Ça ne fait pas si peur
 
@@ -91,6 +92,14 @@ C'est fait exprès pour embrouiller tout le monde, pour qu'on ne puisse pas lire
 Concernant Google je ne le considère pas comme étant un moteur de recherche puisqu'il ne vous donne que les infos que vous souhaitez avoir.
 C'est comme si vous alliez à la bibliothèque et que la libraire vous montrait uniquement les livres qui défendent la même opinion que vous, les thèmes que vous aimez, etc.
 
+Ces services sont également des laboratoires à grande échelle sur le comportement humain. Ils ne vont pas juste vous proposer un excellent service, ils vont surtout vous rendre dépendant à ce service. Et c'est comme ça qu'on entend des gens dire :
+
+- "Comment tu fais pour vivre sans TikTok ? Moi je pourrais pas."
+- "T'as pas Facebook ?! Ben je te contacte comment ?"
+- "Tu partages tes photos de ce weekend sur Google Photos ! Ah, tu n'as pas Google Photos..."
+
+Ne croyez pas que vous n'êtes pas manipulé par ces services, ça fait 20 ans qu'il travaillent sur ce domaine. Et ne sous-estimez pas à quel point l'humain peut être manipulable (moi y compris).
+
 ### Pour en revenir à mon exemple des esclaves :
 
 Un esclave, est, [selon la définition du Larousse](https://www.larousse.fr/dictionnaires/francais/esclave/30979)
@@ -104,7 +113,7 @@ Dans l'exemple du vélo, nous recevons de la pub sans notre consentement. Nous n
 > ...considérée comme un instrument économique pouvant être vendu ou acheté...
 
 Vos données ont pour unique but de rapporter de l'argent à l'entreprise, car elles sont revendus à des tiers.
-Comment pensez-vous que Google puisse vous proposer un service gratuit ?
+Comment pensez-vous que des entreprises comme Google ou Facebook puissent vous proposer un service gratuit ?
 > et qui était sous la dépendance d'un maître.
 
 Si vous lisez bien les Politiques de Vie Privée ou les CGU (Conditions Générales d'Utilisation), vous remarquerez que très souvent vos données ne vous appartiennent plus une fois mise en ligne sur un service (tels que Facebook, Instagram, Google Drive, Google Photos, Gmail, OneDrive, Outlook, Amazon, et j'en passe beaucoup...).
