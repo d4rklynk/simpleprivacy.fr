@@ -168,6 +168,14 @@ Cependant, vous avez probablement des comptes en mode publique, comme Instagram,
 
 Encore une fois, ***omettez ou falsifiez vos informations*** le plus possible.
 
+---
+
+*Voir mes autres articles sur le sujet :*
+
+- [Instagram : Limitez l'information publique et la collecte de données](/fiches/instagram)
+
+---
+
 ### Se protéger des virus et des hackers
 
 La vie privée sur Internet va de pair avec la sécurité. Si vous ne prenez pas en compte cet aspect, vous démarrez très mal.
