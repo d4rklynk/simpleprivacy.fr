@@ -13,6 +13,14 @@ Ce sont pour moi de mauvais arguments, on le dit car on ne sait pas vraiment com
 
 Le terme de cacher est également faux, car en réalité, beaucoup de gens n'ont rien à cacher. La vie privée est quelque chose que vous souhaitez protéger.
 
+> Lorsque vous dites : "Le droit à la vie privée ne me préoccupe pas parce que je n'ai rien à cacher", cela ne fait aucune différence avec le fait de dire "Je me moque du droit à la liberté d'expression parce que je n'ai rien à dire", ou "de la liberté de la presse parce que je n'ai rien à écrire".
+	- *Edward Snowden* -
+
+Je dirais même qu'on peut conclure la même chose des droits des femmes par exemple. Si vous êtes lectrice, auriez-vous dit à l'époque : "Je me fiche du droit de vote parce que je ne sais pas pour qui voter" ?. 
+
+La vie privée reste un sujet flou pour beaucoup, mais
+n'oubliez pas que même si vous n'avez rien à cacher, cela reste un ***droit humain fondamental***.
+
 ---
 
 *Je vais souvent prendre l'exemple de Google, mais cela s'applique à énormément d'autres services.*
