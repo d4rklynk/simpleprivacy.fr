@@ -11,11 +11,11 @@ Si vous utilisez peu instagram, mais que vous souhaitez quand même garder votre
 
 Ces paramètres affecteront la manière dont les visiteurs verront votre profil.
 
-Sur la barre de navigation d'Instagram, tapez sur votre photo de profil en bas à droite.
+Sur la barre de navigation d'Instagram, tapez sur votre photo de profil en **bas à droite**.
 
 ![insta barre de navigation](/instagram/instagram-taskbar.png)
 
-Puis, tapez sur l'hamburger en haut à droite (ce sont les 3 barres horizontales, oui ça s'apelle vraiment un hamburger).
+Puis, tapez sur l'hamburger en **haut à droite** (ce sont les 3 barres horizontales, oui ça s'appelle vraiment un hamburger).
 
 ![insta hamburger](/instagram/instagram-hamburger.png)
 
