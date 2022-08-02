@@ -38,14 +38,14 @@ L'interface de bitwarden n'est pas très compliquée, mais je vais vous montrer 
 
 **En rouge :**
 
-1. C'est la page d'accueil de vos mots de passe, de vos notes sécurisés et de vos cartes bancaires, c'est ici que vous verrez absolument tout.
-2. C'est la même chose que la page d'accueil en fait.
+1. C'est la page d'accueil de vos mots de passe, de vos notes sécurisées et de vos cartes bancaires. C'est ici que vous verrez absolument tout.
+2. C'est la même chose que la page d'accueil.
 3. Si vous supprimez des identifiants, ils finiront à la poubelle.  C'est supprimé automatiquement au bout de 30 jours !
 4. - Identifiants : Vos identifiants de connexions
 	- Carte de paiement : Vos cartes bancaires
-	- Identité : Vos cartes d'idendités (carte vitale, permis de conduire, etc.).
-	- Note Sécurisée : Vos notes sécurisés (très utile pour juste noter des code PIN, comme ceux des cartes bancaires, ou des cartes de magasins !)
-5. Ce sont les dossiers que vous créez pour organiser vos mots de passe, mais honnêtement c'est là pour faire joli, c'est vraiment optionnel pour le coup.
+	- Identité : Vos cartes d'identités (carte vitale, permis de conduire, etc.).
+	- Note Sécurisée : Vos notes sécurisées (très utile pour juste noter des codes PIN, comme ceux des cartes bancaires, ou des cartes de magasins !)
+5. Ce sont les dossiers que vous créez pour organiser vos mots de passe, mais c'est optionnel.
 
 **En vert :**
 
@@ -60,7 +60,7 @@ L'interface de bitwarden n'est pas très compliquée, mais je vais vous montrer 
 
 *Cette étape est utile pour ceux qui possédent un autre gestionnaire de mots de passe et souhaitent changer pour Bitwarden, vous pouvez exportez vos mots de passe de votre gestionnaire actuel pour l'importer sur Bitwarden.*
 
-L'avantage avec les gestionnaires de mots de passe, c'est que si vous souhaitez changer, ca prend à peine 5 minutes !
+L'avantage avec les gestionnaires de mots de passe, c'est que si vous souhaitez changer, ça prend à peine 5 minutes !
 Vous exportez vos mots de passe, vous les importez dans le nouveau, vous supprimez votre compte de votre ancien gestionnaire de mots de passe et c'est réglé !
 
 ![Bitwarden import data image](/bitwarden/bitwarden-import-data.png)
@@ -90,17 +90,17 @@ Vous arrivez là-dessus :
 ![Bitwarden adding](/bitwarden/bitwarden-adding.png)
 
 1. Choisissez le type (identifiants, carte bancaire, carte d'identité ou note sécurisée). Vous laissez **"login"** si vous souhaitez ajouter des identifiants de connexion.
-2. Le nom de votre identifiant (exemple : "`Pôle Emploi`" ou  "`Google compte du boulot`"), c'est juste le titre, mettez ce qui vous parle le plus (par défault Bitwarden mais le nom domaine, comme "`accounts.google.com`" par exemple).
+2. Le nom de votre identifiant (exemple : "`Pôle Emploi`" ou  "`Google compte du boulot`"), c'est juste le titre. Mettez ce qui vous parle le plus (par défault Bitwarden met le nom domaine, comme "`accounts.google.com`" par exemple).
 3. Votre mail/pseudo (ça dépend des sites)
 4. Votre mot de passe
-5. Ici vous mettez l'URL, au format `https://account.proton.me` par exemple. C'est ce qui permettra de savoir si vous avez des identifiants correspondant pour le site web que vous visitez.
+5. Ici vous mettez l'URL, au format `https://account.proton.me` par exemple. C'est ce qui permettra de savoir si vous avez des identifiants correspondant aux sites web que vous visitez.
 *Vous pouvez également cliquer sur les 3 petites barres à droite, cela ouvrira un menu déroulant qui vous proposera les URL de vos onglets actuellement ouverts.*
 
 ![Number Bitwarden](/bitwarden/bitwarden-number.png)
 
-> Vous pouvez voir, comme montré sur la petite image ci-dessus, que je suis actuellement sur un site web, et Bitwarden a reconnu grâce à l'URL `https://account.proton.me` que j'avais un identifiant correspondant. Si vous avez `2` affiché au lieu de `1` c'est que vous avez deux comptes sur ce site, tout simplement. Au-delà de l'aspect pratique de la chose, elle a aussi un aspect de sécurité, car si vous naviguer sur un site bidon comme `https://account.google.com` (la vrai page de connexion de Google comporte un `s` à la fin de `account`), Bitwarden ne reconnaîtra pas la page et donc n'affichera pas de numéro, ça évite de mettre vos mots de passe sur des sites non-légitimes. Ou alors, vous avez tout simplement oublié d'ajouter l'URL.
+> Vous pouvez voir, comme montré sur la petite image ci-dessus, que je suis actuellement sur un site web, et Bitwarden a reconnu grâce à l'URL `https://account.proton.me` que j'avais un identifiant correspondant. Si vous avez `2` affiché au lieu de `1`, c'est que vous avez deux comptes sur ce site. Au-delà de l'aspect pratique de la chose, elle a aussi un aspect de sécurité, car si vous naviguez sur un site bidon comme `https://account.google.com` (la vrai page de connexion de Google comporte un `s` à la fin de `account`), Bitwarden ne reconnaîtra pas la page et donc n'affichera pas de numéro, ça évite de mettre vos mots de passe sur des sites non-légitimes. Ou alors, vous avez tout simplement oublié d'ajouter l'URL.
 
-6. - Le **bouton de gauche** permet de vérifier qu'il n'y ai pas eu de fuite de ce mot de passe. *Exemple : Facebook se fait pirater, les mots de passe sont dans la nature, Bitwarden permet de vérifier si ce mot de passe fait partie des données qui ont fuitées.*
+6. - Le **bouton de gauche** permet de vérifier qu'il n'y ait pas eu de fuite de ce mot de passe. *Exemple : Facebook se fait pirater, les mots de passe sont dans la nature, Bitwarden permet de vérifier si ce mot de passe fait partie des données qui ont fuitées.*
 	- Le bouton du milieu permet de voir votre mot de passe.
 	- Le bouton de droite permet de générer ou de régénérer un mot de passe.
 7. Ce bouton permet de générer un nom d'utilisateur ! Très utile, car une bonne pratique sur Internet est de ne pas utiliser les mêmes pseudos ! Ça permet de ne pas être identifié facilement.
@@ -128,7 +128,7 @@ Le générateur de mot de passe est très puissant et vous permet de générer d
 1. Le **premier** bouton permet de copier le mot de passe, le **deuxième** permet d'en régénérer un nouveau.
 2. Choisissez si vous voulez générer un mot de passe ou un nom d'utilisateur.
 3. Choisissez si vous voulez générer un mot de passe ou une phrase de passe.
-4. Options supplémentaires, je vous conseille de mettre le **nombre de mots à 6** pour la **phrase de passe**. Pour le séparateur de mots, vous pouvez mettre ce que vous voulez (par défaut ça doit être un `-`, cliquez dessus et effacez-le si vous souhaitez mettre un espace comme moi), vous pouvez également mettre la première lettre de chaque mot en majuscule si vous le souhaitez.
+4. Options supplémentaires, je vous conseille de mettre le **nombre de mots à 6** pour la **phrase de passe**. Pour le séparateur de mots, vous pouvez mettre ce que vous voulez (par défaut ça doit être un `-`, cliquez dessus et effacez-le si vous souhaitez mettre un espace comme dans l'exemple), vous pouvez également mettre la première lettre de chaque mot en majuscule si vous le souhaitez.
 5. C'est l'historique des mots de passe que vous avez générés, ils sont effacés à chaque fois que vous fermez votre navigateur web.
 
 ![Bitwarden Generateur password](/bitwarden/bitwarden-generator-password.png)
@@ -143,14 +143,14 @@ Dans le cas où vous avez choisi de générer un **mot de passe** au lieu d'une 
 Quand vous visitez un site web comme Proton Mail par exemple, voici les étapes à suivre :
 
 1. ***Cliquez sur l'icône de Bitwarden***. L'icône vous affichera un numéro pour vous signifier que vous avez un compte (ou plusieurs) qui correspond à l'URL donné.
-2. ***Cliquez sur la zone où il y a marqué le nom de l'élément*** (ici, "**Proton**"). Cela aura pour effet de remplir automatiquement les champs de texte ! C'est super pratique ! Cependant le remplissage automatique sur certains sites web ne fonctionnera pas pour des raisons obscures, dans ce cas vous allez devoir copier votre nom d'utilisateur et votre mot de passe grâce aux boutons.
-3. Ce bouton permet d'afficher en détail les identifiants que vous avez entré lors de la création des identifiants (Vous pourrez également le modifier, si vous le souhaitez, en cliquant sur **modifier** qui s'affichera en **haut à droite**).
+2. ***Cliquez sur la zone où il y a marqué le nom de l'élément*** (ici, "**Proton**"). Cela aura pour effet de remplir automatiquement les champs de texte ! C'est super pratique ! Cependant le remplissage automatique sur certains sites web ne fonctionnera pas pour des raisons obscures. Dans ce cas, vous allez devoir copier votre nom d'utilisateur et votre mot de passe grâce aux boutons.
+3. Ce bouton permet d'afficher en détail les identifiants que vous avez entré lors de leurs créations (vous pourrez également les modifier, si vous le souhaitez, en cliquant sur **modifier** qui s'affichera en **haut à droite**).
 4. Si vous cliquez sur le **petit bonhomme**, cela aura pour effet de copier le **nom d'utilisateur**, et vous pourrez le coller dans le champ de texte correspondant.
 5. Si vous cliquez sur la **petite clé**, cela aura pour effet de copier le **mot de passe**, et vous pourrez le coller dans le champ de texte correspondant.
 
 ## Les bonnes pratiques
 
-1. Si vous êtes sur un appareil qui n'est pas le vôtre, je vous conseille très fortement d'ouvrir un ***nouvel onget en navigation privée*** ! Cela permettra de tout déconnecter une fois que vous aurez fermer la fenêtre ! De plus je vous conseille de paramétrer le délai d'expiration de l'interface web à ***1 minute*** et cocher la case "***Déconnexion***" ! Normalement vous aurez assez de temps de copier/coller vos identifiants.
+1. Si vous êtes sur un appareil qui n'est pas le vôtre, je vous conseille très fortement d'ouvrir un ***nouvel onget en navigation privée*** ! Cela permettra de tout déconnecter une fois que vous aurez fermer la fenêtre ! De plus je vous conseille de paramétrer le délai d'expiration de l'interface web à ***1 minute*** et cocher la case "***Déconnexion***" ! Normalement vous aurez assez de temps pour copier/coller vos identifiants.
 
 > Si c'est trop court pour vous, choisissez "**Personnalisé**" dans le menu déroulant et paramétrez à ***2 minutes***.
 
@@ -158,8 +158,7 @@ Quand vous visitez un site web comme Proton Mail par exemple, voici les étapes 
 
 
 2. Utilisez l'interface web uniquement quand vous n'avez ni accès à votre téléphone ni accès à votre PC.
-3. Je vous conseille de ne jamais cliquer sur le bandeau qui s'affichera en haut de la page quand vous vous connecterez sur un site web que vous n'avez pas enregistré. *Ce bandeau vous propose d'enregistrer automatiquement vos identifiants. Si vous cliquez sur **Enregistrer**, je vous conseille de vérifier manuellement à chaque fois sur Bitwarden que le nom d'utilisateur et le mot de passe sont bien les bons !* Des erreurs sont parfois commises par Bitwarden !
-Ajoutez manuellement vos identifiants à chaque fois, c'est beaucoup plus sûr !
+3. Je vous conseille de ne jamais cliquer sur le bandeau qui s'affichera en haut de la page quand vous vous connecterez sur un site web que vous n'avez pas enregistré. *Ce bandeau vous propose d'enregistrer automatiquement vos identifiants. Si vous cliquez sur **Enregistrer**, je vous conseille de vérifier manuellement à chaque fois sur Bitwarden que le nom d'utilisateur et le mot de passe sont bien les bons ! Des erreurs sont parfois commises par Bitwarden !* Ajoutez manuellement vos identifiants à chaque fois, c'est beaucoup plus sûr !
 
 ![Bitwarden bandeau](/bitwarden/bitwarden-bandeau.png)
 

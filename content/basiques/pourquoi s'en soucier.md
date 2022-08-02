@@ -69,28 +69,28 @@ Simple n'est-ce pas ? L'avantage dans les pubs contextuelles, c'est que ça perm
 
 Les pubs **comportementales** sont à un tout autre niveau, ils se basent sur vos centres d'intérêt, vos recherches, vos vidéos préférées sur YouTube, vos achats, votre localisation, etc. C'est compliqué de vous faire un exemple, car cela demanderait beaucoup plus d'infos. 
 
-Mais imaginons vous avez trouvé le partenaire de votre vie, vous êtes avec cette personne depuis quelques années, vous avez cherchez pendant toutes ces années des week-end romantiques, des sorties, des vacances, etc. Toutes ces infos sont accumulés au fur et à mesure par les fournisseurs de service comme Google et Facebook.
-Un jour vous décidez de lui demander en mariage, donc vous faites vos recherches sur des bagues, des lieux etc... Tout se passe bien. Mais à votre avis, après ce mariage, que Google va t'il vous proposer ?
+Mais imaginons que vous ayez trouvé le partenaire de votre vie, vous êtes avec cette personne depuis quelques années, vous avez cherché pendant toutes ces années des week-end romantiques, des sorties, des vacances, etc. Toutes ces infos sont accumulées au fur et à mesure par les fournisseurs de service comme Google et Facebook.
+Un jour vous décidez de demander votre partenaire en mariage, vous faites donc vos recherches sur des bagues, des lieux etc... Tout se passe bien. Mais à votre avis, après ce mariage, que Google va t'il vous proposer ?
 
 Des pubs pour des jouets d'enfants, des lits de bébé, des biberons, des annonces pour les femmes enceintes. 
 
-Ben oui vous avez implicitement dit à Google (et tout autre fournisseur de service fonctionnant sur les pubs **comportementales**) que vous aviez trouvé le partenaire de votre vie, que vous vous étiez installé ensemble, que vous vous êtes marié etc. Au bout d'un moment Google en déduit qu'il est temps pour vous d'avoir des enfants !
+Ben oui, vous avez implicitement dit à Google (et tout autre fournisseur de service fonctionnant sur les pubs **comportementales**) que vous aviez trouvé le partenaire de votre vie, que vous vous étiez installés ensemble, que vous vous êtes mariés etc. Au bout d'un moment, Google en déduit qu'il est temps pour vous d'avoir des enfants !
 
 ### Ça ne fait pas si peur
 
 Pour vous rendre compte à quel point cela peut être terrifiant, prenons un exemple dans la vraie vie.
 
-Vous êtes en dîner de famille et vous parlez de votre futur achat d'un vélo. Vous vous réveillez le lendemain, vous allez à votre boîte aux lettres, vous ouvrez, et là, surprise, une pub pour un vélo ! Alors qu'on nous a rien demandé ! 
-Cela vous semble peut-être improbable que ca puisse arriver dans la vraie vie, peut-être pas, mais c'est **réellement** ce qui se passe sur Internet !
+Vous êtes en dîner de famille et vous parlez de votre futur achat d'un vélo. Vous vous réveillez le lendemain, vous allez à votre boîte aux lettres, vous ouvrez, et là, surprise, une pub pour un vélo ! Alors que vous n'avez rien demandé ! 
+Cela vous semble peut-être improbable que ça puisse arriver dans la vraie vie, peut-être pas, mais c'est **réellement** ce qui se passe sur Internet !
 
 ### Le vrai problème
 
-Le problème n'est pas que Google nous envoie des pubs ou vendent nos données. Le réel problème est que ces services nous pistent, nous ciblent, et revendent nos données, **sans notre consentement**. Et quand bien même c'est dit dans la Politique de Confidentialité ou les CGU (Conditions Générales d'Utilisation) de ces services, soyons francs, on comprend rien, et c'est le but recherché.
+Le problème n'est pas que Google nous envoie des pubs ou vend nos données. Le réel problème est que ces services nous pistent, nous ciblent, et revendent nos données, **sans notre consentement**. Et quand bien même c'est précisé dans leur Politique de Confidentialité ou leurs CGU (Conditions Générales d'Utilisation), soyons francs, on comprend rien, et c'est le but recherché.
 
-C'est fait exprès pour embrouiller tout le monde, pour qu'on ne puisse pas lire ces CGU et qu'on clique finalement sur "Tout Accepter".
+En effet, c'est souvent un long texte, écrit en petits caractères, avec un vocabulaire technique qui nous pousse à ne rien lire et à cliquer sur "Tout Accepter".
 
-Concernant Google je ne le considère pas comme étant un moteur de recherche puisqu'il ne vous donne que les infos que vous souhaitez avoir.
-C'est comme si vous alliez à la bibliothèque et que la libraire vous montrait uniquement les livres qui défendent la même opinion que vous, les thèmes que vous aimez, etc.
+Concernant Google, je ne le considère pas comme étant un moteur de recherche puisqu'il ne vous donne que les infos que vous souhaitez avoir.
+C'est comme si vous alliez à la bibliothèque et que la bibliothécaire vous montrait uniquement les livres qui défendent la même opinion que vous, les thèmes que vous aimez, etc.
 
 Ces services sont également des laboratoires à grande échelle sur le comportement humain. Ils ne vont pas juste vous proposer un excellent service, ils vont surtout vous rendre dépendant à ce service. Et c'est comme ça qu'on entend des gens dire :
 

@@ -186,7 +186,7 @@ En ce qui concerne les applications (qu'elles soient open source ou pas), on ne 
 
 Je vous déconseille fortement d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. Utilisez juste Windows Defender, c'est parfait. Et n'installez pas d'antivirus sur votre téléphone, c'est inutile, voire dangereux.
 
-Au lieu de vous prouver quoique ce soit, je vous conseille plutôt d'aller voir le site de Wonderfall qui a un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) dédié à ce problème.
+Un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) sur ce problème a déjà été traité par [Wonderfall](https://wonderfall.space/). Je vous invite fortement à le consulter.
 
 ### Les solutions
 
