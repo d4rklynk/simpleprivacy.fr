@@ -1,3 +1,3 @@
 ---
-title: Alternatives
+title: "Les alternatives"
 ---
