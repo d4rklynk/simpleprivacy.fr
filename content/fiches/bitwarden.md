@@ -171,5 +171,8 @@ Ensuite décochez "**Désactiver la notification d'ajout d'identifiant**" et "**
 
 ![Bitwarden notification](/bitwarden/bitwarden-notification.png)
 
-4. Si vous souhaitez créer rapidement un compte sur un site web où vous allez juste rester 5 minutes dessus, NE METTEZ PAS pas votre "mot de passe standard" (celui que vous utilisez pour tous vos comptes), car si vous vous n'allez plus jamais utiliser ce compte, et qu'un jour, ce site web a des fuites de données, votre "mot de passe standard" sera fuité lui aussi et compromettra tous les comptes que vous n'aviez pas encore changé ! Entrez un **mot de passe aléatoire** généré par Bitwarden, et si un jour ce site web a des fuites, vous êtes tranquille !
+4. Si vous souhaitez créer rapidement un compte sur un site web où vous allez rester juste 5 minutes dessus, **NE METTEZ PAS** pas votre "mot de passe standard" (celui que vous utilisez pour tous vos comptes). Parce que si vous n'utilisez plus jamais ce compte, et qu'un jour, ce site web a des fuites de données, votre "mot de passe standard" sera fuité lui aussi et compromettra tous les comptes que vous n'aviez pas encore changé ! Entrez un **mot de passe aléatoire** généré par Bitwarden, et si un jour ce site web a des fuites, vous êtes tranquille !
+
+***N'utilisez plus votre mot de passe standard sur Internet !***
+
 5. Ne partagez ***sous aucun prétexte*** votre **`mot de passe maître`**.
