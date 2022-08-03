@@ -12,7 +12,7 @@ weight: 1
 
 Grâce au gestionnaire de mots de passe, vous n'aurez plus qu'un seul mot de passe à retenir, celui pour accéder au gestionnaire : le `mot de passe maître`.
 
-Aujourd'hui, je vous explique comment l'utiliser.
+Aujourd'hui, je vous explique comment utiliser Bitwarden.
 
 ## Création de votre compte
 
