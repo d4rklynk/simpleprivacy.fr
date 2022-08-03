@@ -1,5 +1,6 @@
 ---
 title: "Les fournisseurs de services \U0001f4e8"
+date: 2022-08-03
 ---
 
 Si vous souhaitez avoir des alterantives à Google Drive, Google Photos, Google agenda, Gmail, Outlook, OneDrive, etc. Voici une liste de fournisseurs de services que je recommande.
