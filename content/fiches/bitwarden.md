@@ -24,7 +24,7 @@ Vous arriverez sur cette page où vous créerez votre compte :
 
 ![Signup page image](/bitwarden/bitwarden-signup-page.png)
 
-Remplissez les cases comme montré ci-dessus, créez un mot de passe robuste tel que je l'ai expliqué dans mon autre [article](/basiques/password-managers/#les-phrases-de-passe) (faites-le, vraiment). ***Ce sera le seul mot de passe que vous aurez à retenir, donc créez un vrai mot de passe robuste.*** Vous pouvez ensuite cliquer sur le bouton **Soumettre** une fois que vous avez tout rempli, ce qui aura comme effet de vous envoyer à la **page de connexion** de Bitwarden comme ci-dessous :
+Remplissez les cases comme montré ci-dessus, créez un mot de passe robuste tel que je l'ai expliqué dans mon autre [article](/basiques/password-managers/#la-méthode-diceware) (faites-le, vraiment). ***Ce sera le seul mot de passe que vous aurez à retenir, donc créez un vrai mot de passe robuste.*** Vous pouvez ensuite cliquer sur le bouton **Soumettre** une fois que vous avez tout rempli, ce qui aura comme effet de vous envoyer à la **page de connexion** de Bitwarden comme ci-dessous :
 
 ![Bitwarden Login page image](/bitwarden/bitwarden-login-page.png)
 
@@ -138,7 +138,7 @@ Le générateur de mot de passe est très puissant et vous permet de générer d
 Dans le cas où vous avez choisi de générer un **mot de passe** au lieu d'une phrase de passe. Je vous conseille d'activer tous les boutons comme montré ci-dessus. Pour la longueur, choisissez une vingtaine de caractères minimum, voire plus si vous le souhaitez.
 
 
-### Utilisation
+## Utilisation
 
 ![Bitwarden utilisation](/bitwarden/bitwarden-utilisation.png)
 
