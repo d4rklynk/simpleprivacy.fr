@@ -2,6 +2,10 @@
 title: "Les fournisseurs de services \U0001f4e8"
 ---
 
+Si vous souhaitez avoir des alterantives à Google Drive, Google Photos, Google agenda, Gmail, Outlook, OneDrive, etc. Voici une liste de fournisseurs de services que je recommande.
+
+---
+
 ## Les moteurs de recherche
 
 Si vous utilisez Google comme moteur de recherche, voici une liste d'alternatives plus respectueuses de votre vie privée.
@@ -14,6 +18,8 @@ Si vous utilisez Google comme moteur de recherche, voici une liste d'alternative
 
 > Startpage (parfois abrégé SP) est basé aux Pays-Bas (il est donc soumis à la loi RGPD sur la protection des données personnelles). Ses résultats sont basés sur ceux de Google, vous devriez donc trouvez votre bonheur. StartPage fonctionne en tant que délégué, quand vous ferez une recherche, StartPage fera la recherche sur Google et vous affichera le résultat, cependant, pour Google, la recherche est faite par **StartPage** et **non par vous**.
 
+---
+
 ## Les agendas
 
 Je vous conseille uniquement d'utiliser les services de Proton (anciennement Protonmail). **Proton Calendar** propose du chiffrement de bout en bout par défaut, **vous seul uniquement**, avez donc accès à votre calendrier (même Proton ne peut pas y accéder). Proton Calendar est disponible sur Android. 
@@ -21,6 +27,8 @@ Je vous conseille uniquement d'utiliser les services de Proton (anciennement Pro
 - [Proton Calendar](https://proton.me/fr/calendar)
 
 > Si vous vous créez un compte Proton, sachez que vous aurez accès à Proton Mail, Proton VPN, Proton Calendar et Proton Drive. C'est un compte unifié, un peu comme Google.
+
+---
 
 ## Les mails
 
@@ -37,6 +45,8 @@ Les services d'aliasing sont excellents pour maintenir votre vie privée en lign
 La version gratuite vous permet d'avoir 15 alias maximum, al version payante à 30€/an vous permetd 'avoir un nombre illimités d'alias.
 
 > SimpleLogin a été racheté par Proton en [Avril 2022](https://simplelogin.io/blog/simplelogin-join-proton/), si vous êtes abonné au plan Proton Unlimited, vous pouvez lier votre compte Proton à votre compte SimpleLogin et obtenir SimpleLogin Premium gratuitement.
+
+---
 
 ## Les services cloud
 
