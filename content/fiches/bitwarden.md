@@ -83,6 +83,8 @@ Connectez-vous sur l'extension :
 
 ![Bitwarden addon login](/bitwarden/bitwarden-addon-login.png)
 
+### Ajouter vos identifiants
+
 On va pouvoir ajouter vos identifiants en appuyant sur "**+**" tout en haut à droite :
 
 ![Bitwarden addon](/bitwarden/bitwarden-add-login.png)
