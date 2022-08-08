@@ -112,7 +112,7 @@ Vous allez vous dire qu'il y a pas photo (c'est un bon jeu de mots, avouez-le), 
 
 Je n'étais ni un géant de la tech, ni un GAFAM, mais j'ai voulu faire beaucoup plus de profit. Et le plus important : ***j'ai pu le faire parce que j'avais accès à vos données.***
 
-La réelle menace, c'est que les données sont en clair sur les serveurs de ces entreprises, si j'avais implémenté du chiffrement de bout en bout (on y reviendra) sur mon service, j'aurais été incapable de lire vos données puisqu'elles auraient été illisibles sur mon serveur. Il n'y a que vous qui aurez pu avoir accès à vos fichiers, être capable de les lire, etc.
+La réelle menace, c'est que les données sont en clair sur les serveurs de ces entreprises, si j'avais implémenté du [chiffrement de bout en bout](/basiques/instant-messengers#le-chiffrement-de-bout-en-bout) sur mon service, j'aurais été incapable de lire vos données puisqu'elles auraient été illisibles sur mon serveur. Il n'y a que vous qui aurez pu avoir accès à vos fichiers, être capable de les lire, etc.
 
 ## Exemple de modèles
 
