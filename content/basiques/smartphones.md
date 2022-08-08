@@ -8,11 +8,11 @@ date: 2022-08-07
 Les smartphones sont des éponges à données, ils ont accès à beaucoup d'informations qu'on aimerait garder privées.
 
 Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les systèmes d'exploitation de bureau (Windows, Linux, MacOS).
-Vous avez remarqué par exemple qu'il y a un système de permission sur les smartphones qu'il n'y a pas sur les PC. Vous savez, les fenêtres qui s'affichent "Autoriser l'accès la position" ou "Autorier l'accès à la caméra".
+Vous avez remarqué par exemple qu'il y a un système de permission sur les smartphones qu'il n'y a pas sur les PC. Vous savez, les fenêtres qui s'affichent "Autoriser l'accès la position" ou "Autoriser l'accès à la caméra".
 
 Pour les smartphones, les recommandations vont être simples, car je vous recommande uniquement un iPhone ou un Google Pixel.
 
-N'achetez **PAS** de Google Pixel chez votre fournisseur d'accès à Internet (Orange, Free, SFR, Bouygues). Le téléphone est bloqué et vous ne pouvez pas déverrouiller le bootloader comme expliqué plus loin dans le [chapitre sur la sécurité](#sécurité). Achetez **toujours** votre téléphone dans les magasins comme la Fnac, Amazon, etc.
+N'achetez **PAS** de Google Pixel chez votre fournisseur d'accès à Internet (Orange, Free, SFR, Bouygues). Le téléphone est bloqué et vous ne pouvez pas déverrouiller le bootloader comme expliqué plus loin dans le [chapitre sur la sécurité](#sécurité). Achetez **toujours** votre téléphone dans les magasins comme la Fnac, Boulanger, Amazon, etc.
 
 Alors oui, je vous voir venir, mais si je vous recommande uniquement ces deux smartphones, c'est parce qu'ils sont les plus sécurisés du marché. Par exemple, vous pouvez mettre un code PIN à 6 chiffres sur ces téléphones (iPhone et Google Pixel), que ça prendrait des dizaines d'années à cracker (normalement, ça prend beaucoup moins de temps sur d'autres marques de téléphones).
 
@@ -50,24 +50,24 @@ La surcouche de Samsung par exemple, s'appelle **OneUI**, celle de OnePlus, **Ox
 
 Cependant, si AOSP est open source, les surcouches ne le sont pas forcément ! LineageOS est une surcouche open source par exemple, mais MIUI ne l'est pas !
 
-> On parle de surcouche, mais en réalité, les constructeurs prennent le projet AOSP pour le modifier selon leurs besoins puis ajouter leurs programmes, leurs fonctionnalités, etc. C'est ces modifications et ces ajouts qui sont appellés la surcouche.
+> On parle de surcouche, mais en réalité, les constructeurs prennent le projet AOSP pour le modifier selon leurs besoins puis ajouter leurs programmes, leurs fonctionnalités, etc. Ce sont ces modifications et ces ajouts qui sont appellés la surcouche.
 
 Comprenez bien que si vous souhaitez installer LineageOS sur votre téléphone, cela veut dire que vous supprimez le système d'exploitation de votre téléphone. En gros, si vous allumez votre téléphone après avoir supprimé le système d'exploitation de Samsung par exemple, vous ne pourrez plus démarrer votre téléphone, car il n'y aura rien à démarrer ! Sauf si vous installez LineageOS juste après, évidemment 😁.
 
-Si vous changer le système d'exploitation de votre téléphone Android avec un autre Android, imaginons par exemple que vous avez un Samsung et que vous souhaitez installer LineageOS à la place de OneUI, vous pourrez en effet toujours bénéficier des mises à jour d'Android (grâce aux bénévoles de LineageOS) même si Samsung a arrêté le support de votre smartphone. Cependant, le firmware ne pourra jamais être mise à jour, car uniquement Samsung peut le faire ! C'est un énorme risque de sécurité et ne devrait pas être pris à la légère !
+Si vous changer le système d'exploitation de votre téléphone Android avec un autre Android, imaginons par exemple que vous avez un Samsung et que vous souhaitez installer LineageOS à la place de OneUI, vous pourrez en effet toujours bénéficier des mises à jour d'Android (grâce aux bénévoles de LineageOS) même si Samsung a arrêté le support de votre smartphone. Cependant, le firmware ne pourra jamais être mise à jour, car uniquement Samsung peut le faire ! C'est un énorme risque de sécurité qui ne devrait pas être pris à la légère !
 
-Le firmware, pour expliquer grossièrement, ne fait pas parti du système d'exploitation d'Android. C'est le mini-système d'exploitation des composants inégrés à votre téléphone.
+Le firmware, pour expliquer grossièrement, ne fait pas parti du système d'exploitation d'Android. C'est le mini-système d'exploitation des composants intégrés à votre téléphone.
 
-C'est pour cela que je vous conseille un Google Pixel. Je vous conseille même de prendre au minimum un Google Pixel 6 (ou 6 pro, ou 6a), car tous les Google Pixel à partir du 6, bénéficieront de [5 ans de mises à jour de sécurité](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures) minimum !
+C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même de prendre au minimum un Google Pixel 6 (ou 6 pro, ou 6a), car tous les Google Pixel à partir du 6, bénéficieront de [5 ans de mises à jour de sécurité](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures) minimum !
 
-
----
-
-Cependant, je vous conseille de ne **PAS** installer LineageOS sur votre téléphone, car vous devez déverrouiller le bootloader, et cela détruit tout le modèle de sécurité d'Android. Je vous conseille soit de garder l'Android que vous avez par défaut, ou alors d'installer GrapheneOS, car vous pouvez reverrouiller le bootloader.
 
 ---
 
-Pour faire simple, le bootloader est la partie qui cherche ce qu'il faut démarrer (ici, Android) juste après la mise sous tension de l'appareil. Le bootloader possède une fonctionnalité appelé " Android Verified Boot" (AVB) ou "démarrage sécurisé" en français. AVB permet entre autre de vérifier que le système d'exploitation est correct et n'a pas été modifié (par un virus, par quelqu'un ou par autre chose) ! Si le système avait été modifié, AVB aurait annulé ces modifications au démarrage !
+Cependant, je vous **DÉCONSEILLE** d'installer LineageOS sur votre téléphone, car vous devez déverrouiller le bootloader, et cela détruit tout le modèle de sécurité d'Android. Je vous conseille soit de garder l'Android que vous avez par défaut, ou alors d'installer GrapheneOS, car vous pouvez reverrouiller le bootloader.
+
+---
+
+Pour faire simple, le bootloader est la partie qui cherche ce qu'il faut démarrer (ici, Android) juste après la mise sous tension de l'appareil. Le bootloader possède une fonctionnalité appelée " Android Verified Boot" (AVB) ou "démarrage sécurisé" en français. AVB permet entre autre de vérifier que le système d'exploitation est correct et n'a pas été modifié (par un virus, par quelqu'un ou par autre chose) ! Si le système avait été modifié, AVB aurait annulé ces modifications au démarrage !
 
 Si vous déverrouiller votre bootloader, AVB sera désactivé, et donc vous aurez un manque total de sécurité sur votre smartphone.
 
@@ -78,7 +78,7 @@ Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur l
 
 ## Le problème des prix
 
-Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, et de l'acheter après que Google sorte le Pixel 7 vers Octobre 2022, vous aurez peut-être des réductions car Google essayera de vider ses stocks de Google Pixel 6a. De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent car un Xiaomi (et croyez-moi par expérience) ne tient jamais long feu (grand maximum 2 ans) et le support s'arrête au bout de 2 ans. Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a aux prix fort, 470€ au moment où je vous écris, vous économisez bien 30€, voire plus si vous arrivez à avoir des réductions sur le Google Pixel.
+Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, et de l'acheter après que Google sorte le Pixel 7 vers Octobre 2022, vous aurez peut-être des réductions car Google essayera de vider ses stocks de Google Pixel 6a. De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent car un Xiaomi (et croyez-moi par expérience) ne tient jamais long feu (grand maximum 2 ans) et le support s'arrête au bout de 2 ans. Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 470€ au moment où je vous écris, vous économisez bien 30€, voire plus si vous arrivez à avoir des réductions sur le Google Pixel.
 
 Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
 
@@ -87,13 +87,13 @@ Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
 
 ## Fairphone
 
-Je vous déconseille fortement le Fairphone car il n'est pas sécurisé par défaut. Ils mettent à jour en effet le téléphone pendant plusieurs années, mais ce qu'ils ne mettent pas à jour cependant, ce sont les firmwares ! Car ce sont les constructeurs Qualcomm qui mettent à jour ces firmwares ! 
+Je vous déconseille fortement le Fairphone car il n'est pas sécurisé par défaut. En effet, Fairphone met à jour leurs téléphones pendant plusieurs années (leur premier téléphone de 2013 est toujours mise à jour) mais ne met pas à jour les firmwares ! Car seuls les constructeurs Qualcomm peuvent le faire !
 
-Qualcomm est l'entreprise qui créee la plupart des composants tels que les processeurs, puces graphiques, cartes mères pour la plupart des smartphones (Samsung, Xiaomi, OnePlus, Fairphone, etc.).
+Qualcomm est l'entreprise qui créée la plupart des composants tels que les processeurs, puces graphiques, cartes mères pour la plupart des smartphones (Samsung, Xiaomi, OnePlus, Fairphone, etc.).
 
 De plus, Fairphone utilise souvent les avant-derniers processeurs et autres composants de Qualcomm, sachant que Qualcomm met à jour ses composants pendant environ 3 ans, Fairphone utilise donc des composants qui sont en fin de support. Pour réitérer, quand vous achetez un Fairphone, vous achetez un smartphone qui n'est déjà presque plus supporté par les constructeurs !!! C'est un gros problème de sécurité !
 
-Alors évidemment, je suis pour l'écologie et la protection de l'environnement, mais il faut avoir une bonne balance entre sécurité, vie privée et écologie. Si vous prenez un Xiaomi par exemple, vous n'avez ni sécurité (par rapport à un Google Pixel ou un iPhone), ni respect de votre vie privée, ni respect de l'environnement. En prenant un Fairphone, vous respectez un peu l'environnement (ça reste polluant de fabriquer un smartphone), vous avez pas de vie privée (les Services Google Play sont toujours là) et pas de sécurité non plus ! Avec un Google Pixel, vous gagnez en sécurité, et en écologie car vous gardez votre téléphone 5 ans, mais vous ne gagnez toujours pas en vie privée. Cependant, si vous installez GrapheneOS sur votre Pixel, vous gagnez en sécurité, écologie et en vie privée !
+Alors évidemment, je suis pour l'écologie et la protection de l'environnement, mais il faut avoir une bonne balance entre sécurité, vie privée et écologie. Si vous prenez un Xiaomi par exemple, vous n'avez ni sécurité (par rapport à un Google Pixel ou un iPhone), ni respect de votre vie privée, ni respect de l'environnement. En prenant un Fairphone, vous respectez un peu l'environnement (ça reste polluant de fabriquer un smartphone), vous n'avez pas de vie privée (les Services Google Play sont toujours là) et pas de sécurité du tout ! Avec un Google Pixel, vous gagnez en sécurité, et en écologie car vous gardez votre téléphone 5 ans, mais vous ne gagnez toujours pas en vie privée. Cependant, si vous installez GrapheneOS sur votre Pixel, vous gagnez en sécurité, écologie et en vie privée !
 
 ## Conclusion
 
@@ -102,7 +102,7 @@ Pour réitérer :
 - Prenez un Google Pixel (à partir du 6, car 5 ans de support) ou un iPhone récent.
 - N'installez pas d'applications qui se disent améliorer la sécurité ou la performance de votre téléphone.
 - Installez GrapheneOS sur votre Google Pixel.
-- Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphone qui ne sont plus supportés.
+- Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphones qui ne sont plus supportés.
 
 ---
 

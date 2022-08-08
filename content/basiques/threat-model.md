@@ -79,7 +79,7 @@ Cela demanderait beaucoup trop d'investissement, d'argent, et de temps pour pouv
 
 Si on reprend les menaces d'Alice, en réalité on peut aller plus loin qu'un simple pickpocket. Imaginez qu'un incendie se déclare dans le café, qu'un tremblement de terre survient, ou que des soldats entrent dans le café car la guerre a éclaté entre son pays et un autre. C'est au revoir le sac à dos, peut-être même au revoir Alice.
 
-Un autre exemple de modèle de menace sont les bâtiments. Au Japon, les bâtiment sont prévus pour résister à des séismes, puisque ce sont les menaces potentielles au Japon pour les bâtiments. On n'aura pas de ce genre de bâtiments en France.
+Un autre exemple de modèle de menace sont les bâtiments. Au Japon, les bâtiments sont prévus pour résister à des séismes, puisque ce sont les menaces potentielles au Japon pour les bâtiments. On n'aura pas de ce genre de bâtiments en France.
 Imaginez qu'à Brest on commence à construire des bâtiments résistants au feu, aux tornades, aux tsunamis, aux séismes, aux innondations, puis aux cambrioleurs, aux attentats, aux avions qui pourraient se crasher sur ces bâtiments, etc. Vous vous doutez bien que la plupart des solutions seraient inutiles, car il n'y a pas de séismes en Bretagne, ni de tornades ou de tsunamis. Cela prendrait trop de temps et d'argent, et si une menace est oubliée, tout le travail tomberait à l'eau. ***D'où l'importance de bien identifier les menaces potentielles.***
 
 **Vous devez rester réaliste sur les menaces potentielles qui pourraient nuire à votre vie privée, ne minimisez pas les risques, mais ne maximisez par les menaces non plus.**
