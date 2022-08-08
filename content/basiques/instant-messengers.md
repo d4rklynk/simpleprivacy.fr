@@ -50,7 +50,7 @@ Le principe du chiffrement de bout en bout repose sur le chiffrement dit **asym�
 
 Le principe repose sur la génération d'une **paire de clés**, une clé **publique** et une clé **privée**. Alice va générer sa paire de clé, donc une clé publique (en vert) et une clé privée (en rouge). Bob fera de même en générant sa clé publique (en vert) et sa clé privée (en bleu). Dites-vous que ces deux clés (publique et privée) sont comme des faux jumeaux, elles sont intimement liées, mais ne se ressemblent pas.
 
-La clé **publique** est, comme son nom l'indique, publique. vous pouvez la donner à vos amis, à votre famille, sur Internet, sur les réseaux sociaux, etc. C'est la clé qui permettra aux autres de ***chiffrer*** les messages qui vous sont destinés (puisque la clé publique est reliée à votre clé privée, donc vous).
+La clé **publique** est, comme son nom l'indique, publique. Vous pouvez la donner à vos amis, à votre famille, sur Internet, sur les réseaux sociaux, etc. C'est la clé qui permettra aux autres de ***chiffrer*** les messages qui vous sont destinés (puisque la clé publique est reliée à votre clé privée, donc vous).
 
 La clé **privée** est, comme son nom l'indique, privée. Vous devez ***absolument*** garder cette clé pour vous, vous ne devez pas la partager ! C'est la clé qui permettra de ***déchiffrer*** les messages qui vous sont destinés (puisque les gens auront chiffré leur message avec votre clé publique).
 
@@ -75,11 +75,11 @@ Le **chiffrement** garantit la **confidentialité**.
 Je vous envoie sur les sites de la [CNIL](https://www.cnil.fr/fr/) pour en savoir plus, deux articles sont disponibles :
 
 - [Sécurité : Chiffrer, garantir l’intégrité ou signer - CNIL](https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer)
-- [Comprendre les grands principes de la cryptologie et du chiffrement- CNIL](https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement) (je vous conseille fortement de lire cet article, il est complet et facile à comprendres)
+- [Comprendre les grands principes de la cryptologie et du chiffrement- CNIL](https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement) (je vous conseille fortement de lire cet article, il est complet et facile à comprendre)
 
 ### Le hachage
 
-Le **hachage** est un procédé informatique par lequel on hache une donnée (un fichier, message, etc), de la même manière qu'un steak hacké par exemple. On a donc ensuite le **fichier d'origine** et le **fichier haché**, qui est l'empreinte digitale numérique du fichier d'origine. Plusieurs algorithmes de hachage existent, voici le hash du mot `France` avec plusieurs algorithmes de hachage différents :
+Le **hachage** est un procédé informatique par lequel on hache une donnée (un fichier, message, etc), de la même manière qu'un steak haché par exemple. On a donc ensuite le **fichier d'origine** et le **fichier haché**, qui est l'empreinte digitale numérique du fichier d'origine. Plusieurs algorithmes de hachage existent, voici le hash du mot `France` avec plusieurs algorithmes de hachage différents :
 
 - **MD5 :** `0309a6c666a7a803fdb9db95de71cf01`
 - **SHA1 :** `e3772ac4b4db87b4a8dbfa59ef43cd1a8ad29515`
@@ -91,7 +91,7 @@ Si vous changez `France` en `france`, vous obtenez des résultats complétement 
 - **SHA1 :** `23e591e8c36dda987970603ad0fdd031b7dff9f9`
 - **SHA256 :** `2c598436e5575a5769b69986014588d52c2698414b623e81b2e776766c30eaba`
 
-Même si quelque chose de minime est changé, le hash (le résultat du hachage) sera complètement différent. Donc si Alice chiffre son message puis hache ce message, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'as pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
+Même si quelque chose de minime est changé, le hash (le résultat du hachage) sera complètement différent. Donc si Alice chiffre son message puis le hache, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'as pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
 
 ---
 
@@ -123,12 +123,18 @@ Tant qu'on y est, "crypter" n'est pas français.
 
 - **Chiffrement** : chiffrer un message **grâce** à une clé.
 - **Déchiffrer** : déchiffrer un message **grâce** à une clé.
-- **Décrypter** : déchiffrer un message **sans** la clé (un hacker qui essayerai de découvrir le contenu du message par exemple).
+- **Décrypter** : déchiffrer un message **sans** la clé (un hacker qui essayerait de découvrir le contenu du message par exemple).
 - **Crypter** : chiffrer un message **sans** la clé (???).
 
 Je vous envoie sur ce site très bien fait qui explique les différences entre les termes :
 
 - [On dit chiffrer, et pas crypter - Max](https://chiffrer.info/)
+
+---
+
+Maintenant que vous avez compris ces notions, je vais vous présenter différentes messageries instantanées.
+
+---
 
 ## Facebook Messenger
 
@@ -141,7 +147,7 @@ Le message d'Alice est toujours sur le serveur.
 
 Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vouz étiez à la terrasse d'un café avec l'une de vos amies, et qu'au lieu de parler tranquillement, vous discutiez en hurlant.
 
-Une fonctionnalité appelée "conversation secrète" est disponible sur Facebook, mais est à mon sens inutile puisque Facebook collecte massivement vos métadonnées. Je vous conseille d'abandonner Facebook Messenger et d'utiliser [Signal](#signal).
+Une fonctionnalité appelée "conversation secrète" est disponible sur Facebook, mais est à mon sens inutile puisque Facebook collecte massivement vos métadonnées de cette "conversation secrète". Je vous conseille d'abandonner Facebook Messenger et d'utiliser [Signal](#signal).
 
 ## WhatsApp
 
@@ -149,7 +155,7 @@ Une fonctionnalité appelée "conversation secrète" est disponible sur Facebook
 
 ![WhatsApp exemple](/instant-messengers/whatsapp.png)
 
-Quand Alice souhaite envoyer un message à Bob, le message sera **chiffré** puis envoyé aux serveurs de Facebook. Les serveurs ne servent qu'à délivrer le message. Les messages restent stockés sur les serveurs uniquement le temps de la livraison du message. Une fois que Bob à reçu le message, il est supprimé du serveur et les messages restent stockés sur les appareils d'Alice et Bob.
+Quand Alice souhaite envoyer un message à Bob, le message sera **chiffré** puis envoyé aux serveurs de WhatsApp. Les serveurs ne servent qu'à délivrer le message. Les messages restent stockés sur les serveurs uniquement le temps de la livraison du message. Une fois que Bob à reçu le message, il est supprimé du serveur et les messages restent stockés sur les appareils d'Alice et Bob.
 
 Une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) présente sur WhatsApp est le fait que les images et les vidéos sont automatiquement enregistrées sur l'appareil. Jeff Bezos (le PDG d'Amazon) [s'est fait piraté](https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince) de cette manière. Je vous conseille de **désactiver** cette fonctionnalité.
 
@@ -168,7 +174,7 @@ En archéologie par exemple, on peut deviner l'utilité d'un objet grâce aux m�
 
 De plus, Telegram utilise son propre protocole qui n'a pas été audité. Telegram est le seul à l'utiliser, ce protocole est propriétaire, on n'a donc aucune idée ce qu'il fait.
 
-Des experts en sécurité ont trouvés [plusieurs failles](https://portswigger.net/daily-swig/multiple-encryption-flaws-uncovered-in-telegram-messaging-protocol) au protocole de Telegram.
+Des experts en sécurité ont trouvé [plusieurs failles](https://portswigger.net/daily-swig/multiple-encryption-flaws-uncovered-in-telegram-messaging-protocol) au protocole de Telegram.
 Un [chapitre en anglais](https://madaidans-insecurities.github.io/messengers.html#telegram) a déjà été écris concernant les problèmes de Telegram.
 
 ## Wire
@@ -177,15 +183,15 @@ Un [chapitre en anglais](https://madaidans-insecurities.github.io/messengers.htm
 
 ## Signal
 
-[Signal](https://www.signal.org/fr/#signal) est l'application par excellence, elle est utilisée par [Edward Snowden](https://mobile.twitter.com/Snowden/status/661313394906161152), les [métadonnées sont protégées](https://signal.org/blog/sealed-sender/). Les [seules métadonnées](https://signal.org/bigbrother/eastern-virginia-grand-jury/) que Signal possèdent d'un utilisateur sont la date et l'heure de création du compte et la dernière fois qu'il s'est connecté sur leurs services. Oui, c'est rien. Et leur [protocole](https://www.signal.org/docs/) ("**The Signal Protocol**") est un standard de nos jours (la preuve est que [WhatsApp l'utilise](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf) depuis des années).
+[Signal](https://www.signal.org/fr/#signal) est l'application par excellence, elle est utilisée par [Edward Snowden](https://mobile.twitter.com/Snowden/status/661313394906161152), les [métadonnées sont protégées](https://signal.org/blog/sealed-sender/). Les [seules métadonnées](https://signal.org/bigbrother/eastern-virginia-grand-jury/) que Signal possède d'un utilisateur sont la date et l'heure de création du compte et la dernière fois qu'il s'est connecté sur leurs services. Oui, c'est rien. Et leur [protocole](https://www.signal.org/docs/) ("**The Signal Protocol**") est un standard de nos jours (la preuve est que [WhatsApp l'utilise](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf) depuis des années).
 
-Beaucoup d'experts en sécurité ont toujours recommandés Signal.
+Beaucoup d'experts en sécurité ont toujours recommandé Signal.
 
 Je ne suis pas un expert, mais je vous recommande Signal également, en plus c'est super simple à utiliser, vous avez autant de fonctionnalités que WhatsApp, voire plus.
 
 ## Conlusion
 
-Juste, utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit authenticité, intégrité et confidentialité.
+Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit **authenticité**, **intégrité** et **confidentialité**.
 
 ---
 
