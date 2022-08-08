@@ -66,7 +66,9 @@ Une conversation normale ressemblerait donc à ça :
 
 ![Conversation chiffrée](/instant-messengers/encrypted-conversation.png)
 
-Je vous envoie sur les sites de la cnil pour en savoir plus, dexu articles sont disponibles :
+Le chiffrement de bout en bout apporte authenticité, intégrité et confidentialité.
+
+Je vous envoie sur les sites de la cnil pour en savoir plus, deux articles sont disponibles :
 - [Sécurité : Chiffrer, garantir l’intégrité ou signer - CNIL](https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer)
 - [Comprendre les grands principes de la cryptologie et du chiffrement- CNIL](https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement) (je vous conseille fortement de lire cet article, il est complet et facile à comprendres)
 
