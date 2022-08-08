@@ -301,6 +301,8 @@ Une fois que vous avez un gestionnaire de mots de passe tel que Bitwarden. Certa
 3. Créez un mot de passe unique (une vingtaine de caractères aléatoires minimum) sur chaque site web que vous visitez.
 4. Ne donnez sous aucun prétexte votre `mot de passe maître` à qui que ce soit !
 
+---
+
 ## Credits
 
 - [How password managers work - Computerphile](https://www.youtube-nocookie.com/embed/w68BBPDAWr8) (Vidéo YouTube)

@@ -104,6 +104,8 @@ Pour réitérer :
 - Installez GrapheneOS sur votre Google Pixel.
 - Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphone qui ne sont plus supportés.
 
+---
+
 ## En savoir plus
 
 - [Le modèle de sécurité mobile - Wonderfall](https://wonderfall.space/modele-securite-mobile/)

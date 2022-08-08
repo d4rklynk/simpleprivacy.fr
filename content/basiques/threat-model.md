@@ -218,6 +218,7 @@ Alors qu'en chiffrant vos fichiers avant de les transférer sur votre service cl
 
 En ce qui concerne les applications open source, ce n'est pas parce qu'elles sont open source qu'elles respectent votre vie privée ou qu'elles sont très sécurisées. C'est mieux d'utiliser un logiciel open source, car d'autres personnes ont revu le code et savent ce que le programme fait, mais rien nous dit que son alternative propriétaire (Une autre application du même style qui ne serait pas open source) n'est pas plus sécurisée.
 
+---
 
 ## Crédits
 
