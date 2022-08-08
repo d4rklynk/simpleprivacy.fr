@@ -39,8 +39,8 @@ Ces trois problèmes peuvent cependant être réglés facilement.
 ---
 
 - Pour la **confidentialité** du message, Alice peut chiffrer son message grâce à un code secret déjà établi entre Alice et Bob. Si une tierce personnne lisait la carte postale d'Alice, cette personne ne comprendrait rien ! Seuls Alice et Bob se comprendraient !
-- Pour l'**intégrité** de la carte, Alice peut tracer deux petits traits à l'arrière de l'enveloppe. Quand Bob recevra l'enveloppe, si les traits sont bien alignés, c'est que l'enveloppe n'as pas été ouverte et donc que le message est intègre.
-- Pour l'**authenticité**, Alice peut mettre la carte dans une enveloppe, coller un timbre dessus. Puis, la poste tamponnera l'enveloppe pour garantir que c'est bien Alice qui a posté la lettre. C'est équivalent à une signature d'Alice.
+- Pour l'**intégrité** de la carte, Alice peut tracer deux petits traits à l'arrière de l'enveloppe. Quand Bob recevra l'enveloppe, si les traits sont bien alignés, c'est que l'enveloppe n'a pas été ouverte et donc que le message est intègre.
+- Pour l'**authenticité**, Alice peut signer sa carte postale, ou au dos de l'enveloppe pour prouver que c'est bien elle qui a écrit le message.
 
 ### Fonctionnement du chiffrement
 
@@ -58,13 +58,13 @@ La clé **privée** est, comme son nom l'indique, privée. Vous devez ***absolum
 
 Si **Bob** veut envoyer un message à Alice, Bob doit avoir la clé publique **d'Alice** (`Alice PUB` dans l'image) pour pouvoir communiquer avec elle. Bob va donc **chiffrer** son message avec la **clé publique d'Alice**, puis une fois envoyé, Alice **déchiffrera** le message avec sa **clé privée à elle** (`Alice PRIV` dans l'image).
 
-Si Alice envoyait un message à Bob, Alice devrait se procurer la **clé publique de Bob** pour pouvoir chiffrer son message, puis Bob déchiffrera le message avec sa **clé privée à lui**.
+Si Alice envoyait un message à Bob, Alice devrait se procurer la **clé publique de Bob** pour pouvoir chiffrer son message, puis Bob déchiffrerait le message avec sa **clé privée à lui**.
 
 Une conversation normale ressemblerait donc à ça :
 
 ![Conversation chiffrée](/instant-messengers/encrypted-conversation.png)
 
-Les messageries instantanées (certaines) implémentent donc le chiffrement de bout en bout pour assurer la confidentialité des messages. Mais les clés privées permettent également de garantir l'[authenticité](#la-signature-digitale) des messages !
+Les messageries instantanées (certaines) implémentent donc le chiffrement de bout en bout pour assurer la **confidentialité** des messages. Mais les clés privées permettent également de garantir l'[authenticité](#la-signature-digitale) des messages !
 
 ---
 
@@ -101,9 +101,9 @@ Le **hachage** garantit l'**intégrité**.
 
 ### La signature digitale
 
-La **signature** est générée grâce à une clé privée, et peut être vérifié avec une clé publique (de celui qui l'a signé).
+La **signature** est générée grâce à une clé privée, et peut être vérifiée avec une clé publique (de celui qui l'a signé).
 
-Quand Alice souhaite générér une signature, elle va **chiffrer** la donnée avec **sa clé privée à elle** (et non avec la clé publique de quelqu'un d'autre).
+Quand Alice souhaite générer une signature, elle va **chiffrer** la donnée (document, mails, message, ...) avec **sa clé privée à elle** (et non avec la clé publique de quelqu'un d'autre).
 
 Si Alice souhaite envoyer un message à Bob, elle utilisera **la clé publique de Bob** pour **chiffrer** son message et **sa clé privée à elle** pour **signer** ce message, quand Bob recevra le message chiffré d'Alice, il **déchiffrera** le message avec sa **clé privée à lui** et vérifiera la **signature** du message grâce à la **clé publique d'Alice**.
 
@@ -141,7 +141,7 @@ Le message d'Alice est toujours sur le serveur.
 
 Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vouz étiez à la terrasse d'un café avec l'une de vos amies, et qu'au lieu de parler tranquillement, vous discutiez en hurlant.
 
-Une fonctionnalité appelée "conversation secrète" est disponible sur Facebook, mais est à mon sens inutile puisque Facebook collecte massivement voa métadonnées. Je vous conseille d'abandonner Facebook Messenger et d'utiliser [Signal](#signal).
+Une fonctionnalité appelée "conversation secrète" est disponible sur Facebook, mais est à mon sens inutile puisque Facebook collecte massivement vos métadonnées. Je vous conseille d'abandonner Facebook Messenger et d'utiliser [Signal](#signal).
 
 ## WhatsApp
 
@@ -149,11 +149,13 @@ Une fonctionnalité appelée "conversation secrète" est disponible sur Facebook
 
 ![WhatsApp exemple](/instant-messengers/whatsapp.png)
 
-Quand Alice souhaite envoyer un message à Bob, le message sera chiffré puis envoyé aux serveurs de Facebook. Les serveurs ne servent qu'à délivrer le message. Les messages restent stockés sur les serveurs uniquement le temps de la livraison du message. Une fois que Bob à reçu le message, il est supprimé du serveur et les messages restent stockés sur les appareils d'Alice et Bob.
+Quand Alice souhaite envoyer un message à Bob, le message sera **chiffré** puis envoyé aux serveurs de Facebook. Les serveurs ne servent qu'à délivrer le message. Les messages restent stockés sur les serveurs uniquement le temps de la livraison du message. Une fois que Bob à reçu le message, il est supprimé du serveur et les messages restent stockés sur les appareils d'Alice et Bob.
 
-Une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) présente sur WhatsApp est le fait que les images et les vidéos sont automatiquement enregistrées sur l'appareil. Jeff Bezos (le PDG d'Amazon) [s'est fait piraté](https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince) de cette manière. Je vous conseille de désactiver cette fonctionnalité.
+Une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) présente sur WhatsApp est le fait que les images et les vidéos sont automatiquement enregistrées sur l'appareil. Jeff Bezos (le PDG d'Amazon) [s'est fait piraté](https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince) de cette manière. Je vous conseille de **désactiver** cette fonctionnalité.
 
-Cependant, les **métadonnées** sur WhatsApp ne sont pas chiffrées, et donc visibles par WhatsApp (et donc Facebook), telles que l'heure exacte de l'envoi de vos messages, à qui, combien de fois, pendant combien de temps, etc.
+> WhatsApp utilise le "[Signal Protocol](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)". Cependant, le "Signal Protocol" ne garantit pas que les **métadonnées** soit chiffrées.
+
+Sur WhatsApp, les métadonnées ne sont pas chiffrées, et donc visibles par WhatsApp (et donc Facebook), telles que l'heure exacte de l'envoi de vos messages, à qui, combien de fois, pendant combien de temps, etc.
 Les métadonnées sont [aussi importantes que les données](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes). Si vous êtes une femme et que vous parlez à un homme depuis quelques mois, et ce, tous les jours, on se doute que vous êtes en couple depuis peu. Si ensuite vous allez voir sur Facebook la page d'un restaurant, puis vous envoyez un message à vos parents, on suppose que vous allez présenter votre nouveau partenaire à vos parents. Dans les faits, c'est probablement encore plus simple, car on sous-estime énormément ce que sont les métadonnées.
 
 Même si vos messages sur WhatsApp sont chiffrés, on n'a pas besoin de connaître le contenu des messages pour connaître votre vie.
@@ -166,7 +168,7 @@ En archéologie par exemple, on peut deviner l'utilité d'un objet grâce aux m�
 
 De plus, Telegram utilise son propre protocole qui n'a pas été audité. Telegram est le seul à l'utiliser, ce protocole est propriétaire, on n'a donc aucune idée ce qu'il fait.
 
-Des experts en sécurité on trouvé [plusieurs failles](https://portswigger.net/daily-swig/multiple-encryption-flaws-uncovered-in-telegram-messaging-protocol) au protocole de Telegram.
+Des experts en sécurité ont trouvés [plusieurs failles](https://portswigger.net/daily-swig/multiple-encryption-flaws-uncovered-in-telegram-messaging-protocol) au protocole de Telegram.
 Un [chapitre en anglais](https://madaidans-insecurities.github.io/messengers.html#telegram) a déjà été écris concernant les problèmes de Telegram.
 
 ## Wire
@@ -175,7 +177,7 @@ Un [chapitre en anglais](https://madaidans-insecurities.github.io/messengers.htm
 
 ## Signal
 
-[Signal](https://www.signal.org/fr/#signal) est l'application par excellence, elle est utilisée par [Edward Snowden](https://mobile.twitter.com/Snowden/status/661313394906161152), les [métadonnées sont protégées](https://signal.org/blog/sealed-sender/). Les [seules métadonnées](https://signal.org/bigbrother/eastern-virginia-grand-jury/) que Signal possèdent d'un utilisateur sont la date et l'heure de création du compte et la dernière fois qu'il s'est connecté sur leurs services. Oui, c'est rien. Et leur [protocole](https://www.signal.org/docs/) est un standard de nos jours (la preuve est que [WhatsApp l'utilise](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf) depuis des années).
+[Signal](https://www.signal.org/fr/#signal) est l'application par excellence, elle est utilisée par [Edward Snowden](https://mobile.twitter.com/Snowden/status/661313394906161152), les [métadonnées sont protégées](https://signal.org/blog/sealed-sender/). Les [seules métadonnées](https://signal.org/bigbrother/eastern-virginia-grand-jury/) que Signal possèdent d'un utilisateur sont la date et l'heure de création du compte et la dernière fois qu'il s'est connecté sur leurs services. Oui, c'est rien. Et leur [protocole](https://www.signal.org/docs/) ("**The Signal Protocol**") est un standard de nos jours (la preuve est que [WhatsApp l'utilise](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf) depuis des années).
 
 Beaucoup d'experts en sécurité ont toujours recommandés Signal.
 
