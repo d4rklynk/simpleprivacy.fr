@@ -17,7 +17,7 @@ Alice possède un sac à dos, ce dernier contient :
 
 Elle habite dans une petite ville de campagne.
 Elle se rend au café de sa ville chaque matin afin de lire son livre, elle pose son sac ouvert par terre comme à son habitude.
-Après une heure de lecture, elle reprend son sac, et remarque que le billet de 20 a disparu, un pickpocket lui aura sûrement voler.
+Après une heure de lecture, elle reprend son sac, et remarque que le billet de 20 a disparu, un pickpocket lui aura sûrement volé.
 
 ### Que peut-on en déduire de cette histoire ?
 Les informations, possessions, données, ou toute autre entité que vous souhaitez protéger est appelé un **actif** (ici, le billet de 20 €) et le danger est appelé une **menace** (ici, le pickpocket).
@@ -39,7 +39,10 @@ Les informations, possessions, données, ou toute autre entité que vous souhait
 4. Quelle est l'ampleur des conséquences si j'échoue ?
 > L'ampleur était minime pour Alice, elle n'a perdu que 20 €.
 5. Quelles difficultés suis-je prêt à rencontrer pour prévenir ces conséquences ?
-> Elle aurait pu en effet fermer son sac.
+> Elle aurait pu en effet fermer son sac. Cependant, cela aurait été exagéré de mettre un cadenas dessus vu la probabilité qu'une telle situation puisse arriver.
+
+
+Vous remarquerez qu'en réalité, on suit inconsciemment un modèle de menace. Vous allez acheter un sac normal en campagne, mais vous allez acheter des sacs à dos spéciaux (ouverture au niveau du dos) dans les grandes villes pour empêcher d'éventuels pickpockets. Vous ferez plus attention à votre téléphone dans les transports d'une grande ville qu'en campagne.
 
 Maintenant que vous comprenez de quoi je parle, passons au deuxième exemple.
 
@@ -76,7 +79,10 @@ Cela demanderait beaucoup trop d'investissement, d'argent, et de temps pour pouv
 
 Si on reprend les menaces d'Alice, en réalité on peut aller plus loin qu'un simple pickpocket. Imaginez qu'un incendie se déclare dans le café, qu'un tremblement de terre survient, ou que des soldats entrent dans le café car la guerre a éclaté entre son pays et un autre. C'est au revoir le sac à dos, peut-être même au revoir Alice.
 
-Vous devez rester réaliste sur les menaces potentielles qui pourraient nuire à votre vie privée, ne minimisez pas les risques, mais ne maximisez par les menaces non plus.
+Un autre exemple de modèle de menace sont les bâtiments. Au Japon, les bâtiment sont prévus pour résister à des séismes, puisque ce sont les menaces potentielles au Japon pour les bâtiments. On n'aura pas de ce genre de bâtiments en France.
+Imaginez qu'à Brest on commence à construire des bâtiments résistants au feu, aux tornades, aux tsunamis, aux séismes, aux innondations, puis aux cambrioleurs, aux attentats, aux avions qui pourraient se crasher sur ces bâtiments, etc. Vous vous doutez bien que la plupart des solutions seraient inutiles, car il n'y a pas de séismes en Bretagne, ni de tornades ou de tsunamis. Cela prendrait trop de temps et d'argent, et si une menace est oubliée, tout le travail tomberait à l'eau. ***D'où l'importance de bien identifier les menaces potentielles.***
+
+**Vous devez rester réaliste sur les menaces potentielles qui pourraient nuire à votre vie privée, ne minimisez pas les risques, mais ne maximisez par les menaces non plus.**
 
 ## Le modèle de menace sur Internet
 
@@ -98,7 +104,7 @@ L'erreur du débutant est de penser que les grosses entreprises de technologie, 
 - Vous partagez vos photos de famille via Google Photos.
 - Google a un accès à vos données, il les analyse et revend toute info potentielle à des tiers.
 
-Vous allez vous dire qu'il y a pas photo (c'est un bon jeu de mots, avouez-le), c'est bien Google la menace, non car si vous changez pour un autre service, disons que j'en crée un que j'appelle `samsepi0l Cl0ud` :
+Vous allez vous dire qu'il y a pas photo (c'est un bon jeu de mots, avouez-le), c'est bien Google la menace. Non, car si vous changez pour un autre service, disons que j'en crée un que j'appelle `samsepi0l Cl0ud` :
 - Vous mettez vos fichiers sur `samsepi0l Cl0ud`.
 - J'ai toujours accès à vos données, mais je n'en fais rien, je ne les lis pas non plus.
 - De plus en plus de gens décident d'utiliser mon service cloud.
@@ -114,14 +120,14 @@ Je dirais qu'il y a 4 modèles de menaces différents concernant la vie privée 
 - Les fournisseurs de services qui espionnent ses utilisateurs
 - [Le capitalisme de surveillance](https://fr.wikipedia.org/wiki/%C3%89conomie_de_la_surveillance)
 - Informations publiques
-- Les piratages de masse (tels que les virus, les applications malintentionées, ...)
+- Les piratages de masse (tels que les virus, les applications malintentionnées, ...)
 
 ### Protéger votre vie privée des fournisseurs de services
 
 Aujourd'hui, le fonctionnement basique d'un fournisseur de services consiste à garder les données en clair sur un serveur.
 > En réalité, vos données sont chiffrées sur leurs serveurs, mais les fournisseurs détiennent la clé pour déchiffrer vos fichiers. Pour faire simple, le fournisseur voit en clair vos données, cependant si un hacker venait à compromettre un des serveurs, vos données seraient illisibles, car uniquement vous et le fournisseur avez la clé permettant de déchiffrer vos données. C'est comme si vous aviez un coffre-fort à la banque et que vous leur donniez la clé. Quand vous allez à la banque, vous leur demandez d'ouvrir votre coffre-fort, la banque vérifiera juste que c'est bien vous (mail et mot de passe) et vous ouvrira le coffre. Cependant, si un voleur arrive à voler la clé à la banquière, votre coffre est compromis, une situation similaire n'est pas impossible avec les fournisseurs de services.
 
-Nos conversations privées par exemple sont en clair sur Discord, Telegram ou les SMS, tous les messages peuvent être lu par les fournisseurs eux-mêmes ou des tiers (comme des hackers par exemple).
+Nos conversations privées par exemple sont en clair sur Discord, Facebook Messenger, Telegram ou les SMS, tous les messages peuvent être lu par les fournisseurs eux-mêmes ou des tiers (comme des hackers par exemple).
 
 ### Les solutions
 Vous pouvez prévenir ces conséquences en utilisant un service qui propose le chiffrement de bout en bout.
@@ -139,7 +145,7 @@ Les exemples typiques sont le [scandale de Cambridge Analytica](https://www.fran
 Afin de pister une personne, beaucoup de paramètres sont pris en compte, les plus courants sont :
 - Votre adresse IP
 - Les cookies de votre navigateur web
-- Le [fingerprinting](https://www.cnil.fr/fr/definition/fingerprinting) (n'utilisez pas d'extension comme le propose la CNIL, c'est inutile)
+- Le [fingerprinting](https://www.cnil.fr/fr/definition/fingerprinting) (n'utilisez pas d'extension comme le propose la CNIL dans ce lien, c'est inutile)
 - Les données que vous donnez aux sites web
 - La corrélation des méthodes de payement (vous utilisez la même carte bancaire partout)
 
@@ -156,6 +162,7 @@ Si vous le pouvez, ne créez pas de compte à la Fnac par exemple.
 
 Si vous en avez déjà un, changez toutes les infos, choisissez non-binaire, homme, femme ou n'importe quoi d'autre dans la catégorie sexe, mettez que vous avez 75 ou 19 ans, dites que vous avez 4 enfants ou aucun (même si vous en avez ou pas), etc.
 Faites-le partout, et changez les infos autant que possible.
+
 > Un VPN peut-être une solution afin de cacher sa véritable IP... Mais je reviendrai à ce sujet plus tard...
 
 Le but étant de ***séparer votre activité en ligne de votre réelle identité***.
@@ -184,7 +191,7 @@ C'est bien de fermer les rideaux et de fermer votre porte, mais si les fenêtres
 
 En ce qui concerne les applications (qu'elles soient open source ou pas), on ne peut pas savoir si elles sont malveillantes ou si elles le deviendront un jour.
 
-Je vous déconseille fortement d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. Utilisez juste Windows Defender, c'est parfait. Et n'installez pas d'antivirus sur votre téléphone, c'est inutile, voire dangereux.
+Je vous ***déconseille fortement*** d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. Utilisez juste Windows Defender, c'est parfait. Et n'installez pas d'antivirus sur votre téléphone, c'est inutile, voire dangereux.
 
 Un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) sur ce problème a déjà été traité par [Wonderfall](https://wonderfall.space/). Je vous invite fortement à le consulter.
 
@@ -205,9 +212,9 @@ Les **erreurs** de débutant les plus communes sont de :
 - Faire aveuglément confiance à un autre service juste parce que ce n'est pas un géant de la tech.
 - Faire aveuglément confiance aux solutions open source.
 
-[Comme dit plus haut](#les-géants-de-la-tech-ne-sont-pas-la-source-du-problème), essayer de déterminer le vrai problème de fond. Si vous n'aimez pas Google Drive parce qu'ils ont un accès complet à vos données, le problème n'est pas Google, mais le manque de chiffrement de bout en bout. Si vous passez de Google Drive à OneDrive par exemple, le problème reste exactement le même : Microsoft (OneDrive) a accès à vos données.
+[Comme dit plus haut](#les-géants-de-la-tech-ne-sont-pas-la-source-du-problème), essayez de déterminer le vrai problème de fond. Si vous n'aimez pas Google Drive parce qu'ils ont un accès complet à vos données, le problème n'est pas Google, mais le manque de chiffrement de bout en bout. Si vous passez de Google Drive à OneDrive par exemple, le problème reste exactement le même : Microsoft (OneDrive) a accès à vos données.
 
-Alors qu'en chiffrant vos fichiers avant de les transférer sur votre service cloud préféré, ou plus simple encore, d'utiliser un service qui propose un chiffrement de bout en bout par défaut comme Proton Drive. Là, vous réglez le vrai problème de fond.
+Alors qu'en chiffrant vos fichiers avant de les transférer sur votre service cloud préféré, ou plus simple encore, d'utiliser un service qui propose un chiffrement de bout en bout par défaut comme [Proton Drive](https://proton.me/fr/drive). Là, vous réglez le vrai problème de fond.
 
 En ce qui concerne les applications open source, ce n'est pas parce qu'elles sont open source qu'elles respectent votre vie privée ou qu'elles sont très sécurisées. C'est mieux d'utiliser un logiciel open source, car d'autres personnes ont revu le code et savent ce que le programme fait, mais rien nous dit que son alternative propriétaire (Une autre application du même style qui ne serait pas open source) n'est pas plus sécurisée.
 

@@ -49,7 +49,7 @@ En temps normal, un certain nombre de personnes verrait cette pub, mais ne serai
 
 Maintenant, faisons mieux. Au lieu d'afficher des pubs de vélo à tout le monde aléatoirement, pourquoi ne pas cibler les gens potentiels ? Pour ce faire, Google, va analyser méticuleusement vos mails, vos photos, vos achats (Google Pay), les recherches Google, YouTube, etc. Afin de comprendre que **vous** avez le potentiel d'acheter le vélo (parce que vous êtes en ville, vous avez les moyens, etc.). Il utilisera vos données pour cibler très précisément ses pubs et se faire de l'argent sur votre dos (beaucoup d'argent).
 
-Il faut bien comprendre que Facebook et Google (je n'en ai pas d'autres en tête) sont en premier lieu des agences publicitaires, leurs modèles économiques sont basés sur la publicité.
+Il faut bien comprendre que Facebook et Google (je n'en ai pas d'autres en tête) sont en premier lieu des agences publicitaires, leur modèle économique est basé sur la publicité.
 
 ### Les types de publicités sur Internet
 
@@ -114,9 +114,9 @@ Dans l'exemple du vélo, nous recevons de la pub sans notre consentement. Nous n
 
 Vos données ont pour unique but de rapporter de l'argent à l'entreprise, car elles sont revendus à des tiers.
 Comment pensez-vous que des entreprises comme Google ou Facebook puissent vous proposer un service gratuit ?
-> et qui était sous la dépendance d'un maître.
+> ...et qui était sous la dépendance d'un maître.
 
-Si vous lisez bien les Politiques de Vie Privée ou les CGU (Conditions Générales d'Utilisation), vous remarquerez que très souvent vos données ne vous appartiennent plus une fois mise en ligne sur un service (tels que Facebook, Instagram, Google Drive, Google Photos, Gmail, OneDrive, Outlook, Amazon, et j'en passe beaucoup...).
+Si vous lisez bien les Politiques de Vie Privée ou les CGU (Conditions Générales d'Utilisation), vous remarquerez que très souvent, vos données ne vous appartiennent plus une fois mise en ligne sur un service (tels que Facebook, Instagram, Google Drive, Google Photos, Gmail, OneDrive, Outlook, Amazon, et j'en passe beaucoup...).
 Le maître est l'entreprise qui héberge vos données, car il peut en faire ce qu'il veut.
 
 Je ne dis pas forcément qu'on est esclave de ces entreprises. Je donne surtout cet exemple pour vous faire réfléchir.

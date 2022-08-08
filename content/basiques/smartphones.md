@@ -108,4 +108,4 @@ Pour réitérer :
 
 - [Le modèle de sécurité mobile - Wonderfall](https://wonderfall.space/modele-securite-mobile/)
 - [Android - Madaidan (en anglais)](https://madaidans-insecurities.github.io/android.html)
-- [Android Tips - PrivSec.dev (en anglais)](https://privsec.dev/os/android-tips/)
+- [Android Tips - PrivSec.dev (en anglais)](https://privsec.dev/os/android-tips/)*(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
