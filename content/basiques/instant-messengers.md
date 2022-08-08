@@ -22,15 +22,15 @@ Le problème dans ce cas, c'est que la carte postale n'est pas dans une envelopp
 
 Trois problèmes majeurs se posent :
 
-- **Authenticité**
-- **Intégrité**
 - **Confidentialité**
+- **Intégrité**
+- **Authenticité**
 
-Bob ne peut pas vérifier l'***authenticité*** de la carte car on ne peut pas être certain que c'est bien Alice qui a envoyé le message et non une tierce personne.
+Tout le monde peut lire le message, Alice, Bob, et toute autre personne a accès à cette carte postale. La ***confidentialité*** n'est pas assurée car seuls Alice et Bob devraient avoir connaissance du message.
 
 Bob ne peut pas vérifier que le message de la carte postale est ***intègre***. C'est à dire qu'on ne peut pas garantir que le message n'a pas été modifié par une tierce personne pendant le transit de la carte.
 
-Tout le monde peut lire le message, Alice, Bob, et toute autre personne a accès à cette carte postale. La ***confidentialité*** n'est pas assurée car seuls Alice et Bob devraient avoir connaissance du message.
+Bob ne peut pas vérifier l'***authenticité*** de la carte car on ne peut pas être certain que c'est bien Alice qui a envoyé le message, et non une tierce personne.
 
 ---
 
@@ -38,11 +38,9 @@ Ces trois problèmes peuvent cependant être réglés facilement.
 
 ---
 
-- Pour l'**authenticité**, Alice peut mettre la carte dans une enveloppe, coller un timbre dessus. Puis, la poste tamponnera l'enveloppe pour garantir que c'est bien Alice qui a posté la lettre. C'est équivalent à une signature d'Alice.
-
-- Pour l'**intégrité** de la carte, Alice peut tracer deux petits traits à l'arrière de l'enveloppe. Quand Bob recevra l'enveloppe, si les traits sont bien alignés, c'est que l'enveloppe n'as pas été ouverte et donc que le message est intègre.
-
 - Pour la **confidentialité** du message, Alice peut chiffrer son message grâce à un code secret déjà établi entre Alice et Bob. Si une tierce personnne lisait la carte postale d'Alice, cette personne ne comprendrait rien ! Seuls Alice et Bob se comprendraient !
+- Pour l'**intégrité** de la carte, Alice peut tracer deux petits traits à l'arrière de l'enveloppe. Quand Bob recevra l'enveloppe, si les traits sont bien alignés, c'est que l'enveloppe n'as pas été ouverte et donc que le message est intègre.
+- Pour l'**authenticité**, Alice peut mettre la carte dans une enveloppe, coller un timbre dessus. Puis, la poste tamponnera l'enveloppe pour garantir que c'est bien Alice qui a posté la lettre. C'est équivalent à une signature d'Alice.
 
 ### Fonctionnement du chiffrement
 
@@ -66,13 +64,60 @@ Une conversation normale ressemblerait donc à ça :
 
 ![Conversation chiffrée](/instant-messengers/encrypted-conversation.png)
 
-Le chiffrement de bout en bout apporte authenticité, intégrité et confidentialité.
+Les messageries instantanées (certaines) implémentent donc le chiffrement de bout en bout pour assurer la confidentialité des messages. Mais les clés privées permettent également de garantir l'[intégrité](#le-hachage) et l'[authenticité](#la-signature-digitale) des messages !
 
-Je vous envoie sur les sites de la cnil pour en savoir plus, deux articles sont disponibles :
+---
+
+Le **chiffrement** garantit la **confidentialité**.
+
+---
+
+Je vous envoie sur les sites de la [CNIL](https://www.cnil.fr/fr/) pour en savoir plus, deux articles sont disponibles :
+
 - [Sécurité : Chiffrer, garantir l’intégrité ou signer - CNIL](https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer)
 - [Comprendre les grands principes de la cryptologie et du chiffrement- CNIL](https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement) (je vous conseille fortement de lire cet article, il est complet et facile à comprendres)
 
-### On dit chiffrer, et pas crypter
+### Le hachage
+
+Le **hachage** est un procédé informatique par lequel on hache une donnée (un fichier, message, etc), de la même manière qu'un steak hacké par exemple. On a donc ensuite le **fichier d'origine** et le **fichier haché**, qui est l'empreinte digitale numérique du fichier d'origine. Plusieurs algorithmes de hachage existent, voici le hash du mot `France` avec plusieurs algorithmes de hachage différents :
+
+- **MD5 :** `0309a6c666a7a803fdb9db95de71cf01`
+- **SHA1 :** `e3772ac4b4db87b4a8dbfa59ef43cd1a8ad29515`
+- **SHA256 :** `7a1ca4ef7515f7276bae7230545829c27810c9d9e98ab2c06066bee6270d5153`
+
+Si vous changez `France` en `france`, vous obtenez des résultats complétement différents :
+
+- **MD5 :** `e165d4f2174b66a7d1a95cb204d296eb`
+- **SHA1 :** `23e591e8c36dda987970603ad0fdd031b7dff9f9`
+- **SHA256 :** `2c598436e5575a5769b69986014588d52c2698414b623e81b2e776766c30eaba`
+
+Même si quelque chose de minime est changé, le hash (le résultat du hachage) sera complètement différent. Donc si Alice chiffre son message puis hache ce message, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'as pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
+
+---
+
+Le **hachage** garantit l'**intégrité**.
+
+---
+
+### La signature digitale
+
+La **signature** est générée grâce à une clé privée, et peut être vérifié avec une clé publique (de celui qui l'a signé).
+
+Quand Alice souhaite générér une signature, elle va **chiffrer** la donnée avec **sa clé privée à elle** (et non avec la clé publqiue de quelqu'un d'autre).
+
+Si Alice souhaite envoyer un message à Bob, elle utilisera **la clé publique de Bob** pour **chiffrer** son message et **sa clé privée à elle** pour **signer** ce message, quand Bob recevra le message chiffré d'Alice, il **déchiffrera** le message avec sa **clé privée à lui** et vérifiera la **signature** du message grâce à la **clé publique d'Alice**.
+
+---
+
+La **signature digitale** garantit l'**authenticité**.
+
+---
+
+Une vidéo en anglais est disponible sur YouTube pour comprendre la signature digitale :
+
+- [What are Digital Signatures? - Computerphile](https://www.youtube.com/watch?v=s22eJ1eVLTU)
+
+## On dit chiffrer, et pas crypter
 
 Tant qu'on y est, "crypter" n'est pas français.
 
@@ -144,7 +189,7 @@ Juste, utilisez [Signal](https://www.signal.org/fr/#signal).
 
 ## En savoir plus & crédits
 
-### Sur le chiffrement
+### Sur la cryptographie (authenticité, intégrité, confidentialité)
 
 - [Sécurité : Chiffrer, garantir l’intégrité ou signer - CNIL](https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer)
 - [Comprendre les grands principes de la cryptologie et du chiffrement- CNIL](https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement)
@@ -152,6 +197,7 @@ Juste, utilisez [Signal](https://www.signal.org/fr/#signal).
 - [End to End Encryption (E2EE) - Computerphile](https://www.youtube.com/watch?v=jkV1KEJGKRA)
 - [Secret Key Exchange (Diffie-Hellman) - Computerphile](https://www.youtube.com/watch?v=NmM9HA2MQGI)
 - [Double Ratchet Messaging Encryption - Computerphile](https://www.youtube.com/watch?v=9sO2qdTci-s)
+- [What are Digital Signatures? - Computerphile](https://www.youtube.com/watch?v=s22eJ1eVLTU)
 
 ### Sur les messageries instantanées
 
