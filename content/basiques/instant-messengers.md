@@ -56,7 +56,7 @@ La clé **privée** est, comme son nom l'indique, privée. Vous devez ***absolum
 
 ![Bob à Alice](/instant-messengers/encryption-message.png)
 
-Si **Bob** veut envoyer un message à Alice, Bob doit avoir la clé publique **d'Alice** (Alice PUB dans l'image) pour pouvoir communiquer avec elle. Bob va donc **chiffrer** son message avec la **clé publique d'Alice**, puis une fois envoyé, Alice **déchiffrera** le message avec sa **clé privée à elle** (Alice PRIV dans l'image).
+Si **Bob** veut envoyer un message à Alice, Bob doit avoir la clé publique **d'Alice** (`Alice PUB` dans l'image) pour pouvoir communiquer avec elle. Bob va donc **chiffrer** son message avec la **clé publique d'Alice**, puis une fois envoyé, Alice **déchiffrera** le message avec sa **clé privée à elle** (`Alice PRIV` dans l'image).
 
 Si Alice envoyait un message à Bob, Alice devrait se procurer la **clé publique de Bob** pour pouvoir chiffrer son message, puis Bob déchiffrera le message avec sa **clé privée à lui**.
 
@@ -64,7 +64,7 @@ Une conversation normale ressemblerait donc à ça :
 
 ![Conversation chiffrée](/instant-messengers/encrypted-conversation.png)
 
-Les messageries instantanées (certaines) implémentent donc le chiffrement de bout en bout pour assurer la confidentialité des messages. Mais les clés privées permettent également de garantir l'[intégrité](#le-hachage) et l'[authenticité](#la-signature-digitale) des messages !
+Les messageries instantanées (certaines) implémentent donc le chiffrement de bout en bout pour assurer la confidentialité des messages. Mais les clés privées permettent également de garantir l'[authenticité](#la-signature-digitale) des messages !
 
 ---
 
@@ -103,7 +103,7 @@ Le **hachage** garantit l'**intégrité**.
 
 La **signature** est générée grâce à une clé privée, et peut être vérifié avec une clé publique (de celui qui l'a signé).
 
-Quand Alice souhaite générér une signature, elle va **chiffrer** la donnée avec **sa clé privée à elle** (et non avec la clé publqiue de quelqu'un d'autre).
+Quand Alice souhaite générér une signature, elle va **chiffrer** la donnée avec **sa clé privée à elle** (et non avec la clé publique de quelqu'un d'autre).
 
 Si Alice souhaite envoyer un message à Bob, elle utilisera **la clé publique de Bob** pour **chiffrer** son message et **sa clé privée à elle** pour **signer** ce message, quand Bob recevra le message chiffré d'Alice, il **déchiffrera** le message avec sa **clé privée à lui** et vérifiera la **signature** du message grâce à la **clé publique d'Alice**.
 
@@ -183,7 +183,7 @@ Je ne suis pas un expert, mais je vous recommande Signal également, en plus c'e
 
 ## Conlusion
 
-Juste, utilisez [Signal](https://www.signal.org/fr/#signal).
+Juste, utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit authenticité, intégrité et confidentialité.
 
 ---
 
