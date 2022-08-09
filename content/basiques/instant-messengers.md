@@ -15,7 +15,7 @@ Le chiffrement de bout en bout consiste à chiffrer les messages à partir des a
 
 Pour comprendre, je vais vous expliquer avec un exemple de la poste.
 
-![Image exemple poste](/instant-messengers/mail-exemple.png)
+![Image exemple poste](/instant-messengers/mail-exemple.png#center)
 
 Alice envoie une carte postale à Bob, le service de la poste s'occupera du transfert de cette carte postale.
 Le problème dans ce cas, c'est que la carte postale n'est pas dans une enveloppe, elle n'est pas scellée, n'importe qui peut lire ou modifier la carte avant que Bob la réceptionne.
@@ -46,7 +46,7 @@ Ces trois problèmes peuvent cependant être réglés facilement.
 
 Le principe du chiffrement de bout en bout repose sur le chiffrement dit **asymétrique**.
 
-![Génération des clés](/instant-messengers/keygen.png)
+![Génération des clés](/instant-messengers/keygen.png#center)
 
 Le principe repose sur la génération d'une **paire de clés**, une clé **publique** et une clé **privée**. Alice va générer sa paire de clé, donc une clé publique (en vert) et une clé privée (en rouge). Bob fera de même en générant sa clé publique (en vert) et sa clé privée (en bleu). Dites-vous que ces deux clés (publique et privée) sont comme des faux jumeaux, elles sont intimement liées, mais ne se ressemblent pas.
 
@@ -54,7 +54,7 @@ La clé **publique** est, comme son nom l'indique, publique. Vous pouvez la donn
 
 La clé **privée** est, comme son nom l'indique, privée. Vous devez ***absolument*** garder cette clé pour vous, vous ne devez pas la partager ! C'est la clé qui permettra de ***déchiffrer*** les messages qui vous sont destinés (puisque les gens auront chiffré leur message avec votre clé publique).
 
-![Bob à Alice](/instant-messengers/encryption-message.png)
+![Bob à Alice](/instant-messengers/encryption-message.png#center)
 
 Si **Bob** veut envoyer un message à Alice, Bob doit avoir la clé publique **d'Alice** (`Alice PUB` dans l'image) pour pouvoir communiquer avec elle. Bob va donc **chiffrer** son message avec la **clé publique d'Alice**, puis une fois envoyé, Alice **déchiffrera** le message avec sa **clé privée à elle** (`Alice PRIV` dans l'image).
 
@@ -62,7 +62,7 @@ Si Alice envoyait un message à Bob, Alice devrait se procurer la **clé publiqu
 
 Une conversation normale ressemblerait donc à ça :
 
-![Conversation chiffrée](/instant-messengers/encrypted-conversation.png)
+![Conversation chiffrée](/instant-messengers/encrypted-conversation.png#center)
 
 Les messageries instantanées (certaines) implémentent donc le chiffrement de bout en bout pour assurer la **confidentialité** des messages. Mais les clés privées permettent également de garantir l'[authenticité](#la-signature-digitale) des messages !
 
@@ -140,7 +140,7 @@ Maintenant que vous avez compris ces notions, je vais vous présenter différent
 
 [Facebook Messenger](https://www.messenger.com/?locale=fr_FR) fonctionne de cette manière :
 
-![Facebook Messenger exemple](/instant-messengers/facebook-messenger.png)
+![Facebook Messenger exemple](/instant-messengers/facebook-messenger.png#center)
 
 Quand Alice envoie un message à Bob, l'application Messenger envoie le message aux serveurs de Facebook. Ce message reste stocké sur ce serveur. L'application Messenger de Bob va demander au serveur de voir le message, le serveur lui envoie une copie de ce message, et Bob sera en mesure de lire le message d'Alice.
 Le message d'Alice est toujours sur le serveur.
@@ -153,7 +153,7 @@ Une fonctionnalité appelée "conversation secrète" est disponible sur Facebook
 
 [WhatsApp](https://www.whatsapp.com/?lang=fr) fonctionne autrement :
 
-![WhatsApp exemple](/instant-messengers/whatsapp.png)
+![WhatsApp exemple](/instant-messengers/whatsapp.png#center)
 
 Quand Alice souhaite envoyer un message à Bob, le message sera **chiffré** puis envoyé aux serveurs de WhatsApp. Les serveurs ne servent qu'à délivrer le message. Les messages restent stockés sur les serveurs uniquement le temps de la livraison du message. Une fois que Bob à reçu le message, il est supprimé du serveur et les messages restent stockés sur les appareils d'Alice et Bob.
 

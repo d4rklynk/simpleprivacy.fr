@@ -40,7 +40,7 @@ La partie **logicielle** est le **système d'exploitation**, donc Android. Mais 
 
 Je vais rapidement vous expliquer Android pour que vous compreniez bien. Voici un schéma qui vous explique le projet **AOSP** :
 
-![AOSP schéma](/smartphones/aosp.png)
+![AOSP schéma](/smartphones/aosp.png#center)
 
 **AOSP** signifie **Android Open Source Project**, c'est le cœur de tous les téléphones Android aujourd'hui, AOSP à lui tout seul est très limité : vous n'avez pas d'applications Google par exemple. Comme ce projet est open source (mais détenu par Google) beaucoup de marques (toutes celles qui ne sont pas Apple, donc Samsung, Xiaomi, Huawei, OnePlus, Pocco, et j'en passe) vont prendre le code d'AOSP et le modifier un peu à leur sauce. C'est ce qu'on appelle la **surcouche Android**. **LineageOS** est une surcouche Android développée par des bénévoles.
 
