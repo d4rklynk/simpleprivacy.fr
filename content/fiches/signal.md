@@ -72,8 +72,8 @@ Les petites icônes en bas à droite sont expliquées dans la [documentation de 
 
 Vous avez deux types de paramètres :
 
-- [Les paramètres généraux](les-paramètres-généraux)
-- [Les paramètres de conversation](les-paramètres-de-conversation)
+- [Les paramètres généraux](#les-paramètres-généraux)
+- [Les paramètres de conversation](#les-paramètres-de-conversation)
 
 ### Les paramètres généraux
 
