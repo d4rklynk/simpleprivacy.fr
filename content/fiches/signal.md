@@ -98,7 +98,7 @@ C'est ici que vous pourrez changer les paramètres par défaut pour ***cette*** 
 
 ### Compte
 
-Je vous suggère d'aller dans les **paramètres généraux** puis dans "**Compte**" et activer :
+Je vous suggère d'aller dans les **paramètres généraux** puis dans "**Compte**" et d'activer :
 
 - [x] "Blocage de l'inscription"
 
