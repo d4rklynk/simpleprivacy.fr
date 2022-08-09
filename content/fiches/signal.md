@@ -16,7 +16,7 @@ Toutes les [informations concernant l'utilisation de Signal](https://support.sig
 
 Signal peut être installé sur Android, IOS, Windows, Linux et MacOS.
 
-Vous pouvez le télécharger via [leur site](https://signal.org/download/).
+Vous pouvez le télécharger via le Play Store, l'AppStore ou via [leur site](https://signal.org/download/).
 
 ## Création du compte
 
