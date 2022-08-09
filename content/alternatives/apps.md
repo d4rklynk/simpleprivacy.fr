@@ -78,22 +78,14 @@ Je vous conseille fortement [Bitwarden](https://bitwarden.com/). J'ai fait un [t
 
 ## Les messageries instantanées
 
+J'ai écris un article sur les [messageries instantanées](/basiques/instant-messengers).
+
 Je vous conseille d'utiliser uniquement Signal et de convaincre votre entourage de l'utiliser également. Signal est riche en fonctionnalités, est très joli, et implémente par défaut le chiffrement de bout en bout. C'est la messagerie la plus sécurisée qu'on puisse avoir aujourd'hui.
 
 - [Signal](https://www.signal.org/fr/)
 
-> Si vous n'avez pas réussi à convaincre une partie de votre entourage, je vous conseille, de réessayer de les convaincre. Si ce n'est pas possible, alors utilisez WhatsApp plutôt que Facebook Messenger. WhatsApp implémente le chiffrement de bout en bout par défaut contrairement à Facebook Messenger où c'est optionnel ! Si vous pouvez contacter certaines personnes de votre entourage uniquement via Facebook Messenger, je vous conseille d'activer l'option dans les paramètres de votre conversation : "**Accéder à la conversation secrète**". ***Signal reste toute fois fortement recommandé.***
+> Si vous n'avez pas réussi à convaincre une partie de votre entourage, je vous conseille, de réessayer de les convaincre. Si ce n'est pas possible, alors utilisez WhatsApp plutôt que Facebook Messenger. WhatsApp implémente le chiffrement de bout en bout par défaut contrairement à Facebook Messenger où c'est optionnel ! Cependant, WhatsApp collecte énormément vos métadonnées.
 
-### Activer le chiffrement de bout en bout dans Facebook Messenger
+- [Element](https://element.io/)
 
-Tapez sur le bouton "info" en haut à droite de votre conversation.
-
-![Facebook Messenger](/apps/clear-conversation.jpg)
-
-Puis cliquez sur "**Accéder à la conversation secrète**".
-
-![Facebook Messenger](/apps/conversation-settings.jpg)
-
-Et voilà, vous avez activé le chiffrement de bout en bout. Il faut bien noter que c'est une autre conversation, votre conversation initiale avec cette personne reste non-chiffrée.
-
-![Facebook Messenger](/apps/secret-conversation.jpg)
+> C'est une alternative à des applications comme Discord.

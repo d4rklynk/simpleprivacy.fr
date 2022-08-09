@@ -58,3 +58,5 @@ Proton Drive et Cryptee sont conseillés car ils implémentent tous les deux le 
 > Comme les serveurs ça coûte cher et que Proton de vend pas nos données, vous devez payer pour avoir un peu plus de fonctionnalités. Les [différents plans](https://proton.me/fr/pricing) sont consultables sur leur site web.
 
 - [Cryptee](https://crypt.ee/)
+
+> Voir les [prix](https://crypt.ee/#pricing).
