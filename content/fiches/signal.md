@@ -108,7 +108,7 @@ Je vous suggère d'aller dans les **paramètres généraux** puis dans "**Compte
 
 ### Confidentialité
 
-Naviguez dans les **paramètres généraux** puis dans "**Confidentialité**". Activez tout les paramètres dans la section "**Sécurité de l'appli**" :
+Naviguez dans les **paramètres généraux** puis dans "**Confidentialité**". Activez tous les paramètres dans la section "**Sécurité de l'appli**" :
 
 - [x] Verrou d'écran (puis choisissez 10 minutes environ)
 - [x] Sécurité de l'écran (cela évitera les captures d'écran)

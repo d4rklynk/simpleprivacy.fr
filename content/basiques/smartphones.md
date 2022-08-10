@@ -86,9 +86,9 @@ Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur l
 
 Je vous ***déconseille très fortement*** d'utiliser des [schémas](https://wonderfall.space/password/#le-cas-dun-smartphone) (ou [patterns](https://privsec.dev/os/android-tips/#use-a-diceware-passphrase-avoid-pattern-unlock)) pour déverouiller votre téléphone. Une [étude](/smartphones/Cracking-Android-Pattern-Lock-in-Five-Attempts.pdf), a prouvé l'inefficacité des schémas. Si vous posséder un Google Pixel ou un iPhone vous pouvez utiliser un code PIN, ces deux téléphones sont tellement sécurisés que juste mettre un code PIN à 4 chiffres prendrait plusieurs dizaines d'années à être [bruteforce](/basiques/password-managers#pourquoi-un-mot-de-passe-doit-comporter-des-majuscules-et-des-caract%C3%A8res-sp%C3%A9ciaux-) (mais mettez quand même 8 chiffres au minimum).
 
-Utilisez un code PIN à 6 chiffres, mais il serait plus avisé de mettre un code PIN de 8 chiffres ou plus. Et non ne mettez **pas** la vitesse de la lumière, le nombre pi, ou n'importe quelle autre constante mathématique. Et surtout ne mettez pas votre date de naissance, celle d'un proche ou de votre animal.
+De manière générale, je vous conseille d'utiliser un code PIN à 6 chiffres. Cependant, il serait plus avisé de mettre un code PIN de 8 chiffres ou plus. Et non ne mettez **pas** la vitesse de la lumière, le nombre pi, ou n'importe quelle autre constante mathématique. Et surtout ne mettez pas votre date de naissance, celle d'un proche ou de votre animal.
 
-Vous pouvez utiliser l'empreinte digitale, cela évitera que les gens vous voient taper votre code PIN.
+Vous pouvez, en complément, utiliser l'empreinte digitale, cela évitera que les gens vous voient taper votre code PIN.
 
 ## Le problème des prix
 
