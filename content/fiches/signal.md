@@ -52,7 +52,7 @@ Une fois votre profil rempli, vous arriverez sur la page principale d'accueil de
 
 ## Conversation
 
-Voici la page d'accueil une fois votre compté créé.
+Voici la page d'accueil une fois votre compte créé.
 
 ![signal-main-page.png](/signal/signal-main-page.png#center)
 
@@ -120,9 +120,9 @@ Naviguez dans les **paramètres généraux** puis dans "**Confidentialité**". A
 
 Optionnellement, vous pouvez utiliser Signal pour envoyer et recevoir des SMS/MMS, cependant ceux-ci ne seront pas chiffrés puisqu'ils n'utiliseront pas les services de Signal. Pour éviter la confusion, je vous conseille d'utiliser une application à part pour les SMS/MMS.
 
-## Fonctionalités
+## Fonctionnalités
 
-Je ne vais pas vous faire la liste entière, mais je vais essayer de vous lister les fonctionalités les plus importantes. Cette liste est complètement subjective :
+Je ne vais pas vous faire la liste entière, mais je vais vous lister quelques fonctionnalités importantes. Cette liste est complètement subjective :
 
 - [Note à mon intention](https://support.signal.org/hc/fr/articles/360043272451-Note-%C3%A0-mon-intention)
 
@@ -135,6 +135,6 @@ Je ne vais pas vous faire la liste entière, mais je vais essayer de vous lister
 - Modifier une image
 
 > Lors de l'envoi d'une photo ou d'une image, vous pouvez dessiner, ajouter des stickers ou du texte sur ces médias.
-	Vous pouvez également choisir de l'envoyer en basse ou haute 		qualité.
+	Vous pouvez également choisir de l'envoyer en basse ou haute qualité.
 
 Une [liste complète des fonctionnalités](https://support.signal.org/hc/fr/categories/360000674791-Fonctions) de Signal est disponible sur leur site web.
