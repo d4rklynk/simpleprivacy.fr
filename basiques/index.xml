@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/basiques/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/basiques/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vie privée : Pourquoi s&#39;en soucier ? 🤔</title>
       <link>http://samsepi0l.ovh/basiques/pourquoi-sen-soucier/</link>
@@ -35,14 +35,35 @@ un livre des crayons un billet de 20 € Elle habite dans une petite ville de ca
     
     <item>
       <title>Les gestionnaires de mots de passe 🔑</title>
-      <link>http://samsepi0l.ovh/basiques/password-manager/</link>
+      <link>http://samsepi0l.ovh/basiques/password-managers/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/basiques/password-manager/</guid>
+      <guid>http://samsepi0l.ovh/basiques/password-managers/</guid>
       <description>Je préfère écrire la conclusion dès le début pour être sûr que ce soit clair pour tout le monde :
 Utilisez un gestionnaire de mots de passe, c&amp;rsquo;est la plus importante chose à faire sur toute votre vie numérique
-Je vous conseille chaudement de lire l&amp;rsquo;article de Wonderfall sur les mots de passe.
-Je compte faire un tutoriel sur l&amp;rsquo;utilisation du gestionnaire de mots de passe Bitwarden, que je vous conseille fortement.</description>
+J&amp;rsquo;ai écris un tutoriel pour apprendre à utiliser Bitwarden.
+Je vous conseille chaudement de lire l&amp;rsquo;article de Wonderfall sur les mots de passe après avoir lu le mien, car il va dans la continuité de mon article.</description>
+    </item>
+    
+    <item>
+      <title>Les messageries instantanées et le chiffrement de bout en bout 🤐</title>
+      <link>http://samsepi0l.ovh/basiques/instant-messengers/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/basiques/instant-messengers/</guid>
+      <description>Les messageries instantanées sont des solutions de communication incontournables au 21ème siècle.
+Je vais vous expliquer le fonctionnement de ces messageries. Mais d&amp;rsquo;abord vous devez comprendre ce qu&amp;rsquo;est le chiffrement de bout en bout.
+Le chiffrement de bout en bout Le chiffrement de bout en bout consiste à chiffrer les messages à partir des appareils des utilisateurs, c&amp;rsquo;est à dire que si vous utilisez votre application sur votre téléphone, le message sera chiffré à partir de votre application de votre téléphone, et sera déchiffré uniquement sur l&amp;rsquo;application du destinataire, aucun tiers pendant le transit du message n&amp;rsquo;est capable de savoir le contenu du message.</description>
+    </item>
+    
+    <item>
+      <title>Les smartphones 📱</title>
+      <link>http://samsepi0l.ovh/basiques/smartphones/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/basiques/smartphones/</guid>
+      <description>Les smartphones sont des éponges à données, ils ont accès à beaucoup d&amp;rsquo;informations qu&amp;rsquo;on aimerait garder privées.
+Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les systèmes d&amp;rsquo;exploitation de bureau (Windows, Linux, macOS). Vous avez remarqué par exemple qu&amp;rsquo;il y a un système de permission sur les smartphones qu&amp;rsquo;il n&amp;rsquo;y a pas sur les PC. Vous savez, les fenêtres qui s&amp;rsquo;affichent &amp;ldquo;Autoriser l&amp;rsquo;accès la position&amp;rdquo; ou &amp;ldquo;Autoriser l&amp;rsquo;accès à la caméra&amp;rdquo;.</description>
     </item>
     
   </channel>

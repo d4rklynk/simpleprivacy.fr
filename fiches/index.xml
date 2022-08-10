@@ -10,6 +10,45 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright><atom:link href="http://samsepi0l.ovh/fiches/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright>
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/fiches/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitwarden : Comment l&#39;utiliser 🔑</title>
+      <link>http://samsepi0l.ovh/fiches/bitwarden/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/fiches/bitwarden/</guid>
+      <description>Bitwarden est un gestionnaire de mots de passe open source, gratuit et facile.
+J&amp;rsquo;ai écris un article sur les gestionnaires de mots de passe si vous voulez en savoir plus.
+Grâce au gestionnaire de mots de passe, vous n&amp;rsquo;aurez plus qu&amp;rsquo;un seul mot de passe à retenir, celui pour accéder au gestionnaire : le mot de passe maître.
+Aujourd&amp;rsquo;hui, je vous explique comment utiliser Bitwarden.
+Création de votre compte Allez sur le site de Bitwarden et cliquez sur le bouton Get Started :</description>
+    </item>
+    
+    <item>
+      <title>Présentation et utilisation de Signal 💬</title>
+      <link>http://samsepi0l.ovh/fiches/signal/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/fiches/signal/</guid>
+      <description>Aujourd&amp;rsquo;hui, je vais vous présenter Signal et ses fonctionnalités de base.
+Je vous conseille de lire mon article sur les messageries instantanées dont un chapitre est dédié à Signal .
+Toutes les informations concernant l&amp;rsquo;utilisation de Signal sont disponibles sur leur site web.
+Installation Signal peut être installé sur Android, IOS, Windows, Linux et MacOS.
+Vous pouvez le télécharger via le Play Store, l&amp;rsquo;AppStore ou via leur site .</description>
+    </item>
+    
+    <item>
+      <title>Instagram : Limitez l&#39;information publique et la collecte de données ✋</title>
+      <link>http://samsepi0l.ovh/fiches/instagram/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/fiches/instagram/</guid>
+      <description>Si vous utilisez peu instagram, mais que vous souhaitez quand même garder votre compte tout en gardant un semblant de vie privée, voici tous les paramètres à changer :
+Limitez l&amp;rsquo;information publique Ces paramètres affecteront la manière dont les visiteurs verront votre profil.
+Sur la barre de navigation d&amp;rsquo;Instagram, tapez sur votre photo de profil en bas à droite.
+Puis, tapez sur l&amp;rsquo;hamburger en haut à droite (ce sont les 3 barres horizontales, oui ça s&amp;rsquo;appelle vraiment un hamburger).</description>
+    </item>
+    
   </channel>
 </rss>
