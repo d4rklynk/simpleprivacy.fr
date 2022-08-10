@@ -115,6 +115,7 @@ Pour réitérer :
 
 - Prenez un Google Pixel (à partir du 6, car 5 ans de support) ou un iPhone récent.
 - N'installez pas d'applications qui se disent améliorer la sécurité ou la performance de votre téléphone.
+- Utilisez un code PIN de 6 chiffres minimum, mais 8 chiffres ou plus est recommandé.
 - Installez GrapheneOS sur votre Google Pixel.
 - Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphones qui ne sont plus supportés.
 
