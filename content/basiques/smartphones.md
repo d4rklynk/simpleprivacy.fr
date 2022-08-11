@@ -22,6 +22,7 @@ Je vous épargne les détails techniques, mais pour faire très simple, les Goog
 Je vous conseille donc très fortement de ne rester qu'avec un Google Pixel.
 
 - [Google Pixel : Android done right - Wonderfall](https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right) (français)
+- [iOS : chez Apple, la prison dorée - Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) (français)
 - [Google Pixel - PrivacyGuides](https://www.privacyguides.org/android/#google-pixel) (anglais)
 - [Recommended Phones - PrivSec.dev](https://privsec.dev/os/android-tips/#recommended-phones) (anglais)
 
