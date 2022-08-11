@@ -10,7 +10,7 @@ Les smartphones sont des éponges à données, ils ont accès à beaucoup d'info
 Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les systèmes d'exploitation de bureau (Windows, Linux, macOS).
 Vous avez remarqué par exemple qu'il y a un système de permission sur les smartphones qu'il n'y a pas sur les PC. Vous savez, les fenêtres qui s'affichent "Autoriser l'accès la position" ou "Autoriser l'accès à la caméra".
 
-Pour les smartphones, les recommandations vont être simples, car je vous recommande uniquement un iPhone ou un Google Pixel.
+Pour les smartphones, je vous recommande uniquement un [iPhone](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) ou un [Google Pixel](https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right).
 
 N'achetez **PAS** de Google Pixel chez votre fournisseur d'accès à Internet (Orange, Free, SFR, Bouygues). Le téléphone est bloqué et vous ne pouvez pas déverrouiller le bootloader comme expliqué plus loin dans [le chapitre dédié](#bootloader). Achetez **toujours** votre téléphone dans les magasins comme la Fnac, Boulanger, Amazon, etc.
 
@@ -20,6 +20,10 @@ Les Google Pixel, à partir du 6, ont [**5 ans de support**](https://support.goo
 
 Je vous épargne les détails techniques, mais pour faire très simple, les Google Pixel ne sont pas juste "un peu mieux sécurisés" que les autres marques, ils sont ***excellents en terme de sécurité.***
 Je vous conseille donc très fortement de ne rester qu'avec un Google Pixel.
+
+- [Google Pixel : Android done right - Wonderfall](https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right) (français)
+- [Google Pixel - PrivacyGuides](https://www.privacyguides.org/android/#google-pixel) (anglais)
+- [Recommended Phones - PrivSec.dev](https://privsec.dev/os/android-tips/#recommended-phones) (anglais)
 
 ## Le problème de confiance
 
