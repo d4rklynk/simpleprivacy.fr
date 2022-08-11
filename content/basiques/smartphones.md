@@ -10,6 +10,9 @@ Les smartphones sont des éponges à données, ils ont accès à beaucoup d'info
 Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les systèmes d'exploitation de bureau (Windows, Linux, macOS).
 Vous avez remarqué par exemple qu'il y a un système de permission sur les smartphones qu'il n'y a pas sur les PC. Vous savez, les fenêtres qui s'affichent "Autoriser l'accès la position" ou "Autoriser l'accès à la caméra".
 
+
+## Recommandations
+
 Pour les smartphones, je vous recommande uniquement un [iPhone](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) ou un [Google Pixel](https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right).
 
 N'achetez **PAS** de Google Pixel chez votre fournisseur d'accès à Internet (Orange, Free, SFR, Bouygues). Le téléphone est bloqué et vous ne pouvez pas déverrouiller le bootloader comme expliqué plus loin dans [le chapitre dédié](#bootloader). Achetez **toujours** votre téléphone dans les magasins comme la Fnac, Boulanger, Amazon, etc.
@@ -26,7 +29,7 @@ Je vous conseille donc très fortement de ne rester qu'avec un Google Pixel.
 - [Google Pixel - PrivacyGuides](https://www.privacyguides.org/android/#google-pixel) (anglais)
 - [Recommended Phones - PrivSec.dev](https://privsec.dev/os/android-tips/#recommended-phones) (anglais)
 
-## Le problème de confiance
+### Le problème de confiance
 
 Il faut comprendre également que sur tous les smartphones Android qui contiennent les applications Google, vous avez une application appelée "`Services Google Play`". Cette application permet de faire beaucoup de choses, cependant, elle a accès à toutes les permissions du téléphone, même les plus sensibles, et sont irrévocables. C'est à cause de cette application que les problèmes de vie privée apparaissent. Android en lui-même n'est pas un problème, c'est l'ajout des applications de Google, et notamment des "`Services Google Play`" qui fait d'Android un cauchemar pour votre vie privée.
 
@@ -104,6 +107,14 @@ Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
 1. Le support s'arrête
 2. Il soit tellement cassé qu'il soit inutilisable
 
+Pour conclure, oui 470€ c'est cher, mais étalé sur 5 ans, ça reste abordable. Et de plus, vous pourrez probablement l'avoir à moins cher que ça au moment où lirez cet article.
+
+### Notes
+
+J'ai fait ce chapitre sur les prix des smartphones, mais je ne suis pas ici pour vous dire comment dépenser votre argent.
+
+Cependant, j'avais besoin d'écrire un article là-dessus car certaines personnes sous-estiment parfois le prix des smartphones.
+
 ## Fairphone
 
 Je vous déconseille fortement le Fairphone car il n'est pas sécurisé par défaut. En effet, Fairphone met à jour leurs téléphones pendant plusieurs années (leur premier téléphone de 2013 est toujours mise à jour) mais ne met pas à jour les firmwares ! Car seuls les constructeurs Qualcomm peuvent le faire !
@@ -114,11 +125,28 @@ De plus, Fairphone utilise souvent les avant-derniers processeurs et autres comp
 
 Alors évidemment, je suis pour l'écologie et la protection de l'environnement, mais il faut avoir une bonne balance entre sécurité, vie privée et écologie. Si vous prenez un Xiaomi par exemple, vous n'avez ni sécurité (par rapport à un Google Pixel ou un iPhone), ni respect de votre vie privée, ni respect de l'environnement. En prenant un Fairphone, vous respectez un peu l'environnement (ça reste polluant de fabriquer un smartphone), vous n'avez pas de vie privée (les Services Google Play sont toujours là) et pas de sécurité du tout ! Avec un Google Pixel, vous gagnez en sécurité, et en écologie car vous gardez votre téléphone 5 ans, mais vous ne gagnez toujours pas en vie privée. Cependant, si vous installez GrapheneOS sur votre Pixel, vous gagnez en sécurité, écologie et en vie privée !
 
+## iPhones
+
+J'avoue ne pas être un grand fan d'Apple et je ne connais pas très bien le sujet. Je vous conseille donc de lire l'[article sur IOS par Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) qui en parle mieux que moi.
+
+Cela dit, je tiens à prévenir que si Apple promet de respecter votre vie privée, nous n'avons en réalité aucune preuve. Peut-être la respecte-il, peut-être que non, peut-être un peu des deux.
+
+iCloud ne propose pas de [chiffrement de bout en bout](/basiques/instant-messengers#le-chiffrement-de-bout-en-bout) pour la [plupart des services](https://support.apple.com/fr-fr/HT202303), tels que vos sauvegardes, vos contacts, vos calendriers, vos photos, etc.
+
+N'ayez confiance en un service cloud **uniquement** si celui-ci propose du **chiffrement de bout en bout** !
+
+iCloud Backup [sauvegarde votre historique iMessage avec la clé pour pouvoir le déchiffrer](https://support.apple.com/fr-fr/HT202303#messages) (si ce dernier est activé). *(Sachant que les sauvegardes ne sont pas protégées par le chiffrement de bout en bout.)*. Donc oui, **Apple a accès à vos messages** si vous activez **iCloud Backup**.
+
+En ce qui concerne la sécurité, les iPhones sont excellents. En revanche, je ne dis pas que les iPhones sont meilleurs qu'Android sur ce point. Je dirais qu'ils sont plutôt équivalents.
+Par contre, les iPhones **ET** les Google Pixels sont bien les meilleurs en terme de sécurité que tout le reste du marché des mobiles.
+
+Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e). Je vous invite donc fortement à le lire pour vous faire votre propre opinion.
+
 ## Conclusion
 
 Pour réitérer :
 
-- Prenez un Google Pixel (à partir du 6, car 5 ans de support) ou un iPhone récent.
+- Prenez uniquement Google Pixel (à partir du 6, car 5 ans de support) ou un iPhone récent ([A12+](https://fr.wikipedia.org/wiki/Apple_A12_Bionic)) (à partir de l'iPhone XR/XS/XS Max).
 - N'installez pas d'applications qui se disent améliorer la sécurité ou la performance de votre téléphone.
 - Utilisez un code PIN de 6 chiffres minimum, mais 8 chiffres ou plus est recommandé.
 - Installez GrapheneOS sur votre Google Pixel.
