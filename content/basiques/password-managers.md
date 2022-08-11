@@ -301,6 +301,27 @@ Une fois que vous avez un gestionnaire de mots de passe tel que Bitwarden. Certa
 3. Créez un mot de passe unique (une vingtaine de caractères aléatoires minimum) sur chaque site web que vous visitez.
 4. Ne donnez sous aucun prétexte votre `mot de passe maître` à qui que ce soit !
 
+## Conclusion
+
+---
+
+La **première** règle du mot de passe est :
+
+- **Ne réutilisez pas vos mots de passe.**
+
+La **deuxième** règle du mot de passe est :
+
+- ***Ne réutilisez pas vos mots de passe.***
+
+---
+
+- **Un compte = un mot de passe**
+- Utilisez un gestionnaire de mots de passe. [Bitwarden](https://bitwarden.com/) est excellent. Je vous ai même fait [un petit tuto](/fiches/bitwarden) parce que je suis sympa.
+- Si vous devez retenir vos mots de passe, utilisez [la méthode diceware](#la-méthode-diceware) comme évoquée plus haut (6 mots minimum). (Et créez quelque chose d'aléatoire, ne le faites pas vous-même.) Si besoin, mettez une majuscule ou un chiffre. Bitwarden a cette [option dans son générateur](/fiches/bitwarden/#le-générateur-de-mots-de-passe).
+- Sinon, créez des mots de passe aléatoire de 32, voire 64 caractères, parce que de toute façon, vous ne les retiendrai pas, et vous pourrez les copier/coller. (Mais minimum 20 caractères).
+
+*Je me répète, je sais, mais on pourra pas dire que je l'ai pas dit !* 😁
+
 ---
 
 ## Credits
