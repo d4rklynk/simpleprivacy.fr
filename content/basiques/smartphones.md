@@ -87,7 +87,8 @@ Vous ne pouvez pas reverrouiller votre smartphone avec LineageOS, mais vous pouv
 
 ### Antivirus
 
-Pour la sécurité de votre smartphone, [n'installez **PAS**](https://privsec.dev/os/android-tips/#manage-android-permissions) d'antivirus, gratuits ou payants.
+Pour la sécurité de votre smartphone, [n'installez **PAS**](https://privsec.dev/os/android-tips/#manage-android-permissions) d'antivirus, gratuits ou payants. Les antivirus se basent sur le [badness enumeration](https://privsec.dev/knowledge/badness-enumeration/#antiviruses) (littéralement : l'énumération du mal)
+
 Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur les smartphones](https://wonderfall.space/modele-securite-mobile/).
 
 ### Code PIN
@@ -147,7 +148,7 @@ Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfal
 Pour réitérer :
 
 - Prenez uniquement Google Pixel (à partir du 6, car 5 ans de support) ou un iPhone récent ([A12+](https://fr.wikipedia.org/wiki/Apple_A12_Bionic)) (à partir de l'iPhone XR/XS/XS Max).
-- N'installez pas d'applications qui se disent améliorer la sécurité ou la performance de votre téléphone.
+- N'installez **pas** d'applications qui se disent améliorer la sécurité ou la performance de votre téléphone. Suivez la [règle KISS](https://fr.wikipedia.org/wiki/Principe_KISS).
 - Utilisez un code PIN de 6 chiffres minimum, mais 8 chiffres ou plus est recommandé.
 - Installez GrapheneOS sur votre Google Pixel.
 - Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphones qui ne sont plus supportés.
@@ -157,5 +158,6 @@ Pour réitérer :
 ## En savoir plus
 
 - [Le modèle de sécurité mobile - Wonderfall](https://wonderfall.space/modele-securite-mobile/)
-- [Android - Madaidan (en anglais)](https://madaidans-insecurities.github.io/android.html)
-- [Android Tips - PrivSec.dev (en anglais)](https://privsec.dev/os/android-tips/)*(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
+- [Android - Madaidan](https://madaidans-insecurities.github.io/android.html) (en anglais)
+- [Android Tips - PrivSec.dev](https://privsec.dev/os/android-tips/) *(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
+- [Badness Enumeration - PrivSec.dev](https://privsec.dev/knowledge/badness-enumeration) (en anglais)

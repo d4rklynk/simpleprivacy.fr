@@ -191,9 +191,9 @@ C'est bien de fermer les rideaux et de fermer votre porte, mais si les fenêtres
 
 En ce qui concerne les applications (qu'elles soient open source ou pas), on ne peut pas savoir si elles sont malveillantes ou si elles le deviendront un jour.
 
-Je vous ***déconseille fortement*** d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. Utilisez juste Windows Defender, c'est parfait. Et n'installez pas d'antivirus sur votre téléphone, c'est inutile, voire dangereux.
+Je vous ***déconseille fortement*** d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. Utilisez juste Windows Defender, c'est parfait. Et n'installez pas d'antivirus sur votre téléphone, [c'est inutile](https://privsec.dev/os/android-tips/#manage-android-permissions), voire [dangereux](https://privsec.dev/knowledge/badness-enumeration/#antiviruses).
 
-Un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) sur ce problème a déjà été traité par [Wonderfall](https://wonderfall.space/). Je vous invite fortement à le consulter.
+Un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) sur ce problème a déjà été traité par [Wonderfall](https://wonderfall.space/). Je vous invite fortement à le consulter (article en français).
 
 ### Les solutions
 
