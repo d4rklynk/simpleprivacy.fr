@@ -117,7 +117,7 @@ Cependant, j'avais besoin d'écrire un article là-dessus car certaines personne
 
 ## Fairphone
 
-Je vous déconseille fortement le Fairphone car il n'est pas sécurisé par défaut. En effet, Fairphone met à jour leurs téléphones pendant plusieurs années (leur premier téléphone de 2013 est toujours mise à jour) mais ne met pas à jour les firmwares ! Car seuls les constructeurs Qualcomm peuvent le faire !
+Je vous déconseille fortement le Fairphone car il [n'est pas sécurisé par défaut](https://privsec.dev/os/android-tips/#phones-to-avoid). En effet, Fairphone met à jour leurs téléphones pendant plusieurs années (leur premier téléphone de 2013 est toujours mise à jour) mais ne met pas à jour les firmwares ! Car seuls les constructeurs Qualcomm peuvent le faire !
 
 Qualcomm est l'entreprise qui créée la plupart des composants tels que les processeurs, puces graphiques, cartes mères pour la plupart des smartphones (Samsung, Xiaomi, OnePlus, Fairphone, etc.).
 

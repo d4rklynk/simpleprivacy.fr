@@ -7,7 +7,7 @@ date: 2022-08-08
 
 Les messageries instantanées sont des solutions de communication incontournables au 21ème siècle.
 
-Je vais vous expliquer le fonctionnement de ces messageries. Mais d'abord vous devez comprendre ce qu'est le chiffrement de bout en bout.
+Je vais vous en présenter quelques unes. Mais d'abord vous devez comprendre ce qu'est le chiffrement de bout en bout.
 
 ## Le chiffrement de bout en bout
 
@@ -68,7 +68,7 @@ Les messageries instantanées (certaines) implémentent donc le chiffrement de b
 
 ---
 
-Le **chiffrement** garantit la **confidentialité**.
+Le **chiffrement** garantit la **confidentialité**. *Le message est lisible uniquement par Alice et Bob.*
 
 ---
 
@@ -91,25 +91,39 @@ Si vous changez `France` en `france`, vous obtenez des résultats complétement 
 - **SHA1 :** `23e591e8c36dda987970603ad0fdd031b7dff9f9`
 - **SHA256 :** `2c598436e5575a5769b69986014588d52c2698414b623e81b2e776766c30eaba`
 
-Même si quelque chose de minime est changé, le hash (le résultat du hachage) sera complètement différent. Donc si Alice chiffre son message puis le hache, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'as pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
+Même si quelque chose de minime est changé, le hash (le résultat du hachage, aussi appelé **condensé** en français) sera complètement différent. Donc si Alice chiffre son message puis le hache, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'a pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
 
 ---
 
-Le **hachage** garantit l'**intégrité**.
+Le **hachage** garantit l'**intégrité**. *Le message n'a pas été corrompu ou modifié par un tiers.*
 
 ---
 
 ### La signature digitale
 
-La **signature** est générée grâce à une clé privée, et peut être vérifiée avec une clé publique (de celui qui l'a signé).
+La **signature** permet de prouver qui est l'expéditeur d'un message.
 
-Quand Alice souhaite générer une signature, elle va **chiffrer** la donnée (document, mails, message, ...) avec **sa clé privée à elle** (et non avec la clé publique de quelqu'un d'autre).
+*La signature est un **hash** qui a été **chiffré** avec une **clé privée**.*
 
-Si Alice souhaite envoyer un message à Bob, elle utilisera **la clé publique de Bob** pour **chiffrer** son message et **sa clé privée à elle** pour **signer** ce message, quand Bob recevra le message chiffré d'Alice, il **déchiffrera** le message avec sa **clé privée à lui** et vérifiera la **signature** du message grâce à la **clé publique d'Alice**.
+Dans le cas des signatures, les clés privées servent à **chiffrer**, et les clés publiques servent à **déchiffrer**. 
+
+En effet, dans le cas des **messages**, Alice doit être la seule à pouvoir **déchiffrer** ses messages (grâce à une **clé privée**), mais tout le monde doit être en mesure de **chiffrer** un message pour lui envoyer (grâce à une **clé publique**). 
+
+Alors que dans le cas des **signatures**, on veut être en mesure que tout le monde puisse **déchiffrer** la signature (grâce à la **clé publique**) afin de vérifier le hash, mais Alice doit être la seule personne à pouvoir **chiffrer** ce hash (grâce à la **clé privée**), car c'est ce qui permet de prouver que c'est bien elle qui a signé ce message. Car rappelez-vous, ***la clé privée reste privée !*** 
+
+> Si par malheur une personne volait **la clé privée d'Alice**, il serait en mesure de **déchiffrer** les messages d'Alice, mais également de faire croire que c'est bien Alice l'**expéditeur** du message !
+
+![signature](/instant-messengers/signature-graph.png#center)
+
+1. Alice souhaite envoyer un message à Bob, elle va hacher son message et chiffrer ce hash avec **sa clé privée à elle**, cela donnera une signature. Elle utilisera ensuite **la clé publique de Bob** pour **chiffrer** son message. Elle envoie donc deux fichiers à Bob, le **message chiffré** et la **signature**.
+
+![signature verification](/instant-messengers/signature-verification.png#center)
+
+2. Bob va donc recevoir ces deux fichiers, il déchiffrera le message d'Alice grâce à **sa clé privée à lui**. Mais afin de s'assurer que le message a bien été envoyé par Alice, il va déchiffrer la signature avec **la clé publique d'Alice**, il obtiendra donc le hash initial du message. Bob n'a plus qu'à hacher le message reçu d'Alice et comparer ce hash avec celui envoyé par Alice.
 
 ---
 
-La **signature digitale** garantit l'**authenticité**.
+La **signature digitale** garantit à la fois l'**authenticité** et l'**intégrité**. *Le message provient bien d'Alice (clé privée d'Alice) et il n'a pas été corrompu ou modifié par un tiers  (hash du message).*
 
 ---
 
