@@ -125,15 +125,18 @@ Je dirais qu'il y a 4 modèles de menaces différents concernant la vie privée 
 ### Protéger votre vie privée des fournisseurs de services
 
 Aujourd'hui, le fonctionnement basique d'un fournisseur de services consiste à garder les données en clair sur un serveur.
+
 > En réalité, vos données sont chiffrées sur leurs serveurs, mais les fournisseurs détiennent la clé pour déchiffrer vos fichiers. Pour faire simple, le fournisseur voit en clair vos données, cependant si un hacker venait à compromettre un des serveurs, vos données seraient illisibles, car uniquement vous et le fournisseur avez la clé permettant de déchiffrer vos données. C'est comme si vous aviez un coffre-fort à la banque et que vous leur donniez la clé. Quand vous allez à la banque, vous leur demandez d'ouvrir votre coffre-fort, la banque vérifiera juste que c'est bien vous (mail et mot de passe) et vous ouvrira le coffre. Cependant, si un voleur arrive à voler la clé à la banquière, votre coffre est compromis, une situation similaire n'est pas impossible avec les fournisseurs de services.
 
-Nos conversations privées par exemple sont en clair sur Discord, Facebook Messenger, Telegram ou les SMS, tous les messages peuvent être lu par les fournisseurs eux-mêmes ou des tiers (comme des hackers par exemple).
+Nos conversations privées par exemple sont en clair sur Discord, [Facebook Messenger](/basiques/instant-messengers/#facebook-messenger), [Telegram](/basiques/instant-messengers/#telegram) ou les SMS, tous les messages peuvent être lu par les fournisseurs eux-mêmes ou des tiers (comme des hackers par exemple).
 
 ### Les solutions
 Vous pouvez prévenir ces conséquences en utilisant un service qui propose le chiffrement de bout en bout.
+
 > Ce n'est plus la banquière qui a la clé, mais vous, et vous seul uniquement.
 
 [Signal](https://www.signal.org/fr/#signal) est un bon exemple de service de messagerie qui propose un chiffrement de bout en bout, vous et votre destinataire uniquement avez connaissance du message.
+
 > Les serveurs de Signal ne savent pas qui a écrit le message, ni ce qu'il y a dedans, ils savent juste à qui envoyer le message.
 
 Proton Drive est un autre exemple de service qui propose un chiffrement de bout en bout (Proton Drive a été créé par Proton Mail), uniquement vous, avez accès à vos fichiers.
@@ -143,6 +146,7 @@ Proton Drive est un autre exemple de service qui propose un chiffrement de bout 
 [Le capitalisme de surveillance](https://fr.wikipedia.org/wiki/%C3%89conomie_de_la_surveillance) est le champ économique qui tire profit de la surveillance numérique de masse.
 Les exemples typiques sont le [scandale de Cambridge Analytica](https://www.frandroid.com/culture-tech/494669_cambridge-analytica-tout-comprendre-au-scandale-de-fuite-de-donnees-qui-secoue-facebook) (voir "The Great Hack" sur Netflix) ou les [révélations d'Edward Snowden](https://www.lemonde.fr/pixels/article/2020/09/03/un-programme-de-surveillance-telephonique-de-la-nsa-juge-illegal-en-appel_6050843_4408996.html), de grosses entreprises collectaient les informations personnelles des gens puis les redonner au gouvernement américain.
 Afin de pister une personne, beaucoup de paramètres sont pris en compte, les plus courants sont :
+
 - Votre adresse IP
 - Les cookies de votre navigateur web
 - Le [fingerprinting](https://www.cnil.fr/fr/definition/fingerprinting) (n'utilisez pas d'extension comme le propose la CNIL dans ce lien, c'est inutile)
@@ -222,7 +226,8 @@ En ce qui concerne les applications open source, ce n'est pas parce qu'elles son
 
 ## Crédits
 
-- [Article sur le modèle de menace](https://privsec.dev/knowledge/threat-modeling/) par Tommy de [PrivSec.dev](https://privsec.dev) *(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
+- [Threat Model - PrivSec.Dev](https://privsec.dev/knowledge/threat-modeling/) *(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
+- [Badness Enumeration - PrivSec.dev](https://privsec.dev/knowledge/badness-enumeration/)
+- [Android Tips - PrivSec.dev](https://privsec.dev/os/android-tips/)
+- [Windows 10 - Chapitre sur Microsoft Defender - Wonderfall](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus)
 - EFF - [Votre plan de sécurité](https://ssd.eff.org/fr/module/votre-plan-de-s%C3%A9curit%C3%A9)
-
-
