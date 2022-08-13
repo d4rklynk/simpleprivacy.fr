@@ -195,6 +195,10 @@ Une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) prés
 
 Sur WhatsApp, les métadonnées ne sont pas chiffrées, et donc visibles par WhatsApp (et donc Facebook), telles que l'heure exacte de l'envoi de vos messages, à qui, combien de fois, pendant combien de temps, etc.
 
+Comme dirait [Edward Snowden](https://twitter.com/Snowden/status/661305566967562240) : 
+
+> Vous avez du mal à comprendre le terme "métadonnées" ? Remplacez-le avec le terme "Historique d'activité", parceque c'est ce que sont les métadonnées.
+
 Ces métadonnées sont [collectées par WhatsApp et partagées avec Facebook](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/).
 
 Les métadonnées sont [aussi importantes que les données](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes). Si vous êtes une femme et que vous parlez à un homme depuis quelques mois, et ce, tous les jours, on se doute que vous êtes en couple depuis peu. Si ensuite vous allez voir sur Facebook la page d'un restaurant, puis vous envoyez un message à vos parents, on suppose que vous allez présenter votre nouveau partenaire à vos parents. Dans les faits, c'est probablement encore plus simple, car on sous-estime énormément ce que sont les métadonnées.
