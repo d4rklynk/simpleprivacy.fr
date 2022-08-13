@@ -230,7 +230,7 @@ Je ne suis pas un expert, mais je vous recommande Signal également, en plus c'e
 
 ## Conlusion
 
-Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit **authenticité**, **intégrité** et **confidentialité**. J'ai écris un [tuto](/fiches/signal) pour ceux qui veulent savoir comment l'utiliser.
+Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit **authenticité**, **intégrité** et **confidentialité**. J'ai écris un [guide d'utilisation](/fiches/signal) pour ceux qui veulent.
 
 ---
 
