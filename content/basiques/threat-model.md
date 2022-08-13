@@ -1,5 +1,5 @@
 ---
-title: "Le modèle de menace \U0001f977"
+title: "Le modèle de menace (ou comment bien démarrer) \U0001f977"
 date: 2022-07-25
 weight: 2
 ---
