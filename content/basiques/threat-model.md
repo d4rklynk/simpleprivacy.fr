@@ -11,6 +11,7 @@ Afin de mieux comprendre, je vais vous présenter deux exemples.
 ## L'exemple d'Alice
 
 Alice possède un sac à dos, ce dernier contient :
+
 - un livre
 - des crayons
 - un billet de 20 €
@@ -20,9 +21,11 @@ Elle se rend au café de sa ville chaque matin afin de lire son livre, elle pose
 Après une heure de lecture, elle reprend son sac, et remarque que le billet de 20 a disparu, un pickpocket lui aura sûrement volé.
 
 ### Que peut-on en déduire de cette histoire ?
+
 Les informations, possessions, données, ou toute autre entité que vous souhaitez protéger est appelé un **actif** (ici, le billet de 20 €) et le danger est appelé une **menace** (ici, le pickpocket).
 
 5 choses essentielles sont à retenir :
+
 1. Alice a perdu un billet de 20 €, c'est quand même beaucoup pour certains, mais elle n'a pas perdu tout son capital économique.
 2. Un pickpocket le lui a volé, cela aurait pu être un voleur qui aurait pu prendre directement son sac, et donc perdre à la fois son billet et ses crayons.
 3. Elle n'a pas eu de chance, elle réside dans une ville très calme, elle va à son café tous les jours. Les chances qu'il y ait un pickpocket à ce moment-là étaient quasi-nulles.
@@ -30,15 +33,25 @@ Les informations, possessions, données, ou toute autre entité que vous souhait
 5. Elle aurait pu fermer son sac, mettre un cadenas dessus ou garder son sac sur ses genoux.
 
 À partir de cette histoire, on peut établir un **modèle de menace** en 5 étapes :
+
 1. Qu’est-ce qui vaut la peine d’être protégé ?
+
 > Pour Alice, elle pouvait protéger son billet de 20 € et son livre, les crayons étant peu importants.
+
 2. Contre qui les protéger ?
+
 > Elle doit protéger ses affaires de potentiels voleurs ou pickpockets.
+
 3. Quelle est la probabilité que ça arrive ?
+
 > Pour Alice, la probabilité était quasi-nulle. Un pickpocket dans le café d'une ville de campagne, Alice a manqué de chance.
+
 4. Quelle est l'ampleur des conséquences si j'échoue ?
+
 > L'ampleur était minime pour Alice, elle n'a perdu que 20 €.
+
 5. Quelles difficultés suis-je prêt à rencontrer pour prévenir ces conséquences ?
+
 > Elle aurait pu en effet fermer son sac. Cependant, cela aurait été exagéré de mettre un cadenas dessus vu la probabilité qu'une telle situation puisse arriver.
 
 
@@ -49,6 +62,7 @@ Maintenant que vous comprenez de quoi je parle, passons au deuxième exemple.
 ## L'exemple de Bob
 
 Bob possède une valise pour ses vacances. Il contient notamment :
+
 - Son PC portable
 - Ses papiers
 - De l'argent en monnaie courante
@@ -60,15 +74,24 @@ On remarque tout de suite qu'un **actif** peut devenir des **actifs**, on peut p
 **Une menace est toute entité qui porte atteinte à vos actifs**, cela peut être un incendie brûlant tous vos documents, un autre événement naturel, une personne, une entreprise, etc.
 
 Les 5 choses à retenir dans l'exemple de Bob sont :
+
 1. Qu’est-ce qui vaut la peine d’être protégé ?
+
 > Les actifs qu'il avait à protéger étaient le PC portable, ses papiers, et son argent en monnaie courante.
+
 2. Contre qui les protéger ?
+
 > La menace étant l'aéroport (ou l'organisation, ou les gens, etc.).
+
 3. Quelle est la probabilité que ça arrive ?
+
 > La probabilité que ça arrive est légère.
+
 4. Quelle est l'ampleur des conséquences si j'échoue ?
+
 > L'ampleur des conséquences est assez importante car il se retrouve dans un pays étranger, sans monnaie et sans papiers. Cela peut être plus ou moins facile de rentrer chez soi selon le pays où vous vous trouvez, mais même dans le meilleur des cas, vous vous retrouvez très embêté.
 5. Quelles difficultés suis-je prêt à rencontrer pour prévenir ces conséquences ?
+
 > Le fait qu'il ferme sa valise ou qu'il mette un cadenas dessus n'aurait pas pu prévenir ses conséquences. Il aurait pu cependant utiliser plusieurs valises, pour perdre moins d'actifs, mais cela complique le transport des valises de la maison de Bob vers l'aéroport. Une autre solution aurait pu être qu'il garde certains de ses actifs chez lui, tel que le PC portable, mais il en avait besoin pour ses vacances.
 
 Ces 5 questions doivent être posées à chaque fois qu'un modèle de menace est établi, évidemment ce n'est pas immuable, le modèle de menace peut changer à cause de plusieurs facteurs, menaces technologiques, actifs plus importants/onéreux, etc.
@@ -82,13 +105,37 @@ Si on reprend les menaces d'Alice, en réalité on peut aller plus loin qu'un si
 Un autre exemple de modèle de menace sont les bâtiments. Au Japon, les bâtiments sont prévus pour résister à des séismes, puisque ce sont les menaces potentielles au Japon pour les bâtiments. On n'aura pas de ce genre de bâtiments en France.
 Imaginez qu'à Brest on commence à construire des bâtiments résistants au feu, aux tornades, aux tsunamis, aux séismes, aux innondations, puis aux cambrioleurs, aux attentats, aux avions qui pourraient se crasher sur ces bâtiments, etc. Vous vous doutez bien que la plupart des solutions seraient inutiles, car il n'y a pas de séismes en Bretagne, ni de tornades ou de tsunamis. Cela prendrait trop de temps et d'argent, et si une menace est oubliée, tout le travail tomberait à l'eau. ***D'où l'importance de bien identifier les menaces potentielles.***
 
-**Vous devez rester réaliste sur les menaces potentielles qui pourraient nuire à votre vie privée, ne minimisez pas les risques, mais ne maximisez par les menaces non plus.**
+**Vous devez rester réaliste sur les menaces potentielles qui pourraient nuire à votre vie privée, ne minimisez pas les risques, mais ne maximisez par les menaces non plus (l'inverse est aussi vrai).**
+
+## Un vrai exemple dans la vraie vie
+
+Si je vous explique tout ça, c'est parce que quand les gens commencent à s'intéresser à la vie privée en ligne, ils se posent toujours les **mauvaises questions** :
+
+- "Comment je fais pour que Windows ne me piste pas ?"
+- "Est-ce que Alexa est vraiment mauvais pour la vie privée ?"
+- "Comment je fais pour ne pas être pisté sur mon navigateur ?"
+
+Quand j'ai commencé à m'intéresser à tout ça, je me suis posé les mêmes questions, et je me retrouvais à avoir des paradoxes sur les choix que je prenais. Par exemple :
+
+- Je modifiais mon Windows à l'extrême pour éviter d'être pisté.
+- J'ai acheté une Alexa, parce que je me suis dit que c'était juste pour allumer mes lumières, et que ce n'était pas grave.
+- J'ai installé [LineageOS](/basiques/smartphones/#aosp-et-firmware) sur mon téléphone pour éviter d'être pisté par Google, mais j'ai installé les applications Google, donc ça ne changait rien.
+
+Il ne faut pas se dire "Je n'aime pas les géants de la tech" ou "Je n'ai pas envie d'être pisté". Il faut réfléchir à comment ces entités peuvent vous pister, quelles sont les technologies qui permettent de faire ça, et comment pouvez-vous faire pour réduire cette menace.
+
+- J'ai donc commencé à me dire que je souhaitais **limiter la prise données par corrélation** aux services que je me connectais. J'ai commencé à **mentir sur qui j'étais** puisque je me suis rendu compte que la plupart des services n'avaient pas besoin de savoir mon prénom, mon nom, mon sexe, etc. 
+- Je me suis ensuite dit que je n'avais pas envie que **quiconque ait accès à mes données**, j'ai donc commencé à utiliser du [chiffrement de bout en bout](/basiques/instant-messengers/#le-chiffrement-de-bout-en-bout) pour les services cloud et les mails. J'utilise donc **Proton Drive** pour le **cloud**, et **Proton Mail** pour les **mails**. Puis pour la **communication** avec mes proches, je n'utilise plus que [Signal](/basiques/instant-messengers/#signal). J'ai acheté une Alexa, mais elle n'utilisait pas le chiffrement de bout en bout, je l'ai donc débranché, parce que les employés d'Amazon avaient accès à ma voix.
+- Cependant, les comptes tels que Google, Facebook, Instagram, etc. Si je m'y connecte, ils savent qui je suis, donc j'ai limité le plus possible la collecte de données dans les paramètres de ces services. Mais comme la collecte de données reste inévitable, les menaces potentielles ne sont pas cette collecte de données, mais qu'un tiers ait accès à mon compte. J'ai donc commencé à sécuriser le plus possible mes comptes en utilisant des [mots de passe robustes](/basiques/password-managers) et en activant l'authentification à double facteur.
+- Je me suis rendu compte également que la sécurité était tout aussi importante, car si je souhaite que personne n'ait accès à mes données, j'avais besoin de sécuriser un minimum mes appareils. Mon Windows n'était plus sécurisé car je l'avais beaucoup trop modifié. [LineageOS n'était absolument pas sécurisé](https://madaidans-insecurities.github.io/android.html#lineageos), etc.
+
+En vous posant les bonnes questions, les réponses seront beaucoup plus claires, c'est pourquoi je vous explique sur mon site web comment fonctionnent certains services et certaines applications, et comment se prémunir d'éventuelles menaces, pour que vous sachiez quoi faire.
 
 ## Le modèle de menace sur Internet
 
 ![GAFAM](/threat-model/gafam.png)
 
 Sur Internet, vos actifs sont vos données personnelles :
+
 - Prénom/nom
 - Âge
 - Sexe
@@ -131,6 +178,7 @@ Aujourd'hui, le fonctionnement basique d'un fournisseur de services consiste à 
 Nos conversations privées par exemple sont en clair sur Discord, [Facebook Messenger](/basiques/instant-messengers/#facebook-messenger), [Telegram](/basiques/instant-messengers/#telegram) ou les SMS, tous les messages peuvent être lu par les fournisseurs eux-mêmes ou des tiers (comme des hackers par exemple).
 
 ### Les solutions
+
 Vous pouvez prévenir ces conséquences en utilisant un service qui propose le chiffrement de bout en bout.
 
 > Ce n'est plus la banquière qui a la clé, mais vous, et vous seul uniquement.
@@ -230,4 +278,4 @@ En ce qui concerne les applications open source, ce n'est pas parce qu'elles son
 - [Badness Enumeration - PrivSec.dev](https://privsec.dev/knowledge/badness-enumeration/)
 - [Android Tips - PrivSec.dev](https://privsec.dev/os/android-tips/)
 - [Windows 10 - Chapitre sur Microsoft Defender - Wonderfall](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus)
-- EFF - [Votre plan de sécurité](https://ssd.eff.org/fr/module/votre-plan-de-s%C3%A9curit%C3%A9)
+- [Votre plan de sécurité - EFF](https://ssd.eff.org/fr/module/votre-plan-de-s%C3%A9curit%C3%A9)

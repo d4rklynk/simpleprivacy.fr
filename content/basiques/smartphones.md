@@ -73,13 +73,13 @@ C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même 
 
 ---
 
-Cependant, je vous **DÉCONSEILLE** d'installer LineageOS sur votre téléphone, car vous devez déverrouiller le bootloader, et cela détruit tout le modèle de sécurité d'Android. Je vous conseille soit de garder l'Android que vous avez par défaut, ou alors d'installer GrapheneOS, car vous pouvez reverrouiller le bootloader.
+Cependant, je vous **DÉCONSEILLE** d'[installer LineageOS](https://madaidans-insecurities.github.io/android.html#lineageos) sur votre téléphone, car vous devez [déverrouiller le bootloader](https://madaidans-insecurities.github.io/android.html#unlocking-the-bootloader), et cela détruit tout le modèle de sécurité d'Android. Je vous conseille soit de garder l'Android que vous avez par défaut, ou alors d'installer GrapheneOS, car vous pouvez reverrouiller le bootloader.
 
 ---
 
 ### Bootloader
 
-Pour faire simple, le [bootloader](https://www.reddit.com/r/LineageOS/comments/n7yo7u/a_discussion_about_bootloader_lockingunlocking/) est la partie qui cherche ce qu'il faut démarrer (ici, Android) juste après la mise sous tension de l'appareil. Le bootloader possède une fonctionnalité appelée " Android Verified Boot" (AVB) ou "démarrage sécurisé" en français. AVB permet entre autre de vérifier que le système d'exploitation est correct et n'a pas été modifié (par un virus, par quelqu'un ou par autre chose) ! Si le système avait été modifié, AVB aurait annulé ces modifications au démarrage !
+Pour faire simple, le [bootloader](https://www.reddit.com/r/LineageOS/comments/n7yo7u/a_discussion_about_bootloader_lockingunlocking/) est la partie qui cherche ce qu'il faut démarrer (ici, Android) juste après la mise sous tension de l'appareil. Le bootloader possède une fonctionnalité appelée "[Android Verified Boot](https://privsec.dev/os/choosing-your-android-based-operating-system/#verified-boot)" (AVB) ou "démarrage sécurisé" en français. AVB permet entre autre de vérifier que le système d'exploitation est correct et n'a pas été modifié (par un virus, par quelqu'un ou par autre chose) ! Si le système avait été modifié, AVB aurait annulé ces modifications au démarrage !
 
 Si vous déverrouiller votre bootloader, AVB sera désactivé, et donc vous aurez un manque total de sécurité sur votre smartphone.
 

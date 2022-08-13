@@ -161,6 +161,8 @@ Le message d'Alice est toujours sur le serveur.
 
 Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vouz étiez à la terrasse d'un café avec l'une de vos amies, et qu'au lieu de parler tranquillement, vous discutiez en hurlant.
 
+Ce n'est pas nouveau Facebook Messenger a toujours été capable de lire vos messages, et on nous l'a [encore prouvé](https://www.lemonde.fr/pixels/article/2022/08/11/avortement-illegal-aux-etats-unis-facebook-critique-pour-avoir-fourni-a-la-justice-des-messages-prives_6137767_4408996.html) en août 2022.
+
 Une fonctionnalité appelée "conversation secrète" est disponible sur Facebook, mais est à mon sens inutile puisque Facebook collecte massivement vos métadonnées de cette "conversation secrète". Je vous conseille d'abandonner Facebook Messenger et d'utiliser [Signal](#signal).
 
 ## WhatsApp
