@@ -111,22 +111,23 @@ Imaginez qu'à Brest on commence à construire des bâtiments résistants au feu
 
 Si je vous explique tout ça, c'est parce que quand les gens commencent à s'intéresser à la vie privée en ligne, ils se posent toujours les **mauvaises questions** :
 
-- "Comment je fais pour que Windows ne me piste pas ?"
-- "Est-ce que Alexa est vraiment mauvais pour la vie privée ?"
-- "Comment je fais pour ne pas être pisté sur mon navigateur ?"
+- "Comment dois-je faire pour que Windows ne me piste pas ?"
+- "Est-ce qu'Alexa est vraiment mauvaise pour votre vie privée ?"
+- "Comment dois-je faire pour ne pas être pisté sur mon navigateur ?"
+- "Dois-je changer mon Gmail pour Outlook ?"
 
 Quand j'ai commencé à m'intéresser à tout ça, je me suis posé les mêmes questions, et je me retrouvais à avoir des paradoxes sur les choix que je prenais. Par exemple :
 
 - Je modifiais mon Windows à l'extrême pour éviter d'être pisté.
 - J'ai acheté une Alexa, parce que je me suis dit que c'était juste pour allumer mes lumières, et que ce n'était pas grave.
-- J'ai installé [LineageOS](/basiques/smartphones/#aosp-et-firmware) sur mon téléphone pour éviter d'être pisté par Google, mais j'ai installé les applications Google, donc ça ne changait rien.
+- J'ai installé [LineageOS](/basiques/smartphones/#aosp-et-firmware) sur mon téléphone pour éviter d'être pisté par Google, mais j'ai installé les applications Google, donc ça ne changeait rien.
 
-Il ne faut pas se dire "Je n'aime pas les géants de la tech" ou "Je n'ai pas envie d'être pisté". Il faut réfléchir à comment ces entités peuvent vous pister, quelles sont les technologies qui permettent de faire ça, et comment pouvez-vous faire pour réduire cette menace.
+Il ne faut pas se dire "Je n'aime pas les géants de la tech" ou "Je n'ai pas envie d'être pisté". Il faut réfléchir à comment ces entités peuvent vous pister, quelles sont les technologies qui permettent de faire ça, et comment vous pouvez faire pour réduire cette menace.
 
-- J'ai donc commencé à me dire que je souhaitais **limiter la prise données par corrélation** aux services que je me connectais. J'ai commencé à **mentir sur qui j'étais** puisque je me suis rendu compte que la plupart des services n'avaient pas besoin de savoir mon prénom, mon nom, mon sexe, etc. 
+- J'ai donc commencé à me dire que je souhaitais **limiter la prise données par corrélation** aux services sur lesquels je me connectais. J'ai commencé à **mentir sur qui j'étais** puisque je me suis rendu compte que la plupart des services n'avaient pas besoin de savoir mon prénom, mon nom, mon sexe, etc. 
 - Je me suis ensuite dit que je n'avais pas envie que **quiconque ait accès à mes données**, j'ai donc commencé à utiliser du [chiffrement de bout en bout](/basiques/instant-messengers/#le-chiffrement-de-bout-en-bout) pour les services cloud et les mails. J'utilise donc **Proton Drive** pour le **cloud**, et **Proton Mail** pour les **mails**. Puis pour la **communication** avec mes proches, je n'utilise plus que [Signal](/basiques/instant-messengers/#signal). J'ai acheté une Alexa, mais elle n'utilisait pas le chiffrement de bout en bout, je l'ai donc débranché, parce que les employés d'Amazon avaient accès à ma voix.
-- Cependant, les comptes tels que Google, Facebook, Instagram, etc. Si je m'y connecte, ils savent qui je suis, donc j'ai limité le plus possible la collecte de données dans les paramètres de ces services. Mais comme la collecte de données reste inévitable, les menaces potentielles ne sont pas cette collecte de données, mais qu'un tiers ait accès à mon compte. J'ai donc commencé à sécuriser le plus possible mes comptes en utilisant des [mots de passe robustes](/basiques/password-managers) et en activant l'authentification à double facteur.
-- Je me suis rendu compte également que la sécurité était tout aussi importante, car si je souhaite que personne n'ait accès à mes données, j'avais besoin de sécuriser un minimum mes appareils. Mon Windows n'était plus sécurisé car je l'avais beaucoup trop modifié. [LineageOS n'était absolument pas sécurisé](https://madaidans-insecurities.github.io/android.html#lineageos), etc.
+- Cependant, si je me connecte à mes comptes Google, Facebook, Instagram, etc, ils savent déjà qui je suis. J'ai donc limité le plus possible la collecte de données dans les paramètres de ces services. Mais comme la collecte de données reste inévitable, les menaces potentielles ne sont pas cette collecte de données, mais qu'un tiers ait accès à mon compte. J'ai donc commencé à sécuriser le plus possible mes comptes en utilisant des [mots de passe robustes](/basiques/password-managers) et en activant l'authentification à double facteur.
+- Je me suis rendu compte également que la sécurité était tout aussi importante, car si je souhaite que personne n'ait accès à mes données, j'avais besoin de sécuriser un maximum mes appareils. Mon Windows n'était plus sécurisé car je l'avais beaucoup trop modifié. [LineageOS n'était absolument pas sécurisé](https://madaidans-insecurities.github.io/android.html#lineageos), etc.
 
 En vous posant les bonnes questions, les réponses seront beaucoup plus claires, c'est pourquoi je vous explique sur mon site web comment fonctionnent certains services et certaines applications, et comment se prémunir d'éventuelles menaces, pour que vous sachiez quoi faire.
 

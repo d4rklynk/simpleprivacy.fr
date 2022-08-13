@@ -150,6 +150,16 @@ Maintenant que vous avez compris ces notions, je vais vous présenter différent
 
 ---
 
+## SMS
+
+J'en profite pour vous dire que vous devriez éviter un maximum les SMS, c'est probablement la technologie la moins sécurisée en terme de moyen de communication. Les [SMS ne sont pas chiffrés](https://proton.me/blog/stop-using-sms) et peuvent être lisible par n'importe qui. Votre FAI (Fournisseur d'Accès à Internet : Orange, Free etc.) ou un hacker peut lire tous vos SMS, et les revendre à des tiers ou les donner au gouvernement.
+
+---
+
+Partez du principe que quand vous envoyez un SMS, il peut être lu ***par n'importe qui !*** Si possible, évitez absolument son utilisation.
+
+---
+
 ## Facebook Messenger
 
 [Facebook Messenger](https://www.messenger.com/?locale=fr_FR) fonctionne de cette manière :
@@ -184,6 +194,9 @@ Une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) prés
 > WhatsApp utilise le "[Signal Protocol](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)". Cependant, le "Signal Protocol" ne garantit pas que les **métadonnées** soit chiffrées.
 
 Sur WhatsApp, les métadonnées ne sont pas chiffrées, et donc visibles par WhatsApp (et donc Facebook), telles que l'heure exacte de l'envoi de vos messages, à qui, combien de fois, pendant combien de temps, etc.
+
+Ces métadonnées sont [collectées par WhatsApp et partagées avec Facebook](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/).
+
 Les métadonnées sont [aussi importantes que les données](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes). Si vous êtes une femme et que vous parlez à un homme depuis quelques mois, et ce, tous les jours, on se doute que vous êtes en couple depuis peu. Si ensuite vous allez voir sur Facebook la page d'un restaurant, puis vous envoyez un message à vos parents, on suppose que vous allez présenter votre nouveau partenaire à vos parents. Dans les faits, c'est probablement encore plus simple, car on sous-estime énormément ce que sont les métadonnées.
 
 Même si vos messages sur WhatsApp sont chiffrés, on n'a pas besoin de connaître le contenu des messages pour connaître votre vie.
