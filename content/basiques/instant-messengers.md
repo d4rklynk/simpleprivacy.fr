@@ -254,7 +254,7 @@ Pour ce faire, allez sur **WhatsApp** :
 - Une fois que vous les avez toutes sélectionnez, cliquez sur le bouton **Partagez**.
 - Partagez-les via WhatsApp, puis choisissez "Status".
 - Ajoutez votre propre texte sur la diapositive numéro 1.
-- Cliquez sur "**Envoyez**"
+- Cliquez sur "**Envoyez**".
 
 ## Conlusion
 
