@@ -193,7 +193,21 @@ Une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) prés
 
 > WhatsApp utilise le "[Signal Protocol](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)". Cependant, le "Signal Protocol" ne garantit pas que les **métadonnées** soit chiffrées.
 
-Sur WhatsApp, les métadonnées ne sont pas chiffrées, et donc visibles par WhatsApp (et donc Facebook), telles que l'heure exacte de l'envoi de vos messages, à qui, combien de fois, pendant combien de temps, etc.
+Sur WhatsApp, les métadonnées ne sont pas chiffrées, et donc visibles par WhatsApp (et donc Facebook), telles que :
+
+- quand vous êtes en ligne
+- quand vous écrivez, et à qui
+- combien de temps vous écrivez, et à qui
+- combien de mots vous écrivez, et à qui
+- si vous utilisez WhatsApp sur téléphone ou sur PC
+- et d'où (localisation)
+
+De plus comme WhatsApp est relié à Facebook, Facebook connait donc également :
+
+- tous vos contacts et leur numéro de téléphone
+- vos interactions avec des produits et vos informations publicitaires
+- votre identité, l'identité de l'appareil
+- votre adresse IP
 
 Comme dirait [Edward Snowden](https://twitter.com/Snowden/status/661305566967562240) : 
 
@@ -227,6 +241,20 @@ Un [chapitre en anglais](https://madaidans-insecurities.github.io/messengers.htm
 Beaucoup d'experts en sécurité ont toujours recommandé Signal.
 
 Je ne suis pas un expert, mais je vous recommande Signal également, en plus c'est super simple à utiliser, vous avez autant de fonctionnalités que WhatsApp, voire plus.
+
+### Convainquez votre entourage
+
+Une [personne sur Internet](https://www.reddit.com/r/signal/comments/kwovyz/whatsapp_status_to_convince_your_family_friends/) a eu la gentillesse de créer un petit diaporama que vous pouvez mettre sur votre status WhatsApp pour que puissiez convaincre votre entourage d'utiliser Signal au lieu de WhatsApp (vous pouvez aussi juste partager ce diaporama directement par message via [ce lien](https://imgbox.com/g/5Po0sskqve)).
+
+Pour ce faire, allez sur **WhatsApp** :
+
+- Allez dans vos paramètres de confidentialité, et vérifiez que le status WhatsApp est visible par tout le monde.
+- Téléchargez le [fichier zip](/instant-messengers/FR+(EU).zip) sur votre téléphone.
+- Allez dans le dossier décompressé et sélectionnez dans l'ordre les images une par une.
+- Une fois que vous les avez toutes sélectionnez, cliquez sur le bouton **Partagez**.
+- Partagez-les via WhatsApp, puis choisissez "Status".
+- Ajoutez votre propre texte sur la diapositive numéro 1.
+- Cliquez sur "**Envoyez**"
 
 ## Conlusion
 
