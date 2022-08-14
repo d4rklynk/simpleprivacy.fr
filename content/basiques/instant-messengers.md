@@ -242,7 +242,7 @@ Beaucoup d'experts en sécurité ont toujours recommandé Signal.
 
 Je ne suis pas un expert, mais je vous recommande Signal également, en plus c'est super simple à utiliser, vous avez autant de fonctionnalités que WhatsApp, voire plus.
 
-### Convainquez votre entourage
+### Comment convaincre votre entourage d'utiliser Signal
 
 Une [personne sur Internet](https://www.reddit.com/r/signal/comments/kwovyz/whatsapp_status_to_convince_your_family_friends/) a eu la gentillesse de créer un petit diaporama que vous pouvez mettre sur votre status WhatsApp pour que puissiez convaincre votre entourage d'utiliser Signal au lieu de WhatsApp (vous pouvez aussi juste partager ce diaporama directement par message via [ce lien](https://imgbox.com/g/5Po0sskqve)).
 
