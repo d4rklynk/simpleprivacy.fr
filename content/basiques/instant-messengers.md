@@ -251,7 +251,7 @@ Pour ce faire, allez sur **WhatsApp** :
 - Allez dans vos paramètres de confidentialité, et vérifiez que le status WhatsApp est visible par tout le monde.
 - Téléchargez le [fichier zip](/instant-messengers/FR+(EU).zip) sur votre téléphone.
 - Allez dans le dossier décompressé et sélectionnez dans l'ordre les images une par une.
-- Une fois que vous les avez toutes sélectionnez, cliquez sur le bouton **Partagez**.
+- Une fois que vous les avez toutes sélectionné, cliquez sur le bouton **Partagez**.
 - Partagez-les via WhatsApp, puis choisissez "Status".
 - Ajoutez votre propre texte sur la diapositive numéro 1.
 - Cliquez sur "**Envoyez**".
