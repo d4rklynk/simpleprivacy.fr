@@ -48,3 +48,9 @@ Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous sou
 - Gardez vos données pour vous, évitez un maximum de les mettre en ligne (le fait de partagez vos photos sur [Facebook Messenger](/basiques/instant-messengers/#facebook-messenger) est équivalent à les mettre en ligne), si vous le devez, utilisez un service proposant du [chiffrement de bout en bout](/basiques/instant-messengers/#le-chiffrement-de-bout-en-bout). 
 
 > Ma définition de mettre en ligne un fichier : c'est à partir du moment où la donnée sort de votre PC ou de votre smartphone.
+
+---
+
+En savoir plus & crédits
+
+- [Security and Privacy Advice - Madaidan](https://madaidans-insecurities.github.io/security-privacy-advice.html)

@@ -89,3 +89,9 @@ Je vous conseille d'utiliser uniquement Signal et de convaincre votre entourage 
 - [Element](https://element.io/)
 
 > C'est une alternative à des applications comme Discord.
+
+## Alternatives à Youtube
+
+NewPipe sur Android est recommandé. Toutes les pubs dans les vidéos sont enlevées. Toutes les vidéos viennent de YouTube, l'application n'est pas développée par Google mais par des bénévoles.
+
+- [NewPipe](https://newpipe.net/)
