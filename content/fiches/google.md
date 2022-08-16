@@ -1,5 +1,5 @@
 ---
-title: "Google : Limiter la collecte de données \U0000270b"
+title: "Google : Limitez la collecte de données et sécurisez votre compte \U0000270b"
 date: 2022-08-14
 ---
 
