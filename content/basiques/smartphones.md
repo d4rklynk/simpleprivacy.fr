@@ -69,7 +69,7 @@ Si vous changer le système d'exploitation de votre téléphone Android avec un 
 
 Le firmware, pour expliquer grossièrement, ne fait pas parti du système d'exploitation d'Android. C'est le mini-système d'exploitation des composants intégrés à votre téléphone.
 
-> Si le firmware n'est pas mis à jour, de gros failles de sécurité peuvent survenir. Un smartphone qui n'est plus supporté par les constructeurs est complètement vulnérable !
+> Si le firmware n'est pas mis à jour, de grosses failles de sécurités peuvent survenir. Un smartphone qui n'est plus supporté par les constructeurs est complètement vulnérable !
 
 C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même de prendre au minimum un Google Pixel 6 (ou 6 pro, ou 6a), car tous les Google Pixel à partir du 6, bénéficieront de [5 ans de mises à jour de sécurité](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures) minimum !
 
