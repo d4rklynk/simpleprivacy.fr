@@ -69,6 +69,8 @@ Si vous changer le système d'exploitation de votre téléphone Android avec un 
 
 Le firmware, pour expliquer grossièrement, ne fait pas parti du système d'exploitation d'Android. C'est le mini-système d'exploitation des composants intégrés à votre téléphone.
 
+> Si le firmware n'est pas mis à jour, de gros failles de sécurité peuvent survenir. Un smartphone qui n'est plus supporté par les constructeurs est complètement vulnérable !
+
 C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même de prendre au minimum un Google Pixel 6 (ou 6 pro, ou 6a), car tous les Google Pixel à partir du 6, bénéficieront de [5 ans de mises à jour de sécurité](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures) minimum !
 
 ---
@@ -87,7 +89,7 @@ Vous ne pouvez pas reverrouiller votre smartphone avec LineageOS, mais vous pouv
 
 ### Antivirus
 
-Pour la sécurité de votre smartphone, [n'installez **PAS**](https://privsec.dev/os/android-tips/#manage-android-permissions) d'antivirus, gratuits ou payants. Les antivirus se basent sur le [badness enumeration](https://privsec.dev/knowledge/badness-enumeration/#antiviruses) (littéralement : l'énumération du mal)
+Pour la sécurité de votre smartphone, [n'installez **PAS**](https://privsec.dev/os/android-tips/#manage-android-permissions) d'antivirus, gratuits ou payants. Les antivirus se basent sur le [badness enumeration](https://privsec.dev/knowledge/badness-enumeration/#antiviruses) (littéralement : l'énumération du mal) qui est une méthode complètement détachée de la réalité.
 
 Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur les smartphones](https://wonderfall.space/modele-securite-mobile/).
 
