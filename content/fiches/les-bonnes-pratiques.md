@@ -1,5 +1,5 @@
 ---
-title: "Les bonnes pratiques sur Internet"
+title: "Les bonnes pratiques sur Internet 👍️"
 date: 2022-08-16
 weight: 1
 ---
