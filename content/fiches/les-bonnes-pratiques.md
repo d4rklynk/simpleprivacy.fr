@@ -1,5 +1,7 @@
 ---
 title: "Les bonnes pratiques sur Internet"
+date: 2022-08-16
+weight: 1
 ---
 
 Ce guide va vous permettre d'adopter des bonnes pratiques pour regagner votre vie privée mais également pour gagner en sécurité ! Tout ça sans trop d'efforts !
