@@ -169,7 +169,7 @@ Partez du principe que quand vous envoyez un SMS, il peut être lu ***par n'impo
 Quand Alice envoie un message à Bob, l'application Messenger envoie le message aux serveurs de Facebook. Ce message reste stocké sur ce serveur. L'application Messenger de Bob va demander au serveur de voir le message, le serveur lui envoie une copie de ce message, et Bob sera en mesure de lire le message d'Alice.
 Le message d'Alice est toujours sur le serveur.
 
-Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vouz étiez à la terrasse d'un café avec l'une de vos amies, et qu'au lieu de parler tranquillement, vous discutiez en hurlant.
+Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vouz étiez à la terrasse d'un café avec l'[une de vos amies](/about/#écriture-inclusive), et qu'au lieu de parler tranquillement, vous discutiez en hurlant.
 
 Ce n'est pas nouveau, Facebook Messenger a toujours été capable de lire vos messages, et on nous l'a [encore prouvé](https://www.lemonde.fr/pixels/article/2022/08/11/avortement-illegal-aux-etats-unis-facebook-critique-pour-avoir-fourni-a-la-justice-des-messages-prives_6137767_4408996.html) en août 2022.
 
