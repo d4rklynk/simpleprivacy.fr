@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright>
-    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/fiches/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/fiches/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitwarden : Comment l&#39;utiliser 🔑</title>
       <link>http://samsepi0l.ovh/fiches/bitwarden/</link>
@@ -36,6 +36,17 @@ Je vous conseille de lire mon article sur les messageries instantanées dont un 
 Toutes les informations concernant l&amp;rsquo;utilisation de Signal sont disponibles sur leur site web.
 Installation Signal peut être installé sur Android, IOS, Windows, Linux et MacOS.
 Vous pouvez le télécharger via le Play Store, l&amp;rsquo;AppStore ou via leur site .</description>
+    </item>
+    
+    <item>
+      <title>Google : Limiter la collecte de données ✋</title>
+      <link>http://samsepi0l.ovh/fiches/google/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/fiches/google/</guid>
+      <description>Comme vous souhaitez probablement garder votre compte Google, je vais vous montrer les différents paramètres pour limiter un peu la collecte de données faite par l&amp;rsquo;entreprise.
+Pour accéder aux paramètres de votre compte, allez sur Google , cliquez sur votre image de profil puis &amp;ldquo;Gérer votre compte Google&amp;rdquo;.
+Informations personnelles Dans les informations personnelles, gardez juste votre prénom ou un pseudonyme, inutile de donner votre nom de famille à Google.</description>
     </item>
     
     <item>
