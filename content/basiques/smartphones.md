@@ -17,7 +17,7 @@ Pour les smartphones, je vous recommande uniquement un [iPhone](https://wonderfa
 
 N'achetez **PAS** de Google Pixel chez votre fournisseur d'accès à Internet (Orange, Free, SFR, Bouygues). Le téléphone est bloqué et vous ne pouvez pas déverrouiller le bootloader comme expliqué plus loin dans [le chapitre dédié](#bootloader). Achetez **toujours** votre téléphone dans les magasins comme la Fnac, Boulanger, Amazon, etc.
 
-Alors oui, je vous voir venir, mais si je vous recommande uniquement ces deux smartphones, c'est parce qu'ils sont les plus sécurisés du marché. Par exemple, vous pouvez mettre un code PIN à 6 chiffres sur ces téléphones (iPhone et Google Pixel), que ça prendrait des dizaines d'années à cracker (normalement, ça prend beaucoup moins de temps sur d'autres marques de téléphones).
+Alors oui, je vous voir venir, mais si je vous recommande uniquement ces deux smartphones, c'est parce qu'ils sont les plus sécurisés du marché. Par exemple, vous pouvez mettre un code PIN à 4 chiffres sur ces téléphones (iPhone et Google Pixel), que ça prendrait des dizaines d'années à cracker (normalement, ça prend beaucoup moins de temps sur d'autres marques de téléphones).
 
 Les Google Pixel, à partir du 6, ont [**5 ans de support**](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures) minimum.
 
