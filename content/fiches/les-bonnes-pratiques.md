@@ -4,6 +4,8 @@ date: 2022-08-16
 weight: 1
 ---
 
+![Bonnes pratiques cover](/bonnes-pratiques/bonnes-pratiques-cover.jpg)
+
 Ce guide va vous permettre d'adopter des bonnes pratiques pour regagner votre vie privée mais également en sécurité ! Tout ça sans trop d'efforts !
 
 Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous souhaitez plus d'infos, je vous enverrai vers mes autres articles ou vers des liens externes.
