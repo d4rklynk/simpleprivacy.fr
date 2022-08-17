@@ -103,14 +103,14 @@ Vous pouvez, en complément, utiliser l'empreinte digitale, cela évitera que le
 
 ## Le problème des prix
 
-Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, et de l'acheter après que Google sorte le Pixel 7 vers Octobre 2022, vous aurez peut-être des réductions car Google essayera de vider ses stocks de Google Pixel 6a. De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent car un Xiaomi (et croyez-moi par expérience) ne tient jamais long feu (grand maximum 2 ans) et le support s'arrête au bout de 2 ans. Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 470€ au moment où je vous écris, vous économisez bien 30€, voire plus si vous arrivez à avoir des réductions sur le Google Pixel.
+Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, et de l'acheter après que Google sorte le Pixel 7 vers Octobre 2022, vous aurez peut-être des réductions car Google essayera de vider ses stocks de Google Pixel 6a. De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent car un Xiaomi (et croyez-moi par expérience) ne tient jamais long feu (grand maximum 2 ans) et le support s'arrête au bout de 2 ans. Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 460€ au moment où je vous écris, vous économisez bien 40€, voire plus si vous arrivez à avoir des réductions sur le Google Pixel.
 
 Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
 
 1. Le support s'arrête
 2. Il soit tellement cassé qu'il soit inutilisable
 
-Pour conclure, oui 470€ c'est cher, mais étalé sur 5 ans, ça reste abordable. Et de plus, vous pourrez probablement l'avoir à moins cher que ça au moment où lirez cet article.
+Pour conclure, oui 460€ c'est cher, mais étalé sur 5 ans, ça reste abordable. Et de plus, vous pourrez probablement l'avoir à moins cher que ça au moment où lirez cet article.
 
 ### Notes
 
