@@ -256,7 +256,7 @@ Pour ce faire, allez sur **WhatsApp** :
 - Ajoutez votre propre texte sur la diapositive numéro 1.
 - Cliquez sur "**Envoyez**".
 
-## Conlusion
+## Conclusion
 
 Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit **authenticité**, **intégrité** et **confidentialité**. J'ai écris un [guide d'utilisation](/fiches/signal) pour ceux qui veulent.
 
