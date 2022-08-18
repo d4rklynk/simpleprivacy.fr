@@ -246,6 +246,8 @@ Arrêtez d'utiliser Telegram, c'est pire que Facebook Messenger.
 
 [Signal](https://www.signal.org/fr/#signal) est l'application par excellence, elle est utilisée par [Edward Snowden](https://mobile.twitter.com/Snowden/status/661313394906161152), les [métadonnées sont protégées](https://signal.org/blog/sealed-sender/). Les [seules métadonnées](https://signal.org/bigbrother/eastern-virginia-grand-jury/) que Signal possède d'un utilisateur sont la date et l'heure de création du compte et la dernière fois qu'il s'est connecté sur leurs services. Oui, c'est rien. Et leur [protocole](https://www.signal.org/docs/) ("**The Signal Protocol**") est un standard de nos jours (la preuve est que [WhatsApp](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf) et [Facebook Messenger l'utilisent](https://about.fb.com/wp-content/uploads/2016/07/messenger-secret-conversations-technical-whitepaper.pdf#page=4) depuis des années).
 
+Signal est [open-source](https://github.com/signalapp) et a été [audité](https://eprint.iacr.org/2016/1013.pdf).
+
 Beaucoup d'experts en sécurité ont toujours recommandé Signal.
 
 Je ne suis pas un expert, mais je vous recommande Signal également, en plus c'est super simple à utiliser, vous avez autant de fonctionnalités que WhatsApp, voire plus.
