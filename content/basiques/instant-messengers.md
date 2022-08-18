@@ -225,7 +225,7 @@ En archéologie par exemple, on peut deviner l'utilité d'un objet grâce aux m�
 
 ## Telegram
 
-[Telegram](https://telegram.org/?setln=fr) ne propose pas de chiffrement de bout en bout par défaut (comme Facebook Messenger). Les messages restent sur les serveurs et sont donc visibles par Telegram.
+[Telegram](https://telegram.org/?setln=fr) ne propose pas de chiffrement de bout en bout par défaut (comme Facebook Messenger). Les messages restent en clair sur leurs serveurs et sont donc visibles par Telegram.
 
 De plus, Telegram utilise son propre protocole qui n'a pas été audité. Telegram est le seul à l'utiliser, ce protocole est propriétaire, on n'a donc aucune idée ce qu'il fait.
 
