@@ -102,7 +102,7 @@ Ne croyez pas que vous n'êtes pas manipulé par ces services, ça fait 20 ans q
 
 ### Pour en revenir à mon exemple des esclaves :
 
-Un esclave, est, [selon la définition du Larousse](https://www.larousse.fr/dictionnaires/francais/esclave/30979)
+Un esclave, est, [selon la définition du Larousse](https://www.larousse.fr/dictionnaires/francais/esclave/30979) :
 > Une personne de condition non-libre, considérée comme un instrument économique pouvant être vendu ou acheté, et qui était sous la dépendance d'un maître.`
 
 Vous allez probablement me dire que je suis fou de comparer l'esclavage au concept de vie privée, probablement. Mais regardez :

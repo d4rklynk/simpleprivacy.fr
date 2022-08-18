@@ -102,7 +102,7 @@ Cela demanderait beaucoup trop d'investissement, d'argent, et de temps pour pouv
 
 Si on reprend les menaces d'Alice, en réalité on peut aller plus loin qu'un simple pickpocket. Imaginez qu'un incendie se déclare dans le café, qu'un tremblement de terre survient, ou que des soldats entrent dans le café car la guerre a éclaté entre son pays et un autre. C'est au revoir le sac à dos, peut-être même au revoir Alice.
 
-Un autre exemple de modèle de menace sont les bâtiments. Au Japon, les bâtiments sont prévus pour résister à des séismes, puisque ce sont les menaces potentielles au Japon pour les bâtiments. On n'aura pas de ce genre de bâtiments en France.
+Un autre exemple de modèle de menace sont les bâtiments. Au Japon, les bâtiments sont prévus pour résister à des séismes, puisque ce sont les menaces potentielles au Japon. On n'aura pas de ce genre de bâtiments en France.
 Imaginez qu'à Brest on commence à construire des bâtiments résistants au feu, aux tornades, aux tsunamis, aux séismes, aux innondations, puis aux cambrioleurs, aux attentats, aux avions qui pourraient se crasher sur ces bâtiments, etc. Vous vous doutez bien que la plupart des solutions seraient inutiles, car il n'y a pas de séismes en Bretagne, ni de tornades ou de tsunamis. Cela prendrait trop de temps et d'argent, et si une menace est oubliée, tout le travail tomberait à l'eau. ***D'où l'importance de bien identifier les menaces potentielles.***
 
 **Vous devez rester réaliste sur les menaces potentielles qui pourraient nuire à votre vie privée, ne minimisez pas les risques, mais ne maximisez par les menaces non plus (l'inverse est aussi vrai).**
@@ -124,7 +124,7 @@ Quand j'ai commencé à m'intéresser à tout ça, je me suis posé les mêmes q
 
 Il ne faut pas se dire "Je n'aime pas les géants de la tech" ou "Je n'ai pas envie d'être pisté". Il faut réfléchir à comment ces entités peuvent vous pister, quelles sont les technologies qui permettent de faire ça, et comment vous pouvez faire pour réduire cette menace.
 
-- J'ai donc commencé à me dire que je souhaitais **limiter la prise données par corrélation** aux services sur lesquels je me connectais. J'ai commencé à **mentir sur qui j'étais** puisque je me suis rendu compte que la plupart des services n'avaient pas besoin de savoir mon prénom, mon nom, mon sexe, etc. 
+- J'ai donc commencé à me dire que je souhaitais **limiter la prise de  données par corrélation** aux services sur lesquels je me connectais. J'ai commencé à **mentir sur qui j'étais** puisque je me suis rendu compte que la plupart des services n'avaient pas besoin de savoir mon prénom, mon nom, mon sexe, etc. 
 - Je me suis ensuite dit que je n'avais pas envie que **quiconque ait accès à mes données**, j'ai donc commencé à utiliser du [chiffrement de bout en bout](/basiques/instant-messengers/#le-chiffrement-de-bout-en-bout) pour les services cloud et les mails. J'utilise donc **Proton Drive** pour le **cloud**, et **Proton Mail** pour les **mails**. Puis pour la **communication** avec mes proches, je n'utilise plus que [Signal](/basiques/instant-messengers/#signal). J'ai acheté une Alexa, mais elle n'utilisait pas le chiffrement de bout en bout, je l'ai donc débranché, parce que les employés d'Amazon avaient accès à ma voix.
 - Cependant, si je me connecte à mes comptes Google, Facebook, Instagram, etc, ils savent déjà qui je suis. J'ai donc limité le plus possible la collecte de données dans les paramètres de ces services. Mais comme la collecte de données reste inévitable, les menaces potentielles ne sont pas cette collecte de données, mais qu'un tiers ait accès à mon compte. J'ai donc commencé à sécuriser le plus possible mes comptes en utilisant des [mots de passe robustes](/basiques/password-managers) et en activant l'authentification à double facteur.
 - Je me suis rendu compte également que la sécurité était tout aussi importante, car si je souhaite que personne n'ait accès à mes données, j'avais besoin de sécuriser un maximum mes appareils. Mon Windows n'était plus sécurisé car je l'avais beaucoup trop modifié. [LineageOS n'était absolument pas sécurisé](https://madaidans-insecurities.github.io/android.html#lineageos), etc.
@@ -224,7 +224,7 @@ Le but étant de ***séparer votre activité en ligne de votre réelle identité
 
 La meilleure manière de garder vos informations privées et de ne pas les mettre sur Internet en premier lieu.
 
-Cependant, vous avez probablement des comptes en mode publique, comme Instagram, Facebook ou encore Twitter. Allez dans les paramètres et activez le mode "compte privée", cela empêchera que vous soyez dans les résultats des moteurs de recherche par exemple (ex : Google). Et vous devrez accepter manuellement les gens qui veulent voir votre compte (faites-le, même si vous souhaitez accepter tout le monde).
+Cependant, vous avez probablement des comptes en mode publique, comme Instagram, Facebook ou encore Twitter. Allez dans les paramètres et activez le mode "compte privé", cela empêchera que vous soyez dans les résultats des moteurs de recherche par exemple (ex : Google). Et vous devrez accepter manuellement les gens qui veulent voir votre compte (faites-le, même si vous souhaitez accepter tout le monde).
 
 Encore une fois, ***omettez ou falsifiez vos informations*** le plus possible.
 
@@ -233,6 +233,7 @@ Encore une fois, ***omettez ou falsifiez vos informations*** le plus possible.
 *Voir mes autres articles sur le sujet :*
 
 - [Instagram : Limitez l'information publique et la collecte de données](/fiches/instagram)
+- [Google : Limitez la collecte de données et sécurisez votre compte](/fiches/google)
 
 ---
 
@@ -265,11 +266,11 @@ Les **erreurs** de débutant les plus communes sont de :
 - Faire aveuglément confiance à un autre service juste parce que ce n'est pas un géant de la tech.
 - Faire aveuglément confiance aux solutions open source.
 
-[Comme dit plus haut](#les-géants-de-la-tech-ne-sont-pas-la-source-du-problème), essayez de déterminer le vrai problème de fond. Si vous n'aimez pas Google Drive parce qu'ils ont un accès complet à vos données, le problème n'est pas Google, mais le manque de chiffrement de bout en bout. Si vous passez de Google Drive à OneDrive par exemple, le problème reste exactement le même : Microsoft (OneDrive) a accès à vos données.
+[Comme dit plus haut](#les-géants-de-la-tech-ne-sont-pas-la-source-du-problème), essayez de déterminer le vrai problème de fond. Si vous n'aimez pas Google Drive parce qu'ils ont un accès complet à vos données, le problème n'est pas Google, mais le manque de [chiffrement de bout en bout](/basiques/instant-messengers.md/#le-chiffrement-de-bout-en-bout). Si vous passez de Google Drive à OneDrive par exemple, le problème reste exactement le même : Microsoft (OneDrive) a accès à vos données.
 
 Alors qu'en chiffrant vos fichiers avant de les transférer sur votre service cloud préféré, ou plus simple encore, d'utiliser un service qui propose un chiffrement de bout en bout par défaut comme [Proton Drive](https://proton.me/fr/drive). Là, vous réglez le vrai problème de fond.
 
-En ce qui concerne les applications open source, ce n'est pas parce qu'elles sont open source qu'elles respectent votre vie privée ou qu'elles sont très sécurisées. C'est mieux d'utiliser un logiciel open source, car d'autres personnes ont revu le code et savent ce que le programme fait, mais rien nous dit que son alternative propriétaire (Une autre application du même style qui ne serait pas open source) n'est pas plus sécurisée.
+En ce qui concerne les applications open source, ce n'est pas parce qu'elles sont open source qu'elles respectent votre vie privée ou qu'elles sont très sécurisées. C'est mieux d'utiliser un logiciel open source, car d'autres personnes ont revu le code et savent ce que le programme fait, mais rien nous dit que son alternative propriétaire (une autre application du même style qui ne serait pas open source) n'est pas plus sécurisée.
 
 ---
 

@@ -110,7 +110,7 @@ Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
 1. Le support s'arrête
 2. Il soit tellement cassé qu'il soit inutilisable
 
-Pour conclure, oui 460€ c'est cher, mais étalé sur 5 ans, ça reste abordable. Et de plus, vous pourrez probablement l'avoir à moins cher que ça au moment où lirez cet article.
+Pour conclure, oui 460€ c'est cher, mais étalé sur 5 ans, ça reste abordable. Et de plus, vous pourrez probablement l'avoir à moins cher que ça au moment où vous lirez cet article.
 
 ### Notes
 
@@ -118,11 +118,15 @@ J'ai fait ce chapitre sur les prix des smartphones, mais je ne suis pas ici pour
 
 Cependant, j'avais besoin d'écrire un article là-dessus car certaines personnes sous-estiment parfois le prix des smartphones.
 
+Pour vous donnez une fourchette de prix raisonnable pour un smartphone décent, il faut compter entre 300 et 500€. En dessous de 300€, vous trouverez rarement des smartphones qui dureront dans le temps.
+
 ## Fairphone
 
 Je vous déconseille fortement le Fairphone car il [n'est pas sécurisé par défaut](https://privsec.dev/os/android-tips/#phones-to-avoid). En effet, Fairphone met à jour leurs téléphones pendant plusieurs années (leur premier téléphone de 2013 est toujours mise à jour) mais ne met pas à jour les firmwares ! Car seuls les constructeurs Qualcomm peuvent le faire !
 
-Qualcomm est l'entreprise qui créée la plupart des composants tels que les processeurs, puces graphiques, cartes mères pour la plupart des smartphones (Samsung, Xiaomi, OnePlus, Fairphone, etc.).
+Qualcomm est l'entreprise qui créée la plupart des composants tels que les processeurs, puces graphiques, cartes mères pour la plupart des smartphones (Samsung, Xiaomi, OnePlus, Fairphone, etc.). C'est Qualcomm qui, en réalité, met à jour les firmwares de ces composants, les entreprises ne font que suivre ces mises à jour.
+
+> Google construit ses propres composants depuis le Google Pixel 6, c'est pourquoi ils peuvent le mettre à jour pendant 5 ans, voire plus si Google le souhaitait. Même chose pour Apple avec leur propres composants.
 
 De plus, Fairphone utilise souvent les avant-derniers processeurs et autres composants de Qualcomm, sachant que Qualcomm met à jour ses composants pendant environ 3 ans, Fairphone utilise donc des composants qui sont en fin de support. Pour réitérer, quand vous achetez un Fairphone, vous achetez un smartphone qui n'est déjà presque plus supporté par les constructeurs !!! C'est un gros problème de sécurité !
 
@@ -132,7 +136,7 @@ Alors évidemment, je suis pour l'écologie et la protection de l'environnement,
 
 J'avoue ne pas être un grand fan d'Apple et je ne connais pas très bien le sujet. Je vous conseille donc de lire l'[article sur IOS par Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) qui en parle mieux que moi.
 
-Cela dit, je tiens à prévenir que si Apple promet de respecter votre vie privée, nous n'avons en réalité aucune preuve. Peut-être la respecte-il, peut-être que non, peut-être un peu des deux.
+Cela dit, je tiens à prévenir que si Apple promet de respecter votre vie privée, nous n'avons en réalité aucune preuve. Peut-être la respecte-il, peut-être que non, peut-être un peu des deux. Des fois, on voit bien qu'Apple n'a pas accès à certaines données, des fois oui, et des fois c'est flou.
 
 iCloud ne propose pas de [chiffrement de bout en bout](/basiques/instant-messengers#le-chiffrement-de-bout-en-bout) pour la [plupart des services](https://support.apple.com/fr-fr/HT202303), tels que vos sauvegardes, vos contacts, vos calendriers, vos photos, etc.
 
@@ -149,11 +153,13 @@ Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfal
 
 Pour réitérer :
 
-- Prenez uniquement Google Pixel (à partir du 6, car 5 ans de support) ou un iPhone récent ([A12+](https://fr.wikipedia.org/wiki/Apple_A12_Bionic)) (à partir de l'iPhone XR/XS/XS Max).
+- Prenez uniquement un Google Pixel (à partir du 6, car 5 ans de support) ou un iPhone récent ([A12+](https://fr.wikipedia.org/wiki/Apple_A12_Bionic)) (à partir de l'iPhone XR/XS/XS Max).
 - N'installez **pas** d'applications qui se disent améliorer la sécurité ou la performance de votre téléphone. Suivez la [règle KISS](https://fr.wikipedia.org/wiki/Principe_KISS).
 - Utilisez un code PIN de 6 chiffres minimum, mais 8 chiffres ou plus est recommandé.
 - Installez GrapheneOS sur votre Google Pixel.
 - Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphones qui ne sont plus supportés.
+- Si vous avez acheté un autre téléphone, revendez-le (surtout si c'est un Fairphone) et achetez un Google Pixel 6/6a/6 Pro (ou un iPhone).
+- Si vous avez acheté des antivirus (ou d'autres applications comme CCleaner), arrêtez ces abonnements, car vous jetez littéralement de l'argent par les fenêtres. Puis achetez un smartphone récent grâce aux économies que vous aurez fait.
 
 ---
 

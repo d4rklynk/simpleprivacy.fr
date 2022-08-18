@@ -165,14 +165,14 @@ Tous ces mots sont générés aléatoirement (par un ordinateur, et non par un h
 
 L'avantage de cette méthode est que cette phrase de passe est trop longue pour être **bruteforce**, et les mots de cette phrase de passe sont également trop aléatoires et peu communs pour être victime d'une **attaque par dictionnaire** (car l'attaque par dictionnaire se base sur des mots communs, et qui ont un rapport entre eux). Donc si vous choisissez vous-même vos mots pour créer une phrase de passe, ça ne fonctionnera pas ! Générez-le grâce à Bitwarden par exemple, et ne changez pas les mots !
 
-> Si vous souhaitez aller un peu plus loin, rajouter un chiffre quelque part dans la phrase de passe, ou en plein milieu d'un des mots (comme `timing` devient `tim5ing`) et ne changez pas les `a` avec des `@` ou tout autre combine de la sorte, car c'est pris en compte dans les attaques, et donc **complètement** inutile. Vous deviendrez beaucoup plus imprévisible en **rajoutant** un chiffre **au milieu** d'un des mots et/ou un caractère spécial.
+> Si vous souhaitez aller un peu plus loin, rajoutez un chiffre quelque part dans la phrase de passe, ou en plein milieu d'un des mots (comme `timing` devient `tim5ing`) et ne changez pas les `a` avec des `@` ou tout autre combine de la sorte, car c'est pris en compte dans les attaques, et donc **complètement** inutile. Vous deviendrez beaucoup plus imprévisible en **rajoutant** un chiffre **au milieu** d'un des mots et/ou un caractère spécial.
 
 Vous pouvez générer des phrases de passe avec [ce site](https://www.rempe.us/diceware/#french) afin de tester un peu. Cependant, c'est mieux de générer votre phrase de passe avec votre gestionnaire de mots de passe. Bitwarden est capable de générer une liste de mots par exemple.
 
 Pour vous donner une idée, un ordinateur personnel est capable de tester quelques millions de mots de passe par seconde.
 Vous devez supposer qu'une personne mal intentionné peut aller jusqu'à tester un billion de mots de passe par seconde (soit mille milliards) si il en a les moyens. 
 
-La phrase de passe comme plus haut, contient 6 mots, et prendrait environ 3500 ans à cracker en testant un billion de mots de passe par seconde. Rajouter un autre mot comme ceci (pour arriver à 7) : 
+La phrase de passe comme plus haut, contient 6 mots, et prendrait environ 3500 ans à cracker en testant un billion de mots de passe par seconde. Rajoutez un autre mot comme ceci (pour arriver à 7) : 
 
 > timing paving hertz bacterium pliable angelfish massue
 
@@ -229,7 +229,7 @@ La deuxième, c'est que vous avez rarement un mot de passe à entrer pour accéd
 
 ### Les gestionnaires de mots de passe
 
-Les gestionnaires de mots de passe sont souvent sous forme d'extension sur votre navigateur (Firefox, Google Chrome, Brave, Safari) vous cliquez sur l'extension puis cliquez sur l'identifiant et ça remplit automatiquement les champs de connexion !
+Les gestionnaires de mots de passe sont souvent sous forme d'extension sur votre navigateur (Firefox, Google Chrome, Brave, Safari), vous cliquez sur l'extension puis cliquez sur l'identifiant et ça remplit automatiquement les champs de connexion !
 
 Si vous ne faites pas confiance aux gestionnaires de mots de passe parce que ça revient à dire que vous mettez tous vos oeufs dans le même panier. Le problème est exactement le même en utilisant une application de prise de notes ou en utilisant le même mot de passe partout. Et puis pourquoi faire confiance à OneNote ou Google Keep si vous ne faites pas confiance aux gestionnaires de mots de passe ? 
 

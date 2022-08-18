@@ -47,18 +47,18 @@ Je vous conseille uniquement des applications qui implémentent le chiffrement d
 
 ## Partage de fichiers
 
-Pour le partage de fichiers, je vous conseille d'utiliser le plus possible Signal ou WhatsApp (car elles implémentent du chiffrement de bout en bout par défaut). Si vous ne pouvez pas, ou que les fichiers sont trop gros, je vous conseille d'aller sur [hat.sh](https://hat.sh/), de chiffrer le fichier désiré avec un mot de passe et de le partager sur votre plateforme de partage de fichiers préféré. Ainsi uniquement vous et le destinataire auront accès au fichier (vous donnez le mot de passe du fichier par Signal ou WhatsApp évidemment, et surtout pas par SMS ou par mail).
+Pour le partage de fichiers, je vous conseille d'utiliser le plus possible Signal ou WhatsApp (car elles implémentent du chiffrement de bout en bout par défaut). Si vous ne pouvez pas, ou que les fichiers sont trop gros, je vous conseille d'aller sur [hat.sh](https://hat.sh/), de chiffrer le fichier désiré avec un mot de passe et de le partager sur votre plateforme de partage de fichiers préféré. Ainsi uniquement vous et le destinataire auront accès au fichier (vous donnez le mot de passe du fichier par Signal ou WhatsApp évidemment, et surtout pas par SMS ou par mail). Sinon, encore plus simple, je vous conseille d'utiliser l'un de ces deux projets.
 
 ***N'utilisez pas le mail ou les SMS pour partager vos fichiers.***
 
 Ces deux projets implémentent le chiffrement de bout en bout. Vous pouvez donc partagez vos fichiers sereinement.
 
-Protègez ***toujours*** vos partages avec un mot de passe !
+Protégez ***toujours*** vos partages avec un mot de passe !
 
 - Bitwarden Send (uniquement version Premium), jusqu'à 1 Go.
 - [Send](https://send.vis.ee/)
 
-> Send est un fork de Firefox Send. Firefox ayant arreté le projet, des volontaires ont continué leurs propres truc basés sur ce projet. Je précise que Send est basé sur le projet de Firefox Send, mais ce **N'EST PAS** Firefox, ce sont des volontaires. Plusieurs [instances](https://github.com/timvisee/send-instances/) sont disponibles (stockage différent ou délai d'expiration différents). Une instance est un serveur d'un volontaire qui hebérge le programme Send.
+> Send est un fork de Firefox Send. Firefox ayant arreté le projet, des volontaires ont continué leur propre truc basé sur ce projet. Je précise que Send est basé sur le projet de Firefox Send, mais ce **N'EST PAS** Firefox, ce sont des volontaires. Plusieurs [instances](https://github.com/timvisee/send-instances/) sont disponibles (stockage différent ou délai d'expiration différents). Une instance est un serveur d'un volontaire qui hebérge le programme Send.
 
 ---
 

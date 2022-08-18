@@ -3,7 +3,7 @@ title: "Les fournisseurs de services \U0001f4e8"
 date: 2022-08-03
 ---
 
-Si vous souhaitez avoir des alterantives à Google Drive, Google Photos, Google agenda, Gmail, Outlook, OneDrive, etc. Voici une liste de fournisseurs de services que je recommande.
+Si vous souhaitez avoir des alternatives à Google Drive, Google Photos, Google agenda, Gmail, Outlook, OneDrive, etc. Voici une liste de fournisseurs de services que je recommande.
 
 ---
 
@@ -43,7 +43,7 @@ Les services d'aliasing sont excellents pour maintenir votre vie privée en lign
 
 - [SimpleLogin](https://simplelogin.io/fr/)
 
-La version gratuite vous permet d'avoir 15 alias maximum, al version payante à 30€/an vous permetd 'avoir un nombre illimités d'alias.
+La version gratuite vous permet d'avoir 15 alias maximum, la version payante à 30€/an vous permet d 'avoir un nombre illimités d'alias.
 
 > SimpleLogin a été racheté par Proton en [Avril 2022](https://simplelogin.io/blog/simplelogin-join-proton/), si vous êtes abonné au plan Proton Unlimited, vous pouvez lier votre compte Proton à votre compte SimpleLogin et obtenir SimpleLogin Premium gratuitement.
 

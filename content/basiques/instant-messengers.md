@@ -91,7 +91,9 @@ Si vous changez `France` en `france`, vous obtenez des résultats complétement 
 - **SHA1 :** `23e591e8c36dda987970603ad0fdd031b7dff9f9`
 - **SHA256 :** `2c598436e5575a5769b69986014588d52c2698414b623e81b2e776766c30eaba`
 
-Même si quelque chose de minime est changé, le hash (le résultat du hachage, aussi appelé **condensé** en français) sera complètement différent. Donc si Alice chiffre son message puis le hache, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'a pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
+Même si quelque chose de minime est changé, le **hash** (le résultat du hachage, aussi appelé **condensé** en français) sera complètement différent. Donc si Alice chiffre son message puis le hache, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'a pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
+
+> Je précise tout de même que le hash d'un fichier sera toujours le même, sauf si vous changez ce fichier.
 
 ---
 
@@ -111,7 +113,7 @@ En effet, dans le cas des **messages**, Alice doit être la seule à pouvoir **d
 
 Alors que dans le cas des **signatures**, on veut être en mesure que tout le monde puisse **déchiffrer** la signature (grâce à la **clé publique**) afin de vérifier le hash, mais Alice doit être la seule personne à pouvoir **chiffrer** ce hash (grâce à la **clé privée**), car c'est ce qui permet de prouver que c'est bien elle qui a signé ce message. Car rappelez-vous, ***la clé privée reste privée !*** 
 
-> Si par malheur une personne volait **la clé privée d'Alice**, il serait en mesure de **déchiffrer** les messages d'Alice, mais également de faire croire que c'est bien Alice l'**expéditeur** du message !
+> Si par malheur une personne volait **la clé privée d'Alice**, il serait en mesure de **déchiffrer** les messages d'Alice, mais également de faire croire que c'est bien Alice l'**expéditrice** du message !
 
 ![signature](/instant-messengers/signature-graph.png#center)
 
@@ -191,7 +193,7 @@ Quand Alice souhaite envoyer un message à Bob, le message sera **chiffré** pui
 
 Une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) présente sur WhatsApp est le fait que les images et les vidéos sont automatiquement enregistrées sur l'appareil. Jeff Bezos (le PDG d'Amazon) [s'est fait piraté](https://www.theguardian.com/technology/2020/jan/21/amazon-boss-jeff-bezoss-phone-hacked-by-saudi-crown-prince) de cette manière. Je vous conseille de **désactiver** cette fonctionnalité.
 
-> WhatsApp utilise le "[Signal Protocol](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)". Cependant, le "Signal Protocol" ne garantit pas que les **métadonnées** soit chiffrées.
+> WhatsApp utilise le "[Signal Protocol](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)". Cependant, le "Signal Protocol" ne garantit pas que les **métadonnées** soient chiffrées.
 
 Sur WhatsApp, les métadonnées ne sont pas chiffrées, et donc visibles par WhatsApp (et donc Facebook), telles que :
 
@@ -213,7 +215,7 @@ Comme dirait [Edward Snowden](https://twitter.com/Snowden/status/661305566967562
 
 > Vous avez du mal à comprendre le terme "métadonnées" ? Remplacez-le avec le terme "Historique d'activité", parceque c'est ce que sont les métadonnées.
 
-Ces métadonnées sont [collectées par WhatsApp et partagées avec Facebook](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/).
+Ces métadonnées sont [collectées par WhatsApp](https://www.lemonde.fr/pixels/article/2021/01/07/whatsapp-revoit-ses-conditions-d-utilisation-sur-le-partage-des-donnees-utilisateurs-avec-facebook_6065529_4408996.html) et [partagées avec Facebook](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/).
 
 Les métadonnées sont [aussi importantes que les données](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes). Si vous êtes une femme et que vous parlez à un homme depuis quelques mois, et ce, tous les jours, on se doute que vous êtes en couple depuis peu. Si ensuite vous allez voir sur Facebook la page d'un restaurant, puis vous envoyez un message à vos parents, on suppose que vous allez présenter votre nouveau partenaire à vos parents. Dans les faits, c'est probablement encore plus simple, car on sous-estime énormément ce que sont les métadonnées.
 
@@ -229,6 +231,12 @@ De plus, Telegram utilise son propre protocole qui n'a pas été audité. Telegr
 
 Des experts en sécurité ont trouvé [plusieurs failles](https://portswigger.net/daily-swig/multiple-encryption-flaws-uncovered-in-telegram-messaging-protocol) au protocole de Telegram.
 Un [chapitre en anglais](https://madaidans-insecurities.github.io/messengers.html#telegram) a déjà été écris concernant les problèmes de Telegram.
+
+---
+
+Arrêtez d'utiliser Telegram, c'est pire que Facebook Messenger.
+
+---
 
 ## Wire
 
