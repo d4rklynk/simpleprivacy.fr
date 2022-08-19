@@ -292,6 +292,8 @@ Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](http
 
 - [Messengers - Madaidan](https://madaidans-insecurities.github.io/messengers.html)
 
+- [Best Secure Messaging App | FBI Document Leaked - Side of Burritos](https://www.youtube.com/watch?v=wj-aR96FOA0)
+
 ### Sur les métadonnées
 
 - [Voici pourquoi les données sont importantes - EFF](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes)
