@@ -140,7 +140,7 @@ Cela dit, je tiens à prévenir que si Apple promet de respecter votre vie priv�
 
 iCloud ne propose pas de [chiffrement de bout en bout](/basiques/instant-messengers#le-chiffrement-de-bout-en-bout) pour la [plupart des services](https://support.apple.com/fr-fr/HT202303), tels que vos sauvegardes, vos contacts, vos calendriers, vos photos, etc.
 
-N'ayez confiance en un service cloud **uniquement** si celui-ci propose du **chiffrement de bout en bout** !
+> N'ayez confiance en un service cloud **uniquement** si celui-ci propose du **chiffrement de bout en bout** !
 
 iCloud Backup [sauvegarde votre historique iMessage avec la clé pour pouvoir le déchiffrer](https://support.apple.com/fr-fr/HT202303#messages) (si ce dernier est activé). *(Sachant que les sauvegardes ne sont pas protégées par le chiffrement de bout en bout.)*. Donc oui, **Apple a accès à vos messages** si vous activez **iCloud Backup**.
 
@@ -148,6 +148,14 @@ En ce qui concerne la sécurité, les iPhones sont excellents. En revanche, je n
 Par contre, les iPhones **ET** les Google Pixels sont bien les meilleurs en terme de sécurité que tout le reste du marché des mobiles.
 
 Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e). Je vous invite donc fortement à le lire pour vous faire votre propre opinion.
+
+> Je vous conseille quand même un Google Pixel au lieu d'un iPhone car vous pouvez choisir quelles applications utiliser, vous pouvez prendre Brave ou Firefox au lieu de Safari. Beaucoup d'applications sont bien meilleures sur Android. Sur IOS, vous êtes bloqué.
+
+---
+
+Sur IOS, tous les navigateurs web [doivent utiliser le même moteur de rendu](/alternatives/apps/#pour-ios), celui d'Apple, WebKit. Donc en utilisant Brave, Google Chrome ou Firefox, c'est comme si vous utilisiez Safari.
+
+---
 
 ## Conclusion
 
