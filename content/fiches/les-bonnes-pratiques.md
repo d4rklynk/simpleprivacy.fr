@@ -13,6 +13,8 @@ Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous sou
 ## Sécurité
 ### Sécurité sur votre PC et votre smartphone
 
+- Pour les smartphones, achetez un Google Pixel (à partir du 6 si vous souhaitez bénéficier de 5 ans de support). J'explique pourquoi dans mon [article sur les smartphones](/basiques/smartphones/#recommandations).
+- Utilisez macOS, ChromeOS ou Windows 11 pour les PC.
 - [N'installez pas d'antivirus](/basiques/threat-model/#se-protéger-des-virus-et-des-hackers), Windows Defender suffit amplement. Et je vous **déconseille** d'installer des [antivirus sur votre smartphone](/basiques/smartphones/#antivirus).
 - N'installez pas d'applications qui se disent améliorer les performances (donc n'installez pas des applications comme CCleaner).
 - [KISS](https://fr.wikipedia.org/wiki/Principe_KISS). Installez le minimum.
