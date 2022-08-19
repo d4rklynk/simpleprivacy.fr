@@ -19,7 +19,39 @@ Je vous conseille les outils les plus simples d'accès et qui respectent votre v
 
 ## Écriture inclusive
 
-Je suis pour l'écriture inclusive, mais les méthodes utilisées rendent très souvent le texte illisible. Cependant, je vais des fois écrire comme si je m'adressais à une femme, et des fois comme si je m'adressais à un homme. 
+Je suis pour l'écriture inclusive, mais les méthodes utilisées rendent très souvent le texte illisible. Cependant, je vais des fois écrire comme si je m'adressais à une femme, et des fois comme si je m'adressais à un homme.
+
+## Sources
+
+Mes sources proviennent principalement de :
+
+- [PrivSec.dev](https://privsec.dev)
+- [PrivacyGuides](https://privacyguides.org)
+- Wonderfall :
+	- [Wonderfall.space](https://wonderfall.space) (en français)
+	- [Wonderfall.dev](https://wonderfall.dev) (en anglais)
+- [Madaidan](https://madaidans-insecurities.github.io/)
+
+Mais également de YouTube :
+
+- [Computerphile](https://www.youtube.com/user/Computerphile)
+- [The Hated One](https://www.youtube.com/c/TheHatedOne)
+- [Side Of Burritos](https://www.youtube.com/c/SideOfBurritos)
+
+Puis toutes les sources que je n'ai pas cité proviennent de mes connaissances couplées aux documentations officielles des projets que je présente.
+
+J'ai également des connaissances en informatique, j'ai assez de compétences pour comprendre et expliquer tous les subtilités des sources citées ci-dessus.
+
+### Les non-sources
+
+Je vous conseille de ne pas prendre au sérieux ces sources (en anglais) :
+
+- PrivacyTools.io
+- Rob Braxman Tech (sur YouTube)
+
+Les personnes derrière ces projets sont complétement détachées de la réalité, ils proposent des outils qui n'ont aucun sens. vous perdrez en sécurité et en vie privée (et beaucoup de temps) en suivant leurs guides.
+
+Je vous conseille d'ignorer complétement tous les conseils donnés par ces sources.
 
 ## Prononciation de mon pseudo
 
