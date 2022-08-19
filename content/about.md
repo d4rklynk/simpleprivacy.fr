@@ -40,7 +40,7 @@ Mais également de YouTube :
 
 Puis toutes les sources que je n'ai pas cité proviennent de mes connaissances couplées aux documentations officielles des projets que je présente.
 
-J'ai également des connaissances en informatique, j'ai assez de compétences pour comprendre et expliquer tous les subtilités des sources citées ci-dessus.
+J'ai également des connaissances en informatique, j'ai assez de compétences pour comprendre et expliquer toutes les subtilités des sources citées ci-dessus.
 
 ### Les non-sources
 
