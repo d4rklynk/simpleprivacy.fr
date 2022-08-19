@@ -88,7 +88,7 @@ Je vous conseille d'utiliser uniquement Signal et de convaincre votre entourage 
 
 - [Element](https://element.io/)
 
-> C'est une alternative à des applications comme Discord.
+> C'est une alternative à des applications comme Slack ou Discord. Si vous avez créé (ou vous êtes entrain de créer) une entreprise, je vous conseille fortement de l'utiliser, il implémente du chiffrement de bout en bout. Vous pouvez également juste l'utiliser entre amis. Si vous souhaitez me poser des questions ou me joindre vous pouvez [me contacter](https://matrix.to/#/@samsepi0l:arcticfoxes.net) sur Element, c'est l'icône `[m]` sur l'accueil de mon site.
 
 ## Alternatives à Youtube
 
