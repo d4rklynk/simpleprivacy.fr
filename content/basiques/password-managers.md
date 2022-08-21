@@ -165,6 +165,8 @@ Tous ces mots sont générés aléatoirement (par un ordinateur, et non par un h
 
 L'avantage de cette méthode est que cette phrase de passe est trop longue pour être **bruteforce**, et les mots de cette phrase de passe sont également trop aléatoires et peu communs pour être victime d'une **attaque par dictionnaire** (car l'attaque par dictionnaire se base sur des mots communs, et qui ont un rapport entre eux). Donc si vous choisissez vous-même vos mots pour créer une phrase de passe, ça ne fonctionnera pas ! Générez-le grâce à Bitwarden par exemple, et ne changez pas les mots !
 
+- Lire les [considérations de la méthode diceware par Wonderfall](https://wonderfall.space/password/#considérations)
+
 > Si vous souhaitez aller un peu plus loin, rajoutez un chiffre quelque part dans la phrase de passe, ou en plein milieu d'un des mots (comme `timing` devient `tim5ing`) et ne changez pas les `a` avec des `@` ou tout autre combine de la sorte, car c'est pris en compte dans les attaques, et donc **complètement** inutile. Vous deviendrez beaucoup plus imprévisible en **rajoutant** un chiffre **au milieu** d'un des mots et/ou un caractère spécial.
 
 Vous pouvez générer des phrases de passe avec [ce site](https://www.rempe.us/diceware/#french) afin de tester un peu. Cependant, c'est mieux de générer votre phrase de passe avec votre gestionnaire de mots de passe. Bitwarden est capable de générer une liste de mots par exemple.
