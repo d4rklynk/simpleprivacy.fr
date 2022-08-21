@@ -58,3 +58,4 @@ Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous sou
 En savoir plus & crédits
 
 - [Security and Privacy Advice - Madaidan](https://madaidans-insecurities.github.io/security-privacy-advice.html)
+- [10 dumbest ideas in privacy communities - rhbik5](https://www.reddit.com/r/PrivacyGuides/comments/rhbik5/10_dumbest_ideas_in_privacy_communities/)
