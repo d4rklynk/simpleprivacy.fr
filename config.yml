@@ -72,7 +72,7 @@ params:
       - name: A propos
         url: about
       - name: Politique de confidentialité
-        url: privacy-policy
+        url: privacy
 
   # home-info mode
   homeInfoParams:
