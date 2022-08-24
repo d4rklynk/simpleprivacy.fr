@@ -23,7 +23,7 @@ Je suis pour l'écriture inclusive, mais les méthodes utilisées rendent très 
 
 ## Sources
 
-La majorité de mes travaux sont basés sur :
+Mes travaux sont majoritairement basés sur :
 
 - [PrivSec.dev](https://privsec.dev)
 - [PrivacyGuides](https://privacyguides.org)
