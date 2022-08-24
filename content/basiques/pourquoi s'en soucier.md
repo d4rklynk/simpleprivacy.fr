@@ -1,7 +1,6 @@
 ---
 title: "Vie privée : Pourquoi s'en soucier ? \U0001f914"
 date: 2022-07-25
-lastmod: 2022-08-18
 weight: 1
 ---
 

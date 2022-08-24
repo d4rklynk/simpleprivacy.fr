@@ -1,7 +1,6 @@
 ---
 title: "Bitwarden : Comment l'utiliser \U0001f511"
 date: 2022-07-29
-lastmod: 2022-08-03
 weight: 1
 ---
 

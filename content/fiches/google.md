@@ -1,7 +1,6 @@
 ---
 title: "Google : Limitez la collecte de données et sécurisez votre compte \U0000270b"
 date: 2022-08-14
-lastmod: 2022-08-16
 ---
 
 ![Google cover](/google/google-cover.jpg)

@@ -1,7 +1,6 @@
 ---
 title: "Les smartphones \U0001f4f1"
 date: 2022-08-07
-lastmod: 2022-08-19
 ---
 
 ![android](/smartphones/android.jpg)

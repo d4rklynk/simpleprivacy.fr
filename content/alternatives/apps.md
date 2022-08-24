@@ -1,7 +1,6 @@
 ---
 title: "Les applications \U0001f4da"
 date: 2022-08-03
-lastmod: 2022-08-19
 ---
 
 *Ceci est juste une liste pour l'instant, mais je compte ajouter des précisions pour certaines applications*

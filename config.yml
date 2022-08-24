@@ -4,6 +4,7 @@ defaultContentLanguage: fr
 title: samsepi0l
 theme: "WonderMod"
 copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)'
+enableGitInfo: true
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -148,6 +149,11 @@ markup:
 privacy:
   disqus:
     disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: true
+    respectDoNotTrack: true
+    useSessionStorage: false
   instagram:
     disable: true
     simple: false
