@@ -1,6 +1,7 @@
 ---
 title: "Présentation et utilisation de Signal \U0001f4ac"
 date: 2022-08-09
+lastmod: 2022-08-10
 weight: 2
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Les bonnes pratiques sur Internet 👍️"
 date: 2022-08-16
+lastmod: 2022-08-21
 weight: 1
 ---
 

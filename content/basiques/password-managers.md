@@ -2,6 +2,7 @@
 title: "Les gestionnaires de mots de passe \U0001f511"
 date: 2022-07-27
 weight: 3
+lastmod: 2022-08-21
 ---
 
 ![Cadenas et clavier](/password-managers/keys-and-keybinds.jpg)

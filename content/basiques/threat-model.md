@@ -1,6 +1,7 @@
 ---
 title: "Le modèle de menace (ou comment bien démarrer) \U0001f977"
 date: 2022-07-25
+lastmod: 2022-08-18
 weight: 2
 ---
 ![Modèle de menace de Batman](/threat-model/threat-model-batman.png)
