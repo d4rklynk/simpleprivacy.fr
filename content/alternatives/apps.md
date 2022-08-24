@@ -92,6 +92,7 @@ Je vous conseille d'utiliser uniquement Signal et de convaincre votre entourage 
 
 ## Alternatives à Youtube
 
-NewPipe sur Android est recommandé. Toutes les pubs dans les vidéos sont enlevées. Toutes les vidéos viennent de YouTube, l'application n'est pas développée par Google mais par des bénévoles.
+NewPipe ou LibreTube sur Android sont recommandés. Toutes les pubs dans les vidéos sont enlevées. Toutes les vidéos viennent de YouTube, ces applications ne sont pas développées par Google mais par des bénévoles.
 
 - [NewPipe](https://newpipe.net/)
+- [LibreTube](https://libre-tube.github.io/)
