@@ -25,7 +25,7 @@ params:
   author: samsepi0l
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
 
@@ -72,7 +72,7 @@ params:
       - name: A propos
         url: about
       - name: Politique de confidentialité
-        url: privacy
+        url: privacy-policy
 
   # home-info mode
   homeInfoParams:
