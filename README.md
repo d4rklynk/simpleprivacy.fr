@@ -4,7 +4,8 @@ Un site web destiné aux personnes qui ont des connaissances limitées en inform
 
 ---
 
-# Licensing
+# Technical stuff
+## Licensing
 
 The website content (under `/content`) is under the [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
@@ -14,7 +15,7 @@ The WonderMod theme used for the website and modifications made by us are under 
 
 This README has been personnally copied from [PrivSec.dev](https://github.com/PrivSec-dev/privsec.dev) which is under the [same license](https://github.com/PrivSec-dev/privsec.dev/blob/main/LICENSE)
 
-# Local Development
+## Local Development
 
 1. [Install Hugo](https://gohugo.io/getting-started/installing/)
 1. Clone this repository: `git clone --recurse-submodules https://github.com/d4rklynk/samsepi0l.ovh`
