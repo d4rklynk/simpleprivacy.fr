@@ -13,7 +13,7 @@ The Hugo Framework used to create this website is under the [Apache License](htt
 
 The WonderMod theme used for the website and modifications made by us are under the [MIT License](https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE). 
 
-This README has been personnally copied from [PrivSec.dev](https://github.com/PrivSec-dev/privsec.dev) which is under the [same license](https://github.com/PrivSec-dev/privsec.dev/blob/main/LICENSE)
+This README has been partially copied from [PrivSec.dev](https://github.com/PrivSec-dev/privsec.dev) which is under the [same license](https://github.com/PrivSec-dev/privsec.dev/blob/main/LICENSE)
 
 ## Local Development
 
