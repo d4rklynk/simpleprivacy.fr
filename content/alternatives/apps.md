@@ -70,9 +70,13 @@ Je vous conseille fortement [Bitwarden](https://bitwarden.com/). J'ai fait un [t
 
 ## Les applications de productivité
 
-- OnlyOffice
+- [OnlyOffice](https://www.onlyoffice.com/en/download-desktop.aspx)
 
 > OnlyOffice est de loin la meilleure alternative, elle reseemble fortement à Microsoft Office, et est donc simple à utiliser pour ceux qui adorent l'interface de Microsoft Office. Les fichiers venant de la suite Microsoft ne sont rarement, voire jamais cassés quand ils sont importés sur OnlyOffice.
+
+- [CryptPad](https://cryptpad.fr/)
+
+> CryptPad est une suite logicielle basée sur le web, de la même manière que **G Suite** (ou **Google Wrokspace**) qui est uniquement disponible via le navigateur. CryptPad est chiffré de bout en bout, vous pouvez créer et partager un fichier (Word, Excel, PowerPoint, etc) sans compte. Mais vous pouvez tout de même créer un compte et accéder à quelques fonctionnalités supplémentaires. Des [options payantes)(https://cryptpad.fr/features.html) sont disponibles.
 
 ---
 
