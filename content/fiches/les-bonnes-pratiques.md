@@ -22,7 +22,7 @@ Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous sou
 - [Créez un code PIN](/basiques/smartphones/#code-pin) **aléatoire**, et j'insiste sur l'**aléatoire**, d'au moins 8 chiffres sur votre smartphone. Vous pouvez utiliser l'empreinte digitale en complément.
 - Ne branchez jamais une clé USB que vous ne connaissez pas. Si vous en trouvez une par terre, détruisez-la et jetez-la.
 - Évitez un maximum de prêter votre PC ou votre smartphone. Si cependant vous êtes amené à le faire, créez une autre session sur Windows. Vous pouvez aussi créer un autre profil sur Android.
-- Vérifiez les permissions de vos applications sur Android/IOS et désactivez tout ce qui est inutile. Est-ce qu'Instagram ou TikTok a besoin de connaître votre agenda ou vos contacts par exemple ?
+- Vérifiez les permissions de vos applications sur Android/IOS et désactivez tout ce qui est inutile. Est-ce qu'Instagram et Facebook ont besoin de connaître votre agenda ou vos contacts par exemple ?
 - N'achetez pas de smartphones qui sont en [fin de support](/basiques/smartphones/#aosp-et-firmware).
 - **Mettez à jour vos appareils.**
 - Chiffrez les disques de vos PC.
@@ -39,10 +39,10 @@ Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous sou
 
 > Exemple : Vous recevez un mail car vous avez un problème avec votre compte bancaire. **Allez sur un nouvel onglet**, allez sur votre banque, vérfiez que vous n'avez pas de messages dans votre application de banque. Si vous avez un doute, appelez votre banque.
 
-> Autre exemple : Vous recevez un mail comme quoi vous avez été piraté, il vous montre même votre **mot de passe**, parce que Monsieur est super fort ! Vous devez le payer en cryptomonnaies ou sinon il dilvuguera tout sur Internet ! **Supprimez le mail, c'est totalement bidon. Pour l'explication, si il y a eu une fuite de données sur un site web, vos mots de passe et vos mails sont dans la nature. Des arnaqueurs prennent ensuite le mot de passe et l'envoient au mail correspondant, ils le font avec un programme pour envoyer ces mails en masse. Donc dans votre mail, oui le mot de passe est bien le vôtre, mais non ils n'ont aucune donnée. Changez le mot de passe de votre compte.**
+> Autre exemple : Vous recevez un mail comme quoi vous avez été piraté, il vous montre même votre **mot de passe**, parce que Monsieur est super fort ! Vous devez le payer en cryptomonnaies ou sinon il dilvuguera tout sur Internet ! **Supprimez le mail, c'est totalement bidon. Pour l'explication, si il y a eu une fuite de données sur un site web, vos mots de passe et vos mails sont dans la nature. Des arnaqueurs prennent ensuite le mot de passe et l'envoient au mail correspondant, ils le font avec un programme pour envoyer ces mails en masse. Donc dans le mail, oui le mot de passe est bien le vôtre, mais non, ils n'ont aucune donnée. Changez le mot de passe de votre compte.**
 
 - Ne donnez vos mots de passe à **personne**, **sous aucun prétexte**.
-- Utilisez la double authentification sur tous les sites où vous pouvez le faire. Utilisez l'application **Aegis**.
+- Utilisez la double authentification sur tous les sites où vous pouvez le faire. Utilisez l'application **[Aegis](https://getaegis.app/)**.
 - Mettez un mot de passe Wifi robuste et utilisez WPA2 au minimum. N'utilisez pas WEP, il prend trois minutes à cracker (je l'ai fait).
 
 ## Vie privée

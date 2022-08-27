@@ -33,7 +33,7 @@ Je vous conseille uniquement d'utiliser les services de Proton (anciennement Pro
 
 ## Les mails
 
-Je vous conseille également Proton Mail pour les mails car il propose du chiffrement de bout en bout (pour ceux qui utilisent également Proton Mail), est très fonctionnel, et [la base de données de vos mails est chiffrée](https://proton.me/fr/blog/zero-access-encryption), vous seul uniquement y avez accès.
+Je vous conseille également Proton Mail pour les mails car il propose du chiffrement de bout en bout, est très fonctionnel, et [la base de données de vos mails est chiffrée](https://proton.me/fr/blog/zero-access-encryption), vous seul uniquement y avez accès.
 
 - [Proton Mail](https://proton.me/fr/mail)
 
@@ -43,7 +43,7 @@ Les services d'aliasing sont excellents pour maintenir votre vie privée en lign
 
 - [SimpleLogin](https://simplelogin.io/fr/)
 
-La version gratuite vous permet d'avoir 15 alias maximum, la version payante à 30€/an vous permet d 'avoir un nombre illimités d'alias.
+La version gratuite vous permet d'avoir 10 alias maximum, la version payante à 30€/an vous permet d 'avoir un nombre illimités d'alias.
 
 > SimpleLogin a été racheté par Proton en [Avril 2022](https://simplelogin.io/blog/simplelogin-join-proton/), si vous êtes abonné au plan Proton Unlimited, vous pouvez lier votre compte Proton à votre compte SimpleLogin et obtenir SimpleLogin Premium gratuitement.
 
