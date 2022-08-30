@@ -2,8 +2,6 @@
 
 Un site web destiné aux personnes qui ont des connaissances limitées en informatique.
 
----
-
 # Technical stuff
 ## Licensing
 
@@ -24,8 +22,6 @@ This README has been partially copied from [PrivSec.dev](https://github.com/Priv
 
 - Run `git submodule update --merge` to update the [WonderMod theme](https://github.com/Wonderfall/hugo-WonderMod) to the version specified in this repo
   - Run `git submodule update --remote --merge` to update to the upstream master branch of WonderMod
-
----
 
 # Sources
 
