@@ -1,6 +1,7 @@
 ---
 title: "Les messageries instantanées et le chiffrement de bout en bout \U0001f910"
 date: 2022-08-08
+weight: 4
 ---
 
 ![Messageries instantanées](/instant-messengers/instant-messengers.jpg)
