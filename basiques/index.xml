@@ -65,5 +65,18 @@ Le chiffrement de bout en bout Le chiffrement de bout en bout consiste à chiffr
 Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les systèmes d&amp;rsquo;exploitation de bureau (Windows, Linux, macOS). Vous avez remarqué par exemple qu&amp;rsquo;il y a un système de permission sur les smartphones qu&amp;rsquo;il n&amp;rsquo;y a pas sur les PC. Vous savez, les fenêtres qui s&amp;rsquo;affichent &amp;ldquo;Autoriser l&amp;rsquo;accès la position&amp;rdquo; ou &amp;ldquo;Autoriser l&amp;rsquo;accès à la caméra&amp;rdquo;.</description>
     </item>
     
+    <item>
+      <title>Les emails et les services d&#39;aliasing ✉️</title>
+      <link>http://samsepi0l.ovh/basiques/emails/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/basiques/emails/</guid>
+      <description>Les emails sont très utilisés de nos jours et possèdent pourtant énormément de défauts.
+Vous devriez privilégier les messageries instantanées plutôt que les emails.
+Fonctionnement Le système d&amp;rsquo;email se base exactement sur le même principe que la poste :
+Vous envoyez un courrier à la poste, les facteurs le feront passer dans différents relais avant de l&amp;rsquo;envoyer à la boîte aux lettres de votre destinataire.
+Votre lettre passe donc de votre boîte aux lettres (à une époque, c&amp;rsquo;est le facteur qui venait chercher votre courrier dans votre boîte aux lettres), ensuite à votre centre postale locale, puis il peut être envoyé à un autre centre postale plus général (il peut passer par Paris par exemple), puis au centre postale locale de votre destinataire, et enfin à sa boîte aux lettres.</description>
+    </item>
+    
   </channel>
 </rss>

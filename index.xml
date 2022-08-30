@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright>
-    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les bonnes pratiques sur Internet 👍️</title>
       <link>http://samsepi0l.ovh/fiches/les-bonnes-pratiques/</link>
@@ -83,17 +83,6 @@ Je vous conseille chaudement de lire l&amp;rsquo;article de Wonderfall sur les m
     </item>
     
     <item>
-      <title>Google : Limitez la collecte de données et sécurisez votre compte ✋</title>
-      <link>http://samsepi0l.ovh/fiches/google/</link>
-      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://samsepi0l.ovh/fiches/google/</guid>
-      <description>Comme vous souhaitez probablement garder votre compte Google, je vais vous montrer les différents paramètres pour limiter un peu la collecte de données faite par l&amp;rsquo;entreprise.
-Pour accéder aux paramètres de votre compte, allez sur Google , cliquez sur votre image de profil puis &amp;ldquo;Gérer votre compte Google&amp;rdquo;.
-Informations personnelles Dans les informations personnelles, gardez juste votre prénom ou un pseudonyme, inutile de donner votre nom de famille à Google.</description>
-    </item>
-    
-    <item>
       <title>Les messageries instantanées et le chiffrement de bout en bout 🤐</title>
       <link>http://samsepi0l.ovh/basiques/instant-messengers/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
@@ -112,6 +101,30 @@ Le chiffrement de bout en bout Le chiffrement de bout en bout consiste à chiffr
       <guid>http://samsepi0l.ovh/basiques/smartphones/</guid>
       <description>Les smartphones sont des éponges à données, ils ont accès à beaucoup d&amp;rsquo;informations qu&amp;rsquo;on aimerait garder privées.
 Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les systèmes d&amp;rsquo;exploitation de bureau (Windows, Linux, macOS). Vous avez remarqué par exemple qu&amp;rsquo;il y a un système de permission sur les smartphones qu&amp;rsquo;il n&amp;rsquo;y a pas sur les PC. Vous savez, les fenêtres qui s&amp;rsquo;affichent &amp;ldquo;Autoriser l&amp;rsquo;accès la position&amp;rdquo; ou &amp;ldquo;Autoriser l&amp;rsquo;accès à la caméra&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Les emails et les services d&#39;aliasing ✉️</title>
+      <link>http://samsepi0l.ovh/basiques/emails/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/basiques/emails/</guid>
+      <description>Les emails sont très utilisés de nos jours et possèdent pourtant énormément de défauts.
+Vous devriez privilégier les messageries instantanées plutôt que les emails.
+Fonctionnement Le système d&amp;rsquo;email se base exactement sur le même principe que la poste :
+Vous envoyez un courrier à la poste, les facteurs le feront passer dans différents relais avant de l&amp;rsquo;envoyer à la boîte aux lettres de votre destinataire.
+Votre lettre passe donc de votre boîte aux lettres (à une époque, c&amp;rsquo;est le facteur qui venait chercher votre courrier dans votre boîte aux lettres), ensuite à votre centre postale locale, puis il peut être envoyé à un autre centre postale plus général (il peut passer par Paris par exemple), puis au centre postale locale de votre destinataire, et enfin à sa boîte aux lettres.</description>
+    </item>
+    
+    <item>
+      <title>Google : Limitez la collecte de données et sécurisez votre compte ✋</title>
+      <link>http://samsepi0l.ovh/fiches/google/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://samsepi0l.ovh/fiches/google/</guid>
+      <description>Comme vous souhaitez probablement garder votre compte Google, je vais vous montrer les différents paramètres pour limiter un peu la collecte de données faite par l&amp;rsquo;entreprise.
+Pour accéder aux paramètres de votre compte, allez sur Google , cliquez sur votre image de profil puis &amp;ldquo;Gérer votre compte Google&amp;rdquo;.
+Informations personnelles Dans les informations personnelles, gardez juste votre prénom ou un pseudonyme, inutile de donner votre nom de famille à Google.</description>
     </item>
     
     <item>
