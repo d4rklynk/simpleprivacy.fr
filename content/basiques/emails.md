@@ -17,7 +17,7 @@ Le système d'email se base exactement sur le même principe que la poste :
 
 Vous envoyez un courrier à la poste, les facteurs le feront passer dans différents relais avant de l'envoyer à la boîte aux lettres de votre destinataire.
 
-Votre lettre passe donc de votre boîte aux lettres (à une époque, c'est le facteur qui venait chercher votre courrier dans votre boîte aux lettres), ensuite à votre centre postale locale, puis il peut être envoyé à un autre centre postale plus général (il peut passer par Paris par exemple), puis au centre postale locale de votre destinataire, et enfin à sa boîte aux lettres.
+Votre lettre passe donc de votre boîte aux lettres (à une époque, c'est le facteur qui venait chercher votre courrier dans votre boîte aux lettres), ensuite à votre centre postal local, puis il peut être envoyé à un autre centre postal plus général (il peut passer par Paris par exemple), puis au centre postal local de votre destinataire, et enfin à sa boîte aux lettres.
 
 *Pour savoir quel fournisseur de mail utiliser :*
 
@@ -58,9 +58,9 @@ Un alias dans le cadre des emails, est une adresse mail qui pointe vers une autr
 
 ![email alias](/emails/mail-alias.png#center)
 
-Une personne peut vous envoyer un mail à `unautremailcool@simplelogin.fr` puis votre employeur ne connait que votre adresse mail `mon.mail.de.boulot@simplelogin.fr` et vous envoie des mails uniquement avec cette adresse, tous les mails envoyé à ces adresses seront recus sur votre boîte mail principale `jean.martin@gmail.com`.
+Une personne peut vous envoyer un mail à `unautremailcool@simplelogin.fr` puis votre employeur ne connait que votre adresse mail `mon.mail.de.boulot@simplelogin.fr` et vous envoie des mails uniquement avec cette adresse, tous les mails envoyé à ces adresses seront reçus sur votre boîte mail principale `jean.martin@gmail.com`.
 
-Les alias sont très pratique sur Internet puisque cela vous permet de protéger votre vraie adresse mail, le plus grand avantage des alias est qu'ils vous permettent d'éviter les spams, car si un jour vous avez recu trop de spam de votre employeur, vous pouvez juste supprimer `mon.mail.de.boulot@simplelogin.fr`.
+Les alias sont très pratiques sur Internet puisque cela vous permet de protéger votre vraie adresse mail. Le plus grand avantage des alias est qu'ils vous permettent d'éviter les spams, car si un jour vous avez reçu trop de spams de votre employeur, vous pouvez juste supprimer `mon.mail.de.boulot@simplelogin.fr`.
 
 Imaginons également que vous avez créé ces alias qui pointent tous vers `jean.martin@gmail.com` : 
 
@@ -69,7 +69,7 @@ Imaginons également que vous avez créé ces alias qui pointent tous vers `jean
 - `travail@simplelogin.fr`
 - `santé@simplelogin.fr`
 
-Si vous recevez énormément de spam sur `réseaux-sociaux@simplelogin.fr`, vous pouvez supprimer cet alias, en créer un nouveau (avec un nom différent évidemment), et vous n'aurez qu'à changer ce mail sur les quelques services avec lequel vous vous étiez connectés avec cette adresse mail.
+Si vous recevez énormément de spams sur `réseaux-sociaux@simplelogin.fr`, vous pouvez supprimer cet alias, en créer un nouveau (avec un nom différent évidemment), et vous n'aurez qu'à changer ce mail sur les quelques services avec lequel vous vous étiez connectés avec cette adresse mail.
 En temps normal, vous auriez du supprimer votre adresse mail principale et modifiez **TOUS** vos comptes liés à cette adresse email.
 
 *Pour savoir quel service d'aliasing utiliser :*
@@ -78,7 +78,7 @@ En temps normal, vous auriez du supprimer votre adresse mail principale et modif
 
 ## Conclusion
 
-Évitez absolument l'utilisation des emails, ils ont trop défauts en terme de sécurité, de vie privée, d'écologie et même de psychologie. Si vous devez quand même utiliser un, choisissez un fournisseur de confiance. Voici ma page sur les solutions disponibles :
+Évitez absolument l'utilisation des emails, ils ont trop de défauts en terme de sécurité, de vie privée, d'écologie et même de psychologie. Si vous devez quand même en utiliser un, choisissez un fournisseur de confiance. Voici ma page sur les solutions disponibles :
 
 - [Les fournisseurs de mail](/alternatives/providers/#les-mails)
 
