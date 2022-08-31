@@ -30,9 +30,13 @@ Les [emails sont transférés en clair sur Internet](https://latacora.micro.blog
 
 Le protocole [PGP](https://fr.wikipedia.org/wiki/Pretty_Good_Privacy) (Pretty Good Privacy) permet de combler certaines lacunes des mails en chiffrant votre message dans l'email, mais l'objet du message n'est pas chiffré ni ses métadonnées (donc on connaît la taille du mail, qui l'envoie, qui le reçoit, à quelle heure, depuis quelle adresse IP, etc).
 
+***Pour réiterer, le protocole PGP reste un [pansement pour les mails](https://twitter.com/DanielMicay/status/1145264664315604992) mais [ne guérit pas du tout la plaie](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)***.
+
 **Proton Mail** propose du **PGP par défaut**. Cela ne fonctionne qu'entre utilisateur Proton, et non c'est pas un choix commercial, mais c'est compliqué de **chiffrer** un message si votre destinataire **n'a pas la clé** pour le **déchiffrer** 😉️, c'est pour ça d'ailleurs que tous les utilisateurs de **WhatsApp** doivent communiquer sur **WhatsApp**, que tous les utilisateurs de **Signal** doivent communiquer sur **Signal**, etc.
 
 Vous pouvez évidemment envoyer des mails de **Proton Mail** à **Gmail** (ou autre), mais vos messages ne seront pas chiffrés.
+
+Mais si vous devez communiquer avec quelqu'un, priviligiez toujours des messageries instantanées comme [Signal](/basiques/instant-messengers/#signal).
 
 ## Les problèmes écologiques
 
@@ -72,11 +76,32 @@ En temps normal, vous auriez du supprimer votre adresse mail principale et modif
 
 - [Les services d'aliasing](/alternatives/providers/#les-services-daliasing)
 
+## Conclusion
+
+Évitez absolument l'utilisation des emails, ils ont trop défauts en terme de sécurité, de vie privée, d'écologie et même de psychologie. Si vous devez quand même utiliser un, choisissez un fournisseur de confiance. Voici ma page sur les solutions disponibles :
+
+- [Les fournisseurs de mail](/alternatives/providers/#les-mails)
+
+En terme d'écologie, les mails sont vraiment à bannir. Priviligiez des messageries instantanées telles que Signal, WhatsApp, Discord, Microsoft Teams, Slack ou encore Element (je recommande uniquement Signal et Element).
+
 ---
 
 ## En savoir plus & crédits
 
+### Écologie
+
 - [CyberWorldCleanUpDay - Guide 5 : Nettoyer ses emails](https://cyberworldcleanupday.fr/wp-content/uploads/2022/03/CWCUD-2022-Guide-5-Nettoyer-ses-e-mails-1.pdf)
+
+### Sécurité
+
 - [Security and Privacy Advice # Email - Madaidan](https://madaidans-insecurities.github.io/security-privacy-advice.html#email)
+- [The PGP problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
+- [Issues with PGP - KickSecure](https://www.kicksecure.com/wiki/OpenPGP#Issues_with_PGP)
+- [Stop Using Encrypted Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html)
+- [tweet de hanno - sur Twitter](https://twitter.com/hanno/status/1145597144373575680)
+- [tweet de Daniel Micay (fondateur de GrapheneOS) - sur Twitter](https://twitter.com/DanielMicay/status/1145264664315604992)
+
+### Les solutions
+
 - [Les alternatives # Les mails - samsepi0l](/alternatives/providers#les-mails)
 - [Les alternatives # Les services d'aliasing - samsepi0l](/alternatives/providers#les-services-daliasing)

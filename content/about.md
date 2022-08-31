@@ -26,6 +26,7 @@ Je suis pour l'écriture inclusive, mais les méthodes utilisées rendent très 
 Mes travaux sont majoritairement basés sur :
 
 - [PrivSec.dev](https://privsec.dev)
+- [Security Link Collection - beerisgood](https://github.com/beerisgood/Security-link-collection)
 - [PrivacyGuides](https://privacyguides.org)
 - Wonderfall :
 	- [Wonderfall.space](https://wonderfall.space) (en français)
