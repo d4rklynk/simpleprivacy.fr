@@ -278,6 +278,7 @@ En ce qui concerne les applications open source, ce n'est pas parce qu'elles son
 
 - [Threat Model - PrivSec.Dev](https://privsec.dev/knowledge/threat-modeling/) *(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
 - [Badness Enumeration - PrivSec.dev](https://privsec.dev/knowledge/badness-enumeration/)
+- [10 dumbest ideas in privacy communities - rhbik5](https://www.reddit.com/r/PrivacyGuides/comments/rhbik5/10_dumbest_ideas_in_privacy_communities/)
 - [The Six Dumbest Ideas in Computer Security](https://www.ranum.com/security/computer_security/editorials/dumb/index.html)
 - [Android Tips - PrivSec.dev](https://privsec.dev/os/android-tips/)
 - [Windows 10 - Chapitre sur Microsoft Defender - Wonderfall](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus)
