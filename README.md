@@ -28,6 +28,7 @@ This README has been partially copied from [PrivSec.dev](https://github.com/Priv
 Mes travaux sont majoritairement basés sur :
 
 - [PrivSec.dev](https://privsec.dev)
+- [Security Link Collection - beerisgood](https://github.com/beerisgood/Security-link-collection)
 - [PrivacyGuides](https://privacyguides.org)
 - Wonderfall :
 	- [Wonderfall.space](https://wonderfall.space) (en français)
