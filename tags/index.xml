@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on samsepi0l</title>
-    <link>http://samsepi0l.ovh/tags/</link>
-    <description>Recent content in Tags on samsepi0l</description>
+    <title>Tags on SimplePrivacy</title>
+    <link>http://simpleprivacy.fr/tags/</link>
+    <description>Recent content in Tags on SimplePrivacy</description>
     <image>
-      <url>http://samsepi0l.ovh/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://samsepi0l.ovh/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://simpleprivacy.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://simpleprivacy.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright><atom:link href="http://samsepi0l.ovh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright><atom:link href="http://simpleprivacy.fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

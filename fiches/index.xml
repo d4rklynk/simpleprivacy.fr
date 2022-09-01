@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Les fiches on samsepi0l</title>
-    <link>http://samsepi0l.ovh/fiches/</link>
-    <description>Recent content in Les fiches on samsepi0l</description>
+    <title>Les fiches on SimplePrivacy</title>
+    <link>http://simpleprivacy.fr/fiches/</link>
+    <description>Recent content in Les fiches on SimplePrivacy</description>
     <image>
-      <url>http://samsepi0l.ovh/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://samsepi0l.ovh/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://simpleprivacy.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://simpleprivacy.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright><atom:link href="http://samsepi0l.ovh/fiches/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright><atom:link href="http://simpleprivacy.fr/fiches/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les bonnes pratiques sur Internet 👍️</title>
-      <link>http://samsepi0l.ovh/fiches/les-bonnes-pratiques/</link>
+      <link>http://simpleprivacy.fr/fiches/les-bonnes-pratiques/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/les-bonnes-pratiques/</guid>
+      <guid>http://simpleprivacy.fr/fiches/les-bonnes-pratiques/</guid>
       <description>Ce guide va vous permettre d&amp;rsquo;adopter des bonnes pratiques pour regagner votre vie privée mais également en sécurité ! Tout ça sans trop d&amp;rsquo;efforts !
 Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous souhaitez plus d&amp;rsquo;infos, je vous enverrai vers mes autres articles ou vers des liens externes.
 Sécurité Sécurité sur votre PC et votre smartphone Pour les smartphones, achetez un Google Pixel (à partir du 6 si vous souhaitez bénéficier de 5 ans de support).</description>
@@ -24,10 +24,10 @@ Sécurité Sécurité sur votre PC et votre smartphone Pour les smartphones, ach
     
     <item>
       <title>Bitwarden : Comment l&#39;utiliser 🔑</title>
-      <link>http://samsepi0l.ovh/fiches/bitwarden/</link>
+      <link>http://simpleprivacy.fr/fiches/bitwarden/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/bitwarden/</guid>
+      <guid>http://simpleprivacy.fr/fiches/bitwarden/</guid>
       <description>Bitwarden est un gestionnaire de mots de passe open source, gratuit et facile.
 J&amp;rsquo;ai écris un article sur les gestionnaires de mots de passe si vous voulez en savoir plus.
 Grâce au gestionnaire de mots de passe, vous n&amp;rsquo;aurez plus qu&amp;rsquo;un seul mot de passe à retenir, celui pour accéder au gestionnaire : le mot de passe maître.
@@ -37,10 +37,10 @@ Création de votre compte Allez sur le site de Bitwarden et cliquez sur le bouto
     
     <item>
       <title>Présentation et utilisation de Signal 💬</title>
-      <link>http://samsepi0l.ovh/fiches/signal/</link>
+      <link>http://simpleprivacy.fr/fiches/signal/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/signal/</guid>
+      <guid>http://simpleprivacy.fr/fiches/signal/</guid>
       <description>Aujourd&amp;rsquo;hui, je vais vous présenter Signal et ses fonctionnalités de base.
 Je vous conseille de lire mon article sur les messageries instantanées dont un chapitre est dédié à Signal .
 Toutes les informations concernant l&amp;rsquo;utilisation de Signal sont disponibles sur leur site web.
@@ -50,10 +50,10 @@ Vous pouvez le télécharger via le Play Store, l&amp;rsquo;AppStore ou via leur
     
     <item>
       <title>Google : Limitez la collecte de données et sécurisez votre compte ✋</title>
-      <link>http://samsepi0l.ovh/fiches/google/</link>
+      <link>http://simpleprivacy.fr/fiches/google/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/google/</guid>
+      <guid>http://simpleprivacy.fr/fiches/google/</guid>
       <description>Comme vous souhaitez probablement garder votre compte Google, je vais vous montrer les différents paramètres pour limiter un peu la collecte de données faite par l&amp;rsquo;entreprise.
 Pour accéder aux paramètres de votre compte, allez sur Google , cliquez sur votre image de profil puis &amp;ldquo;Gérer votre compte Google&amp;rdquo;.
 Informations personnelles Dans les informations personnelles, gardez juste votre prénom ou un pseudonyme, inutile de donner votre nom de famille à Google.</description>
@@ -61,10 +61,10 @@ Informations personnelles Dans les informations personnelles, gardez juste votre
     
     <item>
       <title>Instagram : Limitez l&#39;information publique et la collecte de données ✋</title>
-      <link>http://samsepi0l.ovh/fiches/instagram/</link>
+      <link>http://simpleprivacy.fr/fiches/instagram/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/instagram/</guid>
+      <guid>http://simpleprivacy.fr/fiches/instagram/</guid>
       <description>Si vous utilisez peu instagram, mais que vous souhaitez quand même garder votre compte tout en gardant un semblant de vie privée, voici tous les paramètres à changer :
 Limitez l&amp;rsquo;information publique Ces paramètres affecteront la manière dont les visiteurs verront votre profil.
 Sur la barre de navigation d&amp;rsquo;Instagram, tapez sur votre photo de profil en bas à droite.

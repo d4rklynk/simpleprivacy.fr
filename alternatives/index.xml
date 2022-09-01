@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Les alternatives on samsepi0l</title>
-    <link>http://samsepi0l.ovh/alternatives/</link>
-    <description>Recent content in Les alternatives on samsepi0l</description>
+    <title>Les alternatives on SimplePrivacy</title>
+    <link>http://simpleprivacy.fr/alternatives/</link>
+    <description>Recent content in Les alternatives on SimplePrivacy</description>
     <image>
-      <url>http://samsepi0l.ovh/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://samsepi0l.ovh/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://simpleprivacy.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://simpleprivacy.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright><atom:link href="http://samsepi0l.ovh/alternatives/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright><atom:link href="http://simpleprivacy.fr/alternatives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les applications 📚</title>
-      <link>http://samsepi0l.ovh/alternatives/apps/</link>
+      <link>http://simpleprivacy.fr/alternatives/apps/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/alternatives/apps/</guid>
+      <guid>http://simpleprivacy.fr/alternatives/apps/</guid>
       <description>Ceci est juste une liste pour l&amp;rsquo;instant, mais je compte ajouter des précisions pour certaines applications
 Les navigateurs web sur PC Si vous utilisez Google Chrome, Opera, Vivaldi ou tout autre navigateur, changez pour un autre navigateur plus respectueux de votre vie privée.
 Firefox Brave Les navigateurs web sur smartphone Les recommendations ne sont pas les mêmes que sur PC pour des raisons de sécurité. Pour l&amp;rsquo;instant Firefox n&amp;rsquo;est pas conseillé sur Android ou IOS.</description>
@@ -24,10 +24,10 @@ Firefox Brave Les navigateurs web sur smartphone Les recommendations ne sont pas
     
     <item>
       <title>Les fournisseurs de services 📨</title>
-      <link>http://samsepi0l.ovh/alternatives/providers/</link>
+      <link>http://simpleprivacy.fr/alternatives/providers/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/alternatives/providers/</guid>
+      <guid>http://simpleprivacy.fr/alternatives/providers/</guid>
       <description>Si vous souhaitez avoir des alternatives à Google Drive, Google Photos, Google agenda, Gmail, Outlook, OneDrive, etc. Voici une liste de fournisseurs de services que je recommande.
 Les moteurs de recherche Si vous utilisez Google comme moteur de recherche, voici une liste d&amp;rsquo;alternatives plus respectueuses de votre vie privée.
 DuckDuckGo DuckDuckGo (parfois abrégé DDG) est un moteur de recherche qui se base sur les résultats de Bing, vous devriez trouvez votre bonheur.</description>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>samsepi0l</title>
-    <link>http://samsepi0l.ovh/</link>
-    <description>Recent content on samsepi0l</description>
+    <title>SimplePrivacy</title>
+    <link>http://simpleprivacy.fr/</link>
+    <description>Recent content on SimplePrivacy</description>
     <image>
-      <url>http://samsepi0l.ovh/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://samsepi0l.ovh/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://simpleprivacy.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://simpleprivacy.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)</copyright>
-    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://samsepi0l.ovh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://simpleprivacy.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les bonnes pratiques sur Internet 👍️</title>
-      <link>http://samsepi0l.ovh/fiches/les-bonnes-pratiques/</link>
+      <link>http://simpleprivacy.fr/fiches/les-bonnes-pratiques/</link>
       <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/les-bonnes-pratiques/</guid>
+      <guid>http://simpleprivacy.fr/fiches/les-bonnes-pratiques/</guid>
       <description>Ce guide va vous permettre d&amp;rsquo;adopter des bonnes pratiques pour regagner votre vie privée mais également en sécurité ! Tout ça sans trop d&amp;rsquo;efforts !
 Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous souhaitez plus d&amp;rsquo;infos, je vous enverrai vers mes autres articles ou vers des liens externes.
 Sécurité Sécurité sur votre PC et votre smartphone Pour les smartphones, achetez un Google Pixel (à partir du 6 si vous souhaitez bénéficier de 5 ans de support).</description>
@@ -25,10 +25,10 @@ Sécurité Sécurité sur votre PC et votre smartphone Pour les smartphones, ach
     
     <item>
       <title>Bitwarden : Comment l&#39;utiliser 🔑</title>
-      <link>http://samsepi0l.ovh/fiches/bitwarden/</link>
+      <link>http://simpleprivacy.fr/fiches/bitwarden/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/bitwarden/</guid>
+      <guid>http://simpleprivacy.fr/fiches/bitwarden/</guid>
       <description>Bitwarden est un gestionnaire de mots de passe open source, gratuit et facile.
 J&amp;rsquo;ai écris un article sur les gestionnaires de mots de passe si vous voulez en savoir plus.
 Grâce au gestionnaire de mots de passe, vous n&amp;rsquo;aurez plus qu&amp;rsquo;un seul mot de passe à retenir, celui pour accéder au gestionnaire : le mot de passe maître.
@@ -38,20 +38,20 @@ Création de votre compte Allez sur le site de Bitwarden et cliquez sur le bouto
     
     <item>
       <title>Vie privée : Pourquoi s&#39;en soucier ? 🤔</title>
-      <link>http://samsepi0l.ovh/basiques/why-privacy/</link>
+      <link>http://simpleprivacy.fr/basiques/why-privacy/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/basiques/why-privacy/</guid>
+      <guid>http://simpleprivacy.fr/basiques/why-privacy/</guid>
       <description>La vie privée est un droit inhérent à tous. Cela consiste à garder certaines choses pour soi : vous ne voulez pas par exemple que votre employeur sache que vous avez des problèmes médicaux, cependant vous voulez quand même que votre médecin ou votre famille soit au courant.
 Le concept de vie privée reste propre à chacun, et les limites varient selon les personnes ou les cultures. Beaucoup de gens se retrouvent à dire &amp;ldquo;Je n&amp;rsquo;ai rien à cacher&amp;rdquo; ou &amp;ldquo;Les gens qui gèrent mes données ne me connaissent pas&amp;rdquo; ; pourtant, aimeriez-vous que quelqu&amp;rsquo;un dans la rue vous croise et vous dise qu&amp;rsquo;il sait ce que vous avez fait ce week-end ?</description>
     </item>
     
     <item>
       <title>Présentation et utilisation de Signal 💬</title>
-      <link>http://samsepi0l.ovh/fiches/signal/</link>
+      <link>http://simpleprivacy.fr/fiches/signal/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/signal/</guid>
+      <guid>http://simpleprivacy.fr/fiches/signal/</guid>
       <description>Aujourd&amp;rsquo;hui, je vais vous présenter Signal et ses fonctionnalités de base.
 Je vous conseille de lire mon article sur les messageries instantanées dont un chapitre est dédié à Signal .
 Toutes les informations concernant l&amp;rsquo;utilisation de Signal sont disponibles sur leur site web.
@@ -61,10 +61,10 @@ Vous pouvez le télécharger via le Play Store, l&amp;rsquo;AppStore ou via leur
     
     <item>
       <title>Le modèle de menace (ou comment bien démarrer) 🥷</title>
-      <link>http://samsepi0l.ovh/basiques/threat-model/</link>
+      <link>http://simpleprivacy.fr/basiques/threat-model/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/basiques/threat-model/</guid>
+      <guid>http://simpleprivacy.fr/basiques/threat-model/</guid>
       <description>La modélisation des menaces (ou en anglais Threat Modeling) est un concept qui peut paraître compliqué aux premiers abords, mais qui s&amp;rsquo;avère être crucial pour comprendre ses besoins en matière de vie privée sur Internet. Afin de mieux comprendre, je vais vous présenter deux exemples.
 L&amp;rsquo;exemple d&amp;rsquo;Alice Alice possède un sac à dos, ce dernier contient :
 un livre des crayons un billet de 20 € Elle habite dans une petite ville de campagne.</description>
@@ -72,10 +72,10 @@ un livre des crayons un billet de 20 € Elle habite dans une petite ville de ca
     
     <item>
       <title>Les gestionnaires de mots de passe 🔑</title>
-      <link>http://samsepi0l.ovh/basiques/password-managers/</link>
+      <link>http://simpleprivacy.fr/basiques/password-managers/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/basiques/password-managers/</guid>
+      <guid>http://simpleprivacy.fr/basiques/password-managers/</guid>
       <description>Je préfère écrire la conclusion dès le début pour être sûr que ce soit clair pour tout le monde :
 Utilisez un gestionnaire de mots de passe, c&amp;rsquo;est la plus importante chose à faire sur toute votre vie numérique
 J&amp;rsquo;ai écris un tutoriel pour apprendre à utiliser Bitwarden.
@@ -84,10 +84,10 @@ Je vous conseille chaudement de lire l&amp;rsquo;article de Wonderfall sur les m
     
     <item>
       <title>Les messageries instantanées et le chiffrement de bout en bout 🤐</title>
-      <link>http://samsepi0l.ovh/basiques/instant-messengers/</link>
+      <link>http://simpleprivacy.fr/basiques/instant-messengers/</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/basiques/instant-messengers/</guid>
+      <guid>http://simpleprivacy.fr/basiques/instant-messengers/</guid>
       <description>Les messageries instantanées sont des solutions de communication incontournables au 21ème siècle.
 Je vais vous en présenter quelques unes. Mais d&amp;rsquo;abord vous devez comprendre ce qu&amp;rsquo;est le chiffrement de bout en bout.
 Le chiffrement de bout en bout Le chiffrement de bout en bout consiste à chiffrer les messages à partir des appareils des utilisateurs, c&amp;rsquo;est à dire que si vous utilisez votre application sur votre téléphone, le message sera chiffré à partir de votre application de votre téléphone, et sera déchiffré uniquement sur l&amp;rsquo;application du destinataire, aucun tiers pendant le transit du message n&amp;rsquo;est capable de savoir le contenu du message.</description>
@@ -95,20 +95,20 @@ Le chiffrement de bout en bout Le chiffrement de bout en bout consiste à chiffr
     
     <item>
       <title>Les smartphones 📱</title>
-      <link>http://samsepi0l.ovh/basiques/smartphones/</link>
+      <link>http://simpleprivacy.fr/basiques/smartphones/</link>
       <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/basiques/smartphones/</guid>
+      <guid>http://simpleprivacy.fr/basiques/smartphones/</guid>
       <description>Les smartphones sont des éponges à données, ils ont accès à beaucoup d&amp;rsquo;informations qu&amp;rsquo;on aimerait garder privées.
 Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les systèmes d&amp;rsquo;exploitation de bureau (Windows, Linux, macOS). Vous avez remarqué par exemple qu&amp;rsquo;il y a un système de permission sur les smartphones qu&amp;rsquo;il n&amp;rsquo;y a pas sur les PC. Vous savez, les fenêtres qui s&amp;rsquo;affichent &amp;ldquo;Autoriser l&amp;rsquo;accès la position&amp;rdquo; ou &amp;ldquo;Autoriser l&amp;rsquo;accès à la caméra&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Les emails et les services d&#39;aliasing ✉️</title>
-      <link>http://samsepi0l.ovh/basiques/emails/</link>
+      <link>http://simpleprivacy.fr/basiques/emails/</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/basiques/emails/</guid>
+      <guid>http://simpleprivacy.fr/basiques/emails/</guid>
       <description>Les emails sont très utilisés de nos jours et possèdent pourtant énormément de défauts.
 Vous devriez privilégier les messageries instantanées plutôt que les emails.
 Fonctionnement Le système d&amp;rsquo;email se base exactement sur le même principe que la poste :
@@ -118,10 +118,10 @@ Votre lettre passe donc de votre boîte aux lettres (à une époque, c&amp;rsquo
     
     <item>
       <title>Google : Limitez la collecte de données et sécurisez votre compte ✋</title>
-      <link>http://samsepi0l.ovh/fiches/google/</link>
+      <link>http://simpleprivacy.fr/fiches/google/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/google/</guid>
+      <guid>http://simpleprivacy.fr/fiches/google/</guid>
       <description>Comme vous souhaitez probablement garder votre compte Google, je vais vous montrer les différents paramètres pour limiter un peu la collecte de données faite par l&amp;rsquo;entreprise.
 Pour accéder aux paramètres de votre compte, allez sur Google , cliquez sur votre image de profil puis &amp;ldquo;Gérer votre compte Google&amp;rdquo;.
 Informations personnelles Dans les informations personnelles, gardez juste votre prénom ou un pseudonyme, inutile de donner votre nom de famille à Google.</description>
@@ -129,10 +129,10 @@ Informations personnelles Dans les informations personnelles, gardez juste votre
     
     <item>
       <title>Les applications 📚</title>
-      <link>http://samsepi0l.ovh/alternatives/apps/</link>
+      <link>http://simpleprivacy.fr/alternatives/apps/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/alternatives/apps/</guid>
+      <guid>http://simpleprivacy.fr/alternatives/apps/</guid>
       <description>Ceci est juste une liste pour l&amp;rsquo;instant, mais je compte ajouter des précisions pour certaines applications
 Les navigateurs web sur PC Si vous utilisez Google Chrome, Opera, Vivaldi ou tout autre navigateur, changez pour un autre navigateur plus respectueux de votre vie privée.
 Firefox Brave Les navigateurs web sur smartphone Les recommendations ne sont pas les mêmes que sur PC pour des raisons de sécurité. Pour l&amp;rsquo;instant Firefox n&amp;rsquo;est pas conseillé sur Android ou IOS.</description>
@@ -140,10 +140,10 @@ Firefox Brave Les navigateurs web sur smartphone Les recommendations ne sont pas
     
     <item>
       <title>Les fournisseurs de services 📨</title>
-      <link>http://samsepi0l.ovh/alternatives/providers/</link>
+      <link>http://simpleprivacy.fr/alternatives/providers/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/alternatives/providers/</guid>
+      <guid>http://simpleprivacy.fr/alternatives/providers/</guid>
       <description>Si vous souhaitez avoir des alternatives à Google Drive, Google Photos, Google agenda, Gmail, Outlook, OneDrive, etc. Voici une liste de fournisseurs de services que je recommande.
 Les moteurs de recherche Si vous utilisez Google comme moteur de recherche, voici une liste d&amp;rsquo;alternatives plus respectueuses de votre vie privée.
 DuckDuckGo DuckDuckGo (parfois abrégé DDG) est un moteur de recherche qui se base sur les résultats de Bing, vous devriez trouvez votre bonheur.</description>
@@ -151,10 +151,10 @@ DuckDuckGo DuckDuckGo (parfois abrégé DDG) est un moteur de recherche qui se b
     
     <item>
       <title>Instagram : Limitez l&#39;information publique et la collecte de données ✋</title>
-      <link>http://samsepi0l.ovh/fiches/instagram/</link>
+      <link>http://simpleprivacy.fr/fiches/instagram/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/fiches/instagram/</guid>
+      <guid>http://simpleprivacy.fr/fiches/instagram/</guid>
       <description>Si vous utilisez peu instagram, mais que vous souhaitez quand même garder votre compte tout en gardant un semblant de vie privée, voici tous les paramètres à changer :
 Limitez l&amp;rsquo;information publique Ces paramètres affecteront la manière dont les visiteurs verront votre profil.
 Sur la barre de navigation d&amp;rsquo;Instagram, tapez sur votre photo de profil en bas à droite.
@@ -163,19 +163,19 @@ Puis, tapez sur l&amp;rsquo;hamburger en haut à droite (ce sont les 3 barres ho
     
     <item>
       <title>A propos</title>
-      <link>http://samsepi0l.ovh/about/</link>
+      <link>http://simpleprivacy.fr/about/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/about/</guid>
+      <guid>http://simpleprivacy.fr/about/</guid>
       <description>Pourquoi ce site ? J&amp;rsquo;ai crée ce site parce que j&amp;rsquo;ai navigué sur beaucoup de sites web excellents concernant la vie privée et la sécurité, cependant, ils étaient tous en anglais et beaucoup trop techniques pour énormément de gens qui souhaiteraient s&amp;rsquo;y intéresser. Les gens qui s&amp;rsquo;occupent de ces sites web ont des connaissances accrues dans le domaine. Je souhaitais donc partager ça à nous, les français et les françaises.</description>
     </item>
     
     <item>
       <title>Politique de confidentialité</title>
-      <link>http://samsepi0l.ovh/privacy/</link>
+      <link>http://simpleprivacy.fr/privacy/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://samsepi0l.ovh/privacy/</guid>
+      <guid>http://simpleprivacy.fr/privacy/</guid>
       <description>Rien n&amp;rsquo;est collecté.
 Aucune méthode de pistage est utilisé sur ce site. Je me fiche de qui vous êtes, ou de ce que vous faites sur mon site web. Je suis là pour partager mes connaissances, et non vos informations.</description>
     </item>
