@@ -21,7 +21,7 @@ J'ai créé ce site parce que j'ai navigué sur beaucoup de sites web excellents
 
 Je traduis à la fois l'anglais vers le français mais aussi les connaissances techniques pour des gens non-techniques (en informatique).
 
-***Ce site est cependant addressé aux gens qui possèdent une certaine autonomie vis-à-vis de l'informatique en général.***
+***Ce site est cependant adressé aux gens qui possèdent une certaine autonomie vis-à-vis de l'informatique en général.***
 
 Sur ce site, vous pourrez apprendre comment utiliser Internet proprement, les bonnes pratiques à avoir, et comment éviter d'exposer ses informations personnelles gratuitement aux services tels que Google, Amazon, Facebook et j'en passe.
 
