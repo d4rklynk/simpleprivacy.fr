@@ -137,7 +137,7 @@ Alors évidemment, je suis pour l'écologie et la protection de l'environnement,
 
 J'avoue ne pas être un grand fan d'Apple et je ne connais pas très bien le sujet. Je vous conseille donc de lire l'[article sur IOS par Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) qui en parle mieux que moi.
 
-Cela dit, je tiens à prévenir que si Apple promet de respecter votre vie privée, nous n'avons en réalité aucune preuve. Peut-être la respecte-il, peut-être que non, peut-être un peu des deux. Des fois, on voit bien qu'Apple n'a pas accès à certaines données, des fois oui, et des fois c'est flou.
+Cela dit, je tiens à prévenir que si Apple promet de respecter votre vie privée, nous n'avons en réalité aucune preuve. Peut-être la respecte-il, peut-être que non, peut-être un peu des deux. Parfois, on voit bien qu'Apple n'a pas accès à certaines données car le chiffrement de bout en bout est implémenté ou que les données restent en local. Cependant ce n'est pas toujours le cas.
 
 iCloud ne propose pas de [chiffrement de bout en bout](/basiques/instant-messengers#le-chiffrement-de-bout-en-bout) pour la [plupart des services](https://support.apple.com/fr-fr/HT202303), tels que vos sauvegardes, vos contacts, vos calendriers, vos photos, etc.
 

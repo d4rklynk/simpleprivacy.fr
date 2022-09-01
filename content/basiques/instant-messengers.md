@@ -214,7 +214,7 @@ De plus comme WhatsApp est relié à Facebook, Facebook connait donc également 
 
 Comme dirait [Edward Snowden](https://twitter.com/Snowden/status/661305566967562240) : 
 
-> Vous avez du mal à comprendre le terme "métadonnées" ? Remplacez-le avec le terme "Historique d'activité", parceque c'est ce que sont les métadonnées.
+> Vous avez du mal à comprendre le terme "métadonnées" ? Remplacez-le avec le terme "Historique d'activité", parce que c'est ce que sont les métadonnées.
 
 Ces métadonnées sont [collectées par WhatsApp](https://www.lemonde.fr/pixels/article/2021/01/07/whatsapp-revoit-ses-conditions-d-utilisation-sur-le-partage-des-donnees-utilisateurs-avec-facebook_6065529_4408996.html) et [partagées avec Facebook](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/).
 

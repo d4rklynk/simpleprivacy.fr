@@ -19,7 +19,7 @@ Je vous conseille les outils les plus simples d'accès et qui respectent votre v
 
 ## Écriture inclusive
 
-Je suis pour l'écriture inclusive, mais les méthodes utilisées rendent très souvent le texte illisible. Cependant, je vais des fois écrire comme si je m'adressais à une femme, et des fois comme si je m'adressais à un homme.
+Je suis pour l'écriture inclusive, mais les méthodes utilisées rendent très souvent le texte illisible. Cependant, je vais des fois écrire comme si je m'adressais à une femme, et parfois comme si je m'adressais à un homme.
 
 ## Sources
 
