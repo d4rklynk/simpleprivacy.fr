@@ -54,6 +54,14 @@ Les personnes derrière ces projets sont complétement détachées de la réalit
 
 Je vous conseille d'ignorer complétement tous les conseils donnés par ces sources.
 
-## Prononciation de mon pseudo
+## Qui suis-je ?
+
+Je suis un humain de type être-vivant qui aime bien le monde de la technologie. Je m'appelle **samsepi0l**, ce qui est évidemment un pseudonyme. 
+
+J'ai beaucoup trainé sur les chats de [PrivSec.dev](https://matrix.to/#/#privsec:arcticfoxes.net) et [PrivacyGuides.org](https://matrix.to/#/#privacyguides:matrix.org), et j'ai accumulé beaucoup de connaissances et de bonnes sources que je vous partage à mon tour. 
+
+J'ai également une formation en tant que Tehcnicien Systèmes et Réseau et je travaille dans une ESN (Entreprise de Services Numériques).
+
+### Prononciation de mon pseudo
 
 samsepi0l se prononce "sam sépiole" le o est remplacé par un zéro. C'est la contraction du prénom ***Sam*** et du nom ***Sepiol***
