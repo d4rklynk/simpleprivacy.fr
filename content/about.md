@@ -4,7 +4,15 @@ date: 2022-07-25
 ---
 
 ## Pourquoi ce site ?
+Bonjour tout le monde, je suis fier de vous présenter mon projet personnel sur lequel je travaille depuis deux mois !
 
+
+
+Un site web pour regagner sa vie privée et sécurité en ligne !
+
+
+
+https://simpleprivacy.fr
 J'ai crée ce site parce que j'ai navigué sur beaucoup de sites web excellents concernant la vie privée et la sécurité, cependant, ils étaient tous en anglais et beaucoup trop techniques pour énormément de gens qui souhaiteraient s'y intéresser. Les gens qui s'occupent de ces sites web ont des connaissances accrues dans le domaine. Je souhaitais donc partager ça à nous, les français et les françaises.
 
 Je traduis à la fois l'anglais vers le français mais aussi les connaissances techniques pour des gens non-techniques (en informatique).
@@ -60,7 +68,7 @@ Je suis un humain de type être-vivant qui aime bien le monde de la technologie.
 
 J'ai beaucoup trainé sur les chats de [PrivSec.dev](https://matrix.to/#/#privsec:arcticfoxes.net) et [PrivacyGuides.org](https://matrix.to/#/#privacyguides:matrix.org), et j'ai accumulé beaucoup de connaissances et de bonnes sources que je vous partage à mon tour. 
 
-J'ai également une formation en tant que Tehcnicien Systèmes et Réseau et je travaille dans une ESN (Entreprise de Services Numériques).
+J'ai également une formation en tant que Technicien Systèmes et Réseaux et je travaille dans une ESN (Entreprise de Services Numériques).
 
 ### Prononciation de mon pseudo
 
