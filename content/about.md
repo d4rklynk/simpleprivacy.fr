@@ -17,7 +17,7 @@ samsepi0l se prononce "sam sépiole" le o est remplacé par un zéro. C'est la c
 
 ## Pourquoi ce site ?
 
-J'ai crée ce site parce que j'ai navigué sur beaucoup de sites web excellents concernant la vie privée et la sécurité, cependant, ils étaient tous en anglais et beaucoup trop techniques pour énormément de gens qui souhaiteraient s'y intéresser. Les gens qui s'occupent de ces sites web ont des connaissances accrues dans le domaine. Je souhaitais donc partager ça à nous, les français et les françaises.
+J'ai créé ce site parce que j'ai navigué sur beaucoup de sites web excellents concernant la vie privée et la sécurité, cependant, ils étaient tous en anglais et beaucoup trop techniques pour énormément de gens qui souhaiteraient s'y intéresser. Les gens qui s'occupent de ces sites web ont des connaissances accrues dans le domaine. Je souhaitais donc partager ça à nous, les français et les françaises.
 
 Je traduis à la fois l'anglais vers le français mais aussi les connaissances techniques pour des gens non-techniques (en informatique).
 
