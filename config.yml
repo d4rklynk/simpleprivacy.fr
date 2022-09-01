@@ -20,7 +20,7 @@ minify:
 params:
   env: false # to enable google analytics, opengraph, twitter-cards and schema.
   title: SimplePrivacy
-  description: "samsepi0l description"
+  description: "Une approche plus simple pour récuperer votre vie privée en ligne."
   keywords: [Privacy, Sécurité, Vie Privée]
   author: samsepi0l
   # author: ["Me", "You"] # multiple authors
