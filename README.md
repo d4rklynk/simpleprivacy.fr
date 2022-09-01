@@ -1,4 +1,4 @@
-# samsepi0l.ovh
+# SimplePrivacy.fr
 
 Un site web destiné aux personnes qui ont des connaissances limitées en informatique.
 
