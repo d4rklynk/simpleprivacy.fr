@@ -1,7 +1,7 @@
-baseURL: http://samsepi0l.ovh/
+baseURL: http://simpleprivacy.fr/
 languageCode: fr-FR
 defaultContentLanguage: fr
-title: samsepi0l
+title: SimplePrivacy
 theme: "WonderMod"
 copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)'
 enableGitInfo: true
@@ -19,7 +19,7 @@ minify:
 
 params:
   env: false # to enable google analytics, opengraph, twitter-cards and schema.
-  title: samsepi0l
+  title: SimplePrivacy
   description: "samsepi0l description"
   keywords: [Privacy, Sécurité, Vie Privée]
   author: samsepi0l
@@ -62,7 +62,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: samsepi0l.ovh
+    title: SimplePrivacy.fr
     subtitle: "Une approche plus simple pour récuperer votre vie privée en ligne."
     # imageUrl: "<img location>"
     # imageWidth: 120
