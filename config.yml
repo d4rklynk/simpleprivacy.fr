@@ -87,7 +87,7 @@ params:
     - name: email
       url: "mailto:contact@simpleprivacy.fr"
     - name: pgpkey
-      url: simpleprivacy-public-pgp-key.asc
+      url: public-pgp-key.asc
     - name: rss
       url: /index.xml
 
