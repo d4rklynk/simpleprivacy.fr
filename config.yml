@@ -84,6 +84,8 @@ params:
       url: "https://github.com/d4rklynk/simpleprivacy.fr"
     - name: matrix
       url: "https://matrix.to/#/@samsepi0l:arcticfoxes.net"
+    - name: email
+      url: "mailto:contact@simpleprivacy.fr"
     - name: rss
       url: /index.xml
 
