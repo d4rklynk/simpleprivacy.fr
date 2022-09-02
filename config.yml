@@ -86,7 +86,7 @@ params:
       url: "https://matrix.to/#/@samsepi0l:arcticfoxes.net"
     - name: email
       url: "mailto:contact@simpleprivacy.fr"
-    - name: key
+    - name: pgpkey
       url: simpleprivacy-public-pgp-key.asc
     - name: rss
       url: /index.xml
