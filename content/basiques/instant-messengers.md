@@ -155,7 +155,9 @@ Maintenant que vous avez compris ces notions, je vais vous présenter différent
 
 ## SMS
 
-J'en profite pour vous dire que vous devriez éviter un maximum les SMS, c'est probablement la technologie la moins sécurisée en terme de moyen de communication. Les [SMS ne sont pas chiffrés](https://proton.me/blog/stop-using-sms) et peuvent être lisible par n'importe qui. Votre FAI (Fournisseur d'Accès à Internet : Orange, Free etc.) ou un hacker peut lire tous vos SMS, et les revendre à des tiers ou les donner au gouvernement.
+J'en profite pour vous dire que vous devriez éviter un maximum les SMS, c'est probablement la technologie [la moins sécurisée](https://secure-voice.com/ss7_attacks/) en terme de moyen de communication. Les [SMS ne sont pas chiffrés](https://proton.me/blog/stop-using-sms) et peuvent être lisible par n'importe qui. Votre FAI (Fournisseur d'Accès à Internet : Orange, Free etc.) ou un hacker peut lire tous vos SMS, et les revendre à des tiers ou les donner au gouvernement.
+
+Par ailleurs, n'importe qui peut faire croire qu'il est l'auteur du message, et n'importe qui peut faire croire qu'il est le destinataire du message. Le [phishing](https://www.bejarano.io/sms-phishing/) est très présent sur les SMS, faites attention, car ils peuvent paraître légitimes et pourtant être frauduleux.
 
 ---
 
