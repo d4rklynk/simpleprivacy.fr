@@ -172,7 +172,7 @@ Pour réitérer :
 
 ---
 
-## En savoir plus
+## En savoir plus & crédits
 
 - [Le modèle de sécurité mobile - Wonderfall](https://wonderfall.space/modele-securite-mobile/)
 - [Android - Madaidan](https://madaidans-insecurities.github.io/android.html) (en anglais)

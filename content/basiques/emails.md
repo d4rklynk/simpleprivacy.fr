@@ -103,5 +103,5 @@ En terme d'écologie, les mails sont vraiment à bannir. Priviligiez des message
 
 ### Les solutions
 
-- [Les alternatives # Les mails - samsepi0l](/alternatives/providers#les-mails)
-- [Les alternatives # Les services d'aliasing - samsepi0l](/alternatives/providers#les-services-daliasing)
+- [Les alternatives 📨️ # Les mails - samsepi0l](/alternatives/providers#les-mails)
+- [Les alternatives 📨️ # Les services d'aliasing - samsepi0l](/alternatives/providers#les-services-daliasing)

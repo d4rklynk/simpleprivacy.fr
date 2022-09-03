@@ -103,17 +103,21 @@ Ne croyez pas que vous n'êtes pas manipulé par ces services, ça fait 20 ans q
 ### Pour en revenir à mon exemple des esclaves :
 
 Un esclave, est, [selon la définition du Larousse](https://www.larousse.fr/dictionnaires/francais/esclave/30979) :
+
 > Une personne de condition non-libre, considérée comme un instrument économique pouvant être vendu ou acheté, et qui était sous la dépendance d'un maître.`
 
 Vous allez probablement me dire que je suis fou de comparer l'esclavage au concept de vie privée, probablement. Mais regardez :
+
 > Une personne de condition non-libre...
 
 On n'est pas libre de nos données qui sont sur Internet, en tout cas, celles qui y sont déjà. On ne peut rarement les supprimer ou les modifier.
 Dans l'exemple du vélo, nous recevons de la pub sans notre consentement. Nous n'avions rien demandé à la base, mais on nous sert quand même de la pub.
+
 > ...considérée comme un instrument économique pouvant être vendu ou acheté...
 
 Vos données ont pour unique but de rapporter de l'argent à l'entreprise, car elles sont revendus à des tiers.
 Comment pensez-vous que des entreprises comme Google ou Facebook puissent vous proposer un service gratuit ?
+
 > ...et qui était sous la dépendance d'un maître.
 
 Si vous lisez bien les Politiques de Vie Privée ou les CGU (Conditions Générales d'Utilisation), vous remarquerez que très souvent, vos données ne vous appartiennent plus une fois mise en ligne sur un service (tels que Facebook, Instagram, Google Drive, Google Photos, Gmail, OneDrive, Outlook, Amazon, et j'en passe beaucoup...).

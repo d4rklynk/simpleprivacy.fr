@@ -328,8 +328,9 @@ Gardez bien ces quatres règles en tête :
 
 ---
 
-## Credits
+## En savoir plus & crédits
 
 - [How password managers work - Computerphile](https://www.youtube-nocookie.com/embed/w68BBPDAWr8) (Vidéo YouTube)
 - [How to choose a password - Computerphile](https://www.youtube-nocookie.com/embed/3NjQ9b3pgIg) (Vidéo YouTube)
 - [timing paving hertz bacterium pliable angelfish - Wonderfall](https://wonderfall.space/password/)
+- [Les alternatives 📚️ # Les gestionnaires de mots de passe - samsepi0l](/alternatives/apps/#les-gestionnaires-de-mots-de-passe)
