@@ -241,13 +241,21 @@ Encore une fois, ***omettez ou falsifiez vos informations*** le plus possible.
 
 La vie privée sur Internet va de pair avec la sécurité. Si vous ne prenez pas en compte cet aspect, vous démarrez très mal.
 
-C'est bien de fermer les rideaux et de fermer votre porte, mais si les fenêtres s'ouvrent de l'extérieur ou que la porte n'as pas de serrure, vous pouvez très vite subir une violation de votre vie privée. Et tout ce que vous aviez entrepris pour protéger votre vie privée est réduite à néant par une simple porte.
+> C'est bien de fermer les rideaux et de fermer votre porte, mais si les fenêtres s'ouvrent de l'extérieur ou que la porte n'as pas de serrure, vous pouvez très vite subir une violation de votre vie privée. Et tout ce que vous aviez entrepris pour protéger votre vie privée est réduite à néant par une simple porte.
 
 En ce qui concerne les applications (qu'elles soient open source ou pas), on ne peut pas savoir si elles sont malveillantes ou si elles le deviendront un jour.
 
-Je vous ***déconseille fortement*** d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. Utilisez juste Windows Defender, c'est parfait. Et n'installez pas d'antivirus sur votre téléphone, [c'est inutile](https://privsec.dev/os/android-tips/#manage-android-permissions), voire [dangereux](https://privsec.dev/knowledge/badness-enumeration/#antiviruses).
+Je vous ***déconseille fortement*** d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. [C'est inutile](https://privsec.dev/os/android-tips/#manage-android-permissions), voire [dangereux](https://privsec.dev/knowledge/badness-enumeration/#antiviruses), utilisez juste ce que vous propose votre système d'exploitation par défaut, Windows vous propose Microsoft Defender (ou anciennement appelé Windows Defender), utilisez unquement celui-ci, c'est parfait. Et n'installez pas d'antivirus sur votre téléphone non plus !
+
+Si vous avez achetez un PC sous Windows qui propose un antivirus par défaut, je ne peux que vous suggérer de le désactiver et d'utiliser Microsoft Defender à la place.
 
 Un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) sur ce problème a déjà été traité par [Wonderfall](https://wonderfall.space/). Je vous invite fortement à le consulter (article en français).
+
+Il faut aussi comprendre que la "sécurité totale" n'existe pas, on parle de "hautement sécurisé", ou de "très sécurisé" mais jamais de sécurité complète. Même les plus gros services réputés être très sécurisés possèdent leurs failles, comme Google, Facebook, Microsoft, Apple, etc. Mais des pays entiers peuvent également subir des fuites de données.
+
+GrapheneOS est un bon exemple, c'est un système d'exploitation basé sur Android (le projet [AOSP](/basiques/smartphones/#aosp-et-firmware)) qui se veut être très sécurisé, mais vous vous doutez bien que si vous faites n'importe quoi avec, GrapheneOS ne pourra plus rien pour vous.
+
+> Dites-vous que la sécurité est exactement comme une voiture, on peut faire des airbags, des ceintures de sécurité, des aides au freinage, etc. Mais si vous foncez à 150 km/h contre un mur, vous n'allez pas faire long feu 😅️. Même avec la voiture la plus sécurisée du monde.
 
 ### Les solutions
 
