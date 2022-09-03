@@ -5,40 +5,39 @@ date: 2022-09-03
 
 ## Les données personnelles
 
-Les données personnelles sont toute information qui vous relie **directement** ou **indirectement** (aussi abrégé **PII** en anglais pour "Personally Identifiable Information").
+Les données personnelles sont toutes informations qui vous relient **directement** ou **indirectement** (aussi abrégé **PII** en anglais pour "Personally Identifiable Information").
 
-Une [vidéo de la CNIL](https://www.cnil.fr/fr/definition/donnee-personnelle) est disponible pour comprendre ce qu'est une donnée personnelle.
-
-Les **données personnelles** sont celles qui permettent de vous identifier directement ou indirectement telles que :
+Telles que :
 
 *Informations personnelles **directement** identifiables (non-exhaustive) :*
 
-- Votre prénom/nom
-- Votre adresse postale
-- Votre numéro de carte vitale
-- Votre numéro de carte bancaire
-- Votre identifiant de compte bancaire
-- Votre numéro de téléphone
-- Le numéros d'identifications d'objets que vous possédez (l'immatriculation de votre véhicule par exemple)
-- Vos photos d"identité
+- Votre prénom/nom.
+- Votre adresse postale.
+- Votre numéro de carte vitale.
+- Votre numéro de carte bancaire.
+- Votre identifiant de compte bancaire.
+- Votre numéro de téléphone.
+- Le numéros d'identifications d'objets que vous possédez (l'immatriculation de votre véhicule par exemple).
+- Vos photos d'identité.
 
 *Informations personnelles **indirectement** identifiables (non-exhaustive) :*
 
-- Votre date de naissance
-- Votre ville de naissance (ou département/région/pays)
-- Votre adresse IP
-- Le nom de jeune fille de votre mère
-- Adresse email
-- Religion
-- Informations médicales
-- Informations scolaires
-- Informations bancaires
+- Votre date de naissance.
+- Votre ville de naissance (ou département/région/pays).
+- Votre adresse IP.
+- Le nom de jeune fille de votre mère.
+- Adresse email.
+- Religion.
+- Informations médicales.
+- Informations scolaires.
+- Informations bancaires.
 
 Les informations personnelles **indirectement** identifiables sont les données qui toutes seules, ne valent rien, mais qui combinées avec d'autres données permettent de vous identifier.
 
 > Je vous conseille d'aller sur ce [site web](https://cpg.doc.ic.ac.uk/observatory/), il est en anglais, mais ce sont des menus déroulants super simple. Ce site vous montre à quel point c'est facile de vous identifier. Rappellez-vous que les choix que vous avez mis sur le site (date de naissance, sexe, âge, etc.) sont des données que vous mettez très souvent sur Internet !
 
----
+
+Une [vidéo de la CNIL](https://www.cnil.fr/fr/definition/donnee-personnelle) est disponible pour comprendre ce qu'est une donnée personnelle.
 
 ## Les métadonnées
 
@@ -79,7 +78,7 @@ Vous vous dites que tant que ces entreprises n'ont pas accès au réel contenu, 
 
 Si vous avez du mal à vous rendre compte de l'ampleur des métadonnées, imaginez qu'un jour vous croisez un **inconnu** qui vous dit qu'il sait que vous avez vu votre ami hier soir, mais qu'il ne sait pas de quoi vous avez parlé. Il sait également que vous êtes allé au cinéma avec lui, mais ne sait pas ce que vous avez regardé. Vous avez compris l'idée. C'est tout aussi perturbant.
 
-Les [menaces](/basiques/threat-model) sur Internet sont invisibles, un peu comme la radioactivité, ça fait peur quand on nous en parle, mais on ne peut pas le voir, ce qui diminue drastiquement cette peur. Ce que nous voyons, c'est le clavier, l'écran, la souris, le navigateur web, la barre de recherche Google, etc. Rien d'effrayant à première vue...
+Les [menaces](/basiques/threat-model) sur Internet sont invisibles, ça fait peur quand on nous en parle, mais on ne peut pas le voir, ce qui diminue drastiquement cette peur. Ce que nous voyons, c'est le clavier, l'écran, la souris, le navigateur web, la barre de recherche Google, etc. Rien d'effrayant à première vue...
 
 ## Conclusion
 
