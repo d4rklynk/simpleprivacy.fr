@@ -34,16 +34,16 @@ Telles que :
 
 Les informations personnelles **indirectement** identifiables sont les données qui toutes seules, ne valent rien, mais qui combinées avec d'autres données permettent de vous identifier.
 
-> Je vous conseille d'aller sur ce [site web](https://cpg.doc.ic.ac.uk/observatory/), il est en anglais, mais ce sont des menus déroulants super simple. Ce site vous montre à quel point c'est facile de vous identifier. Rappellez-vous que les choix que vous avez mis sur le site (date de naissance, sexe, âge, etc.) sont des données que vous mettez très souvent sur Internet !
+> Je vous conseille d'aller sur ce [site web](https://cpg.doc.ic.ac.uk/observatory/), il est en anglais, mais ce sont des menus déroulants super simples. Ce site vous montre à quel point il est facile de vous identifier. Rappellez-vous que les choix que vous avez mis sur le site (date de naissance, sexe, âge, etc.) sont des données que vous mettez très souvent sur Internet !
 
 
 Une [vidéo de la CNIL](https://www.cnil.fr/fr/definition/donnee-personnelle) est disponible pour comprendre ce qu'est une donnée personnelle.
 
 ## Les métadonnées
 
-Les métadonnées sont partout, on pense qu'elles sont totalement négligeables, mais c'est pourtant ces métadonnées que les entreprises sur Internet récoltent le plus. C'est ces métadonnées qui permettent aux entreprises de comprendre nos habitudes, nos comportements et nos préférences.
+Les métadonnées sont partout, on pense qu'elles sont totalement négligeables, mais c'est pourtant ces métadonnées que les entreprises sur Internet récoltent le plus. Ce sont ces métadonnées qui permettent aux entreprises de comprendre nos habitudes, nos comportements et nos préférences.
 
-Les métadonnées sont les données des données. Vous avez par exemple écris une lettre sur Microsoft Word : le **contenu** de la lettre est la **donnée**, mais la taille du fichier, combien de mots/ligne/paragraphe vous avez écris, la dernière date de modification/ouverture du fichier, son appartenance et sa date (etc.) sont ce qu'on appelle les **métadonnées**.
+Les métadonnées sont les données des données. Vous avez par exemple écris une lettre sur Microsoft Word : le **contenu** de la lettre est la **donnée**, mais la taille du fichier, combien de mots/lignes/paragraphes vous avez écrit, la dernière date de modification/ouverture du fichier, son appartenance et sa date (etc.) sont ce qu'on appelle les **métadonnées**.
 
 Sur Internet, les métadonnées vont notamment être :
 
@@ -62,7 +62,7 @@ Dans les messageries instantanées, les métadonnées vont être :
 - à qui vous envoyez des messages.
 - combien de temps vous parlez avec une personne.
 - combien de messages vous envoyez.
-- quand vous les envoyer.
+- quand vous les envoyez.
 - quand vous les recevez.
 - votre IP.
 - la version de l'application que vous utilisez.
@@ -76,15 +76,17 @@ Vous vous dites que tant que ces entreprises n'ont pas accès au réel contenu, 
 
 ### Exemple dans la vraie vie
 
-Si vous avez du mal à vous rendre compte de l'ampleur des métadonnées, imaginez qu'un jour vous croisez un **inconnu** qui vous dit qu'il sait que vous avez vu votre ami hier soir, mais qu'il ne sait pas de quoi vous avez parlé. Il sait également que vous êtes allé au cinéma avec lui, mais ne sait pas ce que vous avez regardé. Vous avez compris l'idée. C'est tout aussi perturbant.
+Si vous avez du mal à vous rendre compte de l'ampleur des métadonnées, voici un exemple. Imaginez qu'un jour vous croisez un **inconnu** qui vous dit qu'il sait que vous avez vu votre ami hier soir, cependant, il ignore ce dont vous avez parlé. Il sait également que vous êtes allé au cinéma avec lui, mais ne sait pas ce que vous avez regardé. Vous avez compris l'idée. C'est tout aussi perturbant.
 
-Les [menaces](/basiques/threat-model) sur Internet sont invisibles, ça fait peur quand on nous en parle, mais on ne peut pas le voir, ce qui diminue drastiquement cette peur. Ce que nous voyons, c'est le clavier, l'écran, la souris, le navigateur web, la barre de recherche Google, etc. Rien d'effrayant à première vue...
+Les [menaces](/basiques/threat-model) sur Internet sont invisibles, ça fait peur quand on nous en parle, mais on ne peut pas les voir, ce qui diminue drastiquement cette peur. Ce que nous voyons, c'est le clavier, l'écran, la souris, le navigateur web, la barre de recherche Google, etc. Rien d'effrayant à première vue...
 
 ## Conclusion
 
 Vos données personnelles, qu'elles soit identifiables ou non, sont **VOS** données, elles ne devraient pas être vues par quelqu'un d'autre que vous.
 
-Partez du principe que toute donnée qui sort de votre appareil (smartphone, PC, etc) est [considérée publique](/fiches/les-bonnes-pratiques/#vie-privée) (que ce soit maintenant ou dans le futur).
+Partez du principe que toute donnée qui sort de votre appareil (smartphone, PC, etc) est [considérée publique](/fiches/les-bonnes-pratiques/#vie-privée) (que ce soit maintenant ou dans le futur). 
+
+Ce sujet est expliqué clairement dans la vidéo YouTube [de Cookie Connecté](https://www.youtube.com/watch?v=QlsKHNaluoc) (~ 10 minutes) que je recommmande grandement.
 
 ---
 
