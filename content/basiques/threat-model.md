@@ -267,7 +267,7 @@ La meilleure technique dans ce cas est, si vous avez la chance d'avoir plusieurs
 
 Ne partagez pas votre PC, et au pire des cas, créez toujours une session dédiée à cette personne.
 
-### Mauvaises pratiques
+## Mauvaises pratiques
 
 Les **erreurs** de débutant les plus communes sont de :
 
