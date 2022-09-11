@@ -51,12 +51,16 @@ La version gratuite vous permet d'avoir 10 alias maximum, la version payante à 
 
 ## Les services cloud
 
-Proton Drive et Cryptee sont conseillés car ils implémentent tous les deux le chiffrement de bout en bout par défaut.
+Ces services cloud implémentent tous du chiffrement de bout en bout par défaut. Pour des raisons évidentes, ces services sont payants, car ils ne se font pas d'argent grâce à vos données.
 
 - [Proton Drive](https://proton.me/fr/drive)
 
-> Comme les serveurs ça coûte cher et que Proton de vend pas nos données, vous devez payer pour avoir un peu plus de fonctionnalités. Les [différents plans](https://proton.me/fr/pricing) sont consultables sur leur site web.
+> Les [différents plans](https://proton.me/fr/pricing) sont consultables sur leur site web.
 
 - [Cryptee](https://crypt.ee/)
 
 > Voir les [prix](https://crypt.ee/#pricing).
+
+- [Filen](https://filen.io/)
+
+> Voir les [prix](https://filen.io/pro). Les plans **Starter** à partir de 11€/an pour 100 Go ou les plans **Pro** à partir de 4€/mois pour 500 Go.
