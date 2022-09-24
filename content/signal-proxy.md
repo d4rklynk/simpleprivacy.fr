@@ -7,7 +7,7 @@ date: 2022-09-24
 
 Si dans votre pays, le réseau Tor, les VPN, et Signal sont bloqués, je vous conseille donc d'utiliser un proxy Signal.
 
-J'héberge actuellement un proxy pour Signal. Pour éviter que les pays trouvent et bloquent mon proxy, je vous invite à m'envoyer un message privé sur [Element](https://matrix.to/#/@samsepi0l:arcticfoxes.net) ou via mon [adresse mail](contact@simpleprivacy.fr). Vous avez juste à demander pour mon proxy, je vous l'enverrai au plus vite (dans la journée) ou vous pouvez scannez le [QR code](https://twitter.com/SimplePrivacyFR/status/1573722737394302977) disponible sur mon [Twitter](https://twitter.com/SimplePrivacyFR/).
+J'héberge actuellement un proxy pour Signal. Pour éviter que les pays trouvent et bloquent mon proxy, je vous invite à m'envoyer un message privé sur [Element](https://matrix.to/#/@samsepi0l:arcticfoxes.net) ou via mon [adresse mail](mailto:contact@simpleprivacy.fr). Vous avez juste à demander pour mon proxy, je vous l'enverrai au plus vite (dans la journée) ou vous pouvez scannez le [QR code](https://twitter.com/SimplePrivacyFR/status/1573722737394302977) disponible sur mon [Twitter](https://twitter.com/SimplePrivacyFR/).
 Vous avez ensuite juste à cliquer sur le lien depuis votre téléphone, cela ouvrira automatiquement Signal et vous demandera si vous souhaitez utiliser ce proxy. Après acceptation, vous serez connecté.
 
 N'importe qui peut demander pour mon proxy, je vous suggère juste de ne le partager que par message privé. Cependant ne le demandez uniquement que si Signal est bloqué dans votre pays, c'est inutile d'utiliser un proxy si Signal n'est pas bloqué.
