@@ -86,6 +86,8 @@ params:
       url: "https://github.com/d4rklynk/simpleprivacy.fr"
     - name: matrix
       url: "https://matrix.to/#/@samsepi0l:arcticfoxes.net"
+    - name: twitter
+      url: "https://twitter.com/SimplePrivacyFR"
     - name: email
       url: "mailto:contact@simpleprivacy.fr"
     - name: pgpkey
