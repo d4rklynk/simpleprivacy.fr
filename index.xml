@@ -104,6 +104,17 @@ Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les sy
     </item>
     
     <item>
+      <title>Serveur Proxy pour Signal</title>
+      <link>https://simpleprivacy.fr/signal-proxy/</link>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://simpleprivacy.fr/signal-proxy/</guid>
+      <description>Signal est actuellement bloqué en Iran , si vous souhaitez toujours utiliser Signal, je vous suggère d&amp;rsquo;utiliser Tor ou un VPN qui demande très peu d&amp;rsquo;informations vous concernant, comme Mullvad .
+Si dans votre pays, le réseau Tor, les VPN, et Signal sont bloqués, je vous conseille donc d&amp;rsquo;utiliser un proxy Signal.
+J&amp;rsquo;héberge actuellement un proxy pour Signal. Pour éviter que les pays trouvent et bloquent mon proxy, je vous invite à m&amp;rsquo;envoyer un message privé sur Element ou via mon adresse mail .</description>
+    </item>
+    
+    <item>
       <title>Les données personnelles et les métadonnées 🛡️</title>
       <link>https://simpleprivacy.fr/basiques/personal-data/</link>
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
