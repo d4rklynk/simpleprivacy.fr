@@ -24,7 +24,7 @@ params:
   keywords: [Privacy, Sécurité, Vie Privée]
   author: samsepi0l
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["/simpleprivacy_banner.jpg"]
   DateFormat: "2 January 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
@@ -64,9 +64,9 @@ params:
     enabled: true # needs to be explicitly set
     title: SimplePrivacy.fr
     subtitle: "Une approche plus simple pour récuperer votre vie privée en ligne."
-    # imageUrl: "<img location>"
-    # imageWidth: 120
-    # imageHeight: 120
+    imageUrl: "simpleprivacy_logo_mono.png"
+    imageWidth: 100
+    imageHeight: 100
     # imageTitle: my image
     buttons:
       - name: A propos
