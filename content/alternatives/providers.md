@@ -60,7 +60,3 @@ Ces services cloud implémentent tous du chiffrement de bout en bout par défaut
 - [Cryptee](https://crypt.ee/)
 
 > Voir les [prix](https://crypt.ee/#pricing).
-
-- [Filen](https://filen.io/)
-
-> Voir les [prix](https://filen.io/pro). Les plans **Starter** à partir de 11€/an pour 100 Go ou les plans **Pro** à partir de 4€/mois pour 500 Go.
