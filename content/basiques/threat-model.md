@@ -247,11 +247,11 @@ En ce qui concerne les applications (qu'elles soient open source ou pas), on ne 
 
 Je vous ***déconseille fortement*** d'utiliser des antivirus tiers comme Avast, Kasperky, McAfee, etc. [C'est inutile](https://privsec.dev/os/android-tips/#manage-android-permissions), voire [dangereux](https://privsec.dev/knowledge/badness-enumeration/#antiviruses), utilisez juste ce que vous propose votre système d'exploitation par défaut. Windows vous propose Microsoft Defender (ou anciennement appelé Windows Defender), utilisez uniquement celui-ci. La même chose s'applique pour macOS qui depuis [août 2022](https://eclecticlight.co/2022/08/30/macos-now-scans-for-malware-whenever-it-gets-a-chance/) propose un [antivirus intégré](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web) (mais caché pour l'utilisateur). Et n'installez pas d'antivirus sur votre téléphone non plus !
 
-Si vous avez achetez un PC sous Windows qui propose un autre antivirus par défaut (Avast, McAfee, AVG...), je ne peux que vous suggérer de le désactiver et d'utiliser Microsoft Defender à la place.
+Si vous avez acheté un PC sous Windows qui propose un autre antivirus par défaut (Avast, McAfee, AVG...), je ne peux que vous suggérer de le désactiver et d'utiliser Microsoft Defender à la place.
 
 Un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) sur ce problème a déjà été traité par [Wonderfall](https://wonderfall.space/). Je vous invite fortement à le consulter (article en français).
 
-Les antivirus de basent sur le principe de [badness enumeration](https://privsec.dev/knowledge/badness-enumeration/#antiviruses) (littéralement : l'énumération du mal) qui est une méthode complètement dépassée et détachée de la réalité. L'antivirus est toujours en retard, des virus sont créés tous les jours, vous vous doutez bien que c'est impossible de tenir une liste ultra-précise de tous les virus possibles.
+Les antivirus se basent sur le principe de [badness enumeration](https://privsec.dev/knowledge/badness-enumeration/#antiviruses) (littéralement : l'énumération du mal) qui est une méthode complètement dépassée et détachée de la réalité. L'antivirus est toujours en retard, des virus sont créés tous les jours, vous vous doutez bien que c'est impossible de tenir une liste ultra-précise de tous les virus possibles.
 
 Il faut aussi comprendre que la "sécurité totale" n'existe pas, on parle de "très sécurisé" mais jamais de sécurité complète. Même les plus gros services, qui sont réputés pour être très sécurisés, possèdent leurs failles, comme Google, Facebook, Microsoft, Apple, etc. Mais des pays entiers peuvent également subir des fuites de données.
 
