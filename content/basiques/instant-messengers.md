@@ -178,7 +178,7 @@ Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés 
 
 Ce n'est pas nouveau, Facebook Messenger a toujours été capable de lire vos messages, et on nous l'a [encore prouvé](https://www.lemonde.fr/pixels/article/2022/08/11/avortement-illegal-aux-etats-unis-facebook-critique-pour-avoir-fourni-a-la-justice-des-messages-prives_6137767_4408996.html) en août 2022.
 
-Une fonctionnalité appelée "[conversation secrète](https://www.facebook.com/help/1084673321594605/?locale=fr_FR)" (qui au passage, [utilise le "**Signal Protocol**"](https://about.fb.com/wp-content/uploads/2016/07/messenger-secret-conversations-technical-whitepaper.pdf#page=4)) est disponible sur Facebook, mais est à mon sens inutile puisque Facebook collecte massivement vos métadonnées de cette "conversation secrète" (de la même manière que [WhatsApp](#whatsapp)). 
+Une fonctionnalité appelée "[conversation secrète](https://www.facebook.com/help/1084673321594605/?locale=fr_FR)" (qui au passage, [utilise le "**Signal Protocol**"](https://about.fb.com/wp-content/uploads/2016/07/messenger-secret-conversations-technical-whitepaper.pdf#page=4)) est disponible sur Facebook. Cependant, Facebook collecte massivement vos métadonnées de cette "conversation secrète" (de la même manière que [WhatsApp](#whatsapp)) car le **Signal Protocol** ne garantit que la confidentialité des messages et non des métadonnées. 
 
 Je vous conseille quand même d'utiliser cette conversation secrète le temps que vous changiez pour [Signal](#signal).
 
