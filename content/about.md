@@ -31,7 +31,9 @@ Je vous conseille les outils les plus simples d'accès et qui respectent votre v
 
 ## Articles
 
-Tous mes articles ont pour but d'être tout le temps valable, ce seront donc des articles qui seront régulièrement mis à jour. N'hésitez donc pas à les relire, j'ajoute souvent des sources, des liens, et même des exemples d'actualités. 
+Tous mes articles sont actualisés très régulièrement afin de vous donner les informations les plus à jour possible. N'hésitez donc pas à les relire, j'ajoute souvent des sources, des liens, et même des exemples d'actualités. 
+
+*Vous pouvez voir la dernière modification d'un article en haut de celui-ci, il sera affiché "Last updated".*
 
 Si un article n'a pas été mis à jour depuis longtemps, c'est que je n'ai rien à ajouter ou à modifier !
 
