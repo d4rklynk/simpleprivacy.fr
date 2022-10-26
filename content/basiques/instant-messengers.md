@@ -204,6 +204,8 @@ Une [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d%27attaque) prés
 
 > WhatsApp utilise le "[Signal Protocol](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf)". Cependant, le "Signal Protocol" ne garantit pas que les **métadonnées** soient chiffrées.
 
+### Métadonnées
+
 Sur WhatsApp, les métadonnées ne sont pas chiffrées, et donc visibles par WhatsApp (et donc Facebook), telles que :
 
 - quand vous êtes en ligne
@@ -231,6 +233,12 @@ Les métadonnées sont [aussi importantes que les données](https://ssd.eff.org/
 Même si vos messages sur WhatsApp sont chiffrés, on n'a pas besoin de connaître le contenu des messages pour connaître votre vie.
 
 En archéologie par exemple, on peut deviner l'utilité d'un objet grâce aux métadonnées : la composition de l'objet, à quelle date tel métal était utilisé, le type d'objet, etc. Donc oui les métadonnées ne sont pas anodines.
+
+### Sauvegardes WhatsApp
+
+Que vous soyez sur Android ou iOS, WhatsApp vous propose de sauvegarder vos messages, fonctionnalité fort pratique mais qui a pour inconvénient de [sauvegarder également la clé](https://sudneela.github.io/posts/the-workings-of-whatsapps-end-to-end-encrypted-backups/) qui permet de déchiffrer vos messages. Pour faire simple, vos messages peuvent être déchiffrés dans le cloud, et sont donc par extension lisible par votre fournisseur cloud (Google Drive ou iCloud).
+
+Vous pouvez tout de même profiter de cette fonctionnalité en [activant la sauvegarde chiffrée de bout en bout](https://faq.whatsapp.com/629089898272226/). Je vous conseille de générer une clé de chiffrement à 64 chiffres comme le propose WhatsApp et de le sauvegarder dans votre [gestionnaire de mots de passe préféré](/fiches/bitwarden). Si vous oubliez ce mot de passe, il n'y a évidemment aucun moyen de récupérer vos messages, inscrivez-le dans un gestionnaire de mots de passe ! Je ne le dirais jamais assez !
 
 ## Telegram
 
