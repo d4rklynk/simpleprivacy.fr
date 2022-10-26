@@ -29,6 +29,12 @@ J'essaye d'expliquer de la manière la plus simple possible afin que n'importe q
 
 Je vous conseille les outils les plus simples d'accès et qui respectent votre vie privée.
 
+## Articles
+
+Tous mes articles ont pour but d'être valable tout le temps, ce seront donc des articles qui seront régulièrement mis à jour. N'hésitez donc pas à les relire, j'ajoute souvent des sources, des liens, et même des exemples d'actualités. 
+
+Si un article n'a pas été mis à jour depuis longtemps, c'est que je n'ai rien à ajouter ou à modifier !
+
 ## Écriture inclusive
 
 Je suis pour l'écriture inclusive, mais les méthodes utilisées rendent très souvent le texte illisible. Cependant, je vais des fois écrire comme si je m'adressais à une femme, et parfois comme si je m'adressais à un homme.
