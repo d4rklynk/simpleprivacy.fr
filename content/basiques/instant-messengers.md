@@ -285,7 +285,33 @@ Pour ce faire, allez sur **WhatsApp** :
 
 ## Conclusion
 
-Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit **authenticité**, **intégrité** et **confidentialité**. J'ai écris un [guide d'utilisation](/fiches/signal) pour ceux qui veulent.
+Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit **authenticité**, **intégrité** et **confidentialité**. J'ai écris un [guide d'utilisation](/fiches/signal) pour ceux qui veulent. 
+
+*Je tiens à préciser que le "Signal Protocol" a bien été créé par Signal.*
+
+Si vous souhaitez une liste bête et méchante :
+
+> Cette liste a pour unique but de bien vous situer entre les différentes applications, Signal est dans tous les cas, l'application à privilégier.
+
+**Le meilleur :**
+
+1. [Signal](https://www.signal.org/fr/) car chiffrement de bout bout (Signal Protocol) + protection des métadonnées, le tout par défaut.
+
+  > Signal devrait être votre choix par défaut si vous souhaitez communiquer avec votre entourage. Même si vous utilisez actuellement WhatsApp, je vous conseille quand même de passer à Signal.
+
+**La moyenne :**
+
+2. [WhatsApp](https://www.whatsapp.com/) car chiffrement de bout en bout (Signal Protocol) par défaut.
+3. [Wire](https://wire.com/en/) car chiffrement de bout en bout ([dérivée du Signal Protocol](https://wire.com/en/resources/whitepapers/security/5/)) par défaut.
+
+**Les contestés :**
+
+4. [Facebook Messenger](https://www.messenger.com/), chiffrement de bout en bout optionnel (Signal Protocol) et non par défaut.
+
+**À éviter :**
+
+- Telegram, chiffrement de bout en bout optionnel, mais le protocole de chiffrement utilisé est débattu.
+- Instagram, pas de chiffrement de bout en bout, pas en France de ce que j'ai pu constater.
 
 ---
 
