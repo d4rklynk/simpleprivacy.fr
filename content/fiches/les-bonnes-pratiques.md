@@ -53,7 +53,7 @@ Ce sera une liste brute et rapide de ce que vous devez faire ou non. Si vous sou
 
 > Ma définition de mettre en ligne un fichier : c'est à partir du moment où la donnée sort de votre PC ou de votre smartphone.
 
-- N'installez pas un paquet d'extensions d'anti-tracking sur votre navigateur, c'est inutile, et cela va même vous rendre encore plus facilement pistable. [Ublock Origin](https://ublockorigin.com/) suffit largement sur Firefox. Brave inclut déjà par défaut quelque chose de similaire à Ublock Origin (nommé [Brave Shield](https://brave.com/shields/))
+- N'installez pas un paquet d'extensions d'anti-tracking sur votre navigateur, c'est inutile, et cela va même vous rendre encore plus facilement pistable. [Ublock Origin](https://ublockorigin.com/) suffit largement sur Firefox. Brave inclut déjà par défaut quelque chose de similaire à Ublock Origin (nommé [Brave Shield](https://brave.com/shields/)).
 - Évitez de créer des comptes dans tous les sens. Demandez-vous si vous en avez vraiment besoin (**SPOILER** : la réponse est souvent non). Rappelez-vous que c'est toujours très facile de créer un compte en ligne, mais c'est toujours très compliqué voire impossible de le supprimer.
 
 ---
