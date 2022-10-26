@@ -171,15 +171,19 @@ Partez du principe que quand vous envoyez un SMS, il peut être lu ***par n'impo
 
 ![Facebook Messenger exemple](/instant-messengers/facebook-messenger.png#center)
 
-Quand Alice envoie un message à Bob, l'application Messenger envoie le message aux serveurs de Facebook. Ce message reste stocké sur ce serveur. L'application Messenger de Bob va demander au serveur de voir le message, le serveur lui envoie une copie de ce message, et Bob sera en mesure de lire le message d'Alice.
+Quand Alice envoie un message à Bob, l'application Messenger envoie le message **en clair** aux serveurs de Facebook. Ce message reste stocké **en clair** sur ce serveur. L'application Messenger de Bob va demander au serveur de voir le message, le serveur lui envoie une copie de ce message, et Bob sera en mesure de lire le message d'Alice.
 Le message d'Alice est toujours sur le serveur.
 
-Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vouz étiez à la terrasse d'un café avec l'[une de vos amies](/about/#écriture-inclusive), et qu'au lieu de parler tranquillement, vous discutiez en hurlant.
+Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés en clair sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vouz étiez à la terrasse d'un café avec l'[une de vos amies](/about/#écriture-inclusive), et qu'au lieu de parler tranquillement, vous discutiez en hurlant. 
 
 Ce n'est pas nouveau, Facebook Messenger a toujours été capable de lire vos messages, et on nous l'a [encore prouvé](https://www.lemonde.fr/pixels/article/2022/08/11/avortement-illegal-aux-etats-unis-facebook-critique-pour-avoir-fourni-a-la-justice-des-messages-prives_6137767_4408996.html) en août 2022.
 
-Une fonctionnalité appelée "conversation secrète" (qui au passage, [utilise le "**Signal Protocol**"](https://about.fb.com/wp-content/uploads/2016/07/messenger-secret-conversations-technical-whitepaper.pdf#page=4)) est disponible sur Facebook, mais est à mon sens inutile puisque Facebook collecte massivement vos métadonnées de cette "conversation secrète". Je vous conseille d'abandonner Facebook Messenger et d'utiliser [Signal](#signal).
+Une fonctionnalité appelée "[conversation secrète](https://www.facebook.com/help/1084673321594605/?locale=fr_FR)" (qui au passage, [utilise le "**Signal Protocol**"](https://about.fb.com/wp-content/uploads/2016/07/messenger-secret-conversations-technical-whitepaper.pdf#page=4)) est disponible sur Facebook, mais est à mon sens inutile puisque Facebook collecte massivement vos métadonnées de cette "conversation secrète" (de la même manière que [WhatsApp](#whatsapp)). 
 
+Je vous conseille quand même d'utiliser cette conversation secrète le temps que vous changiez pour [Signal](#signal).
+
+_Le même problème s'applique pour Instagram, vous devez manuellement [activer le chiffrement de bout en bout](https://help.instagram.com/1165835007222763) dans les paramètres de votre conversation.
+_
 ---
 
 Arrêtez de converser via Facebook Messenger. Merci.
