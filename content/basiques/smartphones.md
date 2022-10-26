@@ -98,18 +98,20 @@ Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur l
 
 Je vous ***déconseille très fortement*** d'utiliser des [schémas](https://wonderfall.space/password/#le-cas-dun-smartphone) (ou [patterns](https://privsec.dev/os/android-tips/#use-a-diceware-passphrase-avoid-pattern-unlock)) pour déverrouiller votre téléphone. Une [étude](/smartphones/Cracking-Android-Pattern-Lock-in-Five-Attempts.pdf), a prouvé l'inefficacité des schémas. Si vous possédez un Google Pixel ou un iPhone vous pouvez utiliser un code PIN, ces deux téléphones sont tellement sécurisés que juste mettre un code PIN à 4 chiffres prendrait plusieurs dizaines d'années à être [bruteforce](/basiques/password-managers#pourquoi-un-mot-de-passe-doit-comporter-des-majuscules-et-des-caract%C3%A8res-sp%C3%A9ciaux-) (mais mettez quand même 8 chiffres au minimum).
 
-De manière générale, je vous conseille d'utiliser un code PIN à 6 chiffres. Cependant, il serait plus avisé de mettre un code PIN de 8 chiffres ou plus. Et non ne mettez **pas** la vitesse de la lumière, le nombre pi, ou n'importe quelle autre constante mathématique. Et surtout ne mettez pas votre date de naissance, celle d'un proche ou de votre animal.
+De manière générale, je vous conseille d'utiliser un code PIN à 6 chiffres. Cependant, il serait plus avisé de mettre un code PIN de 8 chiffres ou plus. Et non, ne mettez **pas** la vitesse de la lumière, le nombre pi, ou n'importe quelle autre constante mathématique. Et surtout ne mettez pas votre date de naissance, celle d'un proche ou de votre animal.
 
 Vous pouvez, en complément, utiliser l'empreinte digitale, cela évitera que les gens vous voient taper votre code PIN.
 
 ## Le problème des prix
 
-Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, et de l'acheter après que Google sorte le Pixel 7 vers Octobre 2022, vous aurez peut-être des réductions car Google essayera de vider ses stocks de Google Pixel 6a. De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent car un Xiaomi (et croyez-moi par expérience) ne tient jamais long feu (grand maximum 2 ans) et le support s'arrête au bout de 2 ans. Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 460€ au moment où je vous écris, vous économisez bien 40€, voire plus si vous arrivez à avoir des réductions sur le Google Pixel.
+Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, il y a beaucoup de réductions en ce moment (la version charbon est actuellement disponible aux alentours de [380€](https://www.amazon.fr/dp/B0B4DMBH5T/ref=twister_B0BJ7P2JFH?_encoding=UTF8&psc=1) sur Amazon). De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car un Xiaomi (et croyez-moi par expérience) ne tient jamais long feu (grand maximum 2 ans, après ça bug) et les mises à jour s'arrêtent de toute façon au bout de 2 ans. Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 460€ au moment où je vous écris, vous économisez bien 40€ sur 5 ans (car le Google Pixel 6a a 5 ans de mises à jour), voire plus si vous arrivez à avoir des réductions sur le Google Pixel (aux alentours de 380€ en ce moment, donc vous économisez 120€).
+
+*Juste pour information, ne tardez pas non plus à acheter votre Google Pixel 6a, car si vous l'achetez l'année prochaine, vous n'aurez plus que 4 ans de mises à jour, car le support du Pixel 6a s'arrête en [Juillet 2027](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures). Il sera donc peut-être plus rentable d'acheter le Pixel 7a quand il sortira, mais tout dépend de votre budget.*
 
 Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
 
 1. Le support s'arrête
-2. Il soit tellement cassé qu'il soit inutilisable
+2. Il soit tellement cassé qu'il soit inutilisable/irréparable.
 
 Pour conclure, oui 460€ c'est cher, mais étalé sur 5 ans, ça reste abordable. Et de plus, vous pourrez probablement l'avoir à moins cher que ça au moment où vous lirez cet article.
 
