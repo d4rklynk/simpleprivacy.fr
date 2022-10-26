@@ -159,6 +159,8 @@ J'en profite pour vous dire que vous devriez éviter un maximum les SMS, c'est p
 
 Par ailleurs, n'importe qui peut faire croire qu'il est l'auteur du message, et n'importe qui peut faire croire qu'il est le destinataire du message. Le [phishing](https://www.bejarano.io/sms-phishing/) est très présent sur les SMS, faites attention, car ils peuvent paraître légitimes et pourtant être frauduleux.
 
+Si vous ne pouvez pas vous passer des SMS, je vous conseille fortement d'utiliser [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) qui implémente du [chiffrement de bout en bout](https://www.gstatic.com/messages/papers/messages_e2ee.pdf) (grâce encore au **Signal Protocol**) pour ses utilisateurs (c'est à dire que comme pour toute application, l'autre personne doit également avoir Google Messages). Pour profiter de cette fonctionnalité, vous devez aller (vous et votre interlocuteur) dans les paramètres de Google Messages et activer les "fonctionnalités de chats", si votre interlocuteur a également activé les fonctionnalités de chat, votre conversation sera automatiquement chiffré de bout en bout.
+
 ---
 
 Partez du principe que quand vous envoyez un SMS, il peut être lu ***par n'importe qui !*** Si possible, évitez absolument son utilisation.
