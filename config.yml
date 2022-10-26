@@ -64,9 +64,9 @@ params:
     enabled: true # needs to be explicitly set
     title: SimplePrivacy.fr
     subtitle: "Une approche plus simple pour récuperer votre vie privée en ligne."
-    imageUrl: "simpleprivacy_logo_mono.png"
-    imageWidth: 100
-    imageHeight: 100
+    # imageUrl: "simpleprivacy_logo_mono.png"
+    # imageWidth: 100
+    # imageHeight: 100
     # imageTitle: my image
     buttons:
       - name: A propos
