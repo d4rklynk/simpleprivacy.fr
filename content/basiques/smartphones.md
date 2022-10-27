@@ -147,7 +147,7 @@ iCloud ne propose pas de [chiffrement de bout en bout](/basiques/instant-messeng
 
 iCloud Backup [sauvegarde votre historique iMessage avec la clé pour pouvoir le déchiffrer](https://support.apple.com/fr-fr/HT202303#messages) (si ce dernier est activé). *(Sachant que les sauvegardes ne sont pas protégées par le chiffrement de bout en bout.)*. Donc oui, **Apple a accès à vos messages** si vous activez **iCloud Backup**.
 
-En ce qui concerne la sécurité, les iPhones sont excellents. En revanche, je ne dis pas que les iPhones sont meilleurs qu'Android sur ce point. Je dirais qu'ils sont plutôt équivalents.
+En ce qui concerne la sécurité, les iPhones sont excellents. En revanche, je ne dis pas que les iPhones sont meilleurs qu'Android sur ce point. Je dirais qu'ils sont plutôt [équivalents](https://www.reddit.com/r/GrapheneOS/comments/bddq5u/comment/ekxifpa/).
 Par contre, les iPhones **ET** les Google Pixels sont bien les meilleurs en terme de sécurité que tout le reste du marché des mobiles.
 
 Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e). Je vous invite donc fortement à le lire pour vous faire votre propre opinion.
