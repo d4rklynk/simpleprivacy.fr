@@ -68,6 +68,16 @@ Je vous conseille fortement [Bitwarden](https://bitwarden.com/). J'ai fait un [t
 
 ---
 
+## Les applications de 2FA
+
+Le 2FA ("Two Factor Authentication" ou "Double Authentification" en français) est essentiel pour votre sécurité en ligne. Si quelqu'un a accès à votre identifiant de compte et votre mot de passe, il ne pourra toujours pas s'y connecter sans le code OTP (One-Time Password) qui a une validité de 30 à 60 secondes.
+
+- [Aegis](https://getaegis.app/), disponible sur le [Play Store](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
+
+> N'oubliez pas de faire des sauvegardes de la base de données d'Aegis (vous pourrez exporter la base de données en naviguant dans les paramrètres d'Aegis) ! Vous pouvez ensuite les téléverser (ou *upload* en anglais) dans un service cloud chiffré de bout en bout tel que Proton Drive.
+
+---
+
 ## Les applications de productivité
 
 - [OnlyOffice](https://www.onlyoffice.com/en/download-desktop.aspx)
