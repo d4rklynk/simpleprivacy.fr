@@ -74,7 +74,7 @@ Le 2FA ("Two Factor Authentication" ou "Double Authentification" en français) e
 
 - [Aegis](https://getaegis.app/), disponible sur le [Play Store](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 
-> N'oubliez pas de faire des sauvegardes de la base de données d'Aegis (vous pourrez exporter la base de données en naviguant dans les paramrètres d'Aegis) ! Vous pouvez ensuite les téléverser (ou *upload* en anglais) dans un service cloud chiffré de bout en bout tel que Proton Drive.
+> N'oubliez pas de faire des sauvegardes de la base de données d'Aegis (vous pourrez exporter la base de données en naviguant dans les paramètres d'Aegis) ! Vous pouvez ensuite les téléverser (ou *upload* en anglais) dans un service cloud chiffré de bout en bout tel que Proton Drive.
 
 ---
 
