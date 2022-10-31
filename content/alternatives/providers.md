@@ -57,8 +57,6 @@ Ces services cloud implémentent tous du chiffrement de bout en bout par défaut
 
 > Les [différents plans](https://proton.me/fr/pricing) sont consultables sur leur site web.
 
-- [ente](https://ente.io/) (alternative à Google Photos)
+- [cryptee](https://crypt.ee/) (alternative à Google Photos)
 
-**ente** est multi-plateforme, Windows, macOS, Linux, Android et IOS.
-
-> Voir les [prix](https://ente.io/#pricing).
+> Voir les [prix](https://crypt.ee/#pricing).
