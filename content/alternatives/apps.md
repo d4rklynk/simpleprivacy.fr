@@ -42,7 +42,7 @@ Je vous conseille uniquement des applications qui implémentent le chiffrement d
 
 - [Joplin](https://joplinapp.org/)
 
-> Vos notes sont par défaut enregistrés en local, vous pouvez cependant synchroniser vos notes via OneDrive (Microsoft), mais le chiffrement de bout en bout n'est pas actif par défaut ! Vous devez l'activer dans les paramètres de Joplin ! Activez le chiffrement de bout en bout **AVANT** de synchroniser avec OneDrive.
+> Vos notes sont par défaut enregistrées en local, vous pouvez cependant synchroniser vos notes via OneDrive (Microsoft), mais le chiffrement de bout en bout n'est pas actif par défaut ! Vous devez l'activer dans les paramètres de Joplin ! Activez le chiffrement de bout en bout **AVANT** de synchroniser avec OneDrive.
 
 - [Standard Notes](https://standardnotes.com/)
 
