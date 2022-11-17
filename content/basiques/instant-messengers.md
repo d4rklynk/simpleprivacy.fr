@@ -242,7 +242,7 @@ Vous pouvez tout de même profiter de cette fonctionnalité en [activant la sauv
 
 ## Telegram
 
-[Telegram](https://telegram.org/?setln=fr) ne propose pas de chiffrement de bout en bout par défaut (comme Facebook Messenger). Les messages restent en clair sur leurs serveurs et sont donc visibles par Telegram.
+[Telegram](https://telegram.org/?setln=fr) ne [propose pas](https://telegram.org/faq#q-why-not-just-make-all-chats-39secret-39) de chiffrement de bout en bout par défaut (comme Facebook Messenger). Les messages restent en clair sur leurs serveurs et sont donc visibles par Telegram.
 
 De plus, Telegram utilise son propre protocole qui n'a pas été audité. Telegram est le seul à l'utiliser, ce protocole est propriétaire, on n'a donc aucune idée ce qu'il fait.
 
