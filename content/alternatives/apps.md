@@ -89,7 +89,7 @@ Le 2FA ("Two Factor Authentication" ou "Double Authentification" en français) e
 
 - [CryptPad](https://cryptpad.fr/)
 
-> CryptPad est une suite logicielle basée sur le web, de la même manière que **G Suite** (ou **Google Wrokspace**) qui est uniquement disponible via le navigateur. CryptPad est chiffré de bout en bout, vous pouvez créer et partager un fichier (Word, Excel, PowerPoint, etc) sans compte. Mais vous pouvez tout de même créer un compte et accéder à quelques fonctionnalités supplémentaires. Des [options payantes)(https://cryptpad.fr/features.html) sont disponibles.
+> CryptPad est une suite logicielle basée sur le web, de la même manière que **G Suite** (ou **Google Workspace**) qui est uniquement disponible via le navigateur. CryptPad est chiffré de bout en bout, vous pouvez créer et partager un fichier (Word, Excel, PowerPoint, etc) sans compte. Mais vous pouvez tout de même créer un compte et accéder à quelques fonctionnalités supplémentaires. Des [options payantes)(https://cryptpad.fr/features.html) sont disponibles.
 
 ---
 
