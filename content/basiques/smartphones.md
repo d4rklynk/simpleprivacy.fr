@@ -86,7 +86,9 @@ Pour faire simple, le [bootloader](https://www.reddit.com/r/LineageOS/comments/n
 
 Si vous déverrouiller votre bootloader, AVB sera désactivé, et donc vous aurez un manque total de sécurité sur votre smartphone.
 
-Vous ne pouvez pas reverrouiller votre smartphone avec LineageOS, mais vous pouvez cependant le faire avec GrapheneOS ! J'écrirai un tuto, très détaillé pour expliquer l'installation de ce dernier, ne vous inquiétez pas, c'est moins compliqué qu'il n'y paraît 😉, et tout fonctionnera pareil que d'habitude (mais en plus sécurisé).
+Vous ne pouvez pas reverrouiller votre smartphone avec LineageOS, mais vous pouvez cependant le faire avec GrapheneOS ! Ne vous inquiétez pas, l'installation de GrapheneOS est moins compliqué qu'il n'y paraît 😉, et tout fonctionnera pareil que d'habitude (mais en plus sécurisé).
+
+Si vous souhaitez l'installer, vous devez posséder un Google Pixel (quelqu'il soit, de préférence à partir des Pixel 6 pour bénéficier des 5 ans de mises à jour), puis vous devez [suivre les instructions](https://grapheneos.org/install/web) sur leur site web (ne sautez pas d'étapes, suivez les instructions à la lettre, et ça fonctionnera).
 
 ### Antivirus
 
