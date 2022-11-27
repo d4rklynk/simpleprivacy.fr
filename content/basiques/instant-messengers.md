@@ -184,7 +184,7 @@ Une fonctionnalité appelée "[conversation secrète](https://www.facebook.com/h
 
 Je vous conseille quand même d'utiliser cette conversation secrète le temps que vous changiez pour [Signal](#signal).
 
-*Le même problème s'applique pour Instagram, vous devez manuellement [activer le chiffrement de bout en bout](https://help.instagram.com/1165835007222763) dans les paramètres de votre conversation. Sauf que... ce n'est pas encore possible de l'activer en France de ce que j'ai pu constater... Pour faire simple, vos messages sont en clair sur Instagram, et il n'y a rien que vous puissiez faire*
+*Le même problème s'applique pour Instagram, vous devez manuellement [activer le chiffrement de bout en bout](https://help.instagram.com/1165835007222763) dans les paramètres de votre conversation. Sauf que... ce n'est pas encore possible de l'activer en France de ce que j'ai pu constater... Pour faire simple, vos messages sont en clair sur Instagram, et il n'y a rien que vous puissiez faire.*
 
 ---
 
