@@ -103,6 +103,10 @@ Je vous conseille d'utiliser uniquement Signal et de convaincre votre entourage 
 
 > Si vous n'avez pas réussi à convaincre une partie de votre entourage, je vous conseille, de réessayer de les convaincre. Si ce n'est pas possible, alors utilisez WhatsApp plutôt que Facebook Messenger. WhatsApp implémente le chiffrement de bout en bout par défaut contrairement à Facebook Messenger où c'est optionnel ! Cependant, WhatsApp collecte énormément vos [métadonnées](/basiques/instant-messengers#métadonnées).
 
+- [SimpleX Chat](https://simplex.chat/)
+
+> SimpleX Chat vous propose de communiquer avec les autres sans identifiants, c'est à dire que votre compte n'existe ni grâce à un numéro de téléphone, ni par un mail, ni par un nombre alétoire. Je vous laisse découvrir ça sur leur [site web](https://simplex.chat/#simplex-explained). L'application est disponible sur [IOS](https://apps.apple.com/us/app/simplex-chat/id1605771084) et sur [Android](https://play.google.com/store/apps/details?id=chat.simplex.app). La création du compte est local (vous donnez uniquement un pseudonyme), si vous supprimez l'application, vous n'y aurez plus accès (sauf si vous exportez/importez vos messages).
+
 - [Element](https://element.io/)
 
 > C'est une alternative à des applications comme Slack ou Discord. Si vous avez créé (ou vous êtes entrain de créer) une entreprise, je vous conseille fortement de l'utiliser, il implémente du chiffrement de bout en bout. Vous pouvez également juste l'utiliser entre amis. Si vous souhaitez me poser des questions ou me joindre vous pouvez [me contacter](https://matrix.to/#/@samsepi0l:arcticfoxes.net) sur Element, c'est l'icône `[m]` sur l'accueil de mon site.
