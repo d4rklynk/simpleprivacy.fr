@@ -25,7 +25,7 @@ Pour y accéder, ouvrez un navigateur et tapez l'adresse IP de votre box dans la
 
 > Vous aurez probablement une erreur comme quoi le site n'est pas sécurisé, car il est en HTTP. Vous pouvez y aller sereinement, ce site est local, c'est à dire qu'il n'est visible que par les personnes qui ont accès à votre réseau local (ceux qui ont le mot de passe de votre Wi-Fi).
 
-Dans le cas ou ce n'est aucune de ces IP, je vous laisse une liste d'aide vers les documentations officielles des FAI principaux (Fournisseur d'Accès à Internet) :
+Dans le cas où ce n'est aucune de ces IP, je vous laisse une liste d'aide vers les documentations officielles des FAI principaux (Fournisseur d'Accès à Internet) :
 
 - [Orange - Livebox](https://assistance.orange.fr/livebox-modem/toutes-les-livebox-et-modems/installer-et-utiliser/piloter-et-parametrer-votre-materiel/l-interface-de-configuration/livebox-play-acceder-a-l-interface-de-configuration-_19428-19631)
 - [Free - Freebox](https://assistance.free.fr/articles/freebox-os-acceder-a-freebox-os-depuis-mon-domicile-468)
@@ -78,7 +78,7 @@ Afin de cloisonner votre réseau personnel de vos invités, je vous conseille de
 
 ### Changer le nom du SSID
 
-Le [SSID](https://fr.wikipedia.org/wiki/Service_set_identifier) est tout simplement le nom de votre réseau Wi-Fi. Je vous conseille de changer le nom, car il donne souvent le type de box que vous avez ! Autant afficher en bas de votre immeuble quelle type de porte/serrure vous utilisez. Vous pouvez lui donner le nom que vous voulez, évitez juste des mots trop évocateurs de votre vie personnelle (tel que votre nom, prénom, âge, métiers, etc.). 
+Le [SSID](https://fr.wikipedia.org/wiki/Service_set_identifier) est tout simplement le nom de votre réseau Wi-Fi. Je vous conseille de changer le nom, car il donne souvent le type de box que vous avez ! Cela reviendrait à afficher en bas de votre immeuble quel type de porte/serrure vous utilisez. Vous pouvez lui donner le nom que vous voulez, évitez juste des mots trop évocateurs de votre vie personnelle (tel que votre nom, prénom, âge, métiers, etc.). 
 
 
 
