@@ -1,6 +1,6 @@
 ---
 title: "Sécuriser votre réseau à la maison 🛠️"
-date: 2022-12-21
+date: 2022-12-22
 ---
 
 ![wifi.jpg](/secure-network/wifi.jpg)
