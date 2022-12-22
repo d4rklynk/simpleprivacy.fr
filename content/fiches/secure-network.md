@@ -61,6 +61,16 @@ Si cependant, votre box vous offre la possibilité de faire soit du "WPA2" ou du
 
 Le "WPA2/WPA3" permet aux nouvelles machines compatibles de se connecter au WPA3, mais garantit la compatibilité des vieux modèles en utilisant le WPA2 (c'est à dire que les deux protocoles sont utilisés). Cela agrandit sérieusement la [surface d'attaque](https://fr.wikipedia.org/wiki/Surface_d'attaque), choisissez donc WPA2 dans cette situation.
 
+### Mettez à jour votre box
+
+Mettez à jour votre box, c'est très important, ces mises à jour fixent souvent des vulnérabilités !
+Certaines box font les mises à jour automatiquement, dans ce cas, vous n'avez rien à faire, et d'autres ont besoin d'un redémarrage. Dans le doute, je vous conseille quand même de redémarrer votre box une fois par mois.
+
+- [Mise à jour - Livebox](https://assistance.orange.fr/livebox-modem/toutes-les-livebox-et-modems/installer-et-utiliser/piloter-et-parametrer-votre-materiel/l-interface-de-configuration/livebox-2-les-mises-a-jour-du-logiciel-interne-firmware-_179070-726029)
+- Mise à jour - Freebox - redémarrer la box une fois par mois.
+- [Mise à jour - SFR Box](https://assistance.sfr.fr/television/box-thd/realiser-maj-box-thd-sfr.html)
+- [Mise à jour - Bbox](https://www.assistance.bouyguestelecom.fr/s/forum/question/0D5080000BUP0PzCQL/mettre-%C3%A0-jour-ma-bbox)
+
 ## Deuxième partie
 ### Créer un réseau Wi-Fi invité
 
