@@ -86,7 +86,7 @@ Vos données personnelles, qu'elles soit identifiables ou non, sont **VOS** donn
 
 Partez du principe que toute donnée qui sort de votre appareil (smartphone, PC, etc) est [considérée publique](/fiches/les-bonnes-pratiques/#vie-privée) (que ce soit maintenant ou dans le futur). 
 
-Ce sujet est expliqué clairement dans la vidéo YouTube [de Cookie Connecté](https://www.youtube.com/watch?v=QlsKHNaluoc) (~ 10 minutes) que je recommmande grandement.
+Ce sujet est expliqué clairement dans la [vidéo YouTube](https://www.youtube.com/watch?v=QlsKHNaluoc) de Cookie Connecté (~ 10 minutes) que je recommmande grandement.
 
 ---
 
