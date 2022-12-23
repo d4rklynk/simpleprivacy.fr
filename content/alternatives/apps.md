@@ -58,6 +58,7 @@ Ces deux projets implémentent le chiffrement de bout en bout. Vous pouvez donc 
 
 Protégez ***toujours*** vos partages avec un mot de passe !
 
+- [Syncthing](https://syncthing.net/)
 - Bitwarden Send (uniquement version Premium), jusqu'à 1 Go.
 - [Send](https://send.vis.ee/)
 
