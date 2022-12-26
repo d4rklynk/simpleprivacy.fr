@@ -69,7 +69,7 @@ params:
     # imageHeight: 100
     # imageTitle: my image
     buttons:
-      - name: A propos
+      - name: À propos
         url: about
       - name: Politique de confidentialité
         url: privacy
