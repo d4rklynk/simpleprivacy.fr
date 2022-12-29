@@ -55,7 +55,7 @@ WEP, WPA2 et WPA3 sont les protocoles de chiffrement des réseaux Wi-Fi.
 > Je ne vous encourage pas à [enfreindre la loi](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000875419), cela va de soi.
 
 Choisissez WPA2 ou WPA3 selon si votre box offre le WPA3 ou non.
-Si cependant, votre box vous offre la possibilité de faire soit du "WPA2" ou du "WPA2/WPA3", je vous conseille de rester avec WPA2. Choisissez uniquement WPA3 si celui-ci est proposé seul.
+Si votre box vous offre la possibilité de faire soit du "WPA2" ou du "WPA2/WPA3", je vous conseille de choisir WPA2/WPA3. Si votre box vous propose WPA3 uniquement, choisissez de préférence cette option.
 
 > Très précisément, il faudra choisir "WPA2 AES" ou "WPA3 AES" si la box vous offre plusieurs options.
 
