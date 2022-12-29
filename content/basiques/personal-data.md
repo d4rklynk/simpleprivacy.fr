@@ -74,6 +74,8 @@ Dans les messageries instantanées, les métadonnées vont être :
 Je pourrais en citer plein d'autres, mais on y passerait la nuit.
 Vous vous dites que tant que ces entreprises n'ont pas accès au réel contenu, ce n'est pas grave. Cependant, vous êtes déjà identifiable avec toute ces métadonnées, on peut donc prédire très facilement énormément de choses sur vous.
 
+> Edward Snowden a expliqué à [maintes](https://twitter.com/Snowden/status/1607004488744796160) reprises à quel point les métadonnées sont dangereuses pour votre vie privée.
+
 ### Exemple dans la vraie vie
 
 Si vous avez du mal à vous rendre compte de l'ampleur des métadonnées, voici un exemple. Imaginez qu'un jour vous croisez un **inconnu** qui vous dit qu'il sait que vous avez vu votre ami hier soir, cependant, il ignore ce dont vous avez parlé. Il sait également que vous êtes allé au cinéma avec lui, mais ne sait pas ce que vous avez regardé. Vous avez compris l'idée. C'est tout aussi perturbant.
