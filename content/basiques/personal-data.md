@@ -74,7 +74,7 @@ Dans les messageries instantanées, les métadonnées vont être :
 Je pourrais en citer plein d'autres, mais on y passerait la nuit.
 Vous vous dites que tant que ces entreprises n'ont pas accès au réel contenu, ce n'est pas grave. Cependant, vous êtes déjà identifiable avec toute ces métadonnées, on peut donc prédire très facilement énormément de choses sur vous.
 
-> Edward Snowden a expliqué à [maintes](https://twitter.com/Snowden/status/1607004488744796160) reprises à quel point les métadonnées sont dangereuses pour votre vie privée.
+> Edward Snowden a expliqué à [maintes](https://twitter.com/Snowden/status/1607004488744796160) [reprises](https://twitter.com/Snowden/status/661298410142724096) [à](https://twitter.com/Snowden/status/907999096342020096) quel point les [métadonnées](https://twitter.com/Snowden/status/661305566967562240) [sont](https://twitter.com/Snowden/status/733004829317025792) [dangereuses](https://twitter.com/Snowden/status/714951739280072704) pour votre [vie privée](https://twitter.com/Snowden/status/947185551500857344).
 
 ### Exemple dans la vraie vie
 
