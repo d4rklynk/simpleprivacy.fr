@@ -13,7 +13,7 @@ C'est très **important** que vous ayez quelques informations en tête avant de 
 
 Je vais cependant répéter une phrase que je trouve très importante :
 
-> Avertissement : je ne suis pas un professionnel dans le domaine de la sécurité. Vous devriez en toute rigueur me considérer comme un potentiel vecteur de désinformation : faites de la vérification en toutes circonstances.
+> Avertissement : je ne suis pas un professionnel dans le domaine de la sécurité. Vous devriez en toute rigueur me considérer comme un potentiel vecteur de désinformation : faites de la vérification en toutes circonstances.
 
 Évidemment, ce n'est pas parce que je viens de dire ça que l'ensemble de mes articles peut être considéré comme de la désinformation. Comme Wonderfall le dit si bien :
 
