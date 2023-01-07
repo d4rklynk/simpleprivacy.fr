@@ -1,5 +1,5 @@
 ---
-title : "Les emails et les services d'aliasing ✉️"
+title: "Les emails et les services d'aliasing ✉️"
 date: 2022-08-30
 ---
 
