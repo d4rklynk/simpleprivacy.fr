@@ -5,7 +5,7 @@ date: 2022-07-25
 
 ## Qui suis-je ?
 
-Je suis un humain de type être-vivant qui aime bien le monde de la technologie. Je m'appelle **samsepi0l**, ce qui est évidemment un pseudonyme. 
+Je suis un être-vivant de type humain qui aime bien le monde de la technologie. Je m'appelle **samsepi0l**, ce qui est évidemment un pseudonyme. 
 
 J'ai beaucoup trainé sur les chats de [PrivSec.dev](https://matrix.to/#/#privsec:arcticfoxes.net) et [PrivacyGuides.org](https://matrix.to/#/#privacyguides:matrix.org), et j'ai accumulé beaucoup de connaissances et de bonnes sources que je vous partage à mon tour. 
 
