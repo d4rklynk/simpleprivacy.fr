@@ -70,7 +70,7 @@ params:
     # imageTitle: my image
     buttons:
       - name: Commencez ici
-      - url: evidence-based-security
+        url: evidence-based-security
       - name: À propos
         url: about
       - name: Politique de confidentialité
