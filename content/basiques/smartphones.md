@@ -150,11 +150,17 @@ iCloud ne propose pas de [chiffrement de bout en bout](/basiques/instant-messeng
 iCloud Backup [sauvegarde votre historique iMessage avec la clé pour pouvoir le déchiffrer](https://support.apple.com/fr-fr/HT202303#messages) (si ce dernier est activé). *(Sachant que les sauvegardes ne sont pas protégées par le chiffrement de bout en bout.)*. Donc oui, **Apple a accès à vos messages** si vous activez **iCloud Backup**.
 
 En ce qui concerne la sécurité, les iPhones sont excellents. En revanche, je ne dis pas que les iPhones sont meilleurs qu'Android sur ce point. Je dirais qu'ils sont plutôt [équivalents](https://www.reddit.com/r/GrapheneOS/comments/bddq5u/comment/ekxifpa/).
-Par contre, les iPhones **ET** les Google Pixels sont bien les meilleurs en terme de sécurité que tout le reste du marché des mobiles.
+Par contre, les iPhones **ET** les Google Pixels sont bien les meilleurs en terme de sécurité que tout le reste du marché des mobiles. Si vous installez GrapheneOS sur un Google Pixel, vous êtes gagnant en sécurité et dans la protection de vos données. Si vous avez un iPhone vous gagnez en sécurité, mais vous êtes un peu perdant concernant vos données.
 
 Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e). Je vous invite donc fortement à le lire pour vous faire votre propre opinion.
 
-> Je vous conseille quand même un Google Pixel au lieu d'un iPhone car vous pouvez choisir quelles applications utiliser, vous pouvez prendre Brave ou Firefox au lieu de Safari. Beaucoup d'applications sont bien meilleures sur Android. Sur IOS, vous êtes bloqué.
+> Je vous conseille quand même un Google Pixel au lieu d'un iPhone car vous pouvez choisir quelles applications utiliser, vous pouvez prendre Brave ou Firefox au lieu de Safari. Beaucoup d'applications sont bien meilleures sur Android. Sur IOS, vous êtes limité voire bloqué.
+
+Depuis [IOS 16.2](https://support.apple.com/en-us/HT213407#162), vous pouvez activer l'option **Advanced Data Protection**, ce qui permet de bénéficier du chiffrement de bout en bout pour des [services essentiels](https://support.apple.com/fr-fr/HT202303#tableWraper) tels qu'iCloud Backup, iCloud Drive, Photos, Notes, Rappels, Signets Safari, Raccourcis Siri, Dictaphones et vos cartes (Wallet).
+
+Je vous recommande fortement de l'[activer](https://support.apple.com/fr-fr/HT212520) pour votre vie privée.
+
+Vous avez besoin de [Raivo OTP](https://raivo-otp.com/) pour le 2FA (Two Factor Authentication), disponible sur l'App Store, cette application sert uniquement pour votre compte Apple. Et vous avez également besoin d'enregistrer la clé de récupération dans votre gestionnaire de mots de passe préféré afin de déchiffrer vos données dans le cas d'une perte de votre téléphone ou d'un changement.
 
 ---
 
