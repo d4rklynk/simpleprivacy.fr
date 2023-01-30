@@ -48,7 +48,7 @@ Deux types de mises à jour sont à faire sur un matériel informatique :
 - la partie **logicielle**
 - la partie **firmware**
 
-La partie **logicielle** est le **système d'exploitation**, donc Android. Mais cela s'applique également à IOS et aux PC avec Windows, MacOS, Linux, ChromeOS, etc. La partie **firmware**, également appelée micrologicielle en français, est une sorte de mini-système d'exploitation pour les composants du matériel (la carte mère, la carte réseau, etc.). Ce n'est pas comme un pilote pour ceux ou celles qui se poseraient la question. 
+La partie **logicielle** est le **système d'exploitation**, donc Android. Mais cela s'applique également à IOS et aux PC avec Windows, MacOS, Linux, ChromeOS, etc. La partie **firmware**, également appelée micrologicielle en français, est un mini-système d'exploitation pour les composants du matériel (la carte mère, la carte réseau, etc.). Ce n'est pas comme un pilote pour ceux ou celles qui se poseraient la question. Pour faire très simple, le firmware est le manuel d'utilisation des composants pour le système d'exploitation.
 
 Je vais rapidement vous expliquer Android pour que vous compreniez bien. Voici un schéma qui vous explique le projet **AOSP** :
 
@@ -58,11 +58,13 @@ Je vais rapidement vous expliquer Android pour que vous compreniez bien. Voici u
 
 > ***Quand on parle d'Android, on parle en réalité d'AOSP.***
 
-La surcouche de Samsung par exemple, s'appelle **OneUI**, celle de OnePlus, **OxygenOS**, et celle de Xiaomi s'appelle **MIUI**. Cela fait toujours parti du système d'exploitation, ce ne sont pas des logiciels. Dites-vous qu'AOSP est le moteur d'une voiture avec le chassis, et la surcouche c'est tout le reste.
+La surcouche de Samsung par exemple, s'appelle **OneUI**, celle de OnePlus, **OxygenOS**, et celle de Xiaomi s'appelle **MIUI**. Cela fait toujours parti du système d'exploitation, ce ne sont pas des logiciels. 
 
 Cependant, si AOSP est open source, les surcouches ne le sont pas forcément ! LineageOS est une surcouche open source par exemple, mais MIUI ne l'est pas !
 
-> On parle de surcouche, mais en réalité, les constructeurs prennent le projet AOSP pour le modifier selon leurs besoins puis ajouter leurs programmes, leurs fonctionnalités, etc. Ce sont ces modifications et ces ajouts qui sont appellés la surcouche.
+> On parle de surcouche, mais en réalité, les constructeurs prennent le projet AOSP pour le modifier selon leurs besoins puis ajouter leurs programmes, leurs fonctionnalités, etc. Ce sont ces modifications et ces ajouts qui sont appellés la surcouche. 
+
+> Dites-vous qu'AOSP est comme une recette de cuisine, tout le monde connait cette recette, mais certains cuisiniers ajouteront quelques épices ou d'autres ingrédients secrets. Donc oui vous connaissez précisément la recette de base, mais non, vous n'en savez pas plus sur les ingrédients ajoutés. Une surcouche tel que GrapheneOS est open source, on connait donc les ingrédients ajoutés.
 
 Comprenez bien que si vous souhaitez installer LineageOS sur votre téléphone, cela veut dire que vous supprimez le système d'exploitation de votre téléphone. En gros, si vous allumez votre téléphone après avoir supprimé le système d'exploitation de Samsung par exemple, vous ne pourrez plus démarrer votre téléphone, car il n'y aura rien à démarrer ! Sauf si vous installez LineageOS juste après, évidemment 😁.
 
@@ -76,7 +78,7 @@ C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même 
 
 ---
 
-Cependant, je vous **DÉCONSEILLE** d'[installer LineageOS](https://madaidans-insecurities.github.io/android.html#lineageos) sur votre téléphone, car vous devez [déverrouiller le bootloader](https://madaidans-insecurities.github.io/android.html#unlocking-the-bootloader), et cela détruit tout le modèle de sécurité d'Android. Je vous conseille soit de garder l'Android que vous avez par défaut, ou alors d'installer GrapheneOS, car vous pouvez reverrouiller le bootloader.
+Cependant, je vous **DÉCONSEILLE** d'[installer LineageOS](https://madaidans-insecurities.github.io/android.html#lineageos) sur votre téléphone, car vous devez [déverrouiller le bootloader](https://madaidans-insecurities.github.io/android.html#unlocking-the-bootloader), et cela détruit tout le modèle de sécurité d'Android. Je vous conseille soit de garder l'Android que vous avez par défaut, ou alors d'installer [GrapheneOS](https://grapheneos.org/install/web), car vous pouvez reverrouiller le bootloader.
 
 ---
 
