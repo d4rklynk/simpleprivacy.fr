@@ -86,7 +86,7 @@ Cependant, je vous **DÉCONSEILLE** d'[installer LineageOS](https://madaidans-in
 
 Pour faire simple, le [bootloader](https://www.reddit.com/r/LineageOS/comments/n7yo7u/a_discussion_about_bootloader_lockingunlocking/) est la partie qui cherche ce qu'il faut démarrer (ici, Android) juste après la mise sous tension de l'appareil. Le bootloader possède une fonctionnalité appelée "[Android Verified Boot](https://privsec.dev/os/choosing-your-android-based-operating-system/#verified-boot)" (AVB) ou "démarrage sécurisé" en français. AVB permet entre autre de vérifier que le système d'exploitation est correct et n'a pas été modifié (par un virus, par quelqu'un ou par autre chose) ! Si le système avait été modifié, AVB aurait annulé ces modifications au démarrage !
 
-Si vous déverrouiller votre bootloader, AVB sera désactivé, et donc vous aurez un manque total de sécurité sur votre smartphone.
+Si vous déverrouillez votre bootloader, AVB sera désactivé, et donc vous aurez un manque total de sécurité sur votre smartphone.
 
 Vous ne pouvez pas reverrouiller votre smartphone avec LineageOS, mais vous pouvez cependant le faire avec GrapheneOS ! Ne vous inquiétez pas, l'installation de GrapheneOS est moins compliqué qu'il n'y paraît 😉, et tout fonctionnera pareil que d'habitude (mais en plus sécurisé).
 
@@ -108,9 +108,9 @@ Vous pouvez, en complément, utiliser l'empreinte digitale, cela évitera que le
 
 ## Le problème des prix
 
-Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, il y a beaucoup de réductions en ce moment (la version charbon est actuellement disponible aux alentours de [340€](https://www.amazon.fr/dp/B0B4DMBH5T/ref=twister_B0BLHRVSSD?_encoding=UTF8&psc=1) sur Amazon). De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car un Xiaomi (et croyez-moi par expérience) ne tient jamais long feu (grand maximum 2 ans, après ça bug) et les mises à jour s'arrêtent de toute façon au bout de 2 ans. Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 460€ au moment où je vous écris, vous économisez bien 40€ sur 5 ans (car le Google Pixel 6a a 5 ans de mises à jour), voire plus si vous arrivez à avoir des réductions (aux alentours de 340€ en ce moment, donc vous économisez 160€ sur 5 ans).
+Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, il y a beaucoup de réductions en ce moment (la version charbon est actuellement disponible aux alentours de [340€](https://www.amazon.fr/dp/B0B4DMBH5T/ref=twister_B0BLHRVSSD?_encoding=UTF8&psc=1) sur Amazon). De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car XIaomi ne possède pas beaucoup de support (2 ans en moyenne) et ils ont une fàacheuse tendance à ralentir rapidement au fil du temps... Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 460€ au moment où je vous écris, vous économisez bien 40€ sur 5 ans (car le Google Pixel 6a a 5 ans de mises à jour), voire plus si vous arrivez à avoir des réductions (aux alentours de 340€ en ce moment, donc vous économisez 160€ sur 5 ans).
 
-*Juste pour information, ne tardez pas non plus à acheter votre Google Pixel 6a, car si vous l'achetez l'année prochaine, vous n'aurez plus que 4 ans de mises à jour, car le support du Pixel 6a s'arrête en [Juillet 2027](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures). Il sera donc peut-être plus rentable d'acheter le Pixel 7a quand il sortira, mais tout dépend de votre budget.*
+*Juste pour information, ne tardez pas non plus à acheter votre Google Pixel 6a, car si vous l'achetez après cet été, vous n'aurez plus que 4 ans de mises à jour, car le support du Pixel 6a s'arrête en [Juillet 2027](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures). Il sera donc peut-être plus rentable d'acheter le Pixel 7a quand il sortira, mais tout dépend de votre budget.*
 
 Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
 
@@ -126,6 +126,8 @@ J'ai fait ce chapitre sur les prix des smartphones, mais je ne suis pas ici pour
 Cependant, j'avais besoin d'écrire un article là-dessus car certaines personnes sous-estiment parfois le prix des smartphones.
 
 Pour vous donnez une fourchette de prix raisonnable pour un smartphone décent, il faut compter entre 300 et 500€. En dessous de 300€, vous trouverez rarement des smartphones qui dureront dans le temps.
+
+Pour les iPhones, je vous conseille de prendre un iPhone SE, ils ont tendance à être moins chers que les hauts de gamme, et restent tout même très performants. Vous pouvez prendre au minmum à partir de l'iPhone SE 2020 (ou également 2ème génération), la première génération (2016) possèdent du matériel trop vieux, donc moins sécurisé, le support risque de s'arrêter prochainement puisqu'il est à jour depuis déjà 6 ans.
 
 ## Fairphone
 
@@ -158,17 +160,17 @@ Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfal
 
 > Je vous conseille quand même un Google Pixel au lieu d'un iPhone car vous pouvez choisir quelles applications utiliser, vous pouvez prendre Brave ou Firefox au lieu de Safari. Beaucoup d'applications sont bien meilleures sur Android. Sur IOS, vous êtes limité voire bloqué.
 
+---
+
+Sur IOS, tous les navigateurs web [doivent utiliser le même moteur de rendu](/alternatives/apps/#pour-ios), celui d'Apple : WebKit. Donc en utilisant Brave, Google Chrome ou Firefox, c'est comme si vous utilisiez Safari.
+
+---
+
 Depuis [IOS 16.2](https://support.apple.com/en-us/HT213407#162), vous pouvez activer l'option **Advanced Data Protection**, ce qui permet de bénéficier du chiffrement de bout en bout pour des [services essentiels](https://support.apple.com/fr-fr/HT202303#tableWraper) tels qu'iCloud Backup, iCloud Drive, Photos, Notes, Rappels, Signets Safari, Raccourcis Siri, Dictaphones et vos cartes (Wallet).
 
 Je vous recommande fortement de l'[activer](https://support.apple.com/fr-fr/HT212520) pour votre vie privée.
 
 Vous avez besoin de [Raivo OTP](https://raivo-otp.com/) pour le 2FA (Two Factor Authentication), disponible sur l'App Store, cette application sert uniquement pour votre compte Apple. Et vous avez également besoin d'enregistrer la clé de récupération dans votre gestionnaire de mots de passe préféré afin de déchiffrer vos données dans le cas d'une perte de votre téléphone ou d'un changement.
-
----
-
-Sur IOS, tous les navigateurs web [doivent utiliser le même moteur de rendu](/alternatives/apps/#pour-ios), celui d'Apple, WebKit. Donc en utilisant Brave, Google Chrome ou Firefox, c'est comme si vous utilisiez Safari.
-
----
 
 ## Conclusion
 
