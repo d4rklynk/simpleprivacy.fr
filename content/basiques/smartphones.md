@@ -127,7 +127,9 @@ Cependant, j'avais besoin d'écrire un article là-dessus car certaines personne
 
 Pour vous donnez une fourchette de prix raisonnable pour un smartphone décent, il faut compter entre 300 et 500€. En dessous de 300€, vous trouverez rarement des smartphones qui dureront dans le temps.
 
-Pour les iPhones, je vous conseille de prendre un iPhone SE, ils ont tendance à être moins chers que les hauts de gamme, et restent tout même très performants. Vous pouvez prendre au minmum à partir de l'iPhone SE 2020 (ou également 2ème génération), la première génération (2016) possèdent du matériel trop vieux, donc moins sécurisé, le support risque de s'arrêter prochainement puisqu'il est à jour depuis déjà 6 ans.
+Pour les iPhones, je vous conseille de prendre un iPhone SE, ils ont tendance à être moins chers que les hauts de gamme, et restent tout même très performants. Vous pouvez prendre au minimum à partir de l'iPhone SE 2020 (ou également 2ème génération), la première génération (2016) possèdant du matériel trop vieux, donc moins sécurisé, le support risque de s'arrêter prochainement puisqu'il est mis à jour depuis déjà 6 ans.
+
+L'iPhone SE 2020 n'étant plus mis en vente, vous pouvez l'acheter en d'occassion ou en reconditionné. Amazon a un service de reconditionnement et propose actuellement l'[iPhone SE 2020 à ~230€](https://www.amazon.fr/Apple-iPhone-G%C3%A9n%C3%A9ration-128GB-Reconditionn%C3%A9/dp/B08D377VBX/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24I830FY88X68&keywords=iphone+se+2020&qid=1675455647&sprefix=iphone+se+2020%2Caps%2C110&sr=8-3).
 
 ## Fairphone
 
