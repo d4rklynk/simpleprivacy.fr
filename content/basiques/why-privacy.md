@@ -41,7 +41,7 @@ Vous souhaitez acheter un vélo. Vous allez donc sur votre moteur de recherche p
 
 En faisant votre recherche, Google a enregistré le fait que **vous**, **personnellement**, avez recherché des informations pour le futur achat d'un vélo. Google a ensuite revendu vos données (la recherche de ce vélo) à des tiers afin qu'ils puissent afficher des pubs sur Facebook. Je vous simplifie énormément le réel processus évidemment.
 
-## Pourquoi ?
+### Pourquoi ?
 
 Imaginez que vous êtes un vendeur de vélo, vous souhaitez payer Google afin qu'il puisse afficher ces pubs dans les recherches Google. 
 
@@ -89,7 +89,8 @@ Le problème n'est pas que Google nous envoie des pubs ou vend nos données. Le 
 
 En effet, c'est souvent un long texte, écrit en petits caractères, avec un vocabulaire technique qui nous pousse à ne rien lire et à cliquer sur "Tout Accepter".
 
-Concernant Google, je ne le considère pas comme étant un moteur de recherche puisqu'il ne vous donne que les infos que vous souhaitez avoir.
+> Avis personnel : Concernant Google, je ne le considère pas comme étant un moteur de recherche puisqu'il ne vous donne que les infos que vous souhaitez avoir.
+
 C'est comme si vous alliez à la bibliothèque et que la bibliothécaire vous montrait uniquement les livres qui défendent la même opinion que vous, les thèmes que vous aimez, etc.
 
 Ces services sont également des laboratoires à grande échelle sur le comportement humain. Ils ne vont pas juste vous proposer un excellent service, ils vont surtout vous rendre dépendant à ce service. Et c'est comme ça qu'on entend des gens dire :
@@ -104,7 +105,7 @@ Ne croyez pas que vous n'êtes pas manipulé par ces services, ça fait 20 ans q
 
 Un esclave, est, [selon la définition du Larousse](https://www.larousse.fr/dictionnaires/francais/esclave/30979) :
 
-> Une personne de condition non-libre, considérée comme un instrument économique pouvant être vendu ou acheté, et qui était sous la dépendance d'un maître.`
+> Une personne de condition non-libre, considérée comme un instrument économique pouvant être vendu ou acheté, et qui était sous la dépendance d'un maître.
 
 Vous allez probablement me dire que je suis fou de comparer l'esclavage au concept de vie privée, probablement. Mais regardez :
 
