@@ -31,7 +31,7 @@ Concernant les services tels que Google, Amazon, Facebook, etc. Vous allez peut-
 
 Je dois d'abord vous expliquer le fonctionnement basique de ces services.
 
-### L'exemple du vélo
+## L'exemple du vélo
 
 ![vélo](/why-privacy/bike.jpg)
 
@@ -41,7 +41,7 @@ Vous souhaitez acheter un vélo. Vous allez donc sur votre moteur de recherche p
 
 En faisant votre recherche, Google a enregistré le fait que **vous**, **personnellement**, avez recherché des informations pour le futur achat d'un vélo. Google a ensuite revendu vos données (la recherche de ce vélo) à des tiers afin qu'ils puissent afficher des pubs sur Facebook. Je vous simplifie énormément le réel processus évidemment.
 
-### Pourquoi ?
+## Pourquoi ?
 
 Imaginez que vous êtes un vendeur de vélo, vous souhaitez payer Google afin qu'il puisse afficher ces pubs dans les recherches Google. 
 
@@ -51,7 +51,7 @@ Maintenant, faisons mieux. Au lieu d'afficher des pubs de vélo à tout le monde
 
 Il faut bien comprendre que Facebook et Google (je n'en ai pas d'autres en tête) sont en premier lieu des agences publicitaires, leur modèle économique est basé sur la publicité.
 
-### Les types de publicités sur Internet
+## Les types de publicités sur Internet
 
 Je tiens à préciser que le fait de se faire de l'argent grâce à la publicité n'est pas un problème en soit. Il faut distinguer deux types de pubs :
 
@@ -76,14 +76,14 @@ Des pubs pour des jouets d'enfants, des lits de bébé, des biberons, des annonc
 
 Ben oui, vous avez implicitement dit à Google (et tout autre fournisseur de service fonctionnant sur les pubs **comportementales**) que vous aviez trouvé le partenaire de votre vie, que vous vous étiez installés ensemble, que vous vous êtes mariés etc. Au bout d'un moment, Google en déduit qu'il est temps pour vous d'avoir des enfants !
 
-### Ça ne fait pas si peur
+## Ça ne fait pas si peur
 
 Pour vous rendre compte à quel point cela peut être terrifiant, prenons un exemple dans la vraie vie.
 
 Vous êtes en dîner de famille et vous parlez de votre futur achat d'un vélo. Vous vous réveillez le lendemain, vous allez à votre boîte aux lettres, vous ouvrez, et là, surprise, une pub pour un vélo ! Alors que vous n'avez rien demandé ! 
 Cela vous semble peut-être improbable que ça puisse arriver dans la vraie vie, peut-être pas, mais c'est **réellement** ce qui se passe sur Internet !
 
-### Le vrai problème
+## Le vrai problème
 
 Le problème n'est pas que Google nous envoie des pubs ou vend nos données. Le réel problème est que ces services nous pistent, nous ciblent, et revendent nos données, **sans notre consentement**. Et quand bien même c'est précisé dans leur Politique de Confidentialité ou leurs CGU (Conditions Générales d'Utilisation), soyons francs, on comprend rien, et c'est le but recherché.
 
@@ -100,7 +100,7 @@ Ces services sont également des laboratoires à grande échelle sur le comporte
 
 Ne croyez pas que vous n'êtes pas manipulé par ces services, ça fait 20 ans qu'il travaillent sur ce domaine. Et ne sous-estimez pas à quel point l'humain peut être manipulable (moi y compris).
 
-### Pour en revenir à mon exemple des esclaves :
+## Pour en revenir à mon exemple des esclaves :
 
 Un esclave, est, [selon la définition du Larousse](https://www.larousse.fr/dictionnaires/francais/esclave/30979) :
 
@@ -125,3 +125,7 @@ Le maître est l'entreprise qui héberge vos données, car il peut en faire ce q
 
 Je ne dis pas forcément qu'on est esclave de ces entreprises. Je donne surtout cet exemple pour vous faire réfléchir.
 
+## Conclusion
+
+Vous allez peut-être vous dire qu'avec tout ça, Internet est un danger pour votre vie privée et votre sécurité, et vous auriez raison.
+Cependant, la vie privée sur Internet fonctionne comme tout dans la vie, vous pouvez gagner en vie privée au point où vous vivez dans une grotte seul en ne communiquant plus avec personne, mais ce serait trop facile si la vie était si binaire. Le vrai but ici est de trouver le bon équilibre entre le respect de votre vie privée, votre sécurité en ligne et l'utilisation d'Internet.
