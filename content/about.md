@@ -40,10 +40,6 @@ Si un article n'a pas été mis à jour depuis longtemps, c'est que je n'ai rien
 Dans le cas d'achats (tels que des smartphones par exemple), je vais presque systématiquement mettre un lien Amazon. Ce ne sont pas des liens d'affiliations. La simple raison est qu'Amazon est générique, on trouve tout dessus et tout le monde connait. Dans la mesure où mon site est destiné à des novices, je ne mettrais pas de liens qui pointent vers des alternatives inconnus du grand public, cela ne ferait que vous perdre plus.
 Vous pouvez acheter ces objets ailleurs évidemment, comme la Fnac, Boulanger, E.Leclerc, etc...
 
-## Écriture inclusive
-
-Je suis pour l'écriture inclusive, mais les méthodes utilisées rendent très souvent le texte illisible. Cependant, je vais des fois écrire comme si je m'adressais à une femme, et parfois comme si je m'adressais à un homme, ce qui me parait proche d'une solution plutôt viable. Ce n'est cependant pas une règle que je suivrais à la lettre.
-
 ## Sources
 
 Mes travaux sont majoritairement basés sur :
