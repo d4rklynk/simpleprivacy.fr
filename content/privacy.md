@@ -1,13 +1,13 @@
 ---
 title: Politique de confidentialité
 date: 2022-07-25
-lastmod: 2022-07-25
 ---
 
-Réponse simple :
-Les informations que je récolte sur vous ne sont pas identifiables, je les colelcte dans l'unqiue but de savoir combien de gens visitent mon site et sur quelles pages. Cette collecte de données ne me permet en aucun cas de vous identifier en tant qu'individu, si vous revenez demain sur mon site web, je ne peux pas savoir si c'est vous ou quelqu'un d'autre, je verrais juste un autre visiteur.
+Version simple :
 
-Réponse longue :
+Les informations que je récolte sur vous ne sont pas identifiables, je les collecte dans l'unqiue but de savoir combien de gens visitent mon site et sur quelles pages. Cette collecte de données ne me permet en aucun cas de vous identifier en tant qu'individu, si vous revenez demain sur mon site web, je ne peux pas savoir si c'est vous ou quelqu'un d'autre, je verrais juste un autre visiteur.
+
+Version longue :
 
 Je récolte quelques informations afin de savoir combien de gens visitent le site.
 Les données que je récolte sont visibles publiquement [ici](https://plausible.simpleprivacy.fr/simpleprivacy.fr/) (toutes les données sont hébérgés sur un serveur que je loue chez OVH).
@@ -19,7 +19,7 @@ Voici ce que je collecte :
 - La page d'où vous venez (si vous avez cliqué le lien sur Facebook, je verrais que cela vient de Facebook)
 - Le naviguateur et sa version que vous utilisez
 - Le système d'exploitation
-- Le type d'appareil (ordinateur, tablette ou téléphone) gràace à la taille de l'écran
+- Le type d'appareil (ordinateur, tablette ou téléphone) grâce à la taille de l'écran
 - Le pays depuis lequel vous vous connectez
 
 Les informations personnelles que j'ai sur vous :
