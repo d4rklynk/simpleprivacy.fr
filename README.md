@@ -2,6 +2,8 @@
 
 Un site web destiné aux personnes qui ont des connaissances limitées en informatique.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/67465721-d389-48f9-85c9-b3586525d7bf/deploy-status)](https://app.netlify.com/sites/simpleprivacy/deploys)
+
 # Technical stuff
 ## Licensing
 
