@@ -20,5 +20,5 @@
   Cross-Origin-Resource-Policy : cross-origin
 
 /*.js
-  Content-Security-Policy: script-src https://plausible.simpleprivacy.fr
+  Content-Security-Policy: script-src https://plausible.simpleprivacy.fr/
 
