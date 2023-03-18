@@ -37,6 +37,10 @@ Je vous conseille également Proton Mail pour les mails car il propose du chiffr
 
 - [Proton Mail](https://proton.me/fr/mail)
 
+Vous pouvez avoir un mois gratuit de "**Proton Mail Plus**" avec mon [lien de parrainage](https://pr.tn/ref/70YSNN4NQDYG), je [gagne un peu de crédits](https://proton.me/support/referral-program) si vous décidez de payer l'abonnement.
+
+**Nota bene** : Ce n'est ***pas*** un lien d'affiliation et ne doit pas être considéré comme tel.
+
 ### Les services d'aliasing
 
 Les services d'aliasing sont excellents pour maintenir votre vie privée en ligne. Ils permettent de créer des alias de mail comme `montravail.bhj5r@simplelogin.fr`, vous utilisez ce mail où vous voulez et tous les mails envoyés à cette adresse seront reçus sur la boîte mail de votre choix (votre Proton Mail, Outlook, Gmail, etc.).
