@@ -74,7 +74,7 @@ Les personnes derrière ces projets sont complétement détachées de la réalit
 
 Je vous conseille d'ignorer complétement tous les conseils donnés par ces sources.
 
-### Stack technologique
+## Stack technologique
 
 J'utilise [hugo](https://gohugo.io/) pour la génération du site web. Le theme hugo que j'utilise est [WonderMod](https://github.com/Wonderfall/hugo-WonderMod) de [Wonderfall](https://github.com/Wonderfall) lui-même basé sur [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
 
