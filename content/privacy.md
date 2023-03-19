@@ -14,7 +14,7 @@ Les données que je récolte sont visibles publiquement [ici](https://plausible.
 
 Le but de ces données ne sont pas là pour vous identifier, et je ne peux de toute façon pas le faire car ces données sont bien trop minimes afin d'accomplir ce but (comparés à Google analytics par exemple).
 
-**Voici ce que je collecte **:
+**Voici ce que je collecte** :
 - Les pages que vous visitez
 - La page d'où vous venez (si vous avez cliqué le lien sur Facebook, je verrais que cela vient de Facebook)
 - Le naviguateur et sa version que vous utilisez
