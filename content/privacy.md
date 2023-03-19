@@ -45,6 +45,6 @@ J'utilise [hugo](https://gohugo.io/) pour la génération du site. Hugo possède
 
 Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous améneront vers Twitter et Youtube à travers le site, les options "[enableDNT](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" et "[privacyEnhanced](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L180)" sont par conséquent activés pour ces services.
 
-## Dépot Git
+### Dépot Git
 J'utilise GitHub afin d'héberger [mon dépot](https://github.com/d4rklynk/simpleprivacy.fr). Si vous souhaitez contribuer à mon site web, vous devrez créer un compte GitHub.
 Vous pouvez lire leur politique de vie privée [ici](https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement).
