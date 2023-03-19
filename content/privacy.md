@@ -7,7 +7,7 @@ date: 2022-07-25
 
 Les informations que je récolte sur vous ne sont pas identifiables, je les collecte dans l'unqiue but de savoir combien de gens visitent mon site et sur quelles pages. Cette collecte de données ne me permet en aucun cas de vous identifier en tant qu'individu, si vous revenez demain sur mon site web, je ne peux pas savoir si c'est vous ou quelqu'un d'autre, je verrais juste un autre visiteur.
 
-Vous pouvez **désactivez** ce tracking en suivant ce [petit tutoriel](/content/disable-analytics) que j'ai fait (~ 3 minutes)
+Vous pouvez **désactivez** ce tracking en suivant ce [petit tutoriel](disable-analytics) que j'ai fait (~ 3 minutes)
 
 ## Version longue :
 
