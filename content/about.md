@@ -78,15 +78,15 @@ Je vous conseille d'ignorer complétement tous les conseils donnés par ces sour
 
 J'utilise [hugo](https://gohugo.io/) pour la génération du site web. Le theme hugo que j'utilise est [WonderMod](https://github.com/Wonderfall/hugo-WonderMod) de [Wonderfall](https://github.com/Wonderfall) lui-même basé sur [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
 
-J'utilise Netflify pour l'hébergement du site, vous pouvez voir les logs de déployement [ici](https://app.netlify.com/sites/simpleprivacy/deploys).
+J'utilise Netlify pour l'hébergement du site, vous pouvez voir les logs de déployement [ici](https://app.netlify.com/sites/simpleprivacy/deploys).
 
 J'utilise OVH pour les serveurs DNS et le nom de domaine.
 
-J'utilise Plausible pour les analytics, vous pouvez voir publiquement les analytics du site [ici](https://plausible.simpleprivacy.fr/simpleprivacy.fr/).
+J'utilise Plausible pour les analytics, vous pouvez voir publiquement ces données [ici](https://plausible.simpleprivacy.fr/simpleprivacy.fr/).
 
 J'utilise GitHub afin d'héberger le [dépot git](https://github.com/d4rklynk/simpleprivacy.fr).
 
 ### Sécurité
 
-J'ai sécurisé le site au maximum de ses capcités, vous pouvez voir le résultat [ici](https://www.hardenize.com/report/simpleprivacy.fr/1679224786) (rapport datant du 19 Mars 2023).
+J'ai sécurisé le site au maximum de ses capacités, vous pouvez voir le résultat [ici](https://www.hardenize.com/report/simpleprivacy.fr/1679224786) (rapport datant du 19 Mars 2023).
 Vous pouvez régénérer un rapport en allant sur ce [lien](https://www.hardenize.com/?host=simpleprivacy.fr&ec=in_progress).
