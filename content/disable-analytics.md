@@ -4,7 +4,7 @@ date: 2023-03-19
 ---
 
 ## Nota Bene
-Tout d'abord je tiens à vous rassurer que les données collectées sur ce site ne me permettent pas de vous identifier personnellement.
+Tout d'abord, je tiens à vous rassurer que les données collectées sur ce site ne me permettent pas de vous identifier personnellement.
 Vous pouvez voir les données collectées sur ce site [ici](https://plausible.simpleprivacy.fr/simpleprivacy.fr).
 
 Si vous souhaitez tout de même refuser cette collecte, suivez ces instructions.
