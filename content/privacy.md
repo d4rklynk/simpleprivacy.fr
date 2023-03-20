@@ -7,7 +7,7 @@ date: 2022-07-25
 
 Les informations que je récolte sur vous ne sont pas identifiables, je les collecte dans l'unqiue but de savoir combien de gens visitent mon site et sur quelles pages. Cette collecte de données ne me permet en aucun cas de vous identifier en tant qu'individu, si vous revenez demain sur mon site web, je ne peux pas savoir si c'est vous ou quelqu'un d'autre, je verrais juste un autre visiteur.
 
-Vous pouvez **désactivez** ce tracking en suivant ce [petit tutoriel](/disable-analytics) que j'ai fait (~ 3 minutes)
+Vous pouvez **désactiver** ce tracking en suivant ce [petit tutoriel](/content/disable-analytics) que j'ai fait (~ 3 minutes)
 
 ## Version longue :
 
@@ -33,7 +33,7 @@ Le but de ces données ne sont pas là pour vous identifier, et je ne peux de to
 
 Vous pouvez en savoir plus en visitant la politique de confidentialité de [Plausible](https://plausible.io/data-policy).
 
-Si vous avez d'autres questions, n'hésitez pas à me contacter par [mail](contact@simpleprivacy.fr) ou via [Matrix](https://matrix.to/#/@samsepi0l:arcticfoxes.net).
+Si vous avez d'autres questions, n'hésitez pas à me contacter par [mail](mailto:contact@simpleprivacy.fr) ou via [Matrix](https://matrix.to/#/@samsepi0l:arcticfoxes.net).
 
 ## Version plus longue :
 
@@ -45,7 +45,7 @@ Netlify garde votre adresse IP dans leurs logs pendant un maximum de 30 jours, v
 ### Locigiels
 J'utilise [hugo](https://gohugo.io/) pour la génération du site. Hugo possède quelques [paramètres concernant la vie privée](https://gohugo.io/about/hugo-and-gdpr/) pour être en règle avec la [RGPD](https://www.cnil.fr/fr/comprendre-le-rgpd), j'ai [configuré ces paramètres](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L159) afin qu'il y est le moins d'impact possible sur votre vie privée.
 
-Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous améneront vers Twitter et Youtube à travers le site, les options "[enableDNT](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" et "[privacyEnhanced](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L180)" sont par conséquent activés pour ces services.
+Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous redirigeront vers Twitter et Youtube à travers le site, les options "[enableDNT](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" et "[privacyEnhanced](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L180)" sont par conséquent activés pour ces services.
 
 ### Dépot Git
 J'utilise GitHub afin d'héberger [mon dépot](https://github.com/d4rklynk/simpleprivacy.fr). Si vous souhaitez contribuer à mon site web, vous devrez créer un compte GitHub.

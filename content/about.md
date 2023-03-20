@@ -89,4 +89,3 @@ J'utilise GitHub afin d'héberger le [dépot git](https://github.com/d4rklynk/si
 ### Sécurité
 
 J'ai sécurisé le site au maximum de ses capacités, vous pouvez voir le résultat [ici](https://www.hardenize.com/report/simpleprivacy.fr/1679224786) (rapport datant du 19 Mars 2023).
-Vous pouvez régénérer un rapport en allant sur ce [lien](https://www.hardenize.com/?host=simpleprivacy.fr&ec=in_progress).
