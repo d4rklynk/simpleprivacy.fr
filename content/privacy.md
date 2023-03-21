@@ -5,7 +5,7 @@ date: 2022-07-25
 
 ## Version simple :
 
-Rien
+Rien n'est collecté.
 
 ## Version longue :
 
