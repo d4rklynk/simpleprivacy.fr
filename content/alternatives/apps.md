@@ -6,8 +6,8 @@ date: 2022-08-03
 
 Si vous utilisez Google Chrome, Opera, Vivaldi ou tout autre navigateur, changez pour un autre navigateur plus respectueux de votre vie privée.
 
-- [Firefox](https://www.mozilla.org/fr/firefox/new/)
 - [Brave](https://brave.com/fr/)
+- [Firefox](https://www.mozilla.org/fr/firefox/new/)
 
 ---
 
