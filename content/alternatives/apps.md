@@ -2,11 +2,6 @@
 title: "Les applications \U0001f4da"
 date: 2022-08-03
 ---
-
-*Ceci est juste une liste pour l'instant, mais je compte ajouter des précisions pour certaines applications*
-
----
-
 ## Les navigateurs web sur PC
 
 Si vous utilisez Google Chrome, Opera, Vivaldi ou tout autre navigateur, changez pour un autre navigateur plus respectueux de votre vie privée.
