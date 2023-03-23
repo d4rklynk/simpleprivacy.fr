@@ -2,4 +2,4 @@ Contact: mailto:contact@simpleprivacy.fr
 Expires: 2023-10-23T04:00:00.000Z
 Encryption: https://simpleprivacy.fr/public-pgp-key.asc
 Preferred-Languages: fr, en
-Canonical: https://samsepi0l.ovh/.well-known/security.txt
+Canonical: https://simpleprivacy.fr/.well-known/security.txt
