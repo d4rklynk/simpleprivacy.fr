@@ -18,7 +18,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: false # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: SimplePrivacy
   description: "Une approche plus simple pour récuperer votre vie privée en ligne."
   keywords: [Privacy, Sécurité, Vie Privée]
@@ -30,7 +30,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -142,6 +142,11 @@ menu:
       name: Rechercher
       url: /search/
       weight: 40
+    - identifier: Services
+      name: Services
+      url: https://services.simpleprivacy.fr
+      weight: 50
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
