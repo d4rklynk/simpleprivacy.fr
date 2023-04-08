@@ -15,7 +15,7 @@ Je suis là pour partager mes connaissances, et non vos données.
 ## Version plus longue :
 
 ### Hébergeur web
-J'utilise OVH pour le nom de domaine et les serveurs DNS. J'utilise Netlify pour héberger le site web.
+J'utilise Google Domains pour le nom de domaine et les serveurs DNS. J'utilise Netlify pour héberger le site web.
 
 Netlify garde votre adresse IP dans leurs logs pendant un maximum de 30 jours, vous pouvez en savoir plus en visitant ce [lien](https://www.netlify.com/gdpr-ccpa/). Leur politique de vie privée peut se trouver [ici](https://www.netlify.com/gdpr-ccpa/).
 
