@@ -19,7 +19,7 @@ J'utilise Google Domains pour le nom de domaine et les serveurs DNS. J'utilise N
 
 Netlify garde votre adresse IP dans leurs logs pendant un maximum de 30 jours, vous pouvez en savoir plus en visitant ce [lien](https://www.netlify.com/gdpr-ccpa/). Leur politique de vie privée peut se trouver [ici](https://www.netlify.com/gdpr-ccpa/).
 
-### Locigiels
+### Logiciels
 J'utilise [hugo](https://gohugo.io/) pour la génération du site. Hugo possède quelques [paramètres concernant la vie privée](https://gohugo.io/about/hugo-and-gdpr/) pour être en règle avec la [RGPD](https://www.cnil.fr/fr/comprendre-le-rgpd), j'ai [configuré ces paramètres](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L159) afin qu'il y est le moins d'impact possible sur votre vie privée.
 
 Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous redirigeront vers Twitter et Youtube à travers le site, les options "[enableDNT](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" et "[privacyEnhanced](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L180)" sont par conséquent activés pour ces services.
@@ -27,3 +27,6 @@ Les services tels que Disqus (intégration de commentaires), Instagram et Google
 ### Dépot Git
 J'utilise GitHub afin d'héberger [mon dépot](https://github.com/d4rklynk/simpleprivacy.fr). Si vous souhaitez contribuer à mon site web, vous devrez créer un compte GitHub.
 Vous pouvez lire leur politique de vie privée [ici](https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement).
+
+### Historique
+Vous pouvez trouver l'historique de modifications de cette politique de confidentialité [ici](https://github.com/d4rklynk/simpleprivacy.fr/commits/main/content/privacy.md).
