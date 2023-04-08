@@ -80,9 +80,7 @@ J'utilise [hugo](https://gohugo.io/) pour la génération du site web. Le theme 
 
 J'utilise Netlify pour l'hébergement du site, vous pouvez voir les logs de déployement [ici](https://app.netlify.com/sites/simpleprivacy/deploys).
 
-J'utilise OVH pour les serveurs DNS et le nom de domaine.
-
-J'utilise Plausible pour les analytics, vous pouvez voir publiquement ces données [ici](https://plausible.simpleprivacy.fr/simpleprivacy.fr/).
+J'utilise Google Domains pour le nom de domaine simpleprivacy.fr et pour les serveurs DNS.
 
 J'utilise GitHub afin d'héberger le [dépot git](https://github.com/d4rklynk/simpleprivacy.fr).
 
