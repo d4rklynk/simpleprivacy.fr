@@ -84,6 +84,7 @@ J'utilise Google Domains pour le nom de domaine simpleprivacy.fr et pour les ser
 
 J'utilise GitHub afin d'héberger le [dépot git](https://github.com/d4rklynk/simpleprivacy.fr).
 
+
 ### Sécurité
 
-J'ai sécurisé le site au maximum de ses capacités, vous pouvez voir le résultat [ici](https://www.hardenize.com/report/simpleprivacy.fr/1679224786) (rapport datant du 19 Mars 2023).
+J'ai sécurisé le site au maximum de ses capacités, vous pouvez voir le résultat [ici](https://www.hardenize.com/report/simpleprivacy.fr/1680963948) (rapport datant du 8 Avril 2023).
