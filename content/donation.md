@@ -24,4 +24,9 @@ Tad est responsable du project [Divested Computing Group](https://divested.dev/)
 L'application de messagerie que tous les chercheurs en sécurité recommandent, je l'utilise depuis plus de 8 ans, j'adore cette application, aidez-les en allant sur leur [page de don](https://www.signal.org/donate/).
 
 ## samsepi0l (moi)
-Si vous souhaitez me faire un don, c'est par [ici](https://liberapay.com/samsepi0l/).
+Si vous souhaitez me faire un don, c'est sur [Liberapay](https://liberapay.com/samsepi0l/) (don récurrent) ou via [Stripe](https://donate.stripe.com/cN216e2YN7db9Hi144) (don ponctuel). 
+Liberapay ne demande aucune information supplémentaire mise à part la carte bancaire. Stripe demande votre adresse mail en plus de la carte bancaire.
+
+> Faites attention sur Liberapay, la page et la formulation des  phrases ne sont pas très intuitives et peuvent potentiellement vous facturer plus que ce que vous ne vouliez. N'hésitez pas à les contacter ou à me contacter si c'est le cas.
+L'intégralité de la période de temps est payée d'avance en totalité, sans fractionnement, et sera par défaut automatiquement renouvelée une fois la période de temps écoulée dans son intégralité.
+Exemple : trois mois de 10€ vous coûteront immédiatement 30€, puis 30€ à nouveau dans trois mois.
