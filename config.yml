@@ -77,6 +77,8 @@ params:
         url: privacy
       - name: Signal Proxy Iran
         url: signal-proxy
+      - name: Faites un don
+        url: donation
 
   # home-info mode
   homeInfoParams:
