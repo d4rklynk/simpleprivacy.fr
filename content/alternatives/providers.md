@@ -73,7 +73,7 @@ Voici les services VPN respectueux de votre vie privée.
 - [Mullvad VPN](https://mullvad.net/)
 - [ProtonVPN](https://protonvpn.com/fr/)
 
-> - Attention, ces VPN sont réputés, mais comme tout VPN et votre FAI (Fournisseur d'Accès à Internet), votre trafic Internet passe par le réseau du fournisseur. Celui qui contrôle les serveurs peut voir et enregistrer tout ce que vous faites en ligne, s'il le souhaite.
-- Un VPN ne vous rends pas plus sécurisé et vous ne deviendrez pas anonyme. Voir l'article dédié de [Wonderfall](https://wonderfall.space/vpn-mesusage/). Voir également le questionnaire [Do I need a VPN ?](https://www.doineedavpn.com/).
-- N'utilisez pas de VPN gratuits: vos données de navigation sont ensuite vendues.
-- La plupart des listes sur le web des «meilleurs VPN» sont compilés pour maximiser les revenus des affiliés, et non pour trouver le meilleur service (avec de très rares exceptions).
+> - Attention, ces VPN sont réputés, mais comme tout VPN et votre FAI (Fournisseur d'Accès à Internet), votre trafic Internet passe par le réseau du fournisseur. Celui qui contrôle les serveurs peut voir et enregistrer tout ce que vous faites en ligne, s'il le souhaite. 
+> - Un VPN ne vous rends pas plus sécurisé et vous ne deviendrez pas anonyme. Voir l'article dédié de [Wonderfall](https://wonderfall.space/vpn-mesusage/). Voir également le questionnaire [Do I need a VPN ?](https://www.doineedavpn.com/).
+> - N'utilisez pas de VPN gratuits: vos données de navigation sont ensuite vendues.
+> - La plupart des listes sur le web des «meilleurs VPN» sont compilés pour maximiser les revenus des affiliés, et non pour trouver le meilleur service (avec de très rares exceptions).
