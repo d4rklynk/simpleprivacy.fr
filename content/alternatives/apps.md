@@ -6,6 +6,11 @@ date: 2022-08-03
 
 Si vous utilisez Google Chrome, Opera, Vivaldi ou tout autre navigateur, changez pour un autre navigateur plus respectueux de votre vie privée.
 
+- [Mullvad](https://mullvad.net/fr/browser)
+
+> Mullvad fonctionne comme Tor Browser (mais sans le réseau Tor), il est important d'utiliser Mullvad Browser avec un VPN. Sinon, utilisez Brave ou Firefox.
+Pour le choix d'un VPN, vous pouvez voir les alternatives que je propose [ici](/alternatives/#les-vpns).
+
 - [Brave](https://brave.com/fr/)
 - [Firefox](https://www.mozilla.org/fr/firefox/new/)
 
