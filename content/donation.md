@@ -23,6 +23,9 @@ Tad est responsable du project [Divested Computing Group](https://divested.dev/)
 ## Signal
 L'application de messagerie que tous les chercheurs en sécurité recommandent, je l'utilise depuis plus de 8 ans, j'adore cette application, aidez-les en allant sur leur [page de don](https://www.signal.org/donate/).
 
+## Tor project
+[Tor](https://www.torproject.org/) est l'unique projet permettant de garder son anonymat en ligne, vous pouvez leur faire un don via cette [page](https://donate.torproject.org/).
+
 ## samsepi0l (moi)
 Si vous souhaitez me faire un don, c'est sur [Liberapay](https://liberapay.com/samsepi0l/) (don récurrent) ou via [Stripe](https://donate.stripe.com/cN216e2YN7db9Hi144) (don ponctuel). 
 Liberapay ne demande aucune information supplémentaire mise à part la carte bancaire. Stripe demande votre adresse mail en plus de la carte bancaire.
