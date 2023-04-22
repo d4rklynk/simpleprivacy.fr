@@ -68,7 +68,7 @@ Sur Windows, vous avez un antivirus intégré nommé "Microsoft Defender", pourq
 
 Je sais que c'est contre-intuitif, mais le fait d'acheter un Google Pixel permet de gagner en vie privée. Parce que le fait que les téléphones Android sont si terribles pour la vie privée des utilisateurs est à cause de l'application "Services Google Play", elle est intégrée sur chaque système Android pour le grand public (Google Pixel, Samsung, OnePlus, Pocco, Xiaomi, Oppo, etc...), en utilisant un téléphone Samsung par exemple, vous faites confiance à Samsung et à Google en même temps (à cause des Services Google Play), alors qu'en utilisant un Google Pixel, vous ne ferez confiance qu'à Google.
 
-Donc si vous souhaitez gagner en vie privée sans vous embêtez, restez simple, prenez un Google Pixel, n'installez pas d'antivirus tiers et ne prenez pas de VPN.
+Donc si vous souhaitez gagner en vie privée sans vous embêter, restez simple, prenez un Google Pixel, n'installez pas d'antivirus tiers et ne prenez pas de VPN.
 
 > Je dis bien "pour faire simple", le mieux serait d'avoir un Google Pixel sous GrapheneOS, niveau vie privée, vous serez vraiment au top. Le VPN dépend énormément de vos besoins, mais les antivirus sont à proscrire.
 
