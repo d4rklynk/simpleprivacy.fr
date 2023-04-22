@@ -23,14 +23,14 @@ Les Google Pixel avaient une [faille vraiment effrayante](https://bugs.xdavidhu.
 
 ## #2 L'effet de Halo
 
-L'effet de Halo est un biais cognitif qui se manifeste lorsque l'on ressent un sentiment positif envers quelqu'un ou quelque chose influençant la perception que l'on a envers ses caractéristiques.
+[L'effet de Halo](https://fr.wikipedia.org/wiki/Effet_de_halo) est un biais cognitif qui se manifeste lorsque l'on ressent un sentiment positif envers quelqu'un ou quelque chose influençant la perception que l'on a envers ses caractéristiques.
 
-Exemple : Si une personne est belle, on va tout de suite considérer qu'elle est intelligente et compétente alors qu'on ne l'a pas encore évalué sur ces points.
+> **Exemple :** Si une personne est belle, on va tout de suite considérer qu'elle est intelligente et compétente alors qu'on ne l'a pas encore évalué sur ces points.
 
 Cet effet s'applique également dans le monde de l'informatique.
 Par exemple, si vous aimez utiliser un des produits que je propose sur mon site, ou que vous avez totalement confiance en la sécurité d'un de ces produits, vous allez pensez que l'application est plus sécurisée que vous ne le croyez.
 
-Exemple : L’application Signal est une messagerie dite sécurisée, vos messages sont chiffrés de bout en bout et sont donc lisibles par personne, mais ce que vous ne devez pas oublier, c'est que Signal protège UNIQUEMENT le transport des messages, c'est à dire que si vous envoyez un message sensible à un de vos contacts et que ce contact souhaite le divulguer à tout le monde, ce n'est PAS le problème de Signal. 
+> **Exemple :** L’application Signal est une messagerie dite sécurisée, vos messages sont chiffrés de bout en bout et sont donc lisibles par personne, mais ce que vous ne devez pas oublier, c'est que Signal protège UNIQUEMENT le transport des messages, c'est à dire que si vous envoyez un message sensible à un de vos contacts et que ce contact souhaite le divulguer à tout le monde, ce n'est PAS le problème de Signal. 
 De même, si quelqu'un a accès à votre téléphone, il aura accès à tous vos messages sur Signal. Car Signal considère que vous devez sécuriser votre téléphone (ce qui est normal).
 
 ---
@@ -39,7 +39,35 @@ Il est important de ne pas extrapoler ce que vous voyez !
 
 ---
 
-Cet effet est, de toute évidence, également valable avec des personnes, tels que des chercheurs en sécurité. Certains chercheurs sur Internet sont considérés comment étant un peu froid, beaucoup de gens les détestent et pensent que ces chercheurs disent n'importe quoi, mais c'est entièrement faux.
-
 Il va de même pour les marques (Google, Apple, etc...)
-Vous aimez Apple pour sa simplicité ou son luxe, vous allez donc considérer qu'ils sont tout aussi excellents en cybersécurité ou pour la protection de votre vie privée, ils sont en effet très bon en terme de cybersécurité, mais en terme de vie privée, certaines choses laissent encore à désirer...
+Vous aimez Apple pour sa simplicité ou son luxe, vous allez donc considérer qu'ils sont tout aussi excellents en cybersécurité ou pour la protection de votre vie privée. Si ils sont en effet très bon en terme de cybersécurité, en terme de vie privée, certaines choses laissent encore à désirer...
+
+## #3 Le principe de confiance
+
+### VPN
+
+Utiliser le moins de parties tiers possible est important pour votre vie privée et votre sécurité en ligne. L'exemple typique est la cas des VPNs, tout le monde vous vantent les bienfaits du VPN comme quoi votre FAI (Fournisseur d'Accès à Internet) ne pourra plus savoir ce que vous faites sur Internet ! Mais ce qu'ils ne disent pas, c'est que c'est maintenant votre fournisseur de VPN qui sait tout ce que vous faites en ligne !
+
+Ce que vous avez fait ici s'appelle le déplacement de confiance (ou en anglais le "trust shifting"), vous avez déplacé la confiance que vous aviez en votre FAI vers votre fournisseur de VPN.
+
+Quand je parle de confiance, je ne parle pas de la confiance aveugle : 
+
+> "J'aime bien ce VPN, je lui fais confiance"
+
+Je parle d'une confiance où l'on a lu les politiques de confidentialité, que l'on connaît qui gère l'organisation, que les fournisseurs sont transparents sur un ensemble de choses, etc...
+
+Dans les deux cas, les deux types de fournisseurs ont accès à votre navigation web.
+
+La question se pose donc : "En qui avez-vous le plus confiance ?". Il faut donc regarder les lois françaises sur la protection des données, comment nos FAI gèrent-ils nos données contrairement à notre fournisseur de VPN, etc...
+
+### Antivirus
+
+Sur Windows, vous avez un antivirus intégré nommé "Microsoft Defender", pourquoi faire confiance à un autre antivirus qui a son lot de problème au lieu d'utiliser celui installé par défaut sur votre système. Microsoft Defender est le meilleur antivirus du marché, pour al simple et bonne raison qu'il est intégré à Windows, surtout qu'il fait bien plus qu'un antivirus. Pour rappel un antivirus n'est pas une solution de sécurité car il se base sur l'énumération du mal, qui est une méthode qui ne fonctionne pas dans le monde réel (le nôtre).
+
+### Android et les Services Google Play
+
+Je sais que c'est contre-intuitif, mais le fait d'acheter un Google Pixel permet de gagner en vie privée. Parce que le fait que les téléphones Android sont si terribles pour la vie privée des utilisateurs est à cause de l'application "Services Google Play", elle est intégré sur chaque système Android pour le grand publique (Google Pixel, Samsung, OnePlus, Pocco, Xiaomi, Oppo, etc...), en utilisant un téléphone Samsung par exemple, vous faites confiance à Samsung et à Google en même temps (à cause des Services Google Play), alors qu'en utilisant un Google Pixel, vous ne ferez confiance qu'à Google.
+
+Donc si vous souhaitez gagner en vie privée sans vous embêtez, restez simple, prenez un Google Pixel, n'installez pas d'antivirus tiers et ne prenez pas de VPN.
+
+> Je dis bien "pour faire simple", le mieux serait d'avoir un Google Pixel sous GrapheneOS, niveau vie privée, vous serez vraiment au top. Le VPN dépend énormément de vos besoins, mais les antivirus sont à proscrire.
