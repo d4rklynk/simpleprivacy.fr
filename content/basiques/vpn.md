@@ -38,9 +38,9 @@ Dans cette configuration, on a un client (VPN) et un serveur (VPN), le client se
 WIP
 Faire une vidéo des logs d'un VPN (setup un serveur et afficher les logs)
 
-## Pourquoi est-ce une mauvaise idée d'héberger votre propre VPN
+## Pourquoi c'est une mauvaise idée d'héberger votre propre VPN
 
-## Pourquoi y a-t-il autant de fournisseurs de VPNs
+## Pourquoi y a-t-il autant de fournisseurs de VPNs ?
 
 Parce qu'un VPN, c'est de l'argent gratuit pour la personne qui le gère. C'est juste un fichier de configuration à mettre en place et un client à développer afin que les utilisateurs de tout type puissent s'y connecter facilement. Vous louez plusieurs serveurs, vous configurez votre serveur VPN sur chaque, vous louez votre prestation et le tour est joué.
 
@@ -58,15 +58,40 @@ Pour avoir un transport sécurisé sur Internet, vous avez juste à aller sur vo
 
 ### Votre FAI ne pourra plus savoir ce que vous faites
 
-Votre trafic est chiffré jusqu'au serveur de votre fournisseur VPN, mais une fois arrivé sur ce serveur, votre trafic est déchiffré afin que vous puissiez accéder à vos sites web préférés.
-Au lieu donner tout votre trafic Internet à votre FAI, vous le donnez à votre fournisseur de VPN !
+Votre trafic est chiffré jusqu'au serveur de votre fournisseur VPN, mais une fois arrivé sur ce serveur, votre trafic est déchiffré afin que vous puissiez accéder à vos sites web préférés. En effet, votre FAI sait juste que vous utilisez un VPN mais ne sait pas ce que vous faites, mais le revers de la médaille, c'est que c'est maintenant votre fournisseur qui sait tout ! Yes...
+Au lieu de donner tout votre trafic Internet à votre FAI, vous le donnez à votre fournisseur de VPN !
 
 ### Votre gouvernement ne pourra plus vous espionner
 
 WIP
+
+## Le top 10 des meilleurs VPNs de ce mois-ci !
+
+Vous avez du voir ce genre de liste un nombre incalculable de fois. 
+
+Et bien en fait, ces listes des meilleurs VPN du mois ou de l'année en cours sont réfléchies. En effet, ils prennent les meilleurs personnes en sécurité pour créer ce top 10... Non, vous vous doutez bien que non. C'est déguisé en comparatif ou top 10 des meilleurs VPNs, mais en réalité, ce sont juste des amas de lien d'affiliation pour se faire un maximum d'argent. Les personnes qui écrivent ces comparatifs se fichent de savoir quel VPN vous allez prendre. Car tant que vous cliquez sur un de leurs liens d'affiliations, ils se feront de l'argent.
+
+J'ai pris le premier lien que je voyais et regardez comme c'est beau :
+
+![cnet-lien.png](/vpn/cnet-lien.png)
+
+Quand je passe la souris sur le bouton rouge "**VOIR LES OFFRES NORDVPN**", le lien affiché par le navigateur en bas à gauche contient les mots `aff`, `offer_id` et plein d'autres. Bref, cec sont juste des listes pour faire de l'argent, laissez-moi vous simplifier la vie et vous montrez ce que vous êtes censé voir quand vous lisez un de soi-disant "comparatifs" :
+
+- VPN n°1 - Lien d'affiliation qui va me donner plein d'argent
+- VPN n°2 - Lien d'affiliation qui va me donner plein d'argent
+- VPN n°3 - Lien d'affiliation qui va me donner plein d'argent
+- VPN n°4 - Lien d'affiliation qui va me donner plein d'argent
+- VPN n°5 - Lien d'affiliation qui va me donner plein d'argent
+
+Voilà, cette liste est, attention, revue par des experts dans le milieu.
+
+C'est valable sur 99,99% des sites que vous verrez. Afin de savoir si les liens sont affiliés, vous avez juste à passer la souris sur le soi-disant bouton qui ramène vers le site, si le lien est super long comme ici, il est fort probable que ce soit un lien d'affiliation.
+Si vous souhaitez vraiment choisir un vrai VPN qui respecte vraiment votre vie privée, je vous suggère de regarder sur [PrivacyGuides](https://www.privacyguides.org/fr/vpn/) ou [les alternatives](/alternatives/providers/#les-vpns) que je propose (qui sont évidemment non affiliés).
 
 ##  Mais quelle est la réelle utilité ?
 
 Un VPN (grand public) va essentiellement faire 3 choses :
 
 - Avoir une adresse IP différente de la vôtre et partagée par plusieurs personnes (car plusieurs personne se connectent sur le même serveur que vous). Ce qui a le gros avantage de se fondre dans la masse.
+
+## Avez-vous vraiment besoin d'un VPN ?
