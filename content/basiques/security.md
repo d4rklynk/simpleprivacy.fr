@@ -27,6 +27,8 @@ Les Google Pixel avaient une [faille vraiment effrayante](https://bugs.xdavidhu.
 
 > **Exemple :** Si une personne est belle, on va tout de suite considérer qu'elle est intelligente et compétente alors qu'on ne l'a pas encore évalué sur ces points.
 
+{{< youtube id="xJO5GstqTSY">}}
+
 Cet effet s'applique également dans le monde de l'informatique.
 Par exemple, si vous aimez utiliser un des produits que je propose sur mon site, ou que vous avez totalement confiance en la sécurité d'un de ces produits, vous allez penser que l'application est plus sécurisée que vous ne le croyez.
 
@@ -75,7 +77,7 @@ Sur Windows, vous avez un antivirus intégré nommé "Microsoft Defender", pourq
 
 ### Android et les Services Google Play
 
-Je sais que c'est contre-intuitif, mais le fait d'acheter un Google Pixel permet de gagner en vie privée. Parce que le fait que les téléphones Android sont si terribles pour la vie privée des utilisateurs est à cause de l'application "Services Google Play", elle est intégrée sur chaque système Android pour le grand public (Google Pixel, Samsung, OnePlus, Pocco, Xiaomi, Oppo, etc...), en utilisant un téléphone Samsung par exemple, vous faites confiance à Samsung et à Google en même temps (à cause des Services Google Play), alors qu'en utilisant un Google Pixel, vous ne ferez confiance qu'à Google.
+Je sais que c'est contre-intuitif, mais le fait d'acheter un Google Pixel permet de "gagner" en vie privée. Si les téléphones Android sont si terribles pour la vie privée des utilisateurs,  c'est à cause de l'application "Services Google Play", elle est intégrée sur chaque système Android pour le grand public (Google Pixel, Samsung, OnePlus, Pocco, Xiaomi, Oppo, etc...). En utilisant un téléphone Samsung par exemple, vous faites confiance à Samsung et à Google en même temps (à cause des Services Google Play), alors qu'en utilisant un Google Pixel, vous ne ferez confiance qu'à Google.
 
 Donc si vous souhaitez gagner en vie privée sans vous embêter, restez simple, prenez un Google Pixel, n'installez pas d'antivirus tiers et ne prenez pas de VPN.
 
