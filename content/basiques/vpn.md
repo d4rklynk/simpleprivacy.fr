@@ -48,7 +48,13 @@ Parce qu'un VPN, c'est de l'argent gratuit pour la personne qui le gère. C'est 
 ## Les faux arguments des vendeurs
 ### C'est plus sécurisé !
 
-WIP
+> Votre connexion est sécurisée avec des protocoles militaires !
+
+Alors déjà, encore heureux que la connexion est sécurisée parce que c'est le principe même du VPN : "Accéder à un autre réseau de manière sécurisée".
+
+Ensuite quand ils parlent de protocoles militaires, c'est juste des protocoles standards que tout le monde utilise aujourd'hui. Sinon dans ce cas, mon site web aussi utilise du chiffrement militaire.
+
+Pour avoir un transport sécurisé sur Internet, vous avez juste à aller sur votre navigateur web préféré, accéder à n'importe quel site web en HTTPS, et voilà, votre connexion est sécurisé, parce que c'est ça qui importe. De toute façon, HTTPS est devenu un critère de référence sur Google il y a des années de cela, donc si vous souhaitez que votre site web soit visible sur Google, il doit obligatoirement proposer du HTTPS.
 
 ### Votre FAI ne pourra plus savoir ce que vous faites
 
@@ -60,3 +66,7 @@ Au lieu donner tout votre trafic Internet à votre FAI, vous le donnez à votre 
 WIP
 
 ##  Mais quelle est la réelle utilité ?
+
+Un VPN (grand public) va essentiellement faire 3 choses :
+
+- Avoir une adresse IP différente de la vôtre et partagée par plusieurs personnes (car plusieurs personne se connectent sur le même serveur que vous). Ce qui a le gros avantage de se fondre dans la masse.
