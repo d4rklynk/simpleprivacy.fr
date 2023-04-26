@@ -33,14 +33,12 @@ Dans cette configuration, on a un client (VPN) et un serveur (VPN), le client se
 
 Évidemment, et c'est là tout le principe, tout la connexion est chiffrée (du poste du client jusqu'au serveur VPN du réseau distant).
 
-> Contrairement à ce que vous pourriez penser, la configuration d'un VPN est très simple. D'ailleurs, vous pouvez même créer un serveur VPN avec votre Freebox si vous en avez une.
+> Contrairement à ce que vous pourriez penser, la configuration d'un VPN est très simple. D'ailleurs, vous pouvez même créer un serveur VPN avec votre Freebox par exemple.
 
 ## La différence entre un VPN "maison" et les VPN grand public
 
 WIP
 Faire une vidéo des logs d'un VPN (setup un serveur et afficher les logs)
-
-## Pourquoi c'est une mauvaise idée d'héberger votre propre VPN
 
 ## Pourquoi y a-t-il autant de fournisseurs de VPNs ?
 
@@ -90,6 +88,7 @@ Voilà, cette liste est, attention, revue par des experts dans le milieu.
 C'est valable sur 99,99% des sites que vous verrez. Afin de savoir si les liens sont affiliés, vous avez juste à passer la souris sur le soi-disant bouton qui ramène vers le site, si le lien est super long comme ici, il est fort probable que ce soit un lien d'affiliation.
 Si vous souhaitez vraiment choisir un vrai VPN qui respecte vraiment votre vie privée, je vous suggère de regarder sur [PrivacyGuides](https://www.privacyguides.org/fr/vpn/) ou [les alternatives](/alternatives/providers/#les-vpns) que je propose (qui sont évidemment non affiliés).
 
+## Pourquoi c'est une mauvaise idée d'héberger votre propre VPN
 ##  Mais quelle est la réelle utilité ?
 
 Un VPN (grand public) va essentiellement faire 3 choses :
