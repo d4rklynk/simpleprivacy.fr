@@ -2,6 +2,8 @@
 title: "Les VPNs"
 ---
 
+![vpn-cover.jpg](/vpn/vpn-cover.jpg)
+
 Aaah les VPN, la solution ultime afin d'être anonyme en ligne !
 Quelle blague...
 
