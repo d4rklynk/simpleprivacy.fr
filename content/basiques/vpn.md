@@ -27,7 +27,7 @@ Ou alors, vous pouvez utiliser un VPN pour accéder au réseau local de votre am
 
 ![vpn-client-serveur.png](/vpn/vpn-client-serveur.png)
 
-Ce VPN n'est pas du tout le même que les VPN pour le grand public (NordVPN, ExpressVPN, etc). Ici, c'est un VPN "fait-maison", car les deux plus gros logiciels connus pour créér un serveur VPN sont [OpenVPN](https://openvpn.net/) et [WireGuard](https://www.wireguard.com/), ils sont gratuits et open-source. N'importe qui peut donc configurer un VPN gratuitement afin de se connecter à un autre réseau comme dans notre exemple.
+Ce VPN n'est pas du tout le même que les VPN pour le grand public (NordVPN, ExpressVPN, etc). Ici, c'est un VPN "fait-maison", car les deux plus gros protocoles connues pour créer un serveur VPN sont [OpenVPN](https://openvpn.net/) et [WireGuard](https://www.wireguard.com/), ils sont gratuits et open-source. N'importe qui peut donc configurer un VPN gratuitement afin de se connecter à un autre réseau comme dans notre exemple.
 
 Dans cette configuration, on a un client (VPN) et un serveur (VPN), le client se connecte au serveur distant (en passant par Internet) afin d'accéder aux ressources du réseau numéro 2. Le client (du réseau numéro 1) aura donc accès à toutes les ressources du réseau distant (réseau numéro 2), mais le réseau distant ne peut pas accéder au ressources du réseau du client.
 
