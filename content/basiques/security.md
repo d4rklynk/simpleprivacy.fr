@@ -43,7 +43,7 @@ Il est important de ne pas extrapoler ce que vous voyez !
 ---
 
 Il en va de même pour les marques (Google, Apple, etc...).
-Vous aimez Apple pour sa simplicité ou son luxe, vous allez donc considérer qu'ils sont tout aussi excellents en cybersécurité ou pour la protection de votre vie privée. Si ils sont en effet très bons en terme de cybersécurité, en terme de vie privée, certaines choses laissent encore à désirer...
+Vous aimez Apple pour sa simplicité ou son luxe, vous allez donc considérer qu'ils sont tout aussi excellents en cybersécurité ou pour la protection de votre vie privée. Si ils sont en effet très bons en termes de cybersécurité, certaines choses laissent encore à désirer en termes de vie privée...
 
 ## #3 Le principe de confiance
 
