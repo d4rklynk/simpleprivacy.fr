@@ -1,5 +1,5 @@
 ---
-title: "Les confusions face à la sécurité et la vie privée en ligne"
+title: "Les confusions face à la sécurité et la vie privée en ligne 🧐️"
 ---
 
 Il faut premièrement ne pas confondre la vie privée et la sécurité.
