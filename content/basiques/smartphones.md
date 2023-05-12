@@ -108,16 +108,18 @@ Vous pouvez, en complément, utiliser l'empreinte digitale, cela évitera que le
 
 ## Le problème des prix
 
-Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a, il y a beaucoup de réductions en ce moment (la version charbon est actuellement disponible aux alentours de [340€](https://www.amazon.fr/dp/B0B4DMBH5T/ref=twister_B0BLHRVSSD?_encoding=UTF8&psc=1) sur Amazon). De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car XIaomi ne possède pas beaucoup de support (2 ans en moyenne) et ils ont une fàacheuse tendance à ralentir rapidement au fil du temps... Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 460€ au moment où je vous écris, vous économisez bien 40€ sur 5 ans (car le Google Pixel 6a a 5 ans de mises à jour), voire plus si vous arrivez à avoir des réductions (aux alentours de 340€ en ce moment, donc vous économisez 160€ sur 5 ans).
+Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a ou le Google Pixel 7a. Il y a beaucoup de réductions en ce moment (la version charbon est actuellement disponible aux alentours de [330€](https://www.amazon.fr/dp/B0B4DMBH5T/ref=twister_B0BLHRVSSD?_encoding=UTF8&psc=1) sur Amazon). Le Google Pixel 7a est actuellement à 509€, si vous souhaitez économiser, je vous conseille d'acheter le 7a dans quelques mois (aux alentours d'octobre ou novembre).
 
-*Juste pour information, ne tardez pas non plus à acheter votre Google Pixel 6a, car si vous l'achetez après cet été, vous n'aurez plus que 4 ans de mises à jour, car le support du Pixel 6a s'arrête en [Juillet 2027](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures). Il sera donc peut-être plus rentable d'acheter le Pixel 7a quand il sortira, mais tout dépend de votre budget.*
+De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car XIaomi ne possède pas beaucoup de support (2 ans en moyenne) et ils ont une facheuse tendance à ralentir rapidement au fil du temps... Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 409€ au moment où je vous écris, vous économisez bien 91€ sur 5 ans (car le Google Pixel 6a a 5 ans de mises à jour), voire plus si vous arrivez à avoir des réductions (aux alentours de 330€ en ce moment, donc vous économisez 170€ sur 5 ans).
+
+*Juste pour information, ne tardez pas non plus à acheter votre Google Pixel 6a, car si vous l'achetez après Juillet 2023, vous n'aurez plus que 4 ans de mises à jour, car le support du Pixel 6a s'arrête en [Juillet 2027](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures). Il sera donc peut-être plus rentable d'acheter le Pixel 7a quand il sortira, mais tout dépend de votre budget.*
 
 Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
 
 1. Le support s'arrête
 2. Il soit tellement cassé qu'il soit inutilisable/irréparable.
 
-Pour conclure, oui 460€ c'est cher, mais étalé sur 5 ans, ça reste abordable. De plus, vous pourrez probablement l'avoir à beaucoup moins cher que ça au moment où vous lirez cet article.
+Pour conclure, oui 409€ c'est cher, mais étalé sur 5 ans, ça reste abordable. De plus, vous pourrez probablement l'avoir à beaucoup moins cher que ça au moment où vous lirez cet article.
 
 ### Notes
 
