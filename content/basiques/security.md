@@ -2,10 +2,6 @@
 title: "Les confusions face à la sécurité et la vie privée en ligne 🧐️"
 ---
 
-{{< badge >}}
-New article!
-{{< /badge >}}
-
 Il faut premièrement ne pas confondre la vie privée et la sécurité.
 
 La **vie privée** est le fait de garder certaines choses pour soi, ce ne sont pas forcément des secrets, ce sont juste les choses que vous ne souhaitez pas ou ne voyez pas l'intérêt de partager publiquement.
