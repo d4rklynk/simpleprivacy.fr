@@ -6,9 +6,7 @@ date : 2023-01-07
 C'est très **important** que vous ayez quelques informations en tête avant de lire mon site web et de tout prendre pour argent comptant. De ce fait, je vous conseille très **fortement** de lire cet article dans lequel je partage pleinement les arguments exposés.
 
 ---
-
-[Evidence-based security - Wonderfall](https://wonderfall.space/evidence-based-security/)
-
+{{< article link="https://wonderfall.space/evidence-based-security/" >}}
 ---
 
 Je vais cependant répéter une phrase que je trouve très importante :
