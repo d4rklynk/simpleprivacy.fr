@@ -16,6 +16,8 @@ Je préfère écrire la conclusion dès le début pour être sûr que ce soit cl
 
 J'ai écris un [tutoriel](/fiches/bitwarden) pour apprendre à utiliser Bitwarden.
 
+{{< article link="/fiches/bitwarden" >}}
+
 ***Je vous conseille chaudement de lire [l'article de Wonderfall sur les mots de passe](https://wonderfall.space/password/) après avoir lu le mien, car il va dans la continuité de mon article.***
 
 ## Les mots de passe
