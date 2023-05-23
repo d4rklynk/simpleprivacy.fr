@@ -1,5 +1,6 @@
 ---
 title: "Les confusions face à la sécurité et la vie privée en ligne 🧐️"
+date: 2023-05-06
 ---
 
 Il faut premièrement ne pas confondre la vie privée et la sécurité.
