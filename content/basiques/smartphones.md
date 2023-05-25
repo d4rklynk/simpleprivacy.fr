@@ -108,7 +108,7 @@ Vous pouvez, en complément, utiliser l'empreinte digitale, cela évitera que le
 
 ## Le problème des prix
 
-Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a ou le Google Pixel 7a. Il y a beaucoup de réductions en ce moment (la version charbon est actuellement disponible aux alentours de [330€](https://www.amazon.fr/dp/B0B4DMBH5T/ref=twister_B0BLHRVSSD?_encoding=UTF8&psc=1) sur Amazon). Le Google Pixel 7a est actuellement à 509€, si vous souhaitez économiser, je vous conseille d'acheter le 7a dans quelques mois (aux alentours d'octobre ou novembre).
+Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a ou le Google Pixel 7a. Il y a beaucoup de réductions en ce moment (la version charbon est actuellement disponible aux alentours de [330€](https://www.amazon.fr/dp/B0B4DN441N/ref=twister_B0BLHRVSSD?_encoding=UTF8&th=1) sur Amazon, faites attention à ce qu'il soit neuf, et non d'occassion, c'est trompeur sur Amazon). Le Google Pixel 7a est actuellement à 509€, si vous souhaitez économiser, je vous conseille d'acheter le 7a dans quelques mois (aux alentours d'octobre ou novembre).
 
 De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car XIaomi ne possède pas beaucoup de support (2 ans en moyenne) et ils ont une facheuse tendance à ralentir rapidement au fil du temps... Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 409€ au moment où je vous écris, vous économisez bien 91€ sur 5 ans (car le Google Pixel 6a a 5 ans de mises à jour), voire plus si vous arrivez à avoir des réductions (aux alentours de 330€ en ce moment, donc vous économisez 170€ sur 5 ans).
 
@@ -129,9 +129,9 @@ Cependant, j'avais besoin d'écrire un article là-dessus car certaines personne
 
 Pour vous donnez une fourchette de prix raisonnable pour un smartphone décent, il faut compter entre 300 et 500€. En dessous de 300€, vous trouverez rarement des smartphones qui dureront dans le temps.
 
-Pour les iPhones, je vous conseille de prendre un iPhone SE, ils ont tendance à être moins chers que les hauts de gamme, et restent tout même très performants. Vous pouvez prendre au minimum à partir de l'iPhone SE 2020 (ou également 2ème génération), la première génération (2016) possèdant du matériel trop vieux, donc moins sécurisé, le support risque de s'arrêter prochainement puisqu'il est mis à jour depuis déjà 6 ans.
+Pour les iPhones, je vous conseille de prendre un iPhone SE, ils ont tendance à être moins chers que les hauts de gamme, et restent tout de même très performants. Vous pouvez vous procurer un SE à partir de l'iPhone SE 2020 au minimum (également appelé "2ème génération"), la première génération (2016) possèdant du matériel trop vieux, donc moins sécurisé, le support risque en plus de s'arrêter prochainement puisqu'il est mis à jour depuis déjà 6 ans.
 
-L'iPhone SE 2020 n'étant plus mis en vente, vous pouvez l'acheter d'occasion ou en reconditionné. Amazon propose un service de reconditionnement et vend actuellement l'[iPhone SE 2020 à ~230€](https://www.amazon.fr/Apple-iPhone-G%C3%A9n%C3%A9ration-128GB-Reconditionn%C3%A9/dp/B08D377VBX/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24I830FY88X68&keywords=iphone+se+2020&qid=1675455647&sprefix=iphone+se+2020%2Caps%2C110&sr=8-3).
+L'iPhone SE 2020 n'étant plus mis en vente, vous pouvez l'acheter d'occasion ou en reconditionné. Amazon propose un service de reconditionnement et vend actuellement l'[iPhone SE 2020 à ~220€](https://www.amazon.fr/Apple-iPhone-G%C3%A9n%C3%A9ration-128GB-Reconditionn%C3%A9/dp/B08D377VBX/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24I830FY88X68&keywords=iphone+se+2020&qid=1675455647&sprefix=iphone+se+2020%2Caps%2C110&sr=8-3).
 
 ## Fairphone
 
@@ -186,7 +186,7 @@ Pour réitérer :
 - Installez GrapheneOS sur votre Google Pixel.
 - Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphones qui ne sont plus supportés.
 - Si vous avez acheté un autre téléphone, revendez-le (surtout si c'est un Fairphone) et achetez un Google Pixel 6/6a/6 Pro (ou un iPhone).
-- Si vous avez acheté des antivirus (ou d'autres applications comme CCleaner), arrêtez ces abonnements, car vous jetez littéralement de l'argent par les fenêtres. Puis achetez un smartphone récent grâce aux économies que vous aurez fait.
+- Si vous avez acheté des antivirus (ou d'autres applications comme CCleaner), arrêtez ces abonnements, car vous jetez littéralement de l'argent par les fenêtres. Puis achetez un smartphone récent grâce aux économies que vous aurez faites. (Car il est plus sécurisé d'utiliser un smartphone récent et mis à jour régulièrement qu'un vieux téléphone doté d'un antivirus.)
 
 ---
 
@@ -194,5 +194,5 @@ Pour réitérer :
 
 - [Le modèle de sécurité mobile - Wonderfall](https://wonderfall.space/modele-securite-mobile/)
 - [Android - Madaidan](https://madaidans-insecurities.github.io/android.html) (en anglais)
-- [Android Tips - PrivSec.dev](https://privsec.dev/os/android-tips/) *(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
-- [Badness Enumeration - PrivSec.dev](https://privsec.dev/knowledge/badness-enumeration) (en anglais)
+- [Android Tips - PrivSec.dev](https://privsec.dev/posts/android/android-tips/) *(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
+- [Badness Enumeration - PrivSec.dev](https://privsec.dev/posts/knowledge/badness-enumeration/) (en anglais)
