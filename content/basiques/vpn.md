@@ -15,7 +15,7 @@ Un Virtual Private Network (VPN) ou Réseau Privé Virtuel en français est une 
 
 ![local-network.png](/vpn/local-network.png)
 
-Voici deux réseaux locaux dans l'image ci-dessus. Un réseau local est un petit réseau qui regroupe un ensemble de machines. Typiquement, quand vous êtes chez vous, vous êtes dans un réseau local. Un réseau local n'est pas obligatoirement connecté à Internet, mais les machines à l'intérieur sont connectées entre elles, c'est pourquoi vous pouvez imprimer chez vous et non chez l'imprimante de votre voisin.
+Voici deux réseaux locaux dans l'image ci-dessus. Un réseau local est un petit réseau qui regroupe un ensemble de machines. Typiquement, quand vous êtes chez vous, vous êtes dans un réseau local. Un réseau local est souvent connecté à Internet, mais ce n'est pas systématiquement le cas. Cela va de soi, votre réseau local à vous est connecté à Internet, sinon vous ne pourriez pas lire mon article 😄️. Cependant, les machines à l'intérieur sont connectées entre elles (et uniquement dans ce réseau), c'est pourquoi vous pouvez imprimer chez vous et non chez l'imprimante de votre voisin (car c'est un autre réseau local).
 
 Imaginons que vous êtes dans le réseau local numéro 1 (chez vous) et qu'un de vos amis possède un serveur de fichiers chez lui dans le réseau local numéro 2. Votre ami vous dit qu'il a plein de photos et de vidéos qu'il aimerait vous partager.
 
@@ -23,11 +23,11 @@ Imaginons que vous êtes dans le réseau local numéro 1 (chez vous) et qu'un de
 
 Dans le cas actuel, vous ne pouvez pas accéder à son serveur car il est dans un autre réseau local que le vôtre. Le seul moyen d'accéder à son serveur avec la configuration actuelle est de vous déplacer chez lui.
 
-Ou alors, vous pouvez utiliser un VPN pour accéder au réseau local de votre ami !
+Ou alors justement, vous pouvez utiliser un VPN pour accéder au réseau local de votre ami !
 
 ![vpn-client-serveur.png](/vpn/vpn-client-serveur.png)
 
-Ce VPN n'est pas du tout le même que les VPN pour le grand public (NordVPN, ExpressVPN, etc). Ici, c'est un VPN "fait-maison", car les deux plus gros protocoles connues pour créer un serveur VPN sont [OpenVPN](https://openvpn.net/) et [WireGuard](https://www.wireguard.com/), ils sont gratuits et open-source. N'importe qui peut donc configurer un VPN gratuitement afin de se connecter à un autre réseau comme dans notre exemple.
+Ce VPN n'est pas du tout le même que les VPN pour le grand public (NordVPN, ExpressVPN, CyberGhost, etc). Ici, c'est un VPN "fait-maison". Les deux plus gros protocoles connus pour créer un serveur VPN sont [OpenVPN](https://openvpn.net/) et [WireGuard](https://www.wireguard.com/), ils sont gratuits et open-source. N'importe qui peut donc configurer un VPN gratuitement afin de se connecter à un autre réseau comme dans notre exemple.
 
 Dans cette configuration, on a un client (VPN) et un serveur (VPN), le client se connecte au serveur distant (en passant par Internet) afin d'accéder aux ressources du réseau numéro 2. Le client (du réseau numéro 1) aura donc accès à toutes les ressources du réseau distant (réseau numéro 2), mais le réseau distant ne peut pas accéder au ressources du réseau du client.
 
@@ -75,7 +75,7 @@ J'ai pris le premier lien que je voyais et regardez comme c'est beau :
 
 ![cnet-lien.png](/vpn/cnet-lien.png)
 
-Quand je passe la souris sur le bouton rouge "**VOIR LES OFFRES NORDVPN**", le lien affiché par le navigateur en bas à gauche contient les mots `aff`, `offer_id` et plein d'autres. Bref, cec sont juste des listes pour faire de l'argent, laissez-moi vous simplifier la vie et vous montrez ce que vous êtes censé voir quand vous lisez un de soi-disant "comparatifs" :
+Quand je passe la souris sur le bouton rouge "**VOIR LES OFFRES NORDVPN**", le lien affiché par le navigateur en bas à gauche contient les mots `aff`, `offer_id` et plein d'autres. Bref, ce sont juste des listes pour faire de l'argent, laissez-moi vous simplifier la vie et vous montrez ce que vous êtes censé voir quand vous lisez un de ces prétendus "comparatifs" :
 
 - VPN n°1 - Lien d'affiliation qui va me donner plein d'argent
 - VPN n°2 - Lien d'affiliation qui va me donner plein d'argent
