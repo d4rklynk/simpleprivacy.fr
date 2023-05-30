@@ -53,6 +53,12 @@ Mes travaux sont majoritairement basés sur :
 - [Madaidan](https://madaidans-insecurities.github.io/)
 - [GrapheneOS](https://grapheneos.org/)
 
+---
+
+Notes : *Toutes les recommandations d'outils se basent sur les recommendations de [PrivacyGuides](https://www.privacyguides.org/fr/), ils font un gros travail de recherche, je ne vais pas faire ce travail alors qu'ils le font déjà très bien. PrivacyGuides recommande certains outils dont je ne parle pas sur mon site, c'est parce que je juge que ces outils sont peut-être un peu trop complexe d'utilisation pour mon audience. Exemple typique : le logiciel [SyncThing](https://syncthing.net/) est excellent, mais je ne le propose pas. Cependant, si vous vous sentez d'utiliser de tels outils, je vous encourage à le faire.*
+
+---
+
 Mais également de YouTube :
 
 - [Computerphile](https://www.youtube.com/user/Computerphile)
