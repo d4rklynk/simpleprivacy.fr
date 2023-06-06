@@ -14,7 +14,7 @@ Vous avez remarqué par exemple qu'il y a un système de permission sur les smar
 
 ## Recommandations
 
-Pour les smartphones, je vous recommande uniquement un [iPhone](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) ou un [Google Pixel](https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right).
+Pour les smartphones, je vous recommande uniquement un [iPhone](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) ou un [Google Pixel](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right).
 
 N'achetez **PAS** de Google Pixel chez votre fournisseur d'accès à Internet (Orange, Free, SFR, Bouygues). Le téléphone est bloqué et vous ne pouvez pas déverrouiller le bootloader comme expliqué plus loin dans [le chapitre dédié](#bootloader). Achetez **toujours** votre téléphone dans les magasins comme la Fnac, Boulanger, Amazon, etc.
 
@@ -25,8 +25,8 @@ Les Google Pixel, à partir du 6, ont [**5 ans de support**](https://support.goo
 Je vous épargne les détails techniques, mais pour faire très simple, les Google Pixel ne sont pas juste "un peu mieux sécurisés" que les autres marques, ils sont ***excellents en terme de sécurité.***
 Je vous conseille donc très fortement de ne rester qu'avec un Google Pixel.
 
-- [Google Pixel : Android done right - Wonderfall](https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right) (français)
-- [iOS : chez Apple, la prison dorée - Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) (français)
+- [Google Pixel : Android done right - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right) (français)
+- [iOS : chez Apple, la prison dorée - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) (français)
 - [Google Pixel - PrivacyGuides](https://www.privacyguides.org/android/#google-pixel) (anglais)
 - [Recommended Phones - PrivSec.dev](https://privsec.dev/os/android-tips/#recommended-phones) (anglais)
 
@@ -96,11 +96,11 @@ Si vous souhaitez l'installer, vous devez posséder un Google Pixel (quelqu'il s
 
 Pour la sécurité de votre smartphone, [n'installez **PAS**](https://privsec.dev/os/android-tips/#manage-android-permissions) d'antivirus, gratuits ou payants. Les antivirus se basent sur le [badness enumeration](https://privsec.dev/knowledge/badness-enumeration/#antiviruses) (littéralement : l'énumération du mal) qui est une méthode complètement détachée de la réalité.
 
-Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur les smartphones](https://wonderfall.space/modele-securite-mobile/).
+Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur les smartphones](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/).
 
 ### Code PIN
 
-Je vous ***déconseille très fortement*** d'utiliser des [schémas](https://wonderfall.space/password/#le-cas-dun-smartphone) (ou [patterns](https://privsec.dev/os/android-tips/#use-a-diceware-passphrase-avoid-pattern-unlock)) pour déverrouiller votre téléphone. Une [étude](/smartphones/Cracking-Android-Pattern-Lock-in-Five-Attempts.pdf), a prouvé l'inefficacité des schémas. Si vous possédez un Google Pixel ou un iPhone vous pouvez utiliser un code PIN, ces deux téléphones sont tellement sécurisés que juste mettre un code PIN à 4 chiffres prendrait plusieurs dizaines d'années à être [bruteforce](/basiques/password-managers#pourquoi-un-mot-de-passe-doit-comporter-des-majuscules-et-des-caract%C3%A8res-sp%C3%A9ciaux-) (mais mettez quand même 8 chiffres au minimum).
+Je vous ***déconseille très fortement*** d'utiliser des [schémas](https://web.archive.org/web/20230514230642/https://wonderfall.space/password/#le-cas-dun-smartphone) (ou [patterns](https://privsec.dev/os/android-tips/#use-a-diceware-passphrase-avoid-pattern-unlock)) pour déverrouiller votre téléphone. Une [étude](/smartphones/Cracking-Android-Pattern-Lock-in-Five-Attempts.pdf), a prouvé l'inefficacité des schémas. Si vous possédez un Google Pixel ou un iPhone vous pouvez utiliser un code PIN, ces deux téléphones sont tellement sécurisés que juste mettre un code PIN à 4 chiffres prendrait plusieurs dizaines d'années à être [bruteforce](/basiques/password-managers#pourquoi-un-mot-de-passe-doit-comporter-des-majuscules-et-des-caract%C3%A8res-sp%C3%A9ciaux-) (mais mettez quand même 8 chiffres au minimum).
 
 De manière générale, je vous conseille d'utiliser un code PIN à 6 chiffres. Cependant, il serait plus avisé de mettre un code PIN de 8 chiffres ou plus. Et non, ne mettez **pas** la vitesse de la lumière, le nombre pi, ou n'importe quelle autre constante mathématique. Et surtout ne mettez pas votre date de naissance, celle d'un proche ou de votre animal.
 
@@ -147,7 +147,7 @@ Alors évidemment, je suis pour l'écologie et la protection de l'environnement,
 
 ## iPhones
 
-J'avoue ne pas être un grand fan d'Apple et je ne connais pas très bien le sujet. Je vous conseille donc de lire l'[article sur IOS par Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) qui en parle mieux que moi.
+J'avoue ne pas être un grand fan d'Apple et je ne connais pas très bien le sujet. Je vous conseille donc de lire l'[article sur IOS par Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) qui en parle mieux que moi.
 
 Cela dit, je tiens à prévenir que si Apple promet de respecter votre vie privée, nous n'avons en réalité aucune preuve. Peut-être la respecte-il, peut-être que non, peut-être un peu des deux. Parfois, on voit bien qu'Apple n'a pas accès à certaines données car le chiffrement de bout en bout est implémenté ou que les données restent en local. Cependant ce n'est pas toujours le cas.
 
@@ -160,7 +160,7 @@ iCloud Backup [sauvegarde votre historique iMessage avec la clé pour pouvoir le
 En ce qui concerne la sécurité, les iPhones sont excellents. En revanche, je ne dis pas que les iPhones sont meilleurs qu'Android sur ce point. Je dirais qu'ils sont plutôt [équivalents](https://www.reddit.com/r/GrapheneOS/comments/bddq5u/comment/ekxifpa/).
 Par contre, les iPhones **ET** les Google Pixels sont bien les meilleurs en terme de sécurité que tout le reste du marché des mobiles. Si vous installez GrapheneOS sur un Google Pixel, vous êtes gagnant en sécurité et dans la protection de vos données. Si vous avez un iPhone vous gagnez en sécurité, mais vous êtes un peu perdant concernant vos données.
 
-Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e). Je vous invite donc fortement à le lire pour vous faire votre propre opinion.
+Tout ceci est mon interprétation de l'[article de Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e). Je vous invite donc fortement à le lire pour vous faire votre propre opinion.
 
 > Je vous conseille quand même un Google Pixel au lieu d'un iPhone car vous pouvez choisir quelles applications utiliser, vous pouvez prendre Brave ou Firefox au lieu de Safari. Beaucoup d'applications sont bien meilleures sur Android. Sur IOS, vous êtes limité voire bloqué.
 
@@ -192,7 +192,7 @@ Pour réitérer :
 
 ## En savoir plus & crédits
 
-- [Le modèle de sécurité mobile - Wonderfall](https://wonderfall.space/modele-securite-mobile/)
+- [Le modèle de sécurité mobile - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/)
 - [Android - Madaidan](https://madaidans-insecurities.github.io/android.html) (en anglais)
 - [Android Tips - PrivSec.dev](https://privsec.dev/posts/android/android-tips/) *(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
 - [Badness Enumeration - PrivSec.dev](https://privsec.dev/posts/knowledge/badness-enumeration/) (en anglais)
