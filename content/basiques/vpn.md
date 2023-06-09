@@ -1,5 +1,5 @@
 ---
-title: "Les VPNs"
+title: "Les VPNs 🌍️"
 date: 2023-06-09
 ---
 
