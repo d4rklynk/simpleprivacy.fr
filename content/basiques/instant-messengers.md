@@ -337,4 +337,4 @@ Si vous souhaitez une liste bête et méchante :
 
 ### Sur les métadonnées
 
-- [Voici pourquoi les données sont importantes - EFF](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes)
+- [Voici pourquoi les métadonnées sont importantes - EFF](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes)
