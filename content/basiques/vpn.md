@@ -153,6 +153,7 @@ Vous pouvez consulter [Service-Public.fr](https://www.service-public.fr/particul
 ## Avez-vous vraiment besoin d'un VPN ?
 
 Version courte : non.
+
 Version longue : non, vous n'en avez pas besoin :)
 
 Plus sérieusement, si vous souhaitez cacher votre IP lors de téléchargement de torrent ou si vous avez plus confiance en votre fournisseur VPN que votre FAI, alors vous pouvez prendre un VPN. Sinon, votre IP sera visible par ceux qui vous partage le fichier torrent ou ceux qui téléchargent le fichier que vous partagez. 
