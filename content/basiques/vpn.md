@@ -56,7 +56,7 @@ En général, no-log veut dire ceux-ci :
 
 Je tiens à noter que **quelque soit** votre fournisseur VPN, si la justice demande des informations vous concernant, ils ne vont pas enfreindre la loi pour vous protéger, et c'est tout à fait normal !
 
-Dans la mesure on rien n'est enregistré, votre fournisseur VPN ne pourra rien donner à la justice, si elle le lui demande. Cependant, il est important de noter que si la justice demande à votre fournisseur de commencer à vous log (ou "journaliser" en bon français) (c'est à dire enregistrer les sites sur lequel vous vous connectez, votre IP, etc...), votre fournisseur le fera sans hésiter. Un VPN n'est pas fait pour être anonyme en ligne contrairement à ce que d'autres entreprises bien connues du grand public veulent vous faire croire.
+Dans la mesure on rien n'est enregistré, votre fournisseur VPN ne pourra rien donner à la justice, si elle le lui demande. Cependant, il est important de noter que si la justice demande à votre fournisseur de commencer à vous log (ou "journaliser" en bon français) (c'est à dire enregistrer les sites sur lesquels vous vous connectez, votre IP, etc...), votre fournisseur le fera sans hésiter. Un VPN n'est pas fait pour être anonyme en ligne contrairement à ce que d'autres entreprises bien connues du grand public veulent vous faire croire.
 
 ## Les faux arguments des vendeurs
 ### C'est plus sécurisé !
@@ -67,7 +67,7 @@ Alors déjà, encore heureux que la connexion est sécurisée parce que c'est le
 
 Ensuite quand ils parlent de protocoles militaires, c'est juste des protocoles standards que tout le monde utilise aujourd'hui. Sinon dans ce cas, mon site web aussi utilise du chiffrement militaire.
 
-Pour avoir un transport sécurisé sur Internet, vous avez juste à aller sur votre navigateur web préféré, accéder à n'importe quel site web en HTTPS, et voilà, votre connexion est sécurisé, parce que c'est ça qui importe. De toute façon, HTTPS est devenu un critère de référencement sur Google [il y a des années de cela](https://developers.google.com/search/blog/2014/08/https-as-ranking-signal), donc si vous souhaitez que votre site web soit visible sur Google, il doit obligatoirement proposer du HTTPS.
+Pour avoir un transport sécurisé sur Internet, vous avez juste à aller sur votre navigateur web préféré, accéder à n'importe quel site web en HTTPS, et voilà, votre connexion est sécurisée, parce que c'est ça qui importe. De toute façon, HTTPS est devenu un critère de référencement sur Google [il y a des années de cela](https://developers.google.com/search/blog/2014/08/https-as-ranking-signal), donc si vous souhaitez que votre site web soit visible sur Google, il doit obligatoirement proposer du HTTPS.
 
 Et puis aujourd'hui, [95%](https://transparencyreport.google.com/https/overview?hl=fr) des sites web visibles par Google sont en HTTPS :)
 
@@ -103,7 +103,7 @@ Donc si le gouvernement demande au VPN d'enregistrer vos données, je vous garan
 
 Vous avez du voir ce genre de liste un nombre incalculable de fois. 
 
-Et bien en fait, ces listes des meilleurs VPN du mois ou de l'année en cours sont réfléchies. En effet, ils prennent les meilleurs personnes en sécurité pour créer ce top 10... Non, vous vous doutez bien que non. C'est déguisé en comparatif ou top 10 des meilleurs VPNs, mais en réalité, ce sont juste des amas de lien d'affiliation pour se faire un maximum d'argent. Les personnes qui écrivent ces comparatifs se fichent de savoir quel VPN vous allez prendre. Car tant que vous cliquez sur un de leurs liens d'affiliations, ils se feront de l'argent.
+Et bien en fait, ces listes des meilleurs VPN du mois ou de l'année en cours sont réfléchies. En effet, ils prennent les meilleurs personnes en sécurité pour créer ce top 10... Non, vous vous doutez bien que non. C'est déguisé en comparatif ou top 10 des meilleurs VPNs, mais en réalité, ce sont juste des amas de liens d'affiliation pour se faire un maximum d'argent. Les personnes qui écrivent ces comparatifs se fichent de savoir quel VPN vous allez prendre. Car tant que vous cliquez sur un de leurs liens d'affiliation, ils se feront de l'argent.
 
 J'ai pris le premier lien que je voyais et regardez comme c'est beau :
 
@@ -111,11 +111,11 @@ J'ai pris le premier lien que je voyais et regardez comme c'est beau :
 
 Quand je passe la souris sur le bouton rouge "**VOIR LES OFFRES NORDVPN**", le lien affiché par le navigateur en bas à gauche contient les mots `aff`, `offer_id` et plein d'autres. Bref, ce sont juste des listes pour faire de l'argent, laissez-moi vous simplifier la vie et vous montrez ce que vous êtes censé voir quand vous lisez un de ces prétendus "comparatifs" :
 
-- VPN n°1 - Lien d'affiliation qui va me donner plein d'argent
-- VPN n°2 - Lien d'affiliation qui va me donner plein d'argent
-- VPN n°3 - Lien d'affiliation qui va me donner plein d'argent
-- VPN n°4 - Lien d'affiliation qui va me donner plein d'argent
-- VPN n°5 - Lien d'affiliation qui va me donner plein d'argent
+- VPN n°1 - Lien d'affiliation qui va nous rapporter plein d'argent
+- VPN n°2 - Lien d'affiliation qui va nous rapporter plein d'argent
+- VPN n°3 - Lien d'affiliation qui va nous rapporter plein d'argent
+- VPN n°4 - Lien d'affiliation qui va nous rapporter plein d'argent
+- VPN n°5 - Lien d'affiliation qui va nous rapporter plein d'argent
 
 Voilà, cette liste est, attention, revue par des experts dans le milieu.
 
@@ -155,7 +155,7 @@ Plus sérieusement, si vous souhaitez cacher votre IP lors de téléchargement d
 
 Pour ce qui est du cas de regarder du contenu vidéo aux États-Unis à partir de la France, ça fonctionne, mais gardez en tête que beaucoup de services de VOD (Netflix, Disney+, Prime Video, etc...) bloquent les IPs des serveurs venant de fournisseurs de VPNs. Donc une minorité des serveurs de votre fournisseur fonctionnera, évidemment, les fournisseurs achètent sans cesse de nouveaux serveurs (et donc par extension de nouvelles IP), c'est le jeu du chat et la souris. Pour faire simple, oui ça marche quelque soit le VPN (et ne croyez pas dur comme fer qu'un VPN fonctionnera **systématiquement** pour les services de VOD quoi que dise le vendeur).
 
-Si vous décidez de choisir un VPN, je vous conseille de regarder [les alternatives](/alternatives/providers) que je propose (basé sur les recommandations de [PrivacyGuides](https://www.privacyguides.org/fr/vpn/)).
+Si vous décidez de choisir un VPN, je vous conseille de regarder [les alternatives](/alternatives/providers) que je propose (basé sur les [recommandations de PrivacyGuides](https://www.privacyguides.org/fr/vpn/)).
 
 Je vous conseille de lire l'article de Wonderfall qui est très clair sur ce sujet. Mon article est "une entrée en la matière" au sien de toute manière.
 
