@@ -97,7 +97,7 @@ Rappelez-vous également les données personnelles que vous avez donné à votre
 - Votre prénom
 - Votre âge
 
-Donc si le gouvernement demande au VPN d'enregistrer vos données, je vous garantis que le fournisseur le fera, et c'est normal (et c'est déjà arrivé plusieurs fois, même chez Proton VPN).
+Donc si le gouvernement demande au VPN d'enregistrer vos données, je vous garantis que le fournisseur le fera, et c'est normal (et c'est déjà arrivé plusieurs fois, même [chez Proton](https://proton.me/blog/climate-activist-arrest) (l'activiste était un squatteur qui s'introduisait chez les gens)).
 
 ## Le top 10 des meilleurs VPNs de ce mois-ci !
 
@@ -119,8 +119,12 @@ Quand je passe la souris sur le bouton rouge "**VOIR LES OFFRES NORDVPN**", le l
 
 Voilà, cette liste est, attention, revue par des experts dans le milieu.
 
+De toute évidence, la liste n'est pas ordonné selon quel VPN est le meilleur, mais selon le montant que le fournisseur de VPN a payé :)
+
+Qu'on soit clair, on ne parle pas ici d'une conspiration mais d'un business model.
+
 C'est valable sur 99,99% des sites que vous verrez. Afin de savoir si les liens sont affiliés, vous avez juste à passer la souris sur le soi-disant bouton qui ramène vers le site, si le lien est super long comme ici, il est fort probable que ce soit un lien d'affiliation.
-Si vous souhaitez vraiment choisir un vrai VPN qui respecte vraiment votre vie privée, je vous suggère de regarder sur [PrivacyGuides](https://www.privacyguides.org/fr/vpn/) ou [les alternatives](/alternatives/providers/#les-vpns) que je propose (qui sont évidemment non affiliés).
+Si vous souhaitez *vraiment* choisir un *vrai* VPN qui respecte *vraiment* votre vie privée, je vous suggère de regarder sur [PrivacyGuides](https://www.privacyguides.org/fr/vpn/) ou [les alternatives](/alternatives/providers/#les-vpns) que je propose (qui sont évidemment non affiliés).
 
 ## Pourquoi c'est une mauvaise idée d'héberger votre propre VPN
 
