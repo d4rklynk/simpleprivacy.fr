@@ -71,6 +71,8 @@ Pour avoir un transport sécurisé sur Internet, vous avez juste à aller sur vo
 
 Et puis aujourd'hui, [95%](https://transparencyreport.google.com/https/overview?hl=fr) des sites web visibles par Google sont en HTTPS :)
 
+![googlehttps.png](/vpn/googlehttps.png)
+
 ### Votre FAI ne pourra plus savoir ce que vous faites
 
 En effet, comme votre trafic Internet est chiffré jusqu'au serveur de votre fournisseur VPN, votre trafic passe certes par votre FAI (Fournisseur d'Accès à Internet -> Orange, Free, SFR, etc.) mais est illisible par ce dernier. Cependant, une fois que vous êtes connecté sur le serveur de votre fournisseur VPN, votre trafic est déchiffré afin que vous puissiez accéder à vos sites web préférés. En effet, votre FAI sait juste que vous utilisez un VPN mais ne sait pas ce que vous faites, mais le revers de la médaille, c'est que c'est maintenant votre fournisseur VPN qui sait tout ! Yes...
