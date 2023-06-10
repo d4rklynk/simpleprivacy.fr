@@ -168,7 +168,7 @@ Je vous conseille de lire l'article de Wonderfall qui est très clair sur ce suj
 
 ## En savoir plus & crédits
 - 🇫🇷️ [Les VPNs et leur mésusage - Wonderfall](https://web.archive.org/web/20230204125417/https://wonderfall.space/vpn-mesusage/) (à lire absolument !)
-- 🇬🇧️ [Commercial VPN Use Cases](https://privsec.dev/posts/proxies/commercial-vpn-use-cases/) (’ai le même thème que son site web car c’est un thème publique et gratuit, ne soyez pas étonné)
+- 🇬🇧️ [Commercial VPN Use Cases](https://privsec.dev/posts/proxies/commercial-vpn-use-cases/) (j’ai le même thème que son site web car c’est un thème publique et gratuit, ne soyez pas étonné)
 - 🇫🇷️ [Services VPN - PrivacyGuides](https://www.privacyguides.org/fr/vpn/)
 - 🇫🇷️ [Introduction aux VPNs - PrivacyGuides](https://www.privacyguides.org/fr/basics/vpn-overview/)
 - 🇬🇧️ [DoIneedaVPN?](https://www.doineedavpn.com/) (certes en anglais, mais je vous conseille quand même d'y jeter un œil)
