@@ -79,6 +79,3 @@ Afin de cloisonner votre réseau personnel de vos invités, je vous conseille de
 ### Changer le nom du SSID
 
 Le [SSID](https://fr.wikipedia.org/wiki/Service_set_identifier) est tout simplement le nom de votre réseau Wi-Fi. Je vous conseille de changer le nom, car il donne souvent le type de box que vous avez ! Cela reviendrait à afficher en bas de votre immeuble quel type de porte/serrure vous utilisez. Vous pouvez lui donner le nom que vous voulez, évitez juste des mots trop évocateurs de votre vie personnelle (tel que votre nom, prénom, âge, métiers, etc.). 
-
-
-
