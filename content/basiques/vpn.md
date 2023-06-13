@@ -164,7 +164,7 @@ Pour ce qui est du cas de regarder du contenu vidéo aux États-Unis à partir d
 
 Si vous décidez de choisir un VPN, je vous conseille de regarder [les alternatives](/alternatives/providers) que je propose (basé sur les [recommandations de PrivacyGuides](https://www.privacyguides.org/fr/vpn/)).
 
-Je vous conseille de lire l'article de Wonderfall qui est très clair sur ce sujet. Mon article est "une entrée en la matière" au sien de toute manière.
+Je vous conseille de lire l'[article de Wonderfall ](https://web.archive.org/web/20230204125417/https://wonderfall.space/vpn-mesusage/) qui est très clair sur ce sujet. Mon article est "une entrée en la matière" au sien de toute manière.
 
 ## En savoir plus & crédits
 - 🇫🇷️ [Les VPNs et leur mésusage - Wonderfall](https://web.archive.org/web/20230204125417/https://wonderfall.space/vpn-mesusage/) (à lire absolument !)
