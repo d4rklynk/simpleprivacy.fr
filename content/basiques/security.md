@@ -86,5 +86,5 @@ Donc si vous souhaitez gagner en vie privée sans vous embêter, restez simple, 
 
 ## En savoir plus
 
-- [Evidence-based Security - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/evidence-based-security/)
-- [Knowledge Base - PrivSec](https://privsec.dev/posts/knowledge/)
+- 🇫🇷️ [Evidence-based Security - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/evidence-based-security/)
+- 🇬🇧️ [Knowledge Base - PrivSec](https://privsec.dev/posts/knowledge/)

@@ -94,6 +94,6 @@ Ce sujet est expliqué clairement dans la [vidéo YouTube](https://www.youtube.c
 
 ## En savoir plus & crédits
 
-- [What is PII? - Proton](https://proton.me/blog/personal-data)
-- [Nos données personnelles : touche pas à ma data ! - Cookie Connecté](https://www.youtube.com/watch?v=QlsKHNaluoc) (YouTube - 10 minutes)
-- [Les bonnes pratiques sur Internet 👍️ - samsepi0l](/fiches/les-bonnes-pratiques/#vie-privée)
+- 🇬🇧️ [What is PII? - Proton](https://proton.me/blog/personal-data)
+- 🇫🇷️ [Nos données personnelles : touche pas à ma data ! - Cookie Connecté](https://www.youtube.com/watch?v=QlsKHNaluoc) (YouTube - 10 minutes)
+- [Les bonnes pratiques sur Internet 👍️ - SimplePrivacy](/fiches/les-bonnes-pratiques/#vie-privée)

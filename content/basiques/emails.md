@@ -90,18 +90,18 @@ En terme d'écologie, les mails sont vraiment à bannir. Priviligiez des message
 
 ### Écologie
 
-- [CyberWorldCleanUpDay - Guide 5 : Nettoyer ses emails](https://cyberworldcleanupday.fr/wp-content/uploads/2022/03/CWCUD-2022-Guide-5-Nettoyer-ses-e-mails-1.pdf)
+- 🇫🇷️ [CyberWorldCleanUpDay - Guide 5 : Nettoyer ses emails](https://cyberworldcleanupday.fr/wp-content/uploads/2022/03/CWCUD-2022-Guide-5-Nettoyer-ses-e-mails-1.pdf)
 
 ### Sécurité
 
-- [Security and Privacy Advice # Email - Madaidan](https://madaidans-insecurities.github.io/security-privacy-advice.html#email)
-- [The PGP problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
-- [Issues with PGP - KickSecure](https://www.kicksecure.com/wiki/OpenPGP#Issues_with_PGP)
-- [Stop Using Encrypted Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html)
-- [tweet de hanno - sur Twitter](https://twitter.com/hanno/status/1145597144373575680)
-- [tweet de Daniel Micay (fondateur de GrapheneOS) - sur Twitter](https://twitter.com/DanielMicay/status/1145264664315604992)
+- 🇬🇧️ [Security and Privacy Advice # Email - Madaidan](https://madaidans-insecurities.github.io/security-privacy-advice.html#email)
+- 🇬🇧️ [The PGP problem](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
+- 🇬🇧️ [Issues with PGP - KickSecure](https://www.kicksecure.com/wiki/OpenPGP#Issues_with_PGP)
+- 🇬🇧️ [Stop Using Encrypted Email](https://latacora.singles/2020/02/19/stop-using-encrypted.html)
+- 🇬🇧️ [tweet de hanno - sur Twitter](https://twitter.com/hanno/status/1145597144373575680)
+- 🇬🇧️ [tweet de Daniel Micay (fondateur de GrapheneOS) - sur Twitter](https://twitter.com/DanielMicay/status/1145264664315604992)
 
 ### Les solutions
 
-- [Les alternatives 📨️ # Les mails - samsepi0l](/alternatives/providers#les-mails)
-- [Les alternatives 📨️ # Les services d'aliasing - samsepi0l](/alternatives/providers#les-services-daliasing)
+- [Les alternatives 📨️ # Les mails - SimplePrivacy](/alternatives/providers#les-mails)
+- [Les alternatives 📨️ # Les services d'aliasing - SimplePrivacy](/alternatives/providers#les-services-daliasing)

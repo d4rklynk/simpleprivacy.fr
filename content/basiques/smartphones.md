@@ -192,7 +192,7 @@ Pour réitérer :
 
 ## En savoir plus & crédits
 
-- [Le modèle de sécurité mobile - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/)
-- [Android - Madaidan](https://madaidans-insecurities.github.io/android.html) (en anglais)
-- [Android Tips - PrivSec.dev](https://privsec.dev/posts/android/android-tips/) *(site en anglais, j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
-- [Badness Enumeration - PrivSec.dev](https://privsec.dev/posts/knowledge/badness-enumeration/) (en anglais)
+- 🇫🇷️ [Le modèle de sécurité mobile - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/modele-securite-mobile/)
+- 🇬🇧️ [Android - Madaidan](https://madaidans-insecurities.github.io/android.html)
+- 🇬🇧️ [Android Tips - PrivSec.dev](https://privsec.dev/posts/android/android-tips/) *(j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
+- 🇬🇧️ [Badness Enumeration - PrivSec.dev](https://privsec.dev/posts/knowledge/badness-enumeration/) (en anglais)

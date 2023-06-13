@@ -319,22 +319,22 @@ Si vous souhaitez une liste bête et méchante :
 
 ### Sur la cryptographie (authenticité, intégrité, confidentialité)
 
-- [Sécurité : Chiffrer, garantir l’intégrité ou signer - CNIL](https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer)
-- [Comprendre les grands principes de la cryptologie et du chiffrement- CNIL](https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement)
-- [On dit chiffrer, et pas crypter - Max](https://chiffrer.info/)
-- [End to End Encryption (E2EE) - Computerphile](https://www.youtube.com/watch?v=jkV1KEJGKRA)
-- [Secret Key Exchange (Diffie-Hellman) - Computerphile](https://www.youtube.com/watch?v=NmM9HA2MQGI)
-- [Double Ratchet Messaging Encryption - Computerphile](https://www.youtube.com/watch?v=9sO2qdTci-s)
-- [What are Digital Signatures? - Computerphile](https://www.youtube.com/watch?v=s22eJ1eVLTU)
+- 🇫🇷️ [Sécurité : Chiffrer, garantir l’intégrité ou signer - CNIL](https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer)
+- 🇫🇷️ [Comprendre les grands principes de la cryptologie et du chiffrement- CNIL](https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement)
+- 🇫🇷️ [On dit chiffrer, et pas crypter - Max](https://chiffrer.info/)
+- 🇬🇧️ [End to End Encryption (E2EE) - Computerphile](https://www.youtube.com/watch?v=jkV1KEJGKRA)
+- 🇬🇧️ [Secret Key Exchange (Diffie-Hellman) - Computerphile](https://www.youtube.com/watch?v=NmM9HA2MQGI)
+- 🇬🇧️ [Double Ratchet Messaging Encryption - Computerphile](https://www.youtube.com/watch?v=9sO2qdTci-s)
+- 🇬🇧️ [What are Digital Signatures? - Computerphile](https://www.youtube.com/watch?v=s22eJ1eVLTU)
 
 ### Sur les messageries instantanées
 
-- [How Signal Instant Messaging Protocol Works (& WhatsApp etc) - Computerphile](https://www.youtube.com/watch?v=DXv1boalsDI)
-- [What's Up With Group Messaging? - Computerphile](https://www.youtube.com/watch?v=Q0_lcKrUdWg)
-- [Messengers - Madaidan](https://madaidans-insecurities.github.io/messengers.html)
-- [Best Secure Messaging App | FBI Document Leaked - Side of Burritos](https://www.youtube.com/watch?v=wj-aR96FOA0)
-- [Les alternatives 📚️ # Les messageries instantanées - samsepi0l](/alternatives/apps/#les-messageries-instantanées)
+- 🇬🇧️ [How Signal Instant Messaging Protocol Works (& WhatsApp etc) - Computerphile](https://www.youtube.com/watch?v=DXv1boalsDI)
+- 🇬🇧️ [What's Up With Group Messaging? - Computerphile](https://www.youtube.com/watch?v=Q0_lcKrUdWg)
+- 🇬🇧️ [Messengers - Madaidan](https://madaidans-insecurities.github.io/messengers.html)
+- 🇬🇧️ [Best Secure Messaging App | FBI Document Leaked - Side of Burritos](https://www.youtube.com/watch?v=wj-aR96FOA0)
+- [Les alternatives 📚️ # Les messageries instantanées - SimplePrivacy](/alternatives/apps/#les-messageries-instantanées)
 
 ### Sur les métadonnées
 
-- [Voici pourquoi les métadonnées sont importantes - EFF](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes)
+- 🇫🇷️ [Voici pourquoi les métadonnées sont importantes - EFF](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes)

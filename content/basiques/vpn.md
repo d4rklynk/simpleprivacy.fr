@@ -162,15 +162,16 @@ Plus sérieusement, si vous souhaitez cacher votre IP lors de téléchargement d
 
 Pour ce qui est du cas de regarder du contenu vidéo aux États-Unis à partir de la France, ça fonctionne, mais gardez en tête que beaucoup de services de VOD (Netflix, Disney+, Prime Video, etc...) bloquent les IPs des serveurs venant de fournisseurs de VPNs. Donc une minorité des serveurs de votre fournisseur fonctionnera, évidemment, les fournisseurs achètent sans cesse de nouveaux serveurs (et donc par extension de nouvelles IP), c'est le jeu du chat et la souris. Pour faire simple, oui ça marche quelque soit le VPN (et ne croyez pas dur comme fer qu'un VPN fonctionnera **systématiquement** pour les services de VOD quoi que dise le vendeur).
 
-Si vous décidez de choisir un VPN, je vous conseille de regarder [les alternatives](/alternatives/providers) que je propose (basé sur les [recommandations de PrivacyGuides](https://www.privacyguides.org/fr/vpn/)).
+Si vous décidez de choisir un VPN, je vous conseille de regarder [les alternatives](/alternatives/providers/#les-vpns) que je propose (basé sur les [recommandations de PrivacyGuides](https://www.privacyguides.org/fr/vpn/)).
 
 Je vous conseille de lire l'[article de Wonderfall ](https://web.archive.org/web/20230204125417/https://wonderfall.space/vpn-mesusage/) qui est très clair sur ce sujet. Mon article est "une entrée en la matière" au sien de toute manière.
 
 ## En savoir plus & crédits
 - 🇫🇷️ [Les VPNs et leur mésusage - Wonderfall](https://web.archive.org/web/20230204125417/https://wonderfall.space/vpn-mesusage/) (à lire absolument !)
-- 🇬🇧️ [Commercial VPN Use Cases](https://privsec.dev/posts/proxies/commercial-vpn-use-cases/) (j’ai le même thème que son site web car c’est un thème publique et gratuit, ne soyez pas étonné)
+- 🇬🇧️ [Commercial VPN Use Cases](https://privsec.dev/posts/proxies/commercial-vpn-use-cases/) *(j’ai le même thème que son site web car c’est un thème publique et gratuit, ne soyez pas étonné)*
 - 🇫🇷️ [Services VPN - PrivacyGuides](https://www.privacyguides.org/fr/vpn/)
 - 🇫🇷️ [Introduction aux VPNs - PrivacyGuides](https://www.privacyguides.org/fr/basics/vpn-overview/)
 - 🇬🇧️ [DoIneedaVPN?](https://www.doineedavpn.com/) (certes en anglais, mais je vous conseille quand même d'y jeter un œil)
 - 🇬🇧️ [VPN - a Very Precarious Narrative - Dennis Schubert](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html)
 - 🇬🇧️ [The Trouble with VPN and Privacy Review Sites - Jonah](https://blog.privacyguides.org/2019/11/20/the-trouble-with-vpn-and-privacy-review-sites/)
+- [Les alternatives 📚️ # Les VPNs - SimplePrivacy](/alternatives/providers/#les-vpns)
