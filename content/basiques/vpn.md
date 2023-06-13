@@ -171,7 +171,7 @@ Je vous conseille de lire l'[article de Wonderfall ](https://web.archive.org/web
 - 🇬🇧️ [Commercial VPN Use Cases](https://privsec.dev/posts/proxies/commercial-vpn-use-cases/) *(j’ai le même thème que son site web car c’est un thème publique et gratuit, ne soyez pas étonné)*
 - 🇫🇷️ [Services VPN - PrivacyGuides](https://www.privacyguides.org/fr/vpn/)
 - 🇫🇷️ [Introduction aux VPNs - PrivacyGuides](https://www.privacyguides.org/fr/basics/vpn-overview/)
-- 🇬🇧️ [DoIneedaVPN?](https://www.doineedavpn.com/) (certes en anglais, mais je vous conseille quand même d'y jeter un œil)
+- 🇬🇧️ [Do I need a VPN?](https://www.doineedavpn.com/) (certes en anglais, mais je vous conseille quand même d'y jeter un œil)
 - 🇬🇧️ [VPN - a Very Precarious Narrative - Dennis Schubert](https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html)
 - 🇬🇧️ [The Trouble with VPN and Privacy Review Sites - Jonah](https://blog.privacyguides.org/2019/11/20/the-trouble-with-vpn-and-privacy-review-sites/)
 - [Les alternatives 📚️ # Les VPNs - SimplePrivacy](/alternatives/providers/#les-vpns)
