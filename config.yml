@@ -75,8 +75,6 @@ params:
         url: about
       - name: Politique de confidentialité
         url: privacy
-      - name: Signal Proxy Iran
-        url: signal-proxy
       - name: Faites un don
         url: donation
 
