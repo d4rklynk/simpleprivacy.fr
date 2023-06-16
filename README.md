@@ -2,7 +2,6 @@
 
 Un site web destiné aux personnes qui ont des connaissances limitées en informatique.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fbbeee93-ba03-40bb-ab98-37b3196e8d52/deploy-status)](https://app.netlify.com/sites/simpleprivacy/deploys)
 <a href="https://liberapay.com/samsepi0l/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 # Technical stuff
