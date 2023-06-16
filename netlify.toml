@@ -1,6 +1,0 @@
-[build.environment]
-  HUGO_VERSION = "0.113.0"
-
-[context.deploy-preview]
-  command = "hugo -b $DEPLOY_PRIME_URL"
-
