@@ -10,7 +10,7 @@
   Cross-Origin-Embedder-Policy : require-corp
   Cross-Origin-Opener-Policy : same-origin
 
-https://:simpleprivacy.netlify.app/*
+https://:simpleprivacy.pages.dev/*
   X-Robots-Tag: noindex
 
 /.well-known/openpgpkey/hu/*
