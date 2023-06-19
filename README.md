@@ -4,6 +4,8 @@ Un site web destiné aux personnes qui ont des connaissances limitées en inform
 
 <a href="https://liberapay.com/samsepi0l/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/691f5720-0dd1-4da0-ac1d-55b2ee19d827/deploy-status)](https://app.netlify.com/sites/simpleprivacy/deploys)
+
 # Technical stuff
 ## Licensing
 
