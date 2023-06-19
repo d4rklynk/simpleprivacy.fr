@@ -68,13 +68,13 @@ La question se pose donc : "En qui avez-vous le plus confiance ?". Il faut donc
 
 ---
 
-[Les VPNs et leur mésusage - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/vpn-mesusage/)
+[Les VPNs et leur mésusage - Wonderfall](https://wonderfall.space/vpn-mesusage/)
 
 ---
 
 ### Antivirus
 
-Sur Windows, vous avez un antivirus intégré nommé "Microsoft Defender", pourquoi faire confiance à un autre antivirus qui a son [lot de problèmes](https://web.archive.org/web/20230514230642/https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) au lieu d'utiliser celui installé par défaut sur votre système. Microsoft Defender est le meilleur antivirus du marché, pour la simple et bonne raison qu'il est intégré à Windows, surtout qu'il fait bien plus qu'un antivirus. Pour rappel un antivirus n'est pas une solution de sécurité car il se base sur l'énumération du mal, qui est une méthode qui ne fonctionne pas dans le monde réel (le nôtre).
+Sur Windows, vous avez un antivirus intégré nommé "Microsoft Defender", pourquoi faire confiance à un autre antivirus qui a son [lot de problèmes](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) au lieu d'utiliser celui installé par défaut sur votre système. Microsoft Defender est le meilleur antivirus du marché, pour la simple et bonne raison qu'il est intégré à Windows, surtout qu'il fait bien plus qu'un antivirus. Pour rappel un antivirus n'est pas une solution de sécurité car il se base sur l'énumération du mal, qui est une méthode qui ne fonctionne pas dans le monde réel (le nôtre).
 
 ### Android et les Services Google Play
 
@@ -86,5 +86,5 @@ Donc si vous souhaitez gagner en vie privée sans vous embêter, restez simple, 
 
 ## En savoir plus
 
-- 🇫🇷️ [Evidence-based Security - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/evidence-based-security/)
+- 🇫🇷️ [Evidence-based Security - Wonderfall](https://wonderfall.space/evidence-based-security/)
 - 🇬🇧️ [Knowledge Base - PrivSec](https://privsec.dev/posts/knowledge/)

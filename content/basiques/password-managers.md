@@ -16,7 +16,7 @@ Je préfère écrire la conclusion dès le début pour être sûr que ce soit cl
 
 J'ai écris un [tutoriel](/fiches/bitwarden) pour apprendre à utiliser Bitwarden.
 
-***Je vous conseille chaudement de lire [l'article de Wonderfall sur les mots de passe](https://web.archive.org/web/20230514230642/https://wonderfall.space/password/) après avoir lu le mien, car il va dans la continuité de mon article.***
+***Je vous conseille chaudement de lire [l'article de Wonderfall sur les mots de passe](https://wonderfall.space/password/) après avoir lu le mien, car il va dans la continuité de mon article.***
 
 ## Les mots de passe
 
@@ -123,7 +123,7 @@ En effet, c'est compliqué à retenir. On peut cependant changer ça très simpl
 
 *L'image vient de [xkcd](https://xkcd.lapin.org/index.php?number=936#strips).*
 
-*Je vous recommande encore une fois [l'article de Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/password/) qui explique très bien cette image.*
+*Je vous recommande encore une fois [l'article de Wonderfall](https://wonderfall.space/password/) qui explique très bien cette image.*
 
 ---
 
@@ -159,13 +159,13 @@ Cependant, la phrase reste prévisible, et une bonne phrase de passe ressemblera
 
 > timing paving hertz bacterium pliable angelfish
 
-Qui est également le titre de [l'article de Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/password/) que je vous recommande vivement.
+Qui est également le titre de [l'article de Wonderfall](https://wonderfall.space/password/) que je vous recommande vivement.
 
 Tous ces mots sont générés aléatoirement (par un ordinateur, et non par un humain). Il n'y a pas de majuscules ou de chiffres, mais il possède 6 mots générés **complètement aléatoirement**.
 
 L'avantage de cette méthode est que cette phrase de passe est trop longue pour être **bruteforce**, et les mots de cette phrase de passe sont également trop aléatoires et peu communs pour être victime d'une **attaque par dictionnaire** (car l'attaque par dictionnaire se base sur des mots communs, et qui ont un rapport entre eux). Donc si vous choisissez vous-même vos mots pour créer une phrase de passe, ça ne fonctionnera pas ! Générez-le grâce à Bitwarden par exemple, et ne changez pas les mots !
 
-- Lire les [considérations de la méthode diceware par Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/password/#considérations)
+- Lire les [considérations de la méthode diceware par Wonderfall](https://wonderfall.space/password/#considérations)
 
 > Si vous souhaitez aller un peu plus loin, rajoutez un chiffre quelque part dans la phrase de passe, ou en plein milieu d'un des mots (comme `timing` devient `tim5ing`) et ne changez pas les `a` avec des `@` ou tout autre combine de la sorte, car c'est pris en compte dans les attaques, et donc **complètement** inutile. Vous deviendrez beaucoup plus imprévisible en **rajoutant** un chiffre **au milieu** d'un des mots et/ou un caractère spécial.
 
@@ -196,7 +196,7 @@ La meilleure solution serait la **phrase de passe** avec des mots aléatoires ([
 
 Un humain pourra d'ailleurs plus facilement retenir une liste de mots qu'une suite de caractères incompréhensibles.
 
-Le minimum requis serait [6 mots](https://web.archive.org/web/20230514230642/https://wonderfall.space/password/#calculs-dentropie) à mon opinion. **Avec un espace ou n'importe quel autre caractère spécial entre les mots**
+Le minimum requis serait [6 mots](https://wonderfall.space/password/#calculs-dentropie) à mon opinion. **Avec un espace ou n'importe quel autre caractère spécial entre les mots**
 
 *Si un site web n'accepte pas plus d'une vingtaine de caractères, vous serez incapable de faire plus de 3 mots. Je vous conseille de générer un mot de passe aléatoire du nombre de caractères maximum autorisé du site web.*
 
@@ -332,5 +332,5 @@ Gardez bien ces quatres règles en tête :
 
 - 🇬🇧️ [How password managers work - Computerphile](https://www.youtube-nocookie.com/embed/w68BBPDAWr8) (Vidéo YouTube)
 - 🇬🇧️ [How to choose a password - Computerphile](https://www.youtube-nocookie.com/embed/3NjQ9b3pgIg) (Vidéo YouTube)
-- 🇫🇷️ [timing paving hertz bacterium pliable angelfish - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/password/)
+- 🇫🇷️ [timing paving hertz bacterium pliable angelfish - Wonderfall](https://wonderfall.space/password/)
 - [Les alternatives 📚️ # Les gestionnaires de mots de passe - SimplePrivacy](/alternatives/apps/#les-gestionnaires-de-mots-de-passe)

@@ -47,8 +47,9 @@ Mes travaux sont majoritairement basés sur :
 - [PrivSec.dev](https://privsec.dev)
 - [Security Link Collection - beerisgood](https://github.com/beerisgood/Security-link-collection)
 - [PrivacyGuides](https://privacyguides.org)
+- [qua3k](https://qua3k.github.io/)
 - Wonderfall :
-	- [Wonderfall.space](https://web.archive.org/web/20230514230642/https://wonderfall.space) (en français)
+	- [Wonderfall.space](https://wonderfall.space) (en français)
 	- [Wonderfall.dev](https://wonderfall.dev) (en anglais)
 - [Madaidan](https://madaidans-insecurities.github.io/)
 - [GrapheneOS](https://grapheneos.org/)

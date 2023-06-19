@@ -249,7 +249,7 @@ Je vous ***déconseille fortement*** d'utiliser des antivirus tiers comme Avast,
 
 Si vous avez acheté un PC sous Windows qui propose un autre antivirus par défaut (Avast, McAfee, AVG...), je ne peux que vous suggérer de le désactiver et d'utiliser Microsoft Defender à la place.
 
-Un [chapitre](https://web.archive.org/web/20230514230642/https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) sur ce problème a déjà été traité par [Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/). Je vous invite fortement à le consulter (article en français).
+Un [chapitre](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus) sur ce problème a déjà été traité par [Wonderfall](https://wonderfall.space/). Je vous invite fortement à le consulter (article en français).
 
 Les antivirus se basent sur le principe de [badness enumeration](https://privsec.dev/knowledge/badness-enumeration/#antiviruses) (littéralement : l'énumération du mal) qui est une méthode complètement dépassée et détachée de la réalité. L'antivirus est toujours en retard, des virus sont créés tous les jours, vous vous doutez bien que c'est impossible de tenir une liste ultra-précise de tous les virus possibles.
 
@@ -291,5 +291,5 @@ En ce qui concerne les applications open source, ce n'est pas parce qu'elles son
 - 🇬🇧️ [10 dumbest ideas in privacy communities - rhbik5](https://www.reddit.com/r/PrivacyGuides/comments/rhbik5/10_dumbest_ideas_in_privacy_communities/)
 - 🇬🇧️ [The Six Dumbest Ideas in Computer Security](https://www.ranum.com/security/computer_security/editorials/dumb/index.html)
 - 🇬🇧️ [Android Tips - PrivSec.dev](https://privsec.dev/os/android-tips/)
-- 🇫🇷️ [Windows 10 - Chapitre sur Microsoft Defender - Wonderfall](https://web.archive.org/web/20230514230642/https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus)
+- 🇫🇷️ [Windows 10 - Chapitre sur Microsoft Defender - Wonderfall](https://wonderfall.space/windows-hardening/#microsoft-defender-antivirus)
 - 🇫🇷️ [Votre plan de sécurité - EFF](https://ssd.eff.org/fr/module/votre-plan-de-s%C3%A9curit%C3%A9)

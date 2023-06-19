@@ -164,10 +164,10 @@ Pour ce qui est du cas de regarder du contenu vidéo aux États-Unis à partir d
 
 Si vous décidez de choisir un VPN, je vous conseille de regarder [les alternatives](/alternatives/providers/#les-vpns) que je propose (basé sur les [recommandations de PrivacyGuides](https://www.privacyguides.org/fr/vpn/)).
 
-Je vous conseille de lire l'[article de Wonderfall ](https://web.archive.org/web/20230204125417/https://wonderfall.space/vpn-mesusage/) qui est très clair sur ce sujet. Mon article est "une entrée en la matière" au sien de toute manière.
+Je vous conseille de lire l'[article de Wonderfall ](https://wonderfall.space/vpn-mesusage/) qui est très clair sur ce sujet. Mon article est "une entrée en la matière" au sien de toute manière.
 
 ## En savoir plus & crédits
-- 🇫🇷️ [Les VPNs et leur mésusage - Wonderfall](https://web.archive.org/web/20230204125417/https://wonderfall.space/vpn-mesusage/) (à lire absolument !)
+- 🇫🇷️ [Les VPNs et leur mésusage - Wonderfall](https://wonderfall.space/vpn-mesusage/) (à lire absolument !)
 - 🇬🇧️ [Commercial VPN Use Cases](https://privsec.dev/posts/proxies/commercial-vpn-use-cases/) *(j’ai le même thème que son site web car c’est un thème publique et gratuit, ne soyez pas étonné)*
 - 🇫🇷️ [Services VPN - PrivacyGuides](https://www.privacyguides.org/fr/vpn/)
 - 🇫🇷️ [Introduction aux VPNs - PrivacyGuides](https://www.privacyguides.org/fr/basics/vpn-overview/)
