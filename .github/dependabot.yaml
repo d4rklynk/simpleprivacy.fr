@@ -1,6 +1,8 @@
 version: 2
 updates:
   - package-ecosystem: gitsubmodule
-    directory: "/themes"
+    directory: "/"
     schedule:
       interval: daily
+    labels:
+      - "[s] dependency"
