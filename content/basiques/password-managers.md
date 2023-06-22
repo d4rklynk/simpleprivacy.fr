@@ -334,3 +334,4 @@ Gardez bien ces quatres règles en tête :
 - 🇬🇧️ [How to choose a password - Computerphile](https://www.youtube-nocookie.com/embed/3NjQ9b3pgIg) (Vidéo YouTube)
 - 🇫🇷️ [timing paving hertz bacterium pliable angelfish - Wonderfall](https://wonderfall.space/password/)
 - [Les alternatives 📚️ # Les gestionnaires de mots de passe - SimplePrivacy](/alternatives/apps/#les-gestionnaires-de-mots-de-passe)
+- 🇬🇧️ [The quest for a family-friendly password manager - Julien Voisin](https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html)
