@@ -1,7 +1,7 @@
 ---
 title: "Bitwarden : Comment l'utiliser \U0001f511"
 date: 2022-07-29
-weight: 1
+weight: 2
 ---
 
 ![Bitwarden](/bitwarden/apps-combo-logo.png)
