@@ -2,7 +2,7 @@
 title: "Faites un don !"
 ---
 
-Je paye actuellement des serveur aux alentours de 25€/mois pour les [services](https://services.simpleprivacy.fr) SimplePrivacy, je paye le nom de domaine ([simpleprivacy.fr](https://simpleprivacy.fr)) 12€/an, le serveur étant utilisé pour d'autres projets perso, le site en lui-même ne me coute pas une fortune. Je vous propose donc de faire un donc aux projets qui importent vraiment.
+Je paye actuellement des serveur aux alentours de 25€/mois pour les [services](https://services.simpleprivacy.fr) SimplePrivacy, je paye le nom de domaine ([simpleprivacy.fr](https://simpleprivacy.fr)) 12€/an, le serveur étant utilisé pour d'autres projets perso, le site en lui-même ne me coute pas une fortune. Je vous propose donc de faire un don aux projets qui importent vraiment.
 
 Mes projets existent uniquement grâce à d'autres personnes et d'autres projets, car ce sont eux qui permettent à des gens comme moi d'expliquer plein de concepts à des gens comme vous.
 
