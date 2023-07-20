@@ -60,7 +60,7 @@ L'interface de bitwarden n'est pas très compliquée, mais je vais vous montrer 
 
 ## Importez/Exportez vos mots de passe
 
-*Cette étape est utile pour ceux qui possédent un autre gestionnaire de mots de passe et souhaitent changer pour Bitwarden, vous pouvez exportez vos mots de passe de votre gestionnaire actuel pour l'importer sur Bitwarden.*
+*Cette étape est utile pour ceux qui possédent un autre gestionnaire de mots de passe et souhaitent changer pour Bitwarden, vous pouvez exporter vos mots de passe de votre gestionnaire actuel pour l'importer sur Bitwarden.*
 
 L'avantage avec les gestionnaires de mots de passe, c'est que si vous souhaitez changer, ça prend à peine 5 minutes !
 Vous exportez vos mots de passe, vous les importez dans le nouveau, vous supprimez votre compte de votre ancien gestionnaire de mots de passe et c'est réglé !
