@@ -166,7 +166,7 @@ Tout ceci est mon interprétation de l'[article de Wonderfall](https://wonderfal
 
 ---
 
-Sur IOS, tous les navigateurs web [doivent utiliser le même moteur de rendu](/alternatives/apps/#pour-ios), celui d'Apple : WebKit. Donc en utilisant Brave, Google Chrome ou Firefox, c'est comme si vous utilisiez Safari.
+Sur IOS, tous les navigateurs web [doivent utiliser le même moteur de rendu](/alternatives/apps/#pour-ios), celui d'Apple : WebKit. Donc en utilisant Brave, Google Chrome ou Firefox, c'est comme si vous utilisiez Safari.
 
 ---
 
