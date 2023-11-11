@@ -16,18 +16,20 @@ Les informations que je récolte sur vous ne sont pas identifiables, je les coll
 
 ## Version plus longue :
 
-### Plausible
+### Umami
 
 Je récolte quelques informations afin de savoir combien de gens visitent le site.
-Les données que je récolte sont visibles publiquement [ici](https://analytics.projectsegfau.lt/simpleprivacy.fr/) (toutes les données sont hébérgés sur un serveur géré par [Project Segfault](https://projectsegfau.lt/)).
+Les données que je récolte sont visibles publiquement [ici](https://analytics.eu.umami.is/share/i7buY0MDuhFLTnCz/SimplePrivacy) (toutes les données sont hébergés sur un serveur géré par [Umami](https://umami.is/)).
 
-Le but de ces données ne sont pas là pour vous identifier, et je ne peux de toute façon pas le faire car ces données sont bien trop minimes afin d'accomplir ce but (comparés à Google analytics par exemple).
+Le but de ces données n'est pas de vous identifier. Je ne peux de toute façon pas le faire car ces données sont bien trop minimes afin d'accomplir ce but (comparés à Google analytics par exemple).
+
+J'ai choisi Umami, car il est bien plus respectueux de votre vie privée que Google Analytics et qu'il possède une version gratuite, ce qui m'arrange bien. Cela m'évite de gérer mon propre serveur
 
 **Voici ce que je collecte** :
 
 - Les pages que vous visitez
 - La page d'où vous venez (si vous avez cliqué le lien sur Facebook, je verrais que cela vient de Facebook)
-- Le naviguateur et sa version que vous utilisez
+- Le navigateur et sa version que vous utilisez
 - Le système d'exploitation
 - Le type d'appareil (ordinateur, tablette ou téléphone) grâce à la taille de l'écran
 - Le pays depuis lequel vous vous connectez
@@ -38,9 +40,9 @@ Le but de ces données ne sont pas là pour vous identifier, et je ne peux de to
 
 **Dans quel but je collecte vos données** :
 
-- Juste pour connaitre le nombre de visiteurs sur mon site web
+- Juste pour connaître le nombre de visiteurs sur mon site web
 
-Vous pouvez en savoir plus en visitant la politique de confidentialité de [Project Segfault](https://projectsegfau.lt/legal/privacy-policy).
+Vous pouvez en savoir plus en visitant la politique de confidentialité de [Umami](https://umami.is/privacy).
 
 Si vous avez d'autres questions, n'hésitez pas à me contacter par [mail](mailto:contact@simpleprivacy.fr) ou via [Matrix](https://matrix.to/#/@samsepi0l:arcticfoxes.net).
 
@@ -55,8 +57,8 @@ J'utilise [hugo](https://gohugo.io/) pour la génération du site. Hugo possède
 
 Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous redirigeront vers Twitter et Youtube à travers le site, les options "[enableDNT](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" et "[privacyEnhanced](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L180)" sont par conséquent activés pour ces services.
 
-### Dépot Git
-J'utilise GitHub afin d'héberger [mon dépot](https://github.com/d4rklynk/simpleprivacy.fr). Si vous souhaitez contribuer à mon site web, vous devrez créer un compte GitHub.
+### Dépôt Git
+J'utilise GitHub afin d'héberger [mon dépôt](https://github.com/d4rklynk/simpleprivacy.fr). Si vous souhaitez contribuer à mon site web, vous devrez créer un compte GitHub.
 Vous pouvez lire leur politique de vie privée [ici](https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement).
 
 ### Historique
