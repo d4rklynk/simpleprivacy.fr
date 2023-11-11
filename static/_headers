@@ -24,7 +24,7 @@ https://:simpleprivacy.netlify.app/*
   Content-Security-Policy : default-src 'none'; img-src 'self' data: https://www.w3.org/; style-src 'self' 'unsafe-inline'; block-all-mixed-content; base-uri 'none'
 
 /*.png
-  Cross-Origin-Resource-Policy : https://simpleprivacy.fr
+  Cross-Origin-Resource-Policy : https://simpleprivacy.fr https://analytics.eu.umami.is
 
 /*.jpg
-  Cross-Origin-Resource-Policy : https://simpleprivacy.fr
+  Cross-Origin-Resource-Policy : https://simpleprivacy.fr https://analytics.eu.umami.is
