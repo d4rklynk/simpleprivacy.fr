@@ -9,7 +9,7 @@
   Cross-Origin-Resource-Policy : same-origin
   Cross-Origin-Embedder-Policy : require-corp
   Cross-Origin-Opener-Policy : same-origin
-  Access-Control-Allow-Origin: https://analytics.eu.umami.is
+  #Access-Control-Allow-Origin: https://analytics.eu.umami.is
 
 https://:simpleprivacy.netlify.app/*
   X-Robots-Tag: noindex
