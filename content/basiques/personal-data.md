@@ -34,7 +34,7 @@ Telles que :
 
 Les informations personnelles **indirectement** identifiables sont les données qui toutes seules, ne valent rien, mais qui combinées avec d'autres données permettent de vous identifier.
 
-> Je vous conseille d'aller sur ce [site web](https://cpg.doc.ic.ac.uk/observatory/), il est en anglais, mais ce sont des menus déroulants super simples. Ce site vous montre à quel point il est facile de vous identifier. Rappellez-vous que les choix que vous avez mis sur le site (date de naissance, sexe, âge, etc.) sont des données que vous mettez très souvent sur Internet !
+> Je vous conseille d'aller sur ce [site web](https://cpg.doc.ic.ac.uk/observatory/), il est en anglais, mais ce sont des menus déroulants super simples. Ce site vous montre à quel point il est facile de vous identifier. Rappelez-vous que les choix que vous avez mis sur le site (date de naissance, sexe, âge, etc.) sont des données que vous mettez très souvent sur Internet !
 
 
 Une [vidéo de la CNIL](https://www.cnil.fr/fr/definition/donnee-personnelle) est disponible pour comprendre ce qu'est une donnée personnelle.
@@ -88,7 +88,7 @@ Vos données personnelles, qu'elles soit identifiables ou non, sont **VOS** donn
 
 Partez du principe que toute donnée qui sort de votre appareil (smartphone, PC, etc) est [considérée publique](/fiches/les-bonnes-pratiques/#vie-privée) (que ce soit maintenant ou dans le futur). 
 
-Ce sujet est expliqué clairement dans la [vidéo YouTube](https://www.youtube.com/watch?v=QlsKHNaluoc) de Cookie Connecté (~ 10 minutes) que je recommmande grandement.
+Ce sujet est expliqué clairement dans la [vidéo YouTube](https://www.youtube.com/watch?v=QlsKHNaluoc) de Cookie Connecté (~ 10 minutes) que je recommande grandement.
 
 ---
 

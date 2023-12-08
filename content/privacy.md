@@ -55,7 +55,7 @@ Netlify garde votre adresse IP dans leurs logs pendant un maximum de 30 jours, v
 ### Logiciels
 J'utilise [hugo](https://gohugo.io/) pour la génération du site. Hugo possède quelques [paramètres concernant la vie privée](https://gohugo.io/about/hugo-and-gdpr/) pour être en règle avec la [RGPD](https://www.cnil.fr/fr/comprendre-le-rgpd), j'ai [configuré ces paramètres](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L159) afin qu'il y est le moins d'impact possible sur votre vie privée.
 
-Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous redirigeront vers Twitter et Youtube à travers le site, les options "[enableDNT](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" et "[privacyEnhanced](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L180)" sont par conséquent activés pour ces services.
+Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous redirigeront vers Twitter et YouTube à travers le site, les options "[enableDNT](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" et "[privacyEnhanced](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L180)" sont par conséquent activés pour ces services.
 
 ### Dépôt Git
 J'utilise GitHub afin d'héberger [mon dépôt](https://github.com/d4rklynk/simpleprivacy.fr). Si vous souhaitez contribuer à mon site web, vous devrez créer un compte GitHub.

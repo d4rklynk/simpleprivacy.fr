@@ -30,7 +30,7 @@ Les recommendations ne sont pas les mêmes que sur PC pour des raisons de sécur
 
 - Uniquement Safari
 
-> Il faut comprendre que les navigateurs web ont un coeur appelé "moteur de rendu", c'est ce coeur qui permet au navigateur d'afficher les pages web. Firefox utilise le moteur de rendu **Gecko** et tous les navigateurs basés sur Chromium (Google Chrome, Brave, Vivaldi, Opera, Samsung Internet, Microsoft Edge) utilisent **Blink**. Sur IOS, Safari utilise **WebKit**, et tous les navigateurs pour IOS sont obligés d'utiliser ce moteur de rendu (WebKit). Donc, en utilisant Firefox ou Brave, vous "n'échappez" pas à l'écosystème d'Apple, et Apple peut donc voir tout ce que vous faites sur Firefox (et tout autre navigateur sur IOS) autant que sur Safari. En utilisant Safari, vous réduisez votre confiance à une seule entité : Apple. Alors qu'en utilisant Firefox ou autre chose sur IOS, vous faites confiance à Apple **et** à un autre organisme. C'est mieux de faire confiance à une seule entité qu'à plusieurs.
+> Il faut comprendre que les navigateurs web ont un cœur appelé "moteur de rendu", c'est ce cœur qui permet au navigateur d'afficher les pages web. Firefox utilise le moteur de rendu **Gecko** et tous les navigateurs basés sur Chromium (Google Chrome, Brave, Vivaldi, Opera, Samsung Internet, Microsoft Edge) utilisent **Blink**. Sur IOS, Safari utilise **WebKit**, et tous les navigateurs pour IOS sont obligés d'utiliser ce moteur de rendu (WebKit). Donc, en utilisant Firefox ou Brave, vous "n'échappez" pas à l'écosystème d'Apple, et Apple peut donc voir tout ce que vous faites sur Firefox (et tout autre navigateur sur IOS) autant que sur Safari. En utilisant Safari, vous réduisez votre confiance à une seule entité : Apple. Alors qu'en utilisant Firefox ou autre chose sur IOS, vous faites confiance à Apple **et** à un autre organisme. C'est mieux de faire confiance à une seule entité qu'à plusieurs.
 
 ---
 
@@ -62,7 +62,7 @@ Protégez ***toujours*** vos partages avec un mot de passe !
 - Bitwarden Send (uniquement version Premium), jusqu'à 1 Go.
 - [Send](https://send.vis.ee/)
 
-> Send est un fork de Firefox Send. Firefox ayant arreté le projet, des volontaires ont continué leur propre truc basé sur ce projet. Je précise que Send est basé sur le projet de Firefox Send, mais ce **N'EST PAS** Firefox, ce sont des volontaires. Plusieurs [instances](https://github.com/timvisee/send-instances/) sont disponibles (stockage différent ou délai d'expiration différents). Une instance est un serveur d'un volontaire qui hebérge le programme Send.
+> Send est un fork de Firefox Send. Firefox ayant arrêté le projet, des volontaires ont continué leur propre truc basé sur ce projet. Je précise que Send est basé sur le projet de Firefox Send, mais ce **N'EST PAS** Firefox, ce sont des volontaires. Plusieurs [instances](https://github.com/timvisee/send-instances/) sont disponibles (stockage différent ou délai d'expiration différents). Une instance est un serveur d'un volontaire qui héberge le programme Send.
 
 ---
 
@@ -86,7 +86,7 @@ Le 2FA ("Two Factor Authentication" ou "Double Authentification" en français) e
 
 - [OnlyOffice](https://www.onlyoffice.com/en/download-desktop.aspx)
 
-> OnlyOffice est de loin la meilleure alternative, elle reseemble fortement à Microsoft Office, et est donc simple à utiliser pour ceux qui adorent l'interface de Microsoft Office. Les fichiers venant de la suite Microsoft ne sont rarement, voire jamais cassés quand ils sont importés sur OnlyOffice.
+> OnlyOffice est de loin la meilleure alternative, elle ressemble fortement à Microsoft Office, et est donc simple à utiliser pour ceux qui adorent l'interface de Microsoft Office. Les fichiers venant de la suite Microsoft ne sont rarement, voire jamais cassés quand ils sont importés sur OnlyOffice.
 
 - [CryptPad](https://cryptpad.fr/)
 
@@ -106,13 +106,13 @@ Je vous conseille d'utiliser uniquement Signal et de convaincre votre entourage 
 
 - [SimpleX Chat](https://simplex.chat/)
 
-> SimpleX Chat vous propose de communiquer avec les autres sans identifiants, c'est à dire que votre compte n'existe ni grâce à un numéro de téléphone, ni par un mail, ni par un nombre alétoire. Je vous laisse découvrir ça sur leur [site web](https://simplex.chat/#simplex-explained). L'application est disponible sur [IOS](https://apps.apple.com/us/app/simplex-chat/id1605771084) et sur [Android](https://play.google.com/store/apps/details?id=chat.simplex.app). La création du compte est local (vous donnez uniquement un pseudonyme), si vous supprimez l'application, vous n'y aurez plus accès (sauf si vous exportez/importez vos messages).
+> SimpleX Chat vous propose de communiquer avec les autres sans identifiants, c'est à dire que votre compte n'existe ni grâce à un numéro de téléphone, ni par un mail, ni par un nombre aléatoire. Je vous laisse découvrir ça sur leur [site web](https://simplex.chat/#simplex-explained). L'application est disponible sur [IOS](https://apps.apple.com/us/app/simplex-chat/id1605771084) et sur [Android](https://play.google.com/store/apps/details?id=chat.simplex.app). La création du compte est local (vous donnez uniquement un pseudonyme), si vous supprimez l'application, vous n'y aurez plus accès (sauf si vous exportez/importez vos messages).
 
 - [Element](https://element.io/)
 
 > C'est une alternative à des applications comme Slack ou Discord. Si vous avez créé (ou vous êtes entrain de créer) une entreprise, je vous conseille fortement de l'utiliser, il implémente du chiffrement de bout en bout. Vous pouvez également juste l'utiliser entre amis. Si vous souhaitez me poser des questions ou me joindre vous pouvez [me contacter](https://matrix.to/#/@samsepi0l:arcticfoxes.net) sur Element, c'est l'icône `[m]` sur l'accueil de mon site.
 
-## Alternatives à Youtube
+## Alternatives à YouTube
 
 NewPipe ou LibreTube sur Android sont recommandés. Toutes les pubs dans les vidéos sont enlevées. Toutes les vidéos viennent de YouTube, ces applications ne sont pas développées par Google mais par des bénévoles.
 

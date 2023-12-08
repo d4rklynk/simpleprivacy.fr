@@ -39,7 +39,7 @@ Ces trois problèmes peuvent cependant être réglés facilement.
 
 ---
 
-- Pour la **confidentialité** du message, Alice peut chiffrer son message grâce à un code secret déjà établi entre Alice et Bob. Si une tierce personnne lisait la carte postale d'Alice, cette personne ne comprendrait rien ! Seuls Alice et Bob se comprendraient !
+- Pour la **confidentialité** du message, Alice peut chiffrer son message grâce à un code secret déjà établi entre Alice et Bob. Si une tierce personne lisait la carte postale d'Alice, cette personne ne comprendrait rien ! Seuls Alice et Bob se comprendraient !
 - Pour l'**intégrité** de la carte, Alice peut tracer deux petits traits à l'arrière de l'enveloppe. Quand Bob recevra l'enveloppe, si les traits sont bien alignés, c'est que l'enveloppe n'a pas été ouverte et donc que le message est intègre.
 - Pour l'**authenticité**, Alice peut signer sa carte postale, ou au dos de l'enveloppe pour prouver que c'est bien elle qui a écrit le message.
 
@@ -86,7 +86,7 @@ Le **hachage** est un procédé informatique par lequel on hache une donnée (un
 - **SHA1 :** `e3772ac4b4db87b4a8dbfa59ef43cd1a8ad29515`
 - **SHA256 :** `7a1ca4ef7515f7276bae7230545829c27810c9d9e98ab2c06066bee6270d5153`
 
-Si vous changez `France` en `france`, vous obtenez des résultats complétement différents :
+Si vous changez `France` en `france`, vous obtenez des résultats complètement différents :
 
 - **MD5 :** `e165d4f2174b66a7d1a95cb204d296eb`
 - **SHA1 :** `23e591e8c36dda987970603ad0fdd031b7dff9f9`
@@ -176,7 +176,7 @@ Partez du principe que quand vous envoyez un SMS, il peut être lu ***par n'impo
 Quand Alice envoie un message à Bob, l'application Messenger envoie le message **en clair** aux serveurs de Facebook. Ce message reste stocké **en clair** sur ce serveur. L'application Messenger de Bob va demander au serveur de voir le message, le serveur lui envoie une copie de ce message, et Bob sera en mesure de lire le message d'Alice.
 Le message d'Alice est toujours sur le serveur.
 
-Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés en clair sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vouz étiez à la terrasse d'un café avec l'un de vos amis, et qu'au lieu de parler tranquillement, vous discutiez en hurlant. 
+Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés en clair sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vous étiez à la terrasse d'un café avec l'un de vos amis, et qu'au lieu de parler tranquillement, vous discutiez en hurlant. 
 
 Ce n'est pas nouveau, Facebook Messenger a toujours été capable de lire vos messages, et on nous l'a [encore prouvé](https://www.lemonde.fr/pixels/article/2022/08/11/avortement-illegal-aux-etats-unis-facebook-critique-pour-avoir-fourni-a-la-justice-des-messages-prives_6137767_4408996.html) en août 2022.
 
@@ -215,7 +215,7 @@ Sur WhatsApp, les métadonnées ne sont pas chiffrées, et donc visibles par Wha
 - si vous utilisez WhatsApp sur téléphone ou sur PC
 - et d'où (localisation)
 
-De plus comme WhatsApp est relié à Facebook, Facebook connait donc également :
+De plus comme WhatsApp est relié à Facebook, Facebook connaît donc également :
 
 - tous vos contacts et leur numéro de téléphone
 - vos interactions avec des produits et vos informations publicitaires

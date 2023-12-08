@@ -43,10 +43,10 @@ Juste pour que vous comprenez bien le problème d'utiliser le même mot de passe
 
 - Vous vous connectez avec le mot de passe `123456` sur Gmail.
 - Puis avec le même mot de passe sur Netflix.
-- Puis sur Linkedin.
-- Puis... oooh, grosse faille sur Linkedin, vos mails et vos mots de passe sont dans la nature.
+- Puis sur LinkedIn.
+- Puis... oooh, grosse faille sur LinkedIn, vos mails et vos mots de passe sont dans la nature.
 
-(Linkedin est un exemple fictif)
+(LinkedIn est un exemple fictif)
 
 N'importe qui peut se connecter à n'importe lequel de vos comptes, puisque tout le monde a votre adresse mail et votre mot de passe.
 
@@ -127,7 +127,7 @@ En effet, c'est compliqué à retenir. On peut cependant changer ça très simpl
 
 ---
 
-Les phrases de passe sont une excellente manière (pour un humain) de retenir ses mots de passe simplement tout en ayant une entropie élévée.
+Les phrases de passe sont une excellente manière (pour un humain) de retenir ses mots de passe simplement tout en ayant une entropie élevée.
 
 On a la chance d'être français, car nous possédons beaucoup de caractères spéciaux dans notre langue, tel que justement :
 

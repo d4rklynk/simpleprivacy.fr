@@ -5,7 +5,7 @@ date: 2022-08-02
 
 ![Insta cover](/instagram/instagram-cover.jpg)
 
-Si vous utilisez peu instagram, mais que vous souhaitez quand même garder votre compte tout en gardant un semblant de vie privée, voici tous les paramètres à changer :
+Si vous utilisez peu Instagram, mais que vous souhaitez quand même garder votre compte tout en gardant un semblant de vie privée, voici tous les paramètres à changer :
 
 ## Limitez l'information publique
 

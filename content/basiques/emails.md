@@ -26,17 +26,17 @@ Votre lettre passe donc de votre boîte aux lettres (à une époque, c'est le fa
 
 ## Les problèmes de sécurité
 
-Les [emails sont transférés en clair sur Internet](https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html), ce qui est un énorme problème. Il faut comprendre que les mails furent créés à une époque où la sécurité n'était absolument pas requise. On parle quand même des années 70, Internet n'était même pas né, c'était son ancêtre ARPANET, aux Etats-Unis, dans lequel une centaine d'ordinateurs étaient connectés entre eux.
+Les [emails sont transférés en clair sur Internet](https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html), ce qui est un énorme problème. Il faut comprendre que les mails furent créés à une époque où la sécurité n'était absolument pas requise. On parle quand même des années 70, Internet n'était même pas né, c'était son ancêtre ARPANET, aux États-Unis, dans lequel une centaine d'ordinateurs étaient connectés entre eux.
 
 Le protocole [PGP](https://fr.wikipedia.org/wiki/Pretty_Good_Privacy) (Pretty Good Privacy) permet de combler certaines lacunes des mails en chiffrant votre message dans l'email, mais l'objet du message n'est pas chiffré ni ses métadonnées (donc on connaît la taille du mail, qui l'envoie, qui le reçoit, à quelle heure, depuis quelle adresse IP, etc).
 
-***Pour réiterer, le protocole PGP reste un [pansement pour les mails](https://twitter.com/DanielMicay/status/1145264664315604992) mais [ne guérit pas du tout la plaie](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)***.
+***Pour réitérer, le protocole PGP reste un [pansement pour les mails](https://twitter.com/DanielMicay/status/1145264664315604992) mais [ne guérit pas du tout la plaie](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)***.
 
 **Proton Mail** propose du **PGP par défaut**. Cela ne fonctionne qu'entre utilisateur Proton, et non c'est pas un choix commercial, mais c'est compliqué de **chiffrer** un message si votre destinataire **n'a pas la clé** pour le **déchiffrer** 😉️, c'est pour ça d'ailleurs que tous les utilisateurs de **WhatsApp** doivent communiquer sur **WhatsApp**, que tous les utilisateurs de **Signal** doivent communiquer sur **Signal**, etc.
 
 Vous pouvez évidemment envoyer des mails de **Proton Mail** à **Gmail** (ou autre), mais vos messages ne seront pas chiffrés.
 
-Mais si vous devez communiquer avec quelqu'un, priviligiez toujours des messageries instantanées comme [Signal](/basiques/instant-messengers/#signal).
+Mais si vous devez communiquer avec quelqu'un, privilégiez toujours des messageries instantanées comme [Signal](/basiques/instant-messengers/#signal).
 
 ## Les problèmes écologiques
 
@@ -58,7 +58,7 @@ Un alias dans le cadre des emails, est une adresse mail qui pointe vers une autr
 
 ![email alias](/emails/mail-alias.png#center)
 
-Une personne peut vous envoyer un mail à `unautremailcool@simplelogin.fr` puis votre employeur ne connait que votre adresse mail `mon.mail.de.boulot@simplelogin.fr` et vous envoie des mails uniquement avec cette adresse, tous les mails envoyé à ces adresses seront reçus sur votre boîte mail principale `jean.martin@gmail.com`.
+Une personne peut vous envoyer un mail à `unautremailcool@simplelogin.fr` puis votre employeur ne connaît que votre adresse mail `mon.mail.de.boulot@simplelogin.fr` et vous envoie des mails uniquement avec cette adresse, tous les mails envoyé à ces adresses seront reçus sur votre boîte mail principale `jean.martin@gmail.com`.
 
 Les alias sont très pratiques sur Internet puisque cela vous permet de protéger votre vraie adresse mail. Le plus grand avantage des alias est qu'ils vous permettent d'éviter les spams, car si un jour vous avez reçu trop de spams de votre employeur, vous pouvez juste supprimer `mon.mail.de.boulot@simplelogin.fr`.
 
@@ -82,7 +82,7 @@ En temps normal, vous auriez du supprimer votre adresse mail principale et modif
 
 - [Les fournisseurs de mail](/alternatives/providers/#les-mails)
 
-En terme d'écologie, les mails sont vraiment à bannir. Priviligiez des messageries instantanées telles que Signal, WhatsApp, Discord, Microsoft Teams, Slack ou encore Element (je recommande uniquement Signal et Element).
+En terme d'écologie, les mails sont vraiment à bannir. Privilégiez des messageries instantanées telles que Signal, WhatsApp, Discord, Microsoft Teams, Slack ou encore Element (je recommande uniquement Signal et Element).
 
 ---
 

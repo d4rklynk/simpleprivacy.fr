@@ -20,7 +20,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: SimplePrivacy
-  description: "Une approche plus simple pour récuperer votre vie privée en ligne."
+  description: "Une approche plus simple pour récupérer votre vie privée en ligne."
   keywords: [Privacy, Sécurité, Vie Privée]
   author: samsepi0l
   # author: ["Me", "You"] # multiple authors
@@ -63,7 +63,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: SimplePrivacy.fr
-    subtitle: "Une approche plus simple pour récuperer votre vie privée en ligne."
+    subtitle: "Une approche plus simple pour récupérer votre vie privée en ligne."
     # imageUrl: "simpleprivacy_logo_mono.png"
     # imageWidth: 100
     # imageHeight: 100
@@ -81,7 +81,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hello friend \U0001F44B"
-    Content: Une approche plus simple pour récuperer votre vie privée en ligne
+    Content: Une approche plus simple pour récupérer votre vie privée en ligne
 
   socialIcons:
     - name: github

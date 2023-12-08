@@ -81,7 +81,7 @@ Vous pouvez accéder aux paramètres généraux en cliquant sur votre **profil e
 
 ![signal-settings.png](/signal/signal-settings.png#center)
 
-C'est ici que vous pourrez changer l'apparance de Signal (en mode sombre par exemple) ou la couleur des conversations par défaut.
+C'est ici que vous pourrez changer l’apparence de Signal (en mode sombre par exemple) ou la couleur des conversations par défaut.
 Vous pouvez changer votre code NIP dans "**Compte**" si jamais vous l'avez oublié.
 
 ### Les paramètres de conversation

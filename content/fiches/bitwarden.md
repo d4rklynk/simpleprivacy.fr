@@ -60,7 +60,7 @@ L'interface de bitwarden n'est pas très compliquée, mais je vais vous montrer 
 
 ## Importez/Exportez vos mots de passe
 
-*Cette étape est utile pour ceux qui possédent un autre gestionnaire de mots de passe et souhaitent changer pour Bitwarden, vous pouvez exporter vos mots de passe de votre gestionnaire actuel pour l'importer sur Bitwarden.*
+*Cette étape est utile pour ceux qui possèdent un autre gestionnaire de mots de passe et souhaitent changer pour Bitwarden, vous pouvez exporter vos mots de passe de votre gestionnaire actuel pour l'importer sur Bitwarden.*
 
 L'avantage avec les gestionnaires de mots de passe, c'est que si vous souhaitez changer, ça prend à peine 5 minutes !
 Vous exportez vos mots de passe, vous les importez dans le nouveau, vous supprimez votre compte de votre ancien gestionnaire de mots de passe et c'est réglé !
@@ -94,7 +94,7 @@ Vous arrivez là-dessus :
 ![Bitwarden adding](/bitwarden/bitwarden-adding.png)
 
 1. Choisissez le type (identifiants, carte bancaire, carte d'identité ou note sécurisée). Vous laissez **"login"** si vous souhaitez ajouter des identifiants de connexion.
-2. Le nom de votre identifiant (exemple : "`Pôle Emploi`" ou  "`Google compte du boulot`"), c'est juste le titre. Mettez ce qui vous parle le plus (par défault Bitwarden met le nom domaine, comme "`accounts.google.com`" par exemple).
+2. Le nom de votre identifiant (exemple : "`Pôle Emploi`" ou  "`Google compte du boulot`"), c'est juste le titre. Mettez ce qui vous parle le plus (par défaut Bitwarden met le nom domaine, comme "`accounts.google.com`" par exemple).
 3. Votre mail/pseudo (ça dépend des sites)
 4. Votre mot de passe
 5. Ici vous mettez l'URL, au format `https://account.proton.me` par exemple. C'est ce qui permettra de savoir si vous avez des identifiants correspondant aux sites web que vous visitez.
@@ -120,7 +120,7 @@ Vous avez 4 onglets en bas de l'application. Cliquez sur ***Paramètres*** puis 
 
 Pour vous connecter plus facilement à l'application, je vous suggère d'activer "**Déverrouiller avec une empreinte digitale**" ou "**Déverrouiller avec un code PIN**" 
 
-> Si vous choisissez le code pin, il vous affichera une fenêtre ou vous devez dire "oui" ou "non", cliquez ***"non"***, car si l'application est redemarrée, vous allez devoir remettre votre ***"mot de passe maître"***.
+> Si vous choisissez le code pin, il vous affichera une fenêtre ou vous devez dire "oui" ou "non", cliquez ***"non"***, car si l'application est redémarrée, vous allez devoir remettre votre ***"mot de passe maître"***.
 
 
 ## Le générateur de mots de passe
@@ -154,7 +154,7 @@ Quand vous visitez un site web comme Proton Mail par exemple, voici les étapes 
 
 ## Les bonnes pratiques
 
-1. Si vous êtes sur un appareil qui n'est pas le vôtre, je vous conseille très fortement d'ouvrir un ***nouvel onget en navigation privée*** ! Cela permettra de tout déconnecter une fois que vous aurez fermer la fenêtre ! De plus je vous conseille de paramétrer le délai d'expiration de l'interface web à ***1 minute*** et cocher la case "***Déconnexion***" ! Normalement vous aurez assez de temps pour copier/coller vos identifiants.
+1. Si vous êtes sur un appareil qui n'est pas le vôtre, je vous conseille très fortement d'ouvrir un ***nouvel onglet en navigation privée*** ! Cela permettra de tout déconnecter une fois que vous aurez fermer la fenêtre ! De plus je vous conseille de paramétrer le délai d'expiration de l'interface web à ***1 minute*** et cocher la case "***Déconnexion***" ! Normalement vous aurez assez de temps pour copier/coller vos identifiants.
 
 > Si c'est trop court pour vous, choisissez "**Personnalisé**" dans le menu déroulant et paramétrez à ***2 minutes***.
 
