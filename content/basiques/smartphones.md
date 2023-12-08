@@ -74,7 +74,7 @@ Le firmware, pour expliquer grossièrement, ne fait pas parti du système d'expl
 
 > Si le firmware n'est pas mis à jour, de grosses failles de sécurités peuvent survenir. Un smartphone qui n'est plus supporté par les constructeurs est complètement vulnérable !
 
-C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même de prendre au minimum un Google Pixel 6 (ou 6 pro, ou 6a), car tous les Google Pixel à partir du 6, bénéficieront de [5 ans de mises à jour de sécurité](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures) minimum !
+C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même de prendre au minimum un Google Pixel 6 (ou 6 pro, ou 6a), car tous les Google Pixel à partir du 6, bénéficieront de [5 ans de mises à jour de sécurité](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures), et [7 ans à partir des séries 8](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures%2Cpixel-et-pro) !
 
 ---
 
@@ -100,7 +100,7 @@ Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur l
 
 ### Code PIN
 
-Je vous ***déconseille très fortement*** d'utiliser des [schémas](https://wonderfall.space/password/#le-cas-dun-smartphone) (ou [patterns](https://privsec.dev/os/android-tips/#use-a-diceware-passphrase-avoid-pattern-unlock)) pour déverrouiller votre téléphone. Une [étude](/smartphones/Cracking-Android-Pattern-Lock-in-Five-Attempts.pdf), a prouvé l'inefficacité des schémas. Si vous possédez un Google Pixel ou un iPhone vous pouvez utiliser un code PIN, ces deux téléphones sont tellement sécurisés que juste mettre un code PIN à 4 chiffres prendrait plusieurs dizaines d'années à être [bruteforce](/basiques/password-managers#pourquoi-un-mot-de-passe-doit-comporter-des-majuscules-et-des-caract%C3%A8res-sp%C3%A9ciaux-) (mais mettez quand même 8 chiffres au minimum).
+Je vous ***déconseille très fortement*** d'utiliser des [schémas](https://wonderfall.space/password/#le-cas-dun-smartphone) (ou [patterns](https://privsec.dev/os/android-tips/#use-a-diceware-passphrase-avoid-pattern-unlock)) pour déverrouiller votre téléphone. Une [étude](/smartphones/Cracking-Android-Pattern-Lock-in-Five-Attempts.pdf) a prouvé l'inefficacité des schémas. Si vous possédez un Google Pixel ou un iPhone vous pouvez utiliser un code PIN, ces deux téléphones sont tellement sécurisés que juste mettre un code PIN à 4 chiffres prendrait plusieurs dizaines d'années à être [bruteforce](/basiques/password-managers#pourquoi-un-mot-de-passe-doit-comporter-des-majuscules-et-des-caract%C3%A8res-sp%C3%A9ciaux-) (mais mettez quand même 8 chiffres au minimum).
 
 De manière générale, je vous conseille d'utiliser un code PIN à 6 chiffres. Cependant, il serait plus avisé de mettre un code PIN de 8 chiffres ou plus. Et non, ne mettez **pas** la vitesse de la lumière, le nombre pi, ou n'importe quelle autre constante mathématique. Et surtout ne mettez pas votre date de naissance, celle d'un proche ou de votre animal.
 
@@ -108,18 +108,26 @@ Vous pouvez, en complément, utiliser l'empreinte digitale, cela évitera que le
 
 ## Le problème des prix
 
-Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a ou le Google Pixel 7a. Il y a beaucoup de réductions en ce moment (la version charbon est actuellement disponible aux alentours de [330€](https://www.amazon.fr/dp/B0B4DN441N/ref=twister_B0BLHRVSSD?_encoding=UTF8&th=1) sur Amazon, faites attention à ce qu'il soit neuf, et non d'occasion, c'est trompeur sur Amazon). Vous pouvez également l'acheter neuf via le [Google store](https://store.google.com/config/pixel_6a?hl=fr&selections=eyJ4OSI6ImNHbDRaV3hmTm1FPSJ9) pour la modique somme de 349€. Le Google Pixel 7a est actuellement à 509€, si vous souhaitez économiser, je vous conseille d'acheter le 7a dans quelques mois (aux alentours d'octobre ou novembre).
+Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a ou le Google Pixel 7a. Il y a beaucoup de réductions en ce moment (la version charbon du 6a est actuellement disponible aux alentours de [340€](https://fr.camelcamelcamel.com/product/B0B4DN441N) sur Amazon, faites attention à ce qu'il soit neuf, et non d'occasion, c'est trompeur sur Amazon). Vous pouvez également l'acheter neuf via le [Google store](https://store.google.com/config/pixel_6a?hl=fr&selections=eyJ4OSI6ImNHbDRaV3hmTm1FPSJ9) pour la modique somme de 349€. Le Google Pixel 7a est actuellement à [400€ sur Amazon](https://fr.camelcamelcamel.com/product/B0BZYNGVDK), si vous souhaitez le payer au moins cher, je vous conseille d'acheter le 7a ce mois-ci (décembre 2023), vous pouvez également attendre les prochaines soldes début 2024.
 
 De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car Xiaomi ne possède pas beaucoup de support (2 ans en moyenne) et ils ont une fâcheuse tendance à ralentir rapidement au fil du temps... Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 349€ au moment où je vous écris, vous économisez bien 91€ sur 5 ans (car le Google Pixel 6a a 5 ans de mises à jour), voire plus si vous arrivez à avoir des réductions (aux alentours de 330€ en ce moment, donc vous économisez 170€ sur 5 ans).
 
-*Juste pour information, ne tardez pas non plus à acheter votre Google Pixel 6a, car si vous l'achetez après Juillet 2023, vous n'aurez plus que 4 ans de mises à jour, car le support du Pixel 6a s'arrête en [Juillet 2027](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures). Il sera donc peut-être plus rentable d'acheter le Pixel 7a quand il sortira, mais tout dépend de votre budget.*
+En décembre 2023, le Pixel 6a est à ~340€ et le Pixel 7a à ~400€. Le support du Pixel 6a s'arrêtera en Juillet 2027 (3 ans et 7 mois de support restant) et celui du Pixel 7a en Mai 2028 (4 ans et 5 mois restants).
 
-Car en effet je vous conseille de garder votre smartphone jusqu'à ce que :
+Pixel 6a: 340/(3*12+7) = **7.90€/mois**
+
+Pixel 7a: 400/(4*12+5) = **7.54/mois**
+
+Le Pixel 7a coûte un peu moins cher sur le long terme que le Pixel 6a, plus nous avancerons dans le temps, moins le Pixel 7a sera cher comparé au 6a.
+
+Car en effet, je vous conseille de garder votre smartphone jusqu'à ce que :
 
 1. Le support s'arrête
 2. Il soit tellement cassé qu'il soit inutilisable/irréparable.
 
-Pour conclure, oui 409€ c'est cher, mais étalé sur 5 ans, ça reste abordable. De plus, vous pourrez probablement l'avoir à beaucoup moins cher que ça au moment où vous lirez cet article.
+Pour conclure, oui les smartphones sont chers, mais étalé sur 5 ans, voire 7 ans pour les Pixel 8, ça reste tout à fait abordable. De plus, vous pourrez probablement les avoir à beaucoup moins cher que ça au moment où vous lirez cet article.
+
+Si vous voulez en savoir plus sur les calculs des prix des smartphones, je vous renvoie vers [mon article sur mon blog dédié à ce sujet](https://samsepi0l.dev/blog/cybersec/smartphones-prices/), vous pourrez notamment y lire une fourchette de prix par rapport au prix mensuel.
 
 ### Notes
 
@@ -127,11 +135,11 @@ J'ai fait ce chapitre sur les prix des smartphones, mais je ne suis pas ici pour
 
 Cependant, j'avais besoin d'écrire un article là-dessus car certaines personnes sous-estiment parfois le prix des smartphones.
 
-Pour vous donnez une fourchette de prix raisonnable pour un smartphone décent, il faut compter entre 300 et 500€. En dessous de 300€, vous trouverez rarement des smartphones qui dureront dans le temps.
+Pour vous donner une fourchette de prix raisonnable pour un smartphone décent, il faut compter entre 300 et 500€. En dessous de 300€, vous trouverez rarement des smartphones qui dureront dans le temps.
 
 Pour les iPhones, je vous conseille de prendre un iPhone SE, ils ont tendance à être moins chers que les hauts de gamme, et restent tout de même très performants. Vous pouvez vous procurer un SE à partir de l'iPhone SE 2020 au minimum (également appelé "2ème génération"), la première génération (2016) possédant du matériel trop vieux, donc moins sécurisé, le support risque en plus de s'arrêter prochainement puisqu'il est mis à jour depuis déjà 6 ans.
 
-L'iPhone SE 2020 n'étant plus mis en vente, vous pouvez l'acheter d'occasion ou en reconditionné. Amazon propose un service de reconditionnement et vend actuellement l'[iPhone SE 2020 à ~220€](https://www.amazon.fr/Apple-iPhone-G%C3%A9n%C3%A9ration-128GB-Reconditionn%C3%A9/dp/B08D377VBX/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24I830FY88X68&keywords=iphone+se+2020&qid=1675455647&sprefix=iphone+se+2020%2Caps%2C110&sr=8-3).
+L'iPhone SE 2020 n'étant plus mis en vente, vous pouvez l'acheter d'occasion ou en reconditionné. Amazon propose un service de reconditionnement et vend actuellement l'[iPhone SE 2020 à ~250€](https://www.amazon.fr/Apple-iPhone-G%C3%A9n%C3%A9ration-128GB-Reconditionn%C3%A9/dp/B08D377VBX/ref=sr_1_3?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=24I830FY88X68&keywords=iphone+se+2020&qid=1675455647&sprefix=iphone+se+2020%2Caps%2C110&sr=8-3).
 
 ## Fairphone
 
