@@ -38,5 +38,11 @@
         	"wordlist",
         	"xkcd"
 		]
+	},
+	"extensions": {
+		"recommendations": [
+			"streetsidesoftware.code-spell-checker-french",
+			"streetsidesoftware.code-spell-checker"
+		]
 	}
 }
