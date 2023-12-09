@@ -45,7 +45,7 @@ En faisant votre recherche, Google a enregistré le fait que **vous**, **personn
 
 Imaginez que vous êtes un vendeur de vélo, vous souhaitez payer Google afin qu'il puisse afficher ces pubs dans les recherches Google. 
 
-En temps normal, un certain nombre de personnes verrait cette pub, mais ne serait pas intéressé par un vélo (manque de moyens, utilise la voiture, habite au fin fond de la campagne, etc.) ; vous auriez payé cher pour qu'un nombre infime de personnes souhaitant acheter ce vélo soit réellement intéressés.
+En temps normal, un certain nombre de personnes verrait cette pub, mais ne serait pas intéressé par un vélo (manque de moyens, utilise la voiture, habite au fin fond de la campagne, etc.) ; vous auriez payé cher pour qu'un nombre infime de personnes souhaitant acheter ce vélo soit réellement intéressé.
 
 Maintenant, faisons mieux. Au lieu d'afficher des pubs de vélo à tout le monde aléatoirement, pourquoi ne pas cibler les gens potentiels ? Pour ce faire, Google, va analyser méticuleusement vos mails, vos photos, vos achats (Google Pay), les recherches Google, YouTube, etc. Afin de comprendre que **vous** avez le potentiel d'acheter le vélo (parce que vous êtes en ville, vous avez les moyens, etc.). Il utilisera vos données pour cibler très précisément ses pubs et se faire de l'argent sur votre dos (beaucoup d'argent).
 
