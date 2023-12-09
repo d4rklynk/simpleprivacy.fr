@@ -10,10 +10,10 @@
 			"extended": true,
 			"version": "0.119.0"
 		}
-	}
+	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "uname -a",
+	"postCreateCommand": "sudo apt-get update && sudo apt-get install gnupg2 -y"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
