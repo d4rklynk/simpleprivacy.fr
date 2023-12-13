@@ -103,7 +103,7 @@ GitHub: https://github.com/privacyguides
 
 Name: Madaidan
 Website: https://madaidans-insecurities.github.io/
-Github: https://github.com/madaidan
+GitHub: https://github.com/madaidan
 
 /* SITE */
 
