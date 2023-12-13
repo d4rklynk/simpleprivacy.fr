@@ -32,5 +32,6 @@ https://:simpleprivacy.netlify.app/*
 /*.jpg
   Cross-Origin-Resource-Policy : https://simpleprivacy.fr
 
-/static/fsociety00.dat
+/fsociety00.dat
+  Content-Type: text/html; charset=utf-8
   Content-Disposition: inline
