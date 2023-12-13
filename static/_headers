@@ -20,6 +20,9 @@ https://:simpleprivacy.netlify.app/*
   Content-Security-Policy : default-src 'none'; connect-src 'self' https://analytics.eu.umami.is ; img-src 'self'; script-src 'self' https://analytics.eu.umami.is; style-src 'self'; frame-src https://www.youtube-nocookie.com https://www.google.com; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests; base-uri 'none'
   Cross-Origin-Embedder-Policy : unsafe-none
 
+/static/fsociety00.dat
+  Content-Disposition: inline
+
 /*.xml
   Content-Security-Policy : default-src 'none'; img-src 'self' data: https://www.w3.org/; style-src 'self' 'unsafe-inline'; upgrade-insecure-requests; base-uri 'none'
 
@@ -29,5 +32,5 @@ https://:simpleprivacy.netlify.app/*
 /*.jpg
   Cross-Origin-Resource-Policy : https://simpleprivacy.fr
 
-/fsociety00.dat
+/static/fsociety00.dat
   Content-Disposition: inline
