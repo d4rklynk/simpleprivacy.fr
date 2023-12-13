@@ -78,7 +78,7 @@ Name: PrivSec team
 Website: https://privsec.dev/
 Twitter: https://twitter.com/privsec_dev
 Contact page: https://privsec.dev/about/
-Special thanks to (who helps me to know more stuff everyday):
+Special thanks to (who helps me to understand more stuff everyday):
     - Tommy:
         Website: https://tommytran.io/
         Matrix: https://invite.arcticfoxes.net/#/@tommy:arcticfoxes.net 
