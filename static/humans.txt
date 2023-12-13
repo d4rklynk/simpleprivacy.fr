@@ -63,47 +63,47 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 /* TEAM */
 
-	Content Creator: samsepi0l
-	Email: contact@simpleprivacy.fr
-    PGP Key: https://simpleprivacy.fr/public-pgp-key.asc
-	Twitter: https://twitter.com/samsepi0l753
-    Mastodon: https://infosec.exchange/@samsepi0l
-    Matrix: https://invite.arcticfoxes.net/#/@samsepi0l:arcticfoxes.net
-    GitHub: https://github.com/d4rklynk
-	From: France
+Content Creator: samsepi0l
+Email: contact@simpleprivacy.fr
+PGP Key: https://simpleprivacy.fr/public-pgp-key.asc
+Twitter: https://twitter.com/samsepi0l753
+Mastodon: https://infosec.exchange/@samsepi0l
+Matrix: https://invite.arcticfoxes.net/#/@samsepi0l:arcticfoxes.net
+GitHub: https://github.com/d4rklynk
+From: France
 
 /* THANKS */
 
-	Name: PrivSec team
-    Website: https://privsec.dev/
-	Twitter: https://twitter.com/privsec_dev
-    Contact page: https://privsec.dev/about/
-    Special thanks to (who helps me to know more stuff everyday):
-        - Tommy:
-            Website: https://tommytran.io/
-            Matrix: https://invite.arcticfoxes.net/#/@tommy:arcticfoxes.net 
-            GitHub: https://github.com/tommytran732
-            Email: contact@tommytran.io
-        - wj25czxj47bu6q:
-            Website: https://wanderingcomputerer.gitlab.io/
-            Matrix: https://invite.arcticfoxes.net/#/@wj25czxj47bu6q:arcticfoxes.net
-            GitHub: https://github.com/wj25czxj47bu6q
-            GitLab: https://gitlab.com/wj25czxj47bu6q
+Name: PrivSec team
+Website: https://privsec.dev/
+Twitter: https://twitter.com/privsec_dev
+Contact page: https://privsec.dev/about/
+Special thanks to (who helps me to know more stuff everyday):
+    - Tommy:
+        Website: https://tommytran.io/
+        Matrix: https://invite.arcticfoxes.net/#/@tommy:arcticfoxes.net 
+        GitHub: https://github.com/tommytran732
+        Email: contact@tommytran.io
+    - wj25czxj47bu6q:
+        Website: https://wanderingcomputerer.gitlab.io/
+        Matrix: https://invite.arcticfoxes.net/#/@wj25czxj47bu6q:arcticfoxes.net
+        GitHub: https://github.com/wj25czxj47bu6q
+        GitLab: https://gitlab.com/wj25czxj47bu6q
 
-    Name: Wonderfall
-    Website: https://wonderfall.space
-    Twitter: https://twitter.com/w0nderfall
-    GitHub: https://mastoid.dev/@wonderfall
+Name: Wonderfall
+Website: https://wonderfall.space
+Twitter: https://twitter.com/w0nderfall
+GitHub: https://mastoid.dev/@wonderfall
 
-    Name: PrivacyGuides
-    Website: https://privacyguides.org/
-    Mastodon: https://mastodon.neat.computer/@privacyguides
-    Matrix: https://matrix.to/#/#privacyguides:matrix.org
-    GitHub: https://github.com/privacyguides
+Name: PrivacyGuides
+Website: https://privacyguides.org/
+Mastodon: https://mastodon.neat.computer/@privacyguides
+Matrix: https://matrix.to/#/#privacyguides:matrix.org
+GitHub: https://github.com/privacyguides
 
-    Name: Madaidan
-    Website: https://madaidans-insecurities.github.io/
-    Github: https://github.com/madaidan
+Name: Madaidan
+Website: https://madaidans-insecurities.github.io/
+Github: https://github.com/madaidan
 
 /* SITE */
 
