@@ -28,3 +28,6 @@ https://:simpleprivacy.netlify.app/*
 
 /*.jpg
   Cross-Origin-Resource-Policy : https://simpleprivacy.fr
+
+/fsociety00.dat
+  Content-Disposition: inline
