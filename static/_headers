@@ -23,12 +23,6 @@ https://:simpleprivacy.netlify.app/*
 /*.xml
   Content-Security-Policy : default-src 'none'; img-src 'self' data: https://www.w3.org/; style-src 'self' 'unsafe-inline'; upgrade-insecure-requests; base-uri 'none'
 
-/*.png
-  Cross-Origin-Resource-Policy : https://simpleprivacy.fr
-
-/*.jpg
-  Cross-Origin-Resource-Policy : https://simpleprivacy.fr
-
 /fsociety00.dat
   Content-Type: text/plain; charset=utf-8
   Content-Disposition: inline
