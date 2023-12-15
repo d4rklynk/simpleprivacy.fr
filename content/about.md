@@ -99,5 +99,5 @@ J'utilise GitHub afin d'héberger le [dépôt git](https://github.com/d4rklynk/s
 
 J'ai sécurisé le site au maximum de ses capacités, vous pouvez voir le rapport complet de [Internet.nl](https://internet.nl) via ce [lien](https://internet.nl/site/simpleprivacy.fr/2165825/) et le rapport de [Hardenize](https://www.hardenize.com) via ce [lien](https://www.hardenize.com/report/simpleprivacy.fr).
 
-[![Internet.nl](/embed-badge-websitetest.svg)](https://internet.nl)
+[![Internet.nl](/embed-badge-internet.nl.svg)](https://internet.nl)
 [![hardenize-badge-standard.png](/hardenize-badge-standard.png)](https://www.hardenize.com/report/simpleprivacy.fr?summary)
