@@ -54,6 +54,8 @@ params:
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/safari-pinned-tab.svg"
     site_webmanifest: "/site.webmanifest"
+    theme_color: "#1f2125"
+    msapplication_TileColor: "#1f2125"
 
   label:
     text: "Accueil"
