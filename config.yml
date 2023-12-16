@@ -60,7 +60,7 @@ params:
 
   label:
     text: "Accueil"
-    icon: /apple-touch-icon.png
+    icon: "/favicon-32x32.png"
     iconHeight: 35
 
   # profile-mode
