@@ -56,6 +56,7 @@ params:
     site_webmanifest: "/site.webmanifest"
     theme_color: "#1f2125"
     msapplication_TileColor: "#1f2125"
+    mask_icon: "#a2adc0"
 
   label:
     text: "Accueil"
