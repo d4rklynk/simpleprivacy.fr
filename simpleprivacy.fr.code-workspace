@@ -4,41 +4,7 @@
 			"path": "."
 		}
 	],
-	"settings": {
-		"cSpell.words": [
-			"AOSP",
-        	"bitwarden",
-        	"Bitwarden",
-        	"bootloader",
-        	"bruteforce",
-        	"Computerphile",
-        	"diceware",
-        	"erroner",
-        	"Fairphone",
-        	"Fnac",
-        	"Freebox",
-        	"Gmail",
-        	"GrapheneOS",
-        	"Hardenize",
-        	"haveibeenpwned",
-        	"hugo",
-        	"Keepass",
-        	"Livebox",
-        	"Madaidan",
-        	"Mullvad",
-        	"Porkbun",
-        	"Protonmail",
-        	"RGPD",
-        	"samsepi0l",
-        	"simpleprivacy",
-        	"Siri",
-        	"Startpage",
-        	"Whonix",
-        	"Wonderfall",
-        	"wordlist",
-        	"xkcd"
-		]
-	},
+	"settings": {},
 	"extensions": {
 		"recommendations": [
 			"streetsidesoftware.code-spell-checker-french",
