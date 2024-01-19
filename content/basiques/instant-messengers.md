@@ -295,7 +295,7 @@ Si vous souhaitez une liste bête et méchante :
 
 **Le meilleur :**
 
-1. [Signal](https://www.signal.org/fr/) car chiffrement de bout bout (Signal Protocol) + protection des métadonnées, le tout par défaut.
+1. [Signal](https://www.signal.org/fr/) car chiffrement de bout en bout (Signal Protocol) + protection des métadonnées, le tout par défaut.
 
   > Signal devrait être votre choix par défaut si vous souhaitez communiquer avec votre entourage. Même si vous utilisez actuellement WhatsApp, je vous conseille quand même de passer à Signal.
 
