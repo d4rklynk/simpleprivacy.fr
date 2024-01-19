@@ -94,8 +94,8 @@ params:
       url: "https://matrix.to/#/@samsepi0l:arcticfoxes.net"
     - name: mastodon
       url: "https://infosec.exchange/@samsepi0l"
-    - name: x
-      url: "https://x.com/samsepi0l753"
+    - name: twitter
+      url: "https://twitter.com/samsepi0l753"
     - name: bluesky
       url: "https://bsky.app/profile/samsepi0l.dev"
     - name: email
