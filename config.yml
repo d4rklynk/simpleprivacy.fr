@@ -73,8 +73,8 @@ params:
     # imageHeight: 100
     # imageTitle: my image
     buttons:
-      - name: Commencez ici
-        url: evidence-based-security
+      #- name: Commencez ici
+      #  url: evidence-based-security
       - name: À propos
         url: about
       - name: Politique de confidentialité
