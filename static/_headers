@@ -1,11 +1,11 @@
 /*
   Strict-Transport-Security : max-age=63072000; includeSubDomains; preload
-  Content-Security-Policy : default-src 'none'; connect-src 'self' https://analytics.eu.umami.is; img-src 'self'; script-src 'self' https://analytics.eu.umami.is; style-src 'self'; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests; base-uri 'none'; manifest-src 'self'; require-trusted-types-for 'script'
+  Content-Security-Policy : default-src 'none'; connect-src 'self' https://analytics.eu.umami.is; img-src 'self'; script-src 'self' https://analytics.eu.umami.is; style-src 'self'; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests; webrtc 'block'; base-uri 'none'; manifest-src 'self'; require-trusted-types-for 'script'; trusted-types 'none'
   Referrer-Policy : no-referrer
   X-Content-Type-Options : nosniff
   X-Frame-Options : DENY
   X-XSS-Protection: 0
-  Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), fullscreen=(), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), clipboard-read=(), clipboard-write=(), gamepad=(), speaker-selection=(), conversion-measurement=(), focus-without-user-activation=(), hid=(), idle-detection=(), interest-cohort=(), serial=(), sync-script=(), trust-token-redemption=(), unload=(), window-placement=(), vertical-scroll=()
+  Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), bluetooth=(), camera=(), clipboard-read=(), clipboard-write=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), interest-cohort=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), speaker-selection=(), sync-xhr=(), usb=(), xr-spatial-tracking=()  
   Cross-Origin-Resource-Policy : same-origin
   Cross-Origin-Embedder-Policy : require-corp
   Cross-Origin-Opener-Policy : same-origin
@@ -17,7 +17,7 @@ https://:simpleprivacy.netlify.app/*
   Access-Control-Allow-Origin: *
 
 /basiques/security/
-  Content-Security-Policy : default-src 'none'; connect-src 'self' https://analytics.eu.umami.is ; img-src 'self'; script-src 'self' https://analytics.eu.umami.is; style-src 'self'; frame-src https://www.youtube-nocookie.com https://www.google.com; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests; base-uri 'none'
+  Content-Security-Policy : default-src 'none'; img-src 'self' https://i.ytimg.com; frame-src https://www.youtube-nocookie.com https://www.google.com
   Cross-Origin-Embedder-Policy : unsafe-none
 
 /*.xml
@@ -31,7 +31,6 @@ https://:simpleprivacy.netlify.app/*
   Referrer-Policy : no-referrer
   X-Frame-Options : DENY
   X-XSS-Protection : 0
-  Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), fullscreen=(), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), clipboard-read=(), clipboard-write=(), gamepad=(), speaker-selection=(), conversion-measurement=(), focus-without-user-activation=(), hid=(), idle-detection=(), interest-cohort=(), serial=(), sync-script=(), trust-token-redemption=(), unload=(), window-placement=(), vertical-scroll=()
   Cross-Origin-Resource-Policy : same-origin
   Cross-Origin-Embedder-Policy : require-corp
   Cross-Origin-Opener-Policy : same-origin
