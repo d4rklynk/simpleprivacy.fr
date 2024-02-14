@@ -1,3 +1,6 @@
 https://www.simpleprivacy.fr/*				https://simpleprivacy.fr/:splat		301!
+https://piped.simpleprivacy.fr              https://simpleprivacy.fr/           301!
+https://pipedproxy.simpleprivacy.fr         https://simpleprivacy.fr/           301!
+https://pipedapi.simpleprivacy.fr           https://simpleprivacy.fr/           301!
 /humans.txt                                 /fsociety00.dat                     301!
 /security.txt                               /.well-known/security.txt           301!
