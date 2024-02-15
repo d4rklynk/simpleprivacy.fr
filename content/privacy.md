@@ -8,7 +8,7 @@ date: 2022-07-25
 Je me fiche de qui vous êtes, ou de ce que vous faites sur mon site web.
 Je suis là pour partager mes connaissances, et non vos données.
 
-Aucune donnée personnelle n'est collectée.
+Aucune donnée **personnelle** n'est collectée.
 
 ## Version longue :
 
@@ -22,11 +22,11 @@ La politique Do Not Track est disponible en anglais via [ce lien](/.well-known/d
 ### Umami
 
 Je récolte quelques informations afin de savoir combien de gens visitent le site.
-Les données que je récolte sont visibles publiquement [ici](https://analytics.eu.umami.is/share/i7buY0MDuhFLTnCz/SimplePrivacy) (toutes les données sont hébergés sur un serveur géré par [Umami](https://umami.is/)).
+Les données que je récolte sont visibles publiquement [ici](https://analytics.simpleprivacy.fr/share/bKwsdaWWzJURf3Dk/SimplePrivacy) (toutes les données sont hébergées sur un serveur que je gère <https://analytics.simpleprivacy.fr/>).
 
 Le but de ces données n'est pas de vous identifier. Je ne peux de toute façon pas le faire car ces données sont bien trop minimes afin d'accomplir ce but (comparés à Google analytics par exemple).
 
-J'ai choisi Umami, car il est bien plus respectueux de votre vie privée que Google Analytics et qu'il possède une version gratuite, ce qui m'arrange bien. Cela m'évite de gérer mon propre serveur
+J'ai choisi Umami, car il est bien plus respectueux de votre vie privée que Google Analytics et que je pouvais l’héberger moi-même.
 
 **Voici ce que je collecte** :
 
@@ -50,7 +50,7 @@ Vous pouvez en savoir plus en visitant la politique de confidentialité de [Umam
 Si vous avez d'autres questions, n'hésitez pas à me contacter par [mail](mailto:contact@simpleprivacy.fr) ou via [Matrix](https://matrix.to/#/@samsepi0l:arcticfoxes.net).
 
 ### Hébergeur web
-J'utilise Gandi pour le nom de domaine [SimplePrivacy.Fr](https://simpleprivacy.fr) et les serveurs DNS de [deSEC](https://desec.io/). J'utilise Netlify pour héberger le site web.
+J'utilise Gandi pour le nom de domaine [SimplePrivacy.FR](https://simpleprivacy.fr) et les serveurs DNS de [deSEC](https://desec.io/). J'utilise Netlify pour héberger le site web.
 Pour mon autre nom de domaine [samsepi0l.dev](https://samsepi0l.dev), je le gère via le registrar [Porkbun](https://porkbun.com/). J'utilise également [deSEC](https://desec.io) et Netlify pour ce nom de domaine.
 
 Netlify garde votre adresse IP dans leurs logs pendant un maximum de 30 jours, vous pouvez en savoir plus en visitant ce [lien](https://www.netlify.com/gdpr-ccpa/). Leur politique de vie privée peut se trouver [ici](https://www.netlify.com/gdpr-ccpa/).
@@ -58,7 +58,7 @@ Netlify garde votre adresse IP dans leurs logs pendant un maximum de 30 jours, v
 ### Logiciels
 J'utilise [hugo](https://gohugo.io/) pour la génération du site. Hugo possède quelques [paramètres concernant la vie privée](https://gohugo.io/about/hugo-and-gdpr/) pour être en règle avec la [RGPD](https://www.cnil.fr/fr/comprendre-le-rgpd), j'ai [configuré ces paramètres](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L159) afin qu'il y est le moins d'impact possible sur votre vie privée.
 
-Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous redirigeront vers Twitter et YouTube à travers le site, les options "[enableDNT](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" et "[privacyEnhanced](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L180)" sont par conséquent activés pour ces services.
+Les services tels que Disqus (intégration de commentaires), Instagram et Google Analytics sont désactivés. Certains liens vous redirigeront vers Twitter et YouTube à travers le site, les options "[Do Not Track](https://github.com/d4rklynk/simpleprivacy.fr/blob/main/config.yml#L172)" sont par conséquent activés pour ces services.
 
 ### Dépôt Git
 J'utilise GitHub afin d'héberger [mon dépôt](https://github.com/d4rklynk/simpleprivacy.fr). Si vous souhaitez contribuer à mon site web, vous devrez créer un compte GitHub.
