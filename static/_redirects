@@ -1,3 +1,6 @@
+https://*.simpleprivacy.ovh/*               https://simpleprivacy.fr/:splat                                 301!
+https://simpleprivacy.ovh/*                 https://simpleprivacy.fr/:splat                                 301!
+https://www.simpleprivacy.ovh/*             https://simpleprivacy.fr/:splat                                 301!
 https://www.simpleprivacy.fr/*				https://simpleprivacy.fr/:splat		                            301!
 https://piped.simpleprivacy.fr              https://simpleprivacy.fr/                                       301!
 https://pipedproxy.simpleprivacy.fr         https://simpleprivacy.fr/                                       301!
