@@ -6,7 +6,7 @@ theme: "WonderMod"
 copyright: '[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)'
 enableGitInfo: true
 
-enableRobotsTXT: true
+enableRobotsTXT: false
 buildDrafts: false
 buildFuture: false
 buildExpired: false
