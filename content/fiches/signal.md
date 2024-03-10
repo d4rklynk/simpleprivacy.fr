@@ -1,5 +1,5 @@
 ---
-title: "Présentation et utilisation de Signal \U0001f4ac"
+title: "Présentation et utilisation de Signal 💬"
 date: 2022-08-09
 weight: 4
 ---
@@ -22,7 +22,7 @@ Vous pouvez le télécharger via le Play Store, l'AppStore ou via [leur site](ht
 
 ![signal image](/signal/signal-intro.png#center)
 
-Vous cliquez sur "**Poursuivre**" puis une fenêtre va s'ouvrir pour demander l'autorisation des contacts. 
+Vous cliquez sur "**Poursuivre**" puis une fenêtre va s'ouvrir pour demander l'autorisation des contacts.
 
 ![signal-contact-autorisation.png](/signal/signal-contact-autorisation.png#center)
 
@@ -134,7 +134,6 @@ Je ne vais pas vous faire la liste entière, mais je vais vous lister quelques f
 
 - Modifier une image
 
-> Lors de l'envoi d'une photo ou d'une image, vous pouvez dessiner, ajouter des stickers ou du texte sur ces médias.
-	Vous pouvez également choisir de l'envoyer en basse ou haute qualité.
+> Lors de l'envoi d'une photo ou d'une image, vous pouvez dessiner, ajouter des stickers ou du texte sur ces médias. Vous pouvez également choisir de l'envoyer en basse ou haute qualité.
 
 Une [liste complète des fonctionnalités](https://support.signal.org/hc/fr/categories/360000674791-Fonctions) de Signal est disponible sur leur site web.

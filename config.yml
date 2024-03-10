@@ -61,7 +61,7 @@ params:
   label:
     text: "Accueil"
     icon: "/favicon-32x32.png"
-    iconHeight: 35
+    iconHeight: 32
 
   # profile-mode
   profileMode:

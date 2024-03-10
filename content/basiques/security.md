@@ -54,7 +54,7 @@ Utiliser le moins de parties tiers possible est important pour votre vie privée
 
 Ce que vous avez fait ici s'appelle le déplacement de confiance (ou en anglais le "trust shifting"), vous avez déplacé la confiance que vous aviez en votre FAI vers votre fournisseur de VPN.
 
-Quand je parle de confiance, je ne parle pas de confiance aveugle : 
+Quand je parle de confiance, je ne parle pas de confiance aveugle :
 
 > "J'aime bien ce VPN, je lui fais confiance"
 
@@ -64,11 +64,12 @@ Dans les deux cas, les deux types de fournisseurs ont accès à votre navigation
 
 La confiance dans ce contexte n'est pas forcément positive, on doit juste faire confiance au moins d'entités possible.
 
-La question se pose donc : "En qui avez-vous le plus confiance ?". Il faut donc regarder les lois françaises sur la protection des données, comment nos FAI gèrent-ils nos données contrairement à notre fournisseur de VPN, etc...
+La question se pose donc : "En qui avez-vous le plus confiance ?". Il faut donc regarder les lois françaises sur la protection des données, comment nos FAI gèrent-ils nos données contrairement à notre fournisseur de VPN, etc.
 
 ---
 
-[Les VPNs et leur mésusage - Wonderfall](https://wonderfall.space/vpn-mesusage/)
+- [Les VPNs 🌍️ - SimplePrivacy](/basiques/vpn/)
+- [Les VPNs et leur mésusage - Wonderfall](https://wonderfall.space/vpn-mesusage/)
 
 ---
 
@@ -78,7 +79,7 @@ Sur Windows, vous avez un antivirus intégré nommé "Microsoft Defender", pourq
 
 ### Android et les Services Google Play
 
-Je sais que c'est contre-intuitif, mais le fait d'acheter un Google Pixel permet de "gagner" en vie privée. Si les téléphones Android sont si terribles pour la vie privée des utilisateurs,  c'est à cause de l'application "Services Google Play", elle est intégrée sur chaque système Android pour le grand public (Google Pixel, Samsung, OnePlus, Pocco, Xiaomi, Oppo, etc...). En utilisant un téléphone Samsung par exemple, vous faites confiance à Samsung et à Google en même temps (à cause des Services Google Play), alors qu'en utilisant un Google Pixel, vous ne ferez confiance qu'à Google.
+Je sais que c'est contre-intuitif, mais le fait d'acheter un Google Pixel permet de "gagner" en vie privée. Si les téléphones Android sont si terribles pour la vie privée des utilisateurs, c'est à cause de l'application "Services Google Play", elle est intégrée sur chaque système Android pour le grand public (Google Pixel, Samsung, OnePlus, Pocco, Xiaomi, Oppo, etc...). En utilisant un téléphone Samsung par exemple, vous faites confiance à Samsung et à Google en même temps (à cause des Services Google Play), alors qu'en utilisant un Google Pixel, vous ne ferez confiance qu'à Google.
 
 Donc si vous souhaitez gagner en vie privée sans vous embêter, restez simple, prenez un Google Pixel, n'installez pas d'antivirus tiers et ne prenez pas de VPN.
 
@@ -86,5 +87,21 @@ Donc si vous souhaitez gagner en vie privée sans vous embêter, restez simple, 
 
 ## En savoir plus
 
+### Evidence-based security et Antivirus
+
 - 🇫🇷️ [Evidence-based Security - Wonderfall](https://wonderfall.space/evidence-based-security/)
 - 🇬🇧️ [Knowledge Base - PrivSec](https://privsec.dev/posts/knowledge/)
+
+### Les VPNs
+
+- [Les VPNs 🌍️ - SimplePrivacy](/basiques/vpn/)
+- [Les VPNs et leur mésusage - Wonderfall](https://wonderfall.space/vpn-mesusage/)
+
+### Sécurité Android
+
+- 🇫🇷️ [Le modèle de sécurité mobile - Wonderfall](https://wonderfall.space/modele-securite-mobile/)
+- 🇬🇧️ [Features - GrapheneOS](https://grapheneos.org/features)
+- 🇬🇧️ [Frequently Asked Questions - GrapheneOS](https://grapheneos.org/faq)
+- 🇬🇧️ [The Android Platform Security Model](/assets/android-platform-security-model.pdf) ([Source originelle](https://dl.acm.org/doi/pdf/10.1145/344860))
+- 🇬🇧️ [Android - Madaidan](https://madaidans-insecurities.github.io/android.html)
+- 🇬🇧️ [Android Tips - PrivSec.dev](https://privsec.dev/posts/android/android-tips/) *(j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*

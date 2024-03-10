@@ -1,13 +1,13 @@
 ---
-title: "A propos"
+title: "À propos"
 date: 2022-07-25
 ---
 
 ## Qui suis-je ?
 
-Je suis un être-vivant de type humain qui aime bien le monde de la technologie. Je m'appelle **samsepi0l**, ce qui est évidemment un pseudonyme. 
+Je suis un être-vivant de type humain qui aime bien le monde de la technologie. Je m'appelle **samsepi0l**, ce qui est évidemment un pseudonyme.
 
-J'ai passé beaucoup de temps sur les chats de [PrivSec.dev](https://matrix.to/#/#privsec:arcticfoxes.net) et [PrivacyGuides.org](https://matrix.to/#/#privacyguides:matrix.org), et j'ai accumulé beaucoup de connaissances et de bonnes sources que je vous partage à mon tour. 
+J'ai passé beaucoup de temps sur les chats de [PrivSec.dev](https://matrix.to/#/#privsec:arcticfoxes.net) et [PrivacyGuides.org](https://matrix.to/#/#privacyguides:matrix.org), et j'ai accumulé beaucoup de connaissances et de bonnes sources que je vous partage à mon tour.
 
 J'ai également une formation en tant que Technicien Systèmes et Réseaux et je travaille dans une ESN (Entreprise de Services Numériques).
 
@@ -31,7 +31,7 @@ Je vous conseille les outils les plus simples d'accès et qui respectent votre v
 
 ## Articles
 
-Tous mes articles sont actualisés très régulièrement afin de vous donner les informations les plus à jour possible. N'hésitez donc pas à les relire, j'ajoute souvent des sources, des liens, et même des exemples d'actualités. 
+Tous mes articles sont actualisés très régulièrement afin de vous donner les informations les plus à jour possible. N'hésitez donc pas à les relire, j'ajoute souvent des sources, des liens, et même des exemples d'actualités.
 
 *Vous pouvez voir la dernière modification d'un article en haut de celui-ci, il sera affiché "Last updated".*
 
@@ -50,8 +50,8 @@ Mes travaux sont majoritairement basés sur :
 - [qua3k](https://qua3k.github.io/)
 - [akc3n](https://akc3n.page/)
 - Wonderfall :
-	- [Wonderfall.space](https://wonderfall.space) (en français)
-	- [Wonderfall.dev](https://wonderfall.dev) (en anglais)
+  - [Wonderfall.space](https://wonderfall.space) (en français)
+  - [Wonderfall.dev](https://wonderfall.dev) (en anglais)
 - [Madaidan](https://madaidans-insecurities.github.io/)
 - [GrapheneOS](https://grapheneos.org/)
 
@@ -90,10 +90,9 @@ J'utilise Netlify pour l'hébergement du site, vous pouvez voir les logs de dép
 
 J'utilise Gandi pour le nom de domaine simpleprivacy.fr et deSEC.io pour les serveurs DNS.
 
-J'aurai grandement préféré utiliser Porkbun mais ils ne supportent pas encore le TLD `.fr`. Cependant, mes autres noms de domaines (tels que mon blog [samsepi0l.dev](https://samsepi0l.dev)) ont pour registrar Porkbun. deSEC pour les serveurs DNS 	est utilisé pour tous mes noms de domaines.
+J'aurai grandement préféré utiliser Porkbun mais ils ne supportent pas encore le TLD `.fr`. Cependant, mes autres noms de domaines (tels que mon blog [samsepi0l.dev](https://samsepi0l.dev)) ont pour registrar Porkbun. deSEC pour le service DNS est utilisé pour tous mes noms de domaines.
 
 J'utilise GitHub afin d'héberger le [dépôt git](https://github.com/d4rklynk/simpleprivacy.fr).
-
 
 ### Sécurité
 

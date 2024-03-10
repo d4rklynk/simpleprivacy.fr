@@ -1,5 +1,5 @@
 ---
-title: "Bitwarden : Comment l'utiliser \U0001f511"
+title: "Bitwarden : Comment l'utiliser 🔑"
 date: 2022-07-29
 weight: 2
 ---
@@ -55,7 +55,7 @@ L'interface de bitwarden n'est pas très compliquée, mais je vais vous montrer 
 	- Send : Si vous souhaitez envoyer des fichiers (max : 1Go) à des amis (uniquement avec la version Premium, c'est 10€/an). Cependant, vous pouvez envoyer du texte à un ami avec la version gratuite.
 	- Outils : C'est ici que vous trouverez notamment le générateur de mots de passe
 	- Rapports : Ce sont des options premium (c'est pas essentiel, ne vous inquiétez pas)
-7. Ajouter un élément : Vous cliquez dessus pour ajouter vos identifiants 
+7. Ajouter un élément : Vous cliquez dessus pour ajouter vos identifiants
 8. Ce sont vos paramètres de compte
 
 ## Importez/Exportez vos mots de passe
@@ -118,10 +118,9 @@ L'application Bitwarden se verrouille automatiquement au bout de 15 minutes (vou
 
 Vous avez 4 onglets en bas de l'application. Cliquez sur ***Paramètres*** puis cliquez sur ***Services de remplissage automatique***, activez ***Services de remplissage automatique*** (ça vous enverra dans les paramètres de votre téléphone, et vous devrez manuellement accepter le **service de saisie automatique** pour Bitwarden) et ***Utilisez le remplissage automatique***.
 
-Pour vous connecter plus facilement à l'application, je vous suggère d'activer "**Déverrouiller avec une empreinte digitale**" ou "**Déverrouiller avec un code PIN**" 
+Pour vous connecter plus facilement à l'application, je vous suggère d'activer "**Déverrouiller avec une empreinte digitale**" ou "**Déverrouiller avec un code PIN**"
 
 > Si vous choisissez le code pin, il vous affichera une fenêtre ou vous devez dire "oui" ou "non", cliquez ***"non"***, car si l'application est redémarrée, vous allez devoir remettre votre ***"mot de passe maître"***.
-
 
 ## Le générateur de mots de passe
 
@@ -138,7 +137,6 @@ Le générateur de mot de passe est très puissant et vous permet de générer d
 ![Bitwarden Generateur password](/bitwarden/bitwarden-generator-password.png)
 
 Dans le cas où vous avez choisi de générer un **mot de passe** au lieu d'une phrase de passe. Je vous conseille d'activer tous les boutons comme montré ci-dessus. Pour la longueur, choisissez une vingtaine de caractères minimum, voire plus si vous le souhaitez.
-
 
 ## Utilisation
 
@@ -159,7 +157,6 @@ Quand vous visitez un site web comme Proton Mail par exemple, voici les étapes 
 > Si c'est trop court pour vous, choisissez "**Personnalisé**" dans le menu déroulant et paramétrez à ***2 minutes***.
 
 ![Bitwarden expiration](/bitwarden/bitwarden-deconnexion.png)
-
 
 2. Utilisez l'interface web uniquement quand vous n'avez ni accès à votre téléphone ni accès à votre PC.
 3. Je vous conseille de ne jamais cliquer sur le bandeau qui s'affichera en haut de la page quand vous vous connecterez sur un site web que vous n'avez pas enregistré. *Ce bandeau vous propose d'enregistrer automatiquement vos identifiants. Si vous cliquez sur **Enregistrer**, je vous conseille de vérifier manuellement à chaque fois sur Bitwarden que le nom d'utilisateur et le mot de passe sont bien les bons ! Des erreurs sont parfois commises par Bitwarden !* Ajoutez manuellement vos identifiants à chaque fois, c'est beaucoup plus sûr !

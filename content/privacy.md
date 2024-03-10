@@ -3,21 +3,21 @@ title: Politique de confidentialité
 date: 2022-07-25
 ---
 
-## Version simple :
+## Version simple
 
 Je me fiche de qui vous êtes, ou de ce que vous faites sur mon site web.
 Je suis là pour partager mes connaissances, et non vos données.
 
 Aucune donnée **personnelle** n'est collectée.
 
-## Version longue :
+## Version longue
 
 Les informations que je récolte sur vous ne sont pas identifiables, je les collecte dans l'unique but de savoir combien de gens visitent mon site et sur quelles pages. Cette collecte de données ne me permet en aucun cas de vous identifier en tant qu'individu, si vous revenez demain sur mon site web, je ne peux pas savoir si c'est vous ou quelqu'un d'autre, je verrais juste un autre visiteur.
 
 Ce site est également en conformité avec le **Do Not Track Policy**. Si celui-ci est activé sur votre navigateur, absolument aucune donnée ne sera récoltée.
 La politique Do Not Track est disponible en anglais via [ce lien](/.well-known/dnt-policy.txt).
 
-## Version plus longue :
+## Version plus longue
 
 ### Umami
 

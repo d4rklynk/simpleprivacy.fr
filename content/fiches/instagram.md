@@ -1,5 +1,5 @@
 ---
-title: "Instagram : Limitez l'information publique et la collecte de données \U0000270b"
+title: "Instagram : Limitez l'information publique et la collecte de données ✋"
 date: 2022-08-02
 ---
 
@@ -24,7 +24,8 @@ Tapez sur "**Paramètres**".
 ![insta slider](/instagram/settings-slider.png)
 
 Dans les Paramètres tapez sur "**Confidentialité**" puis cochez :  
-- [x]"**Compte privé**".
+
+- [x] "**Compte privé**".
 
 ![insta settings](/instagram/parametres.png)
 ![insta confidentialité](/instagram/compte-prive.png)
@@ -98,5 +99,5 @@ Revenez dans les ***paramètres de publicités*** et navigues dans "***Données 
 ### Compte
 
 Dans les ***paramètres généraux***, naviguez dans **Compte**.
- 
+
 Dans **Informations personnelles**, enlevez votre numéro de téléphone, changez le genre pour "**Préfère ne pas répondre**", et mettez une date d'anniversaire **aléatoire**.

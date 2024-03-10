@@ -1,5 +1,5 @@
 ---
-title: "Google : Limitez la collecte de données et sécurisez votre compte \U0000270b"
+title: "Google : Limitez la collecte de données et sécurisez votre compte ✋"
 date: 2022-08-14
 ---
 
@@ -58,6 +58,6 @@ Faites de même pour l'**historique des positions** et l'**historique YouTube** 
 
 ![Google Security](/google/google-security.png)
 
-***Changez votre mot de passe***, générez-en un grâce à votre [gestionnaire de mots de passe](/basiques/password-managers), je vous conseille [Bitwarden](/fiches/bitwarden). Générez soit une phrase de passe avec la [méthode diceware](/basiques/password-managers/#la-méthode-diceware) (puisque vous aurez probablement besoin de vous connecter à une smart TV par exemple, une phrase de passe sera donc plus simple à écrire), je vous conseille 8 mots minimum pour votre compte Google. Si vous êtes sûre de ne pas avoir besoin de le réécrire quelque part, générez un mot de passe de 64 caractères.
+***Changez votre mot de passe***, générez-en un grâce à votre [gestionnaire de mots de passe](/basiques/password-managers), je vous conseille [Bitwarden](/fiches/bitwarden). Générez soit une phrase de passe avec la [méthode diceware](/basiques/password-managers/#la-méthode-diceware) (puisque vous aurez probablement besoin de vous connecter à une smart TV par exemple, une phrase de passe sera donc plus simple à écrire), je vous conseille 8 mots minimum pour votre compte Google. Si vous êtes sûr de ne pas avoir besoin de le réécrire quelque part, générez un mot de passe de 64 caractères.
 
 ***Activez*** la validation en deux étapes et choisissez "**Applications Google Authenticator**" (mais vous pouvez utiliser n'importe quelle autre application), je vous conseille d'installer **Aegis** disponible sur le Play Store. ***Enregistrez-bien*** vos codes de récupération dans votre gestionnaire de mots de passe au cas où vous n'auriez plus accès à votre smartphone.

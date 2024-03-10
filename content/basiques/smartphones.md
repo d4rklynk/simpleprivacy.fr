@@ -1,5 +1,5 @@
 ---
-title: "Les smartphones \U0001f4f1"
+title: "Les smartphones 📱"
 date: 2022-08-07
 weight: 4
 ---
@@ -10,7 +10,6 @@ Les smartphones sont des éponges à données, ils ont accès à beaucoup d'info
 
 Cependant les smartphones (IOS et Android) sont bien plus sécurisés que les systèmes d'exploitation de bureau (Windows, Linux, macOS).
 Vous avez remarqué par exemple qu'il y a un système de permission sur les smartphones qu'il n'y a pas sur les PC. Vous savez, les fenêtres qui s'affichent "Autoriser l'accès la position" ou "Autoriser l'accès à la caméra".
-
 
 ## Recommandations
 
@@ -38,10 +37,9 @@ Si vous achetez un Samsung par exemple, cela veut dire que vous faites confiance
 
 ## Sécurité
 
-
 ### AOSP et firmware
 
-Je vous conseille de prendre un smartphone neuf, c'est à dire encore supporté par le constructeur, voici pourquoi : 
+Je vous conseille de prendre un smartphone neuf, c'est à dire encore supporté par le constructeur, voici pourquoi :
 
 Deux types de mises à jour sont à faire sur un matériel informatique :
 
@@ -58,13 +56,13 @@ Je vais rapidement vous expliquer Android pour que vous compreniez bien. Voici u
 
 > ***Quand on parle d'Android, on parle en réalité d'AOSP.***
 
-La surcouche de Samsung par exemple, s'appelle **OneUI**, celle de OnePlus, **OxygenOS**, et celle de Xiaomi s'appelle **MIUI**. Cela fait toujours parti du système d'exploitation, ce ne sont pas des logiciels. 
+La surcouche de Samsung par exemple, s'appelle **OneUI**, celle de OnePlus, **OxygenOS**, et celle de Xiaomi s'appelle **MIUI**. Cela fait toujours parti du système d'exploitation, ce ne sont pas des logiciels.
 
 Cependant, si AOSP est open source, les surcouches ne le sont pas forcément ! LineageOS est une surcouche open source par exemple, mais MIUI ne l'est pas !
 
-> On parle de surcouche, mais en réalité, les constructeurs prennent le projet AOSP pour le modifier selon leurs besoins puis ajouter leurs programmes, leurs fonctionnalités, etc. Ce sont ces modifications et ces ajouts qui sont appelés la surcouche. 
+> On parle de surcouche, mais en réalité, les constructeurs prennent le projet AOSP pour le modifier selon leurs besoins puis ajouter leurs programmes, leurs fonctionnalités, etc. Ce sont ces modifications et ces ajouts qui sont appelés la surcouche.
 
-> Dites-vous qu'AOSP est comme une recette de cuisine, tout le monde connaît cette recette, mais certains cuisiniers ajouteront quelques épices ou d'autres ingrédients secrets. Donc oui vous connaissez précisément la recette de base, mais non, vous n'en savez pas plus sur les ingrédients ajoutés. Une surcouche tel que GrapheneOS est open source, on connaît donc les ingrédients ajoutés.
+Dites-vous qu'AOSP, c'est comme une recette de cuisine, tout le monde connaît cette recette, mais certains cuisiniers ajouteront quelques épices ou d'autres ingrédients secrets. Donc oui vous connaissez précisément la recette de base, mais non, vous n'en savez pas plus sur les ingrédients ajoutés. Une surcouche tel que GrapheneOS est open source, on connaît donc les ingrédients ajoutés.
 
 Comprenez bien que si vous souhaitez installer LineageOS sur votre téléphone, cela veut dire que vous supprimez le système d'exploitation de votre téléphone. En gros, si vous allumez votre téléphone après avoir supprimé le système d'exploitation de Samsung par exemple, vous ne pourrez plus démarrer votre téléphone, car il n'y aura rien à démarrer ! Sauf si vous installez LineageOS juste après, évidemment 😁.
 
@@ -193,7 +191,7 @@ Pour réitérer :
 - Utilisez un code PIN de 6 chiffres minimum, mais 8 chiffres ou plus est recommandé.
 - Installez GrapheneOS sur votre Google Pixel.
 - Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphones qui ne sont plus supportés.
-- Si vous avez acheté un autre téléphone, revendez-le (surtout si c'est un Fairphone) et achetez un Google Pixel 6/6a/6 Pro (ou un iPhone).
+- Si vous avez acheté un autre téléphone, revendez-le (surtout si c'est un Fairphone) et achetez un Google Pixel 6/6a/6 Pro minimum (ou un iPhone).
 - Si vous avez acheté des antivirus (ou d'autres applications comme CCleaner), arrêtez ces abonnements, car vous jetez littéralement de l'argent par les fenêtres. Puis achetez un smartphone récent grâce aux économies que vous aurez faites. (Car il est plus sécurisé d'utiliser un smartphone récent et mis à jour régulièrement qu'un vieux téléphone doté d'un antivirus.)
 
 ---
@@ -204,3 +202,4 @@ Pour réitérer :
 - 🇬🇧️ [Android - Madaidan](https://madaidans-insecurities.github.io/android.html)
 - 🇬🇧️ [Android Tips - PrivSec.dev](https://privsec.dev/posts/android/android-tips/) *(j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
 - 🇬🇧️ [Badness Enumeration - PrivSec.dev](https://privsec.dev/posts/knowledge/badness-enumeration/) (en anglais)
+- 🇬🇧️ [The Android Platform Security Model](/assets/android-platform-security-model.pdf) ([Source originelle](https://dl.acm.org/doi/pdf/10.1145/344860))

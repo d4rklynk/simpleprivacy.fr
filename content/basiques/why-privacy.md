@@ -1,5 +1,5 @@
 ---
-title: "Vie privée : Pourquoi s'en soucier ? \U0001f914"
+title: "Vie privée : Pourquoi s'en soucier ? 🤔"
 date: 2022-07-25
 weight: 1
 ---
@@ -13,10 +13,9 @@ Ce sont pour moi de mauvais arguments, on le dit car on ne sait pas vraiment com
 
 Le terme de cacher est également faux, car en réalité, beaucoup de gens n'ont rien à cacher. La vie privée est quelque chose que vous souhaitez protéger.
 
-> Lorsque vous dites : "Le droit à la vie privée ne me préoccupe pas parce que je n'ai rien à cacher", cela ne fait aucune différence avec le fait de dire "Je me moque du droit à la liberté d'expression parce que je n'ai rien à dire", ou "de la liberté de la presse parce que je n'ai rien à écrire".
-	- *Edward Snowden* -
+> Lorsque vous dites : "Le droit à la vie privée ne me préoccupe pas parce que je n'ai rien à cacher", cela ne fait aucune différence avec le fait de dire "Je me moque du droit à la liberté d'expression parce que je n'ai rien à dire", ou "de la liberté de la presse parce que je n'ai rien à écrire". - *Edward Snowden* -
 
-Je dirais même qu'on peut conclure la même chose des droits des femmes par exemple. Si vous êtes lectrice, auriez-vous dit à l'époque : "Je me fiche du droit de vote parce que je ne sais pas pour qui voter" ?. 
+Je dirais même qu'on peut conclure la même chose des droits des femmes par exemple. Si vous êtes lectrice, auriez-vous dit à l'époque : "Je me fiche du droit de vote parce que je ne sais pas pour qui voter" ?.
 
 La vie privée reste un sujet flou pour beaucoup, mais
 n'oubliez pas que même si vous n'avez rien à cacher, cela reste un ***droit humain fondamental***.
@@ -43,7 +42,7 @@ En faisant votre recherche, Google a enregistré le fait que **vous**, **personn
 
 ### Pourquoi ?
 
-Imaginez que vous êtes un vendeur de vélo, vous souhaitez payer Google afin qu'il puisse afficher ces pubs dans les recherches Google. 
+Imaginez que vous êtes un vendeur de vélo, vous souhaitez payer Google afin qu'il puisse afficher ces pubs dans les recherches Google.
 
 En temps normal, un certain nombre de personnes verrait cette pub, mais ne serait pas intéressé par un vélo (manque de moyens, utilise la voiture, habite au fin fond de la campagne, etc.) ; vous auriez payé cher pour qu'un nombre infime de personnes souhaitant acheter ce vélo soit réellement intéressé.
 
@@ -67,12 +66,12 @@ Les pubs **contextuelles** fonctionnent de cette manière :
 
 Simple n'est-ce pas ? L'avantage dans les pubs contextuelles, c'est que ça permet aux entreprises de gagner de l'argent sans vous pister. Les moteurs de recherche DuckDuckGo et StartPage sont deux exemples qui fonctionnent de cette manière.
 
-Les pubs **comportementales** sont à un tout autre niveau, ils se basent sur vos centres d'intérêt, vos recherches, vos vidéos préférées sur YouTube, vos achats, votre localisation, etc. C'est compliqué de vous faire un exemple, car cela demanderait beaucoup plus d'infos. 
+Les pubs **comportementales** sont à un tout autre niveau, ils se basent sur vos centres d'intérêt, vos recherches, vos vidéos préférées sur YouTube, vos achats, votre localisation, etc. C'est compliqué de vous faire un exemple, car cela demanderait beaucoup plus d'infos.
 
 Mais imaginons que vous ayez trouvé le partenaire de votre vie, vous êtes avec cette personne depuis quelques années, vous avez cherché pendant toutes ces années des week-end romantiques, des sorties, des vacances, etc. Toutes ces infos sont accumulées au fur et à mesure par les fournisseurs de service comme Google et Facebook.
 Un jour vous décidez de demander votre partenaire en mariage, vous faites donc vos recherches sur des bagues, des lieux etc... Tout se passe bien. Mais à votre avis, après ce mariage, que Google va t'il vous proposer ?
 
-Des pubs pour des jouets d'enfants, des lits de bébé, des biberons, des annonces pour les femmes enceintes. 
+Des pubs pour des jouets d'enfants, des lits de bébé, des biberons, des annonces pour les femmes enceintes.
 
 Ben oui, vous avez implicitement dit à Google (et tout autre fournisseur de service fonctionnant sur les pubs **comportementales**) que vous aviez trouvé le partenaire de votre vie, que vous vous étiez installés ensemble, que vous vous êtes mariés etc. Au bout d'un moment, Google en déduit qu'il est temps pour vous d'avoir des enfants !
 
@@ -80,7 +79,7 @@ Ben oui, vous avez implicitement dit à Google (et tout autre fournisseur de ser
 
 Pour vous rendre compte à quel point cela peut être terrifiant, prenons un exemple dans la vraie vie.
 
-Vous êtes en dîner de famille et vous parlez de votre futur achat d'un vélo. Vous vous réveillez le lendemain, vous allez à votre boîte aux lettres, vous ouvrez, et là, surprise, une pub pour un vélo ! Alors que vous n'avez rien demandé ! 
+Vous êtes en dîner de famille et vous parlez de votre futur achat d'un vélo. Vous vous réveillez le lendemain, vous allez à votre boîte aux lettres, vous ouvrez, et là, surprise, une pub pour un vélo ! Alors que vous n'avez rien demandé !
 Cela vous semble peut-être improbable que ça puisse arriver dans la vraie vie, peut-être pas, mais c'est **réellement** ce qui se passe sur Internet !
 
 ## Le vrai problème
@@ -101,7 +100,7 @@ Ces services sont également des laboratoires à grande échelle sur le comporte
 
 Ne croyez pas que vous n'êtes pas manipulé par ces services, ça fait 20 ans qu'il travaillent sur ce domaine. Et ne sous-estimez pas à quel point l'humain peut être manipulable (moi y compris).
 
-## Pour en revenir à mon exemple des esclaves :
+## Pour en revenir à mon exemple des esclaves
 
 Un esclave, est, [selon la définition du Larousse](https://www.larousse.fr/dictionnaires/francais/esclave/30979) :
 

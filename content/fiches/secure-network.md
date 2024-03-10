@@ -18,6 +18,7 @@ La **deuxième** partie sera tant qu'à elle, consacrée à des configurations i
 > Petit rappel de notion : Le Wi-Fi n'est qu'un **moyen de communication** pour accéder à Internet, ce n'est pas Internet. Vous pouvez connecter deux téléphones entre eux pour partager des fichiers en Wi-Fi, de la même manière que le Bluetooth. Le Bluetooth peut également vous permettre d'accéder à Internet.
 
 ## Première partie
+
 ### Connexion à la box
 
 Accédez à votre box, pour cela, connectez-vous en Wi-Fi chez vous, ça ne fonctionnera pas en utilisant le réseau mobile.
@@ -39,7 +40,7 @@ La toute première chose à faire est de changer le mot de passe par défaut de 
 
 ### Changer la clé Wi-Fi
 
-Générez une phrase de passe aléatoire pour la Wi-Fi, d'au moins 8 mots si la box l'autorise, ne descendez pas en dessous de 6. 
+Générez une phrase de passe aléatoire pour la Wi-Fi, d'au moins 8 mots si la box l'autorise, ne descendez pas en dessous de 6.
 
 > Je vous conseille de créer une phrase de passe plutôt qu'un mot de passe, car si vous devez l'écrire manuellement (comme sur une smart TV par exemple), ce sera beaucoup plus simple d'écrire quelques mots plutôt qu'une trentaine de caractères aléatoires 😉️.
 
@@ -72,10 +73,11 @@ Certaines box font les mises à jour automatiquement, dans ce cas, vous n'avez r
 - [Mise à jour - Bbox](https://www.assistance.bouyguestelecom.fr/s/forum/question/0D5080000BUP0PzCQL/mettre-%C3%A0-jour-ma-bbox)
 
 ## Deuxième partie
+
 ### Créer un réseau Wi-Fi invité
 
 Afin de cloisonner votre réseau personnel de vos invités, je vous conseille de créer un réseau Wi-Fi invité qui va permettre aux personnes d'accéder à Internet sans accéder à votre réseau local (vos ordinateurs, vos consoles de jeux, votre [NAS](https://fr.wikipedia.org/wiki/Serveur_de_stockage_en_r%C3%A9seau), etc...). En général, ce sera la même Wi-Fi affiché, mais la clé Wi-Fi sera différente si vous vous connectez avec votre clé ou la clé invitée.
 
 ### Changer le nom du SSID
 
-Le [SSID](https://fr.wikipedia.org/wiki/Service_set_identifier) est tout simplement le nom de votre réseau Wi-Fi. Je vous conseille de changer le nom, car il donne souvent le type de box que vous avez ! Cela reviendrait à afficher en bas de votre immeuble quel type de porte/serrure vous utilisez. Vous pouvez lui donner le nom que vous voulez, évitez juste des mots trop évocateurs de votre vie personnelle (tel que votre nom, prénom, âge, métiers, etc.). 
+Le [SSID](https://fr.wikipedia.org/wiki/Service_set_identifier) est tout simplement le nom de votre réseau Wi-Fi. Je vous conseille de changer le nom, car il donne souvent le type de box que vous avez ! Cela reviendrait à afficher en bas de votre immeuble quel type de porte/serrure vous utilisez. Vous pouvez lui donner le nom que vous voulez, évitez juste des mots trop évocateurs de votre vie personnelle (tel que votre nom, prénom, âge, métiers, etc.).

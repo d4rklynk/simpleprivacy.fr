@@ -5,7 +5,7 @@ date: 2023-06-09
 
 ![vpn-cover.jpg](/vpn/vpn-cover.jpg)
 
-Aaah les VPN, la solution ultime afin d'être anonyme en ligne !
+Les VPN, la solution ultime afin d'être anonyme en ligne !
 Quelle blague...
 
 ## C'est quoi un VPN ?
@@ -38,27 +38,30 @@ Dans cette configuration, on a un client (VPN) et un serveur (VPN), le client se
 
 ## Pourquoi y a-t-il autant de fournisseurs de VPNs ?
 
-Parce que c'est hyper rentable. C'est juste un fichier de configuration à mettre en place et un client à développer afin que les utilisateurs de tout type puissent s'y connecter facilement. Vous louez plusieurs serveurs, vous configurez votre serveur VPN sur chaque, vous louez votre prestation et le tour est joué.
+Parce que c'est hyper rentable économiquement. C'est juste un fichier de configuration à mettre en place et un client à développer afin que les utilisateurs de tout type puissent s'y connecter facilement. Vous louez plusieurs serveurs, vous configurez votre serveur VPN sur chaque, vous louez votre prestation et le tour est joué.
 
 ## Ça veut dire quoi no-log ?
 
-Quand on parle de no-log, on parle de ce qu'on appelle les journaux d'activité. C'est un fichier ou un ensemble de fichiers textes dans lequel se trouve pléthore de messages générés par un programme ou un système. C'est absolument nécessaire car c'est ce qui nous permet de tracer les événements d'une machine afin de retrouver certains problèmes. Les logs sont faites pour faciliter grandement la surveillance, l'analyse et le dépannage.
+Les logs (ou journaux d'activité en français) sont des messages générés par un programme ou un système qui sont écrits dans des fichiers textes, ou plus communément appelé des fichiers de logs. C'est absolument nécessaire, car c'est ce qui nous permet de tracer les événements d'une machine afin de retrouver certains problèmes ou incidents. Les logs sont faites pour faciliter grandement la surveillance, l'analyse et le dépannage.
 
 Dans le cas d'un VPN, quand on parle de no-log, ce n'est pas de ce type de logs dont on parle. Ici, ce sont les logs d'informations personnelles, telles que votre IP, les sites que vous visitez, la durée de session, ou votre emplacement.
 
+No-log se traduit ici par "pas d'enregistrement de votre historique de navigation".
+
 Typiquement, les VPNs gratuits (sauf Proton VPN qui est un cas unique) vont analyser votre trafic, votre IP, votre durée de session, les sites que vous visitez pour revendre vos données afin de vous envoyer de la publicité personnalisée. Eh ben oui, vous aviez cru quoi ? 😮‍💨️
 
-En général, no-log veut dire ceux-ci :
+En général, dans le monde des VPNs, "no-log" veut dire ceux-ci :
 
 - Les sites que vous visitez ne sont pas enregistrés
 - Votre IP n'est pas enregistré (ce n'est pas enregistré, mais un fournisseur VPN connaîtra toujours votre IP réel)
-- Le temps de session n'est pas enregistré (et encore, ça dépend)
+- Le temps de session n'est pas enregistré (c'est à dire depuis combien de temps vous êtes connecté au VPN)
 
 Je tiens à noter que **quelque soit** votre fournisseur VPN, si la justice demande des informations vous concernant, ils ne vont pas enfreindre la loi pour vous protéger, et c'est tout à fait normal !
 
-Dans la mesure on rien n'est enregistré, votre fournisseur VPN ne pourra rien donner à la justice, si elle le lui demande. Cependant, il est important de noter que si la justice demande à votre fournisseur de commencer à vous log (ou "journaliser" en bon français) (c'est à dire enregistrer les sites sur lesquels vous vous connectez, votre IP, etc...), votre fournisseur le fera sans hésiter. Un VPN n'est pas fait pour être anonyme en ligne contrairement à ce que d'autres entreprises bien connues du grand public veulent vous faire croire.
+Dans la mesure on rien n'est enregistré, votre fournisseur VPN ne pourra rien donner à la justice, si elle le lui demande. Cependant, il est important de noter que si la justice demande à votre fournisseur de commencer à vous log (ou "journaliser") (c'est à dire enregistrer les sites sur lesquels vous vous connectez, votre IP, etc.), votre fournisseur le fera sans hésiter. Un VPN n'est pas fait pour être anonyme en ligne contrairement à ce que d'autres entreprises bien connues du grand public veulent vous faire croire.
 
 ## Les faux arguments des vendeurs
+
 ### C'est plus sécurisé !
 
 > Votre connexion est sécurisée avec des protocoles militaires !
@@ -103,9 +106,13 @@ Donc si le gouvernement demande au VPN d'enregistrer vos données, je vous garan
 
 ## Le top 10 des meilleurs VPNs de ce mois-ci !
 
-Vous avez du voir ce genre de liste un nombre incalculable de fois. 
+Vous avez du voir ce genre de liste un nombre incalculable de fois.
 
-Et bien en fait, ces listes des meilleurs VPN du mois ou de l'année en cours sont réfléchies. En effet, ils prennent les meilleurs personnes en sécurité pour créer ce top 10... Non, vous vous doutez bien que non. C'est déguisé en comparatif ou top 10 des meilleurs VPNs, mais en réalité, ce sont juste des amas de liens d'affiliation pour se faire un maximum d'argent. Les personnes qui écrivent ces comparatifs se fichent de savoir quel VPN vous allez prendre. Car tant que vous cliquez sur un de leurs liens d'affiliation, ils se feront de l'argent.
+En fait, ces listes des meilleurs VPN du mois ou de l'année en cours sont réfléchies et très étudiées. En effet, ils prennent les meilleurs personnes en sécurité pour créer ce top 10...
+
+Non, vous vous doutez bien que non.
+
+C'est déguisé en comparatif ou top 10 des meilleurs VPNs, mais en réalité, ce sont juste des amas de liens d'affiliation pour se faire un maximum d'argent. Les personnes qui écrivent ces comparatifs se fichent de savoir quel VPN vous allez prendre. Car tant que vous cliquez sur un de leurs liens d'affiliation, ils se feront de l'argent.
 
 J'ai pris le premier lien que je voyais et regardez comme c'est beau :
 
@@ -121,7 +128,7 @@ Quand je passe la souris sur le bouton rouge "**VOIR LES OFFRES NORDVPN**", le l
 
 Voilà, cette liste est, attention, revue par des experts dans le milieu.
 
-De toute évidence, la liste n'est pas ordonné selon quel VPN est le meilleur, mais selon le montant que le fournisseur de VPN a payé :)
+De toute évidence, la liste n'est pas ordonné selon quel VPN est le meilleur, mais selon le montant que le fournisseur de VPN a payé 🙃.
 
 Qu'on soit clair, on ne parle pas ici d'une conspiration mais d'un business model.
 
@@ -132,7 +139,7 @@ Si vous souhaitez *vraiment* choisir un *vrai* VPN qui respecte *vraiment* votre
 
 Un des avantages d'un VPN et de recevoir une IP partagée avec d'autres personnes, cela permet de vous fondre dans la masse.
 
-Si vous hébergez votre propre VPN sur un serveur distant que vous avez loué, vous utiliserez toujours la même IP, donc vous aurez rien réglé du tout.
+Si vous hébergez votre propre VPN sur un serveur distant que vous avez loué, vous utiliserez toujours la même IP (celle du serveur), donc vous aurez rien réglé du tout.
 
 Pour imager un peu, c'est comme si vous portiez le même masque tous les jours pour aller n'importe où, même si on ne connaît pas votre visage, on saura qui vous êtes.
 
@@ -148,6 +155,8 @@ Un VPN (grand public) va essentiellement faire 3 choses :
 
 Aparté : le torrent (ou P2P pour "peer to peer") est totalement légal. Ce qui illégal en revanche est le partage de fichier qui ne vous appartient pas (comme les films, les séries, les livres etc.).
 
+L'ARCOM télécharge les films et séries du moment, et attrapent tous ceux qui téléchargent les fichiers venant d'eux (puisque l'IP est visible).
+
 Vous pouvez consulter [Service-Public.fr](https://www.service-public.fr/particuliers/vosdroits/F32108) pour comprendre les textes de loi concernant le téléchargement illégal.
 
 ---
@@ -158,15 +167,16 @@ Version courte : non.
 
 Version longue : non, vous n'en avez pas besoin :)
 
-Plus sérieusement, si vous souhaitez cacher votre IP lors de téléchargement de torrent ou si vous avez plus confiance en votre fournisseur VPN que votre FAI, alors vous pouvez prendre un VPN. Sinon, votre IP sera visible par ceux qui vous partage le fichier torrent ou ceux qui téléchargent le fichier que vous partagez. 
+Plus sérieusement, si vous souhaitez cacher votre IP lors de téléchargement de torrent ou si vous avez plus confiance en votre fournisseur VPN que votre FAI, alors vous pouvez prendre un VPN. Sinon, votre IP sera visible par ceux qui vous partage le fichier torrent ou ceux qui téléchargent le fichier que vous partagez.
 
-Pour ce qui est du cas de regarder du contenu vidéo aux États-Unis à partir de la France, ça fonctionne, mais gardez en tête que beaucoup de services de VOD (Netflix, Disney+, Prime Video, etc...) bloquent les IPs des serveurs venant de fournisseurs de VPNs. Donc une minorité des serveurs de votre fournisseur fonctionnera, évidemment, les fournisseurs achètent sans cesse de nouveaux serveurs (et donc par extension de nouvelles IP), c'est le jeu du chat et la souris. Pour faire simple, oui ça marche quelque soit le VPN (et ne croyez pas dur comme fer qu'un VPN fonctionnera **systématiquement** pour les services de VOD quoi que dise le vendeur).
+Pour ce qui est du cas de regarder du contenu vidéo aux États-Unis à partir de la France, ça fonctionne, mais gardez en tête que beaucoup de services de VOD (Netflix, Disney+, Prime Video, etc...) bloquent les IPs des serveurs venant de fournisseurs de VPNs. Donc une minorité des serveurs de votre fournisseur fonctionnera, évidemment, les fournisseurs achètent sans cesse de nouveaux serveurs (et donc par extension de nouvelles IP), c'est le jeu du chat et de la souris. Pour faire simple, oui ça fonctionne quelque soit le VPN (mais ne croyez pas dur comme fer qu'un VPN fonctionnera **systématiquement** pour les services de VOD quoi que dise le vendeur).
 
 Si vous décidez de choisir un VPN, je vous conseille de regarder [les alternatives](/alternatives/providers/#les-vpns) que je propose (basé sur les [recommandations de PrivacyGuides](https://www.privacyguides.org/fr/vpn/)).
 
-Je vous conseille de lire l'[article de Wonderfall ](https://wonderfall.space/vpn-mesusage/) qui est très clair sur ce sujet. Mon article est "une entrée en la matière" au sien de toute manière.
+Je vous conseille de lire l'[article de Wonderfall](https://wonderfall.space/vpn-mesusage/) qui est très clair sur ce sujet. Mon article est "une entrée en la matière" au sien de toute manière.
 
 ## En savoir plus & crédits
+
 - 🇫🇷️ [Les VPNs et leur mésusage - Wonderfall](https://wonderfall.space/vpn-mesusage/) (à lire absolument !)
 - 🇬🇧️ [Commercial VPN Use Cases](https://privsec.dev/posts/proxies/commercial-vpn-use-cases/) *(j’ai le même thème que son site web car c’est un thème publique et gratuit, ne soyez pas étonné)*
 - 🇫🇷️ [Services VPN - PrivacyGuides](https://www.privacyguides.org/fr/vpn/)

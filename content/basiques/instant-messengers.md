@@ -1,5 +1,5 @@
 ---
-title: "Les messageries instantanées et le chiffrement de bout en bout \U0001f910"
+title: "Les messageries instantanées et le chiffrement de bout en bout 🤐"
 date: 2022-08-08
 weight: 4
 ---
@@ -80,7 +80,7 @@ Je vous envoie sur les sites de la [CNIL](https://www.cnil.fr/fr/) pour en savoi
 
 ### Le hachage
 
-Le **hachage** est un procédé informatique par lequel on hache une donnée (un fichier, message, etc), de la même manière qu'un steak haché par exemple. On a donc ensuite le **fichier d'origine** et le **fichier haché**, qui est l'empreinte digitale numérique du fichier d'origine. Plusieurs algorithmes de hachage existent, voici le hash du mot `France` avec plusieurs algorithmes de hachage différents :
+Le **hachage** est un procédé informatique par lequel on hache une donnée (un fichier, un message, etc.), de la même manière qu'un steak haché par exemple. On a donc ensuite le **fichier d'origine** et le **fichier haché**, qui est l'empreinte digitale numérique du fichier d'origine. Plusieurs algorithmes de hachage existent, voici le hash du mot `France` avec plusieurs algorithmes de hachage différents :
 
 - **MD5 :** `0309a6c666a7a803fdb9db95de71cf01`
 - **SHA1 :** `e3772ac4b4db87b4a8dbfa59ef43cd1a8ad29515`
@@ -92,7 +92,7 @@ Si vous changez `France` en `france`, vous obtenez des résultats complètement 
 - **SHA1 :** `23e591e8c36dda987970603ad0fdd031b7dff9f9`
 - **SHA256 :** `2c598436e5575a5769b69986014588d52c2698414b623e81b2e776766c30eaba`
 
-Même si quelque chose de minime est changé, le **hash** (le résultat du hachage, aussi appelé **condensé** en français) sera complètement différent. Donc si Alice chiffre son message puis le hache, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'a pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
+Même si quelque chose de minime est changé, le **hash** (le résultat du hachage, aussi appelé **condensé** en français) sera complètement différent. Donc, si Alice chiffre son message puis le hache, elle enverra son message et le hash à Bob, et Bob n'aura plus qu'à lui aussi hacher le message et vérifier que c'est le même résultat que le hash envoyé par Alice. Si c'est le cas, le message n'a pas été modifié, sinon, Alice doit renvoyer son message (avec le hash).
 
 > Je précise tout de même que le hash d'un fichier sera toujours le même, sauf si vous changez ce fichier.
 
@@ -108,11 +108,11 @@ La **signature** permet de prouver qui est l'expéditeur d'un message.
 
 *La signature est un **hash** qui a été **chiffré** avec une **clé privée**.*
 
-Dans le cas des signatures, les clés privées servent à **chiffrer**, et les clés publiques servent à **déchiffrer**. 
+Dans le cas des signatures, les clés privées servent à **chiffrer**, et les clés publiques servent à **déchiffrer**.
 
-En effet, dans le cas des **messages**, Alice doit être la seule à pouvoir **déchiffrer** ses messages (grâce à une **clé privée**), mais tout le monde doit être en mesure de **chiffrer** un message pour lui envoyer (grâce à une **clé publique**). 
+En effet, dans le cas des **messages**, Alice doit être la seule à pouvoir **déchiffrer** ses messages (grâce à une **clé privée**), mais tout le monde doit être en mesure de **chiffrer** un message pour lui envoyer (grâce à une **clé publique**).
 
-Alors que dans le cas des **signatures**, on veut être en mesure que tout le monde puisse **déchiffrer** la signature (grâce à la **clé publique**) afin de vérifier le hash, mais Alice doit être la seule personne à pouvoir **chiffrer** ce hash (grâce à la **clé privée**), car c'est ce qui permet de prouver que c'est bien elle qui a signé ce message. Car rappelez-vous, ***la clé privée reste privée !*** 
+Alors que dans le cas des **signatures**, on veut être en mesure que tout le monde puisse **déchiffrer** la signature (grâce à la **clé publique**) afin de vérifier le hash, mais Alice doit être la seule personne à pouvoir **chiffrer** ce hash (grâce à la **clé privée**), car c'est ce qui permet de prouver que c'est bien elle qui a signé ce message. Car rappelez-vous, ***la clé privée reste privée !***
 
 > Si par malheur une personne volait **la clé privée d'Alice**, il serait en mesure de **déchiffrer** les messages d'Alice, mais également de faire croire que c'est bien Alice l'**expéditrice** du message !
 
@@ -120,7 +120,7 @@ Alors que dans le cas des **signatures**, on veut être en mesure que tout le mo
 
 1. Alice souhaite envoyer un message à Bob, elle va hacher son message et chiffrer ce hash avec **sa clé privée à elle**, cela donnera une signature. Elle utilisera ensuite **la clé publique de Bob** pour **chiffrer** son message. Elle envoie donc deux fichiers à Bob, le **message chiffré** et la **signature**.
 
-![signature verification](/instant-messengers/signature-verification.png#center)
+    ![signature verification](/instant-messengers/signature-verification.png#center)
 
 2. Bob va donc recevoir ces deux fichiers, il déchiffrera le message d'Alice grâce à **sa clé privée à lui**. Mais afin de s'assurer que le message a bien été envoyé par Alice, il va déchiffrer la signature avec **la clé publique d'Alice**, il obtiendra donc le hash initial du message. Bob n'a plus qu'à hacher le message reçu d'Alice et comparer ce hash avec celui envoyé par Alice.
 
@@ -141,7 +141,7 @@ Tant qu'on y est, "crypter" n'est pas français.
 - **Chiffrement** : chiffrer un message **grâce** à une clé.
 - **Déchiffrer** : déchiffrer un message **grâce** à une clé.
 - **Décrypter** : déchiffrer un message **sans** la clé (un hacker qui essayerait de découvrir le contenu du message par exemple).
-- **Crypter** : chiffrer un message **sans** la clé (???).
+- **Crypter** : chiffrer un message **sans** la clé (bon courage !).
 
 Je vous envoie sur ce site très bien fait qui explique les différences entre les termes :
 
@@ -159,7 +159,7 @@ J'en profite pour vous dire que vous devriez éviter un maximum les SMS, c'est p
 
 Par ailleurs, n'importe qui peut faire croire qu'il est l'auteur du message, et n'importe qui peut faire croire qu'il est le destinataire du message. Le [phishing](https://www.bejarano.io/sms-phishing/) est très présent sur les SMS, faites attention, car ils peuvent paraître légitimes et pourtant être frauduleux.
 
-Si vous ne pouvez pas vous passer des SMS, je vous conseille fortement d'utiliser [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) qui implémente du [chiffrement de bout en bout](https://www.gstatic.com/messages/papers/messages_e2ee.pdf) (grâce au **Signal Protocol**) pour ses utilisateurs (c'est à dire que comme pour toute application, l'autre personne doit également avoir Google Messages). Pour profiter de cette [fonctionnalité](https://support.google.com/messages/answer/10262381?hl=fr), vous devez aller dans les paramètres de Google Messages et activer les "[fonctionnalités de chats](https://support.google.com/messages/answer/7189714?hl=fr&ref_topic=9459217)", si votre interlocuteur a également activé les fonctionnalités de chat, votre conversation sera automatiquement chiffré de bout en bout.
+Si vous ne pouvez pas vous passer des SMS, je vous conseille fortement d'utiliser [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) qui implémente du [chiffrement de bout en bout](https://www.gstatic.com/messages/papers/messages_e2ee.pdf) (grâce au **Signal Protocol**) pour ses utilisateurs (c'est à dire que comme pour toute application, l'autre personne doit également avoir Google Messages). Pour profiter de cette [fonctionnalité](https://support.google.com/messages/answer/10262381?hl=fr), vous devez aller dans les paramètres de Google Messages et activer les "[fonctionnalités de chats](https://support.google.com/messages/answer/7189714?hl=fr&ref_topic=9459217)", si votre interlocuteur a également activé les fonctionnalités de chat, votre conversation sera automatiquement chiffré de bout en bout (normalement, c'est **activé par défaut**).
 
 ---
 
@@ -176,11 +176,11 @@ Partez du principe que quand vous envoyez un SMS, il peut être lu ***par n'impo
 Quand Alice envoie un message à Bob, l'application Messenger envoie le message **en clair** aux serveurs de Facebook. Ce message reste stocké **en clair** sur ce serveur. L'application Messenger de Bob va demander au serveur de voir le message, le serveur lui envoie une copie de ce message, et Bob sera en mesure de lire le message d'Alice.
 Le message d'Alice est toujours sur le serveur.
 
-Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés en clair sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vous étiez à la terrasse d'un café avec l'un de vos amis, et qu'au lieu de parler tranquillement, vous discutiez en hurlant. 
+Le problème est que sur Facebook Messenger, les messages ne sont pas chiffrés de bout en bout, et sont donc visibles par Facebook puisque les messages restent stockés en clair sur leurs serveurs. C'est une gigantesque intrusion à votre vie privée, et cela revient à la même chose que si vous étiez à la terrasse d'un café avec l'un de vos amis, et qu'au lieu de parler tranquillement, vous discutiez en hurlant.
 
 Ce n'est pas nouveau, Facebook Messenger a toujours été capable de lire vos messages, et on nous l'a [encore prouvé](https://www.lemonde.fr/pixels/article/2022/08/11/avortement-illegal-aux-etats-unis-facebook-critique-pour-avoir-fourni-a-la-justice-des-messages-prives_6137767_4408996.html) en août 2022.
 
-Une fonctionnalité appelée "[conversation secrète](https://www.facebook.com/help/1084673321594605/?locale=fr_FR)" (qui au passage, [utilise le "**Signal Protocol**"](https://about.fb.com/wp-content/uploads/2016/07/messenger-secret-conversations-technical-whitepaper.pdf#page=4)) est disponible sur Facebook. Cependant, Facebook collecte massivement vos métadonnées de cette "conversation secrète" (de la même manière que [WhatsApp](#whatsapp)) car le **Signal Protocol** ne garantit que la confidentialité des messages et non des métadonnées. 
+Une fonctionnalité appelée "[conversation secrète](https://www.facebook.com/help/1084673321594605/?locale=fr_FR)" (qui au passage, [utilise le "**Signal Protocol**"](https://about.fb.com/wp-content/uploads/2016/07/messenger-secret-conversations-technical-whitepaper.pdf#page=4)) est disponible sur Facebook. Cependant, Facebook collecte massivement vos métadonnées de cette "conversation secrète" (de la même manière que [WhatsApp](#whatsapp)) car le **Signal Protocol** ne garantit que la confidentialité (l'authenticité et l'intégrité évidemment) des messages et non des métadonnées.
 
 Je vous conseille quand même d'utiliser cette conversation secrète le temps que vous changiez pour [Signal](#signal).
 
@@ -222,13 +222,15 @@ De plus comme WhatsApp est relié à Facebook, Facebook connaît donc également
 - votre identité, l'identité de l'appareil
 - votre adresse IP
 
-Comme dirait [Edward Snowden](https://twitter.com/Snowden/status/661305566967562240) : 
+Comme dirait [Edward Snowden](https://twitter.com/Snowden/status/661305566967562240) :
 
 > Vous avez du mal à comprendre le terme "métadonnées" ? Remplacez-le avec le terme "Historique d'activité", parce que c'est ce que sont les métadonnées.
 
 Ces métadonnées sont [collectées par WhatsApp](https://www.lemonde.fr/pixels/article/2021/01/07/whatsapp-revoit-ses-conditions-d-utilisation-sur-le-partage-des-donnees-utilisateurs-avec-facebook_6065529_4408996.html) et [partagées avec Facebook](https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/).
 
-Les métadonnées sont [aussi importantes que les données](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes). Si vous êtes une femme et que vous parlez à un homme depuis quelques mois, et ce, tous les jours, on se doute que vous êtes en couple depuis peu. Si ensuite vous allez voir sur Facebook la page d'un restaurant, puis vous envoyez un message à vos parents, on suppose que vous allez présenter votre nouveau partenaire à vos parents. Dans les faits, c'est probablement encore plus simple, car on sous-estime énormément ce que sont les métadonnées.
+Les métadonnées sont [aussi importantes que les données](https://ssd.eff.org/fr/module/voici-pourquoi-les-m%C3%A9tadonn%C3%A9es-sont-importantes).
+
+> "Ils savent que vous avez reçu le courriel d’un service de test du VIH, que vous avez ensuite appelé votre docteur, puis visité le site Web d’un groupe de soutien pour les personnes atteintes du VIH, dans la même heure. Mais ils ne savent pas le contenu du courriel ni de quoi vous avez parlé au téléphone."
 
 Même si vos messages sur WhatsApp sont chiffrés, on n'a pas besoin de connaître le contenu des messages pour connaître votre vie.
 
@@ -240,11 +242,13 @@ Que vous soyez sur Android ou iOS, WhatsApp vous propose de sauvegarder vos mess
 
 Vous pouvez tout de même profiter de cette fonctionnalité en [activant la sauvegarde chiffrée de bout en bout](https://faq.whatsapp.com/629089898272226/). Je vous conseille de générer une clé de chiffrement à 64 chiffres comme le propose WhatsApp et de le sauvegarder dans votre [gestionnaire de mots de passe préféré](/fiches/bitwarden). Si vous oubliez ce mot de passe, il n'y a évidemment aucun moyen de récupérer vos messages, inscrivez-le dans un gestionnaire de mots de passe ! Je ne le dirais jamais assez !
 
+Cela dit, comme la sauvegarde chiffrée est optionnelle, ça veut dire que même si vous activez cette fonctionnalité, si vous discutez avec une personne qui a activé la sauvegarde automatique (**non** chiffrée), tous ses messages et sa clé de déchiffrement seront enregistrés dans le cloud, cela inclut donc vos messages... La sauvegarde chiffrée de bout en bout est donc inutile puisqu'elle est optionnelle (sauf si le destinataire a également activé la sauvegarde chiffrée chiffrement de bout en bout).
+
 ## Telegram
 
-[Telegram](https://telegram.org/?setln=fr) ne [propose pas](https://telegram.org/faq#q-why-not-just-make-all-chats-39secret-39) de chiffrement de bout en bout par défaut (comme Facebook Messenger). Les messages restent en clair sur leurs serveurs et sont donc visibles par Telegram.
+[Telegram](https://telegram.org/) ne [propose pas](https://telegram.org/faq#q-pourquoi-ne-pas-simplement-rendre-tous-les-echanges-secrets) de chiffrement de bout en bout par défaut (comme Facebook Messenger). Les messages restent en clair sur leurs serveurs et sont donc visibles par Telegram.
 
-De plus, Telegram utilise son propre protocole qui n'a pas été audité. Telegram est le seul à l'utiliser, ce protocole est propriétaire, on n'a donc aucune idée ce qu'il fait.
+De plus, Telegram utilise son propre protocole qui n'a pas été audité. Telegram est le seul à l'utiliser, ce protocole est propriétaire, on n'a donc aucune idée de ce qu'il fait.
 
 Des experts en sécurité ont trouvé [plusieurs failles](https://portswigger.net/daily-swig/multiple-encryption-flaws-uncovered-in-telegram-messaging-protocol) au protocole de Telegram.
 Un [chapitre en anglais](https://madaidans-insecurities.github.io/messengers.html#telegram) a déjà été écris concernant les problèmes de Telegram.
@@ -267,15 +271,17 @@ Signal est [open-source](https://github.com/signalapp) et a été [audité](http
 
 Beaucoup d'experts en sécurité ont toujours recommandé Signal.
 
+Depuis [Février 2024](https://www.signal.org/blog/phone-number-privacy-usernames/), une fonctionnalité attendue depuis plusieurs années a enfin été ajoutée, il s'agit des "usernames", c'est un nom d'utilisateur que vous choisissez suivi de deux chiffres que vous pouvez également choisir (`axolotl.99` par exemple). Vous vous créez toujours un compte avec un numéro de téléphone, mais maintenant, vous pouvez partager ce nom d'utilisateur que vous aurez choisi via un line ou un QR code à la place de votre numéro de téléphone, et le plus important, une fois que vous avez partagé ce nom d'utilisateur, la personne ne verra en aucun cas votre numéro de téléphone (si vous avez bien paramétré sur "**Personne**" dans "**Confidentialité > Numéro de téléphone**")
+
 Je ne suis pas un expert, mais je vous recommande Signal également, en plus c'est super simple à utiliser, vous avez autant de fonctionnalités que WhatsApp, voire plus.
 
 ### Comment convaincre votre entourage d'utiliser Signal
 
 Une [personne sur Internet](https://www.reddit.com/r/signal/comments/kwovyz/whatsapp_status_to_convince_your_family_friends/) a eu la gentillesse de créer un petit diaporama que vous pouvez mettre sur votre status WhatsApp pour que puissiez convaincre votre entourage d'utiliser Signal au lieu de WhatsApp (vous pouvez aussi juste partager ce diaporama directement par message via [ce lien](https://imgbox.com/g/5Po0sskqve)).
 
-Pour ce faire, allez sur **WhatsApp** :
+Pour ce faire, allez sur **WhatsApp** :
 
-- Allez dans vos paramètres de confidentialité, et vérifiez que le status WhatsApp est visible par tout le monde.
+- Allez dans vos paramètres de confidentialité, et vérifiez que le status WhatsApp soit visible par tout le monde.
 - Téléchargez le [fichier zip](/instant-messengers/FR+(EU).zip) sur votre téléphone.
 - Allez dans le dossier décompressé et sélectionnez dans l'ordre les images une par une.
 - Une fois que vous les avez toutes sélectionné, cliquez sur le bouton **Partagez**.
@@ -285,7 +291,7 @@ Pour ce faire, allez sur **WhatsApp** :
 
 ## Conclusion
 
-Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit **authenticité**, **intégrité** et **confidentialité**. J'ai écris un [guide d'utilisation](/fiches/signal) pour ceux qui veulent. 
+Utilisez [Signal](https://www.signal.org/fr/#signal). Le "[Signal Protocol](https://www.signal.org/docs/)" garantit **authenticité**, **intégrité** et **confidentialité**. J'ai écris un [guide d'utilisation](/fiches/signal) pour ceux qui veulent.
 
 *Je tiens à préciser que le "Signal Protocol" a bien été créé par Signal.*
 
@@ -297,7 +303,7 @@ Si vous souhaitez une liste bête et méchante :
 
 1. [Signal](https://www.signal.org/fr/) car chiffrement de bout en bout (Signal Protocol) + protection des métadonnées, le tout par défaut.
 
-  > Signal devrait être votre choix par défaut si vous souhaitez communiquer avec votre entourage. Même si vous utilisez actuellement WhatsApp, je vous conseille quand même de passer à Signal.
+    > Signal devrait être votre choix par défaut si vous souhaitez communiquer avec votre entourage. Même si vous utilisez actuellement WhatsApp, je vous conseille quand même de passer à Signal.
 
 **La moyenne :**
 
@@ -333,6 +339,7 @@ Si vous souhaitez une liste bête et méchante :
 - 🇬🇧️ [What's Up With Group Messaging? - Computerphile](https://www.youtube.com/watch?v=Q0_lcKrUdWg)
 - 🇬🇧️ [Messengers - Madaidan](https://madaidans-insecurities.github.io/messengers.html)
 - 🇬🇧️ [Best Secure Messaging App | FBI Document Leaked - Side of Burritos](https://www.youtube.com/watch?v=wj-aR96FOA0)
+- 🇬🇧️ [Never will I ever recommend Telegram again - Simon](https://tgrush.bearblog.dev/never-will-i-ever-recommend-telegram-again/)
 - [Les alternatives 📚️ # Les messageries instantanées - SimplePrivacy](/alternatives/apps/#les-messageries-instantanées)
 
 ### Sur les métadonnées

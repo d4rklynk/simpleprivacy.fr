@@ -18,7 +18,7 @@ Sur le web vault (ou "coffre web" en bon français) :
 
 ![outils.png](/renforcement-bitwarden/outils.png)
 
-- Dans le menu déroulant, choisissez `".json (Encrypted)"` puis sélectionnez `"Protégé par mot de passe"`, rentrez le mot de passe que vous souhaitez, mais notez-le temporairement juste le temps de faire la [Modification de la clé](#modification-de-la-cle) dans le chapitre suivant. On chiffre le base de données pour éviter qu'elle soit téléchargé en clair sur le disque, car même supprimé, on pourrait retrouver l’entièreté de vos mot de passe.
+- Dans le menu déroulant, choisissez `".json (Encrypted)"` puis sélectionnez `"Protégé par mot de passe"`, rentrez le mot de passe que vous souhaitez, mais notez-le temporairement juste le temps de faire la [Modification de la clé](#modification-de-la-clé) dans le chapitre suivant. On chiffre le base de données pour éviter qu'elle soit téléchargé en clair sur le disque, car même supprimé, on pourrait retrouver l’entièreté de vos mot de passe.
 
 ![export.png](/renforcement-bitwarden/export.png)
 
