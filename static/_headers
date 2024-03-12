@@ -31,3 +31,15 @@
   Cross-Origin-Resource-Policy : same-origin
   Cross-Origin-Embedder-Policy : require-corp
   Cross-Origin-Opener-Policy : same-origin
+
+/bimi.svg
+  Content-Security-Policy : default-src 'none'; img-src 'self'; style-src 'self'; form-action 'none'; frame-src 'none'; frame-ancestors 'none'; upgrade-insecure-requests; webrtc 'block'; base-uri 'none'; manifest-src 'self'; require-trusted-types-for 'script'; trusted-types 'none'
+  Referrer-Policy : no-referrer
+  X-Content-Type-Options : nosniff
+  X-Frame-Options : DENY
+  X-XSS-Protection: 0
+  Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), bluetooth=(), camera=(), clipboard-read=(), clipboard-write=(), display-capture=(), document-domain=(), encrypted-media=(), fullscreen=(), gamepad=(), geolocation=(), gyroscope=(), hid=(), idle-detection=(), interest-cohort=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), serial=(), speaker-selection=(), sync-xhr=(), usb=(), xr-spatial-tracking=()  
+  Cross-Origin-Resource-Policy : cross-origin
+  Cross-Origin-Embedder-Policy : require-corp
+  Cross-Origin-Opener-Policy : same-origin
+  Cache-Control : public; max-age=604800
