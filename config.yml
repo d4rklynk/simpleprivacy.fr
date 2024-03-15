@@ -49,14 +49,13 @@ params:
     disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
     favicon: "/favicon.ico"
-    favicon16x16: "/favicon-16x16.png"
-    favicon32x32: "/favicon-32x32.png"
-    apple_touch_icon: "/apple-touch-icon.png"
-    safari_pinned_tab: "/safari-pinned-tab.svg"
-    site_webmanifest: "/site.webmanifest"
-    theme_color: "#1f2125"
-    msapplication_TileColor: "#1f2125"
-    mask_icon: "#a2adc0"
+    faviconSVG: "/favicon.svg"
+    appleTouchIcon: "/apple-touch-icon.png"
+    maskIcon: "/mask-icon.svg"
+    webmanifest: "/site.webmanifest"
+    themeColor: "#1f2125"
+    msapplicationTileColor: "#1f2125"
+    maskIconColor: "#a2adc0"
 
   label:
     text: "Accueil"

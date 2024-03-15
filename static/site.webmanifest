@@ -15,6 +15,5 @@
     ],
     "theme_color": "#1f2125",
     "background_color": "#1f2125",
-    "start_url": "https://simpleprivacy.fr",
     "display": "standalone"
 }
