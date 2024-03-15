@@ -52,7 +52,7 @@ params:
     faviconSVG: "/favicon.svg"
     appleTouchIcon: "/apple-touch-icon.png"
     maskIcon: "/mask-icon.svg"
-    webmanifest: "/site.webmanifest"
+    webmanifest: "/manifest.webmanifest"
     themeColor: "#1f2125"
     msapplicationTileColor: "#1f2125"
     maskIconColor: "#a2adc0"
