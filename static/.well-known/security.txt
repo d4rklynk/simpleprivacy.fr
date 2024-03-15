@@ -3,7 +3,7 @@ Hash: SHA512
 
 Contact: mailto:contact@simpleprivacy.fr
 Expires: 2024-11-27T20:00:00.000Z
-Encryption: https://simpleprivacy.fr/public-pgp-key.asc
+Encryption: https://simpleprivacy.fr/pub-key.txt
 Preferred-Languages: fr, en
 Canonical: https://simpleprivacy.fr/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
