@@ -59,7 +59,7 @@ params:
 
   label:
     text: "Accueil"
-    icon: "/favicon-32x32.png"
+    icon: "/favicon.svg"
     iconHeight: 32
 
   # profile-mode
