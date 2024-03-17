@@ -348,3 +348,4 @@ Gardez bien ces quatres règles en tête :
 - [Les alternatives 📚️ # Les gestionnaires de mots de passe - SimplePrivacy](/alternatives/apps/#les-gestionnaires-de-mots-de-passe)
 - 🇬🇧️ [The quest for a family-friendly password manager - Julien Voisin](https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html)
 - 🇫🇷️ [Recommandations relatives à l'authentification multifacteur et aux mots de passe - ANSSI](https://cyber.gouv.fr/publications/recommandations-relatives-lauthentification-multifacteur-et-aux-mots-de-passe)
+- 🇫🇷 [Cyberattaques : Mots de passe toujours épargnés ? Démos ludiques et explications ! - Adrien Linuxtricks](https://www.youtube-nocookie.com/embed/hndVWRt5XR0)
