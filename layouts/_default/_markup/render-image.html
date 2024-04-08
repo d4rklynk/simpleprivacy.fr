@@ -21,6 +21,9 @@
   <source type="image/webp" srcset="{{ $image }}.webp?nf_resize=fit&w=1024" media="(max-width: 1024px)">
   <source type="image/webp" srcset="{{ $image }}.webp?nf_resize=fit&w=1440" media="(max-width: 1440px)">
   
-  <!-- Fallback to PNG format -->
-  <img src="{{ $image }}?nf_resize=fit&w=1920" alt="{{ $alt }}" {{ with $title }}title="{{ $title }}"{{ end }} loading="lazy">
+  <!-- Fallback to PNG format if none of the preferred formats are found -->
+  <source type="image/png" srcset="{{ $image }}.png?nf_resize=fit&w=1920">
+  
+  <!-- Fallback to JPG format if PNG is not found -->
+  <img src="{{ $image }}.jpg?nf_resize=fit&w=1920" alt="{{ $alt }}" {{ with $title }}title="{{ $title }}"{{ end }} loading="lazy">
 </picture>
