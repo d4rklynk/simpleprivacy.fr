@@ -132,7 +132,7 @@ La **signature digitale** garantit à la fois l'**authenticité** et l'**intégr
 
 Une vidéo en anglais est disponible sur YouTube pour comprendre la signature digitale :
 
-- [What are Digital Signatures? - Computerphile](https://www.youtube.com/watch?v=s22eJ1eVLTU)
+- [What are Digital Signatures? - Computerphile](https://www.youtube-nocookie.com/embed/s22eJ1eVLTU)
 
 ## On dit chiffrer, et pas crypter
 
@@ -328,17 +328,17 @@ Si vous souhaitez une liste bête et méchante :
 - 🇫🇷️ [Sécurité : Chiffrer, garantir l’intégrité ou signer - CNIL](https://www.cnil.fr/fr/securite-chiffrer-garantir-lintegrite-ou-signer)
 - 🇫🇷️ [Comprendre les grands principes de la cryptologie et du chiffrement- CNIL](https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement)
 - 🇫🇷️ [On dit chiffrer, et pas crypter - Max](https://chiffrer.info/)
-- 🇬🇧️ [End to End Encryption (E2EE) - Computerphile](https://www.youtube.com/watch?v=jkV1KEJGKRA)
-- 🇬🇧️ [Secret Key Exchange (Diffie-Hellman) - Computerphile](https://www.youtube.com/watch?v=NmM9HA2MQGI)
-- 🇬🇧️ [Double Ratchet Messaging Encryption - Computerphile](https://www.youtube.com/watch?v=9sO2qdTci-s)
-- 🇬🇧️ [What are Digital Signatures? - Computerphile](https://www.youtube.com/watch?v=s22eJ1eVLTU)
+- 🇬🇧️ [End to End Encryption (E2EE) - Computerphile](https://www.youtube-nocookie.com/embed/jkV1KEJGKRA)
+- 🇬🇧️ [Secret Key Exchange (Diffie-Hellman) - Computerphile](https://www.youtube-nocookie.com/embed/NmM9HA2MQGI)
+- 🇬🇧️ [Double Ratchet Messaging Encryption - Computerphile](https://www.youtube-nocookie.com/embed/9sO2qdTci-s)
+- 🇬🇧️ [What are Digital Signatures? - Computerphile](https://www.youtube-nocookie.com/embed/s22eJ1eVLTU)
 
 ### Sur les messageries instantanées
 
-- 🇬🇧️ [How Signal Instant Messaging Protocol Works (& WhatsApp etc) - Computerphile](https://www.youtube.com/watch?v=DXv1boalsDI)
-- 🇬🇧️ [What's Up With Group Messaging? - Computerphile](https://www.youtube.com/watch?v=Q0_lcKrUdWg)
+- 🇬🇧️ [How Signal Instant Messaging Protocol Works (& WhatsApp etc) - Computerphile](https://www.youtube-nocookie.com/embed/DXv1boalsDI)
+- 🇬🇧️ [What's Up With Group Messaging? - Computerphile](https://www.youtube-nocookie.com/embed/Q0_lcKrUdWg)
 - 🇬🇧️ [Messengers - Madaidan](https://madaidans-insecurities.github.io/messengers.html)
-- 🇬🇧️ [Best Secure Messaging App | FBI Document Leaked - Side of Burritos](https://www.youtube.com/watch?v=wj-aR96FOA0)
+- 🇬🇧️ [Best Secure Messaging App | FBI Document Leaked - Side of Burritos](https://www.youtube-nocookie.com/embed/wj-aR96FOA0)
 - 🇬🇧️ [Never will I ever recommend Telegram again - Simon](https://tgrush.bearblog.dev/never-will-i-ever-recommend-telegram-again/)
 - [Les alternatives 📚️ # Les messageries instantanées - SimplePrivacy](/alternatives/apps/#les-messageries-instantanées)
 
