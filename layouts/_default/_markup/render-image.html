@@ -4,26 +4,45 @@
 
 <picture>
   <!-- JXL format -->
-  <source type="image/jxl" srcset="{{ $image }}.jxl?nf_resize=fit&w=320" media="(max-width: 480px)">
-  <source type="image/jxl" srcset="{{ $image }}.jxl?nf_resize=fit&w=640" media="(max-width: 768px)">
-  <source type="image/jxl" srcset="{{ $image }}.jxl?nf_resize=fit&w=1024" media="(max-width: 1024px)">
-  <source type="image/jxl" srcset="{{ $image }}.jxl?nf_resize=fit&w=1440" media="(max-width: 1440px)">
-  
+  {{ $jxl := printf "%s.jxl" $image }}
+  {{ $jxlResized := resources.Get $jxl }}
+  {{ if $jxlResized }}
+    <source type="image/jxl" srcset="{{ $jxlResized.RelPermalink }}?nf_resize=fit&w=320" media="(max-width: 480px)">
+    <source type="image/jxl" srcset="{{ $jxlResized.RelPermalink }}?nf_resize=fit&w=640" media="(max-width: 768px)">
+    <source type="image/jxl" srcset="{{ $jxlResized.RelPermalink }}?nf_resize=fit&w=1024" media="(max-width: 1024px)">
+    <source type="image/jxl" srcset="{{ $jxlResized.RelPermalink }}?nf_resize=fit&w=1440" media="(max-width: 1440px)">
+  {{ end }}
+
   <!-- AVIF format -->
-  <source type="image/avif" srcset="{{ $image }}.avif?nf_resize=fit&w=320" media="(max-width: 480px)">
-  <source type="image/avif" srcset="{{ $image }}.avif?nf_resize=fit&w=640" media="(max-width: 768px)">
-  <source type="image/avif" srcset="{{ $image }}.avif?nf_resize=fit&w=1024" media="(max-width: 1024px)">
-  <source type="image/avif" srcset="{{ $image }}.avif?nf_resize=fit&w=1440" media="(max-width: 1440px)">
-  
+  {{ $avif := printf "%s.avif" $image }}
+  {{ $avifResized := resources.Get $avif }}
+  {{ if $avifResized }}
+    <source type="image/avif" srcset="{{ $avifResized.RelPermalink }}?nf_resize=fit&w=320" media="(max-width: 480px)">
+    <source type="image/avif" srcset="{{ $avifResized.RelPermalink }}?nf_resize=fit&w=640" media="(max-width: 768px)">
+    <source type="image/avif" srcset="{{ $avifResized.RelPermalink }}?nf_resize=fit&w=1024" media="(max-width: 1024px)">
+    <source type="image/avif" srcset="{{ $avifResized.RelPermalink }}?nf_resize=fit&w=1440" media="(max-width: 1440px)">
+  {{ end }}
+
   <!-- WebP format -->
-  <source type="image/webp" srcset="{{ $image }}.webp?nf_resize=fit&w=320" media="(max-width: 480px)">
-  <source type="image/webp" srcset="{{ $image }}.webp?nf_resize=fit&w=640" media="(max-width: 768px)">
-  <source type="image/webp" srcset="{{ $image }}.webp?nf_resize=fit&w=1024" media="(max-width: 1024px)">
-  <source type="image/webp" srcset="{{ $image }}.webp?nf_resize=fit&w=1440" media="(max-width: 1440px)">
-  
-  <!-- Fallback to PNG format if none of the preferred formats are found -->
-  <source type="image/png" srcset="{{ $image }}.png?nf_resize=fit&w=1920">
-  
-  <!-- Fallback to JPG format if PNG is not found -->
+  {{ $webp := printf "%s.webp" $image }}
+  {{ $webpResized := resources.Get $webp }}
+  {{ if $webpResized }}
+    <source type="image/webp" srcset="{{ $webpResized.RelPermalink }}?nf_resize=fit&w=320" media="(max-width: 480px)">
+    <source type="image/webp" srcset="{{ $webpResized.RelPermalink }}?nf_resize=fit&w=640" media="(max-width: 768px)">
+    <source type="image/webp" srcset="{{ $webpResized.RelPermalink }}?nf_resize=fit&w=1024" media="(max-width: 1024px)">
+    <source type="image/webp" srcset="{{ $webpResized.RelPermalink }}?nf_resize=fit&w=1440" media="(max-width: 1440px)">
+  {{ end }}
+
+  <!-- PNG format -->
+  {{ $png := printf "%s.png" $image }}
+  {{ $pngResized := resources.Get $png }}
+  {{ if $webpResized }}
+    <source type="image/png" srcset="{{ $pngResized.RelPermalink }}?nf_resize=fit&w=320" media="(max-width: 480px)">
+    <source type="image/png" srcset="{{ $pngResized.RelPermalink }}?nf_resize=fit&w=640" media="(max-width: 768px)">
+    <source type="image/png" srcset="{{ $pngResized.RelPermalink }}?nf_resize=fit&w=1024" media="(max-width: 1024px)">
+    <source type="image/png" srcset="{{ $pngResized.RelPermalink }}?nf_resize=fit&w=1440" media="(max-width: 1440px)">
+  {{ end }}
+
+  <!-- Fallback to JPG format -->
   <img src="{{ $image }}.jpg?nf_resize=fit&w=1920" alt="{{ $alt }}" {{ with $title }}title="{{ $title }}"{{ end }} loading="lazy">
 </picture>
