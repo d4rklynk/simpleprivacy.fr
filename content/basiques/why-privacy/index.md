@@ -5,6 +5,7 @@ weight: 1
 ---
 
 ![Camera images](cameras.jpg)
+
 La vie privée est un droit inhérent à tous. Cela consiste à garder certaines choses pour soi : vous ne voulez pas par exemple que votre employeur sache que vous avez des problèmes médicaux, cependant vous voulez quand même que votre médecin ou votre famille soit au courant.
 
 Le concept de vie privée reste propre à chacun, et les limites varient selon les personnes ou les cultures.

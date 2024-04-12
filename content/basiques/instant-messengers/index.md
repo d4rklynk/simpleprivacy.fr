@@ -242,7 +242,7 @@ Que vous soyez sur Android ou iOS, WhatsApp vous propose de sauvegarder vos mess
 
 Vous pouvez tout de même profiter de cette fonctionnalité en [activant la sauvegarde chiffrée de bout en bout](https://faq.whatsapp.com/629089898272226/). Je vous conseille de générer une clé de chiffrement à 64 chiffres comme le propose WhatsApp et de le sauvegarder dans votre [gestionnaire de mots de passe préféré](/fiches/bitwarden). Si vous oubliez ce mot de passe, il n'y a évidemment aucun moyen de récupérer vos messages, inscrivez-le dans un gestionnaire de mots de passe ! Je ne le dirais jamais assez !
 
-Cela dit, comme la sauvegarde chiffrée est optionnelle, ça veut dire que même si vous activez cette fonctionnalité, si vous discutez avec une personne qui a activé la sauvegarde automatique (**non** chiffrée), tous ses messages et sa clé de déchiffrement seront enregistrés dans le cloud, cela inclut donc vos messages... La sauvegarde chiffrée de bout en bout est donc inutile puisqu'elle est optionnelle (sauf si le destinataire a également activé la sauvegarde chiffrée chiffrement de bout en bout).
+Cela dit, comme la sauvegarde chiffrée est optionnelle, cela veut dire que même si vous activez cette fonctionnalité, lorsque vous discutez avec une personne qui a activé la sauvegarde automatique (**non** chiffrée), tous ses messages et sa clé de déchiffrement seront enregistrés dans le cloud incluant donc vos messages... La sauvegarde chiffrée de bout en bout est par conséquent inutile puisqu'elle est optionnelle (sauf si le destinataire a également activé la sauvegarde chiffrée chiffrement de bout en bout).
 
 ## Telegram
 
