@@ -1,5 +1,8 @@
 [build.environment]
   HUGO_VERSION = "0.124.1"
+  NODE_ENV = "production"
+  GO_VERSION = "1.22.2"
+  TZ = "Europe/Paris"  # Set to preferred timezone
 
 [context.deploy-preview]
   command = "sed -i 's/! Content-Security-Policy//g' static/_headers && hugo --minify -b $DEPLOY_PRIME_URL"
