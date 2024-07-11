@@ -246,7 +246,7 @@ Cela dit, comme la sauvegarde chiffrée est optionnelle, cela veut dire que mêm
 
 ## Telegram
 
-[Telegram](https://telegram.org/) ne [propose pas](https://telegram.org/faq#q-pourquoi-ne-pas-simplement-rendre-tous-les-echanges-secrets) de chiffrement de bout en bout par défaut (comme Facebook Messenger). Les messages restent en clair sur leurs serveurs et sont donc visibles par Telegram.
+[Telegram](https://telegram.org/) ne [propose pas](https://telegram.org/faq?setln=fr#q-pourquoi-ne-pas-simplement-rendre-tous-les-echanges-secrets) de chiffrement de bout en bout par défaut (comme Facebook Messenger). Les messages restent en clair sur leurs serveurs et sont donc visibles par Telegram.
 
 De plus, Telegram utilise son propre protocole qui n'a pas été audité. Telegram est le seul à l'utiliser, ce protocole est propriétaire, on n'a donc aucune idée de ce qu'il fait.
 
