@@ -153,11 +153,6 @@ menu:
       name: Blog
       url: https://samsepi0l.dev
       weight: 50
-    - identifier: Services
-      name: Services
-      url: https://services.simpleprivacy.fr
-      weight: 60
-
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
