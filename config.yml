@@ -25,6 +25,7 @@ params:
   author: samsepi0l
   # author: ["Me", "You"] # multiple authors
   images: ["/simpleprivacy_banner.jpg"]
+  social: true
   DateFormat: "2 January 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
