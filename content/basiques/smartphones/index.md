@@ -189,7 +189,7 @@ Pour réitérer :
 - Utilisez un code PIN de 6 chiffres minimum, mais 8 chiffres ou plus est recommandé.
 - Installez GrapheneOS sur votre Google Pixel.
 - Achetez uniquement des téléphones neufs ou quasi-neufs. N'achetez pas de téléphones qui ne sont plus supportés.
-- Si vous avez acheté un autre téléphone, revendez-le (surtout si c'est un Fairphone) et achetez un Google Pixel 6/6a/6 Pro minimum (ou un iPhone).
+- Si vous avez acheté un autre téléphone, revendez-le (surtout si c'est un Fairphone) et achetez un Google Pixel 8/8a/8 Pro minimum (ou un iPhone).
 - Si vous avez acheté des antivirus (ou d'autres applications comme CCleaner), arrêtez ces abonnements, car vous jetez littéralement de l'argent par les fenêtres. Puis achetez un smartphone récent grâce aux économies que vous aurez faites. (Car il est plus sécurisé d'utiliser un smartphone récent et mis à jour régulièrement qu'un vieux téléphone doté d'un antivirus.)
 
 ---
