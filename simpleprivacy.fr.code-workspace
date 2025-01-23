@@ -4,7 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {},
+	"settings": {
+		"cSpell.language": "fr,en"
+	},
 	"extensions": {
 		"recommendations": [
 			"streetsidesoftware.code-spell-checker-french",
