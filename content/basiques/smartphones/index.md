@@ -17,12 +17,12 @@ Pour les smartphones, je vous recommande uniquement un [iPhone](https://wonderfa
 
 N'achetez **PAS** de Google Pixel chez votre fournisseur d'accès à Internet (Orange, Free, SFR, Bouygues). Le téléphone est bloqué et vous ne pouvez pas déverrouiller le bootloader comme expliqué plus loin dans [le chapitre dédié](#bootloader). Achetez **toujours** votre téléphone dans les magasins comme la Fnac, Boulanger, Amazon, etc.
 
-Alors oui, je vous voir venir, mais si je vous recommande uniquement ces deux smartphones, c'est parce qu'ils sont les plus sécurisés du marché. Par exemple, vous pouvez mettre un code PIN à 4 chiffres sur ces téléphones (iPhone et Google Pixel), que ça prendrait des dizaines d'années à cracker (normalement, ça prend beaucoup moins de temps sur d'autres marques de téléphones).
+Alors oui, je vous voir venir, mais si je vous recommande uniquement ces deux smartphones, c'est parce qu'ils sont les plus sécurisés du marché. Par exemple, vous pouvez mettre un code PIN à 4 chiffres sur ces téléphones (iPhone et Google Pixel), que ça prendrait des dizaines d'années à cracker.
 
-Les Google Pixel, à partir du 6, ont [**5 ans de support**](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures) minimum.
+Les Google Pixel, à partir du 8, ont [**7 ans de support**](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures).
 
 Je vous épargne les détails techniques, mais pour faire très simple, les Google Pixel ne sont pas juste "un peu mieux sécurisés" que les autres marques, ils sont ***excellents en terme de sécurité.***
-Je vous conseille donc très fortement de ne rester qu'avec un Google Pixel.
+Je vous conseille donc très fortement de ne rester qu'avec un Google Pixel (c'est encore mieux si vous installez [GrapheneOS](https://grapheneos.org/) dessus).
 
 - [Google Pixel : Android done right - Wonderfall](https://wonderfall.space/modele-securite-mobile/#google-pixel-android-done-right) (français)
 - [iOS : chez Apple, la prison dorée - Wonderfall](https://wonderfall.space/modele-securite-mobile/#ios-chez-apple-la-prison-dor-e) (français)
@@ -31,7 +31,7 @@ Je vous conseille donc très fortement de ne rester qu'avec un Google Pixel.
 
 ### Le problème de confiance
 
-Il faut comprendre également que sur tous les smartphones Android qui contiennent les applications Google, vous avez une application appelée "`Services Google Play`". Cette application permet de faire beaucoup de choses, cependant, elle a accès à toutes les permissions du téléphone, même les plus sensibles, et sont irrévocables. C'est à cause de cette application que les problèmes de vie privée apparaissent. Android en lui-même n'est pas un problème, c'est l'ajout des applications de Google, et notamment des "`Services Google Play`" qui fait d'Android un cauchemar pour votre vie privée.
+Il faut comprendre également que sur tous les smartphones Android qui contiennent les applications Google, il y a une application appelée "`Services Google Play`". Cette application permet de faire beaucoup de choses (typiquement, elle vous permet de recevoir vos notifications), cependant, elle a accès à toutes les permissions du téléphone, même les plus sensibles, et sont irrévocables. C'est à cause de cette application que les problèmes de vie privée apparaissent. Android en lui-même n'est pas un problème, c'est l'ajout des applications de Google, et notamment des "`Services Google Play`" qui fait d'Android un cauchemar pour votre vie privée.
 
 Si vous achetez un Samsung par exemple, cela veut dire que vous faites confiance à Google (à cause des `Services Google Play`) **ET** à Samsung pour vos données. Il est donc logique de réduire cette confiance à une seule entité et donc de prendre un Google Pixel.
 
@@ -39,14 +39,14 @@ Si vous achetez un Samsung par exemple, cela veut dire que vous faites confiance
 
 ### AOSP et firmware
 
-Je vous conseille de prendre un smartphone neuf, c'est à dire encore supporté par le constructeur, voici pourquoi :
+Je vous conseille de prendre un smartphone neuf, c'est à dire encore supporté par le constructeur, voici pourquoi :
 
-Deux types de mises à jour sont à faire sur un matériel informatique :
+Deux types de mises à jour sont à faire sur un matériel informatique :
 
 - la partie **logicielle**
 - la partie **firmware**
 
-La partie **logicielle** est le **système d'exploitation**, donc Android. Mais cela s'applique également à IOS et aux PC avec Windows, MacOS, Linux, ChromeOS, etc. La partie **firmware**, également appelée micrologiciel en français, est un mini-système d'exploitation pour les composants du matériel (la carte mère, la carte réseau, etc.). Ce n'est pas comme un pilote pour ceux ou celles qui se poseraient la question. Pour faire très simple, le firmware est le manuel d'utilisation des composants pour le système d'exploitation.
+La partie **logicielle** est le **système d'exploitation**, donc Android. Mais cela s'applique également à IOS et aux PC avec Windows, MacOS, Linux, ChromeOS, etc. La partie **firmware**, également appelée micrologiciel en français, est un mini-système d'exploitation pour les composants du matériel (la carte mère, la carte réseau, etc.). Ce n'est pas comme un pilote pour ceux ou celles qui se poseraient la question. Pour faire très simple, le firmware est le manuel d'utilisation des composants physiques pour le système d'exploitation.
 
 Je vais rapidement vous expliquer Android pour que vous compreniez bien. Voici un schéma qui vous explique le projet **AOSP** :
 
@@ -66,17 +66,17 @@ Dites-vous qu'AOSP, c'est comme une recette de cuisine, tout le monde connaît c
 
 Comprenez bien que si vous souhaitez installer LineageOS sur votre téléphone, cela veut dire que vous supprimez le système d'exploitation de votre téléphone. En gros, si vous allumez votre téléphone après avoir supprimé le système d'exploitation de Samsung par exemple, vous ne pourrez plus démarrer votre téléphone, car il n'y aura rien à démarrer ! Sauf si vous installez LineageOS juste après, évidemment 😁.
 
-Si vous changer le système d'exploitation de votre téléphone Android avec un autre Android, imaginons par exemple que vous avez un Samsung et que vous souhaitez installer LineageOS à la place de OneUI, vous pourrez en effet toujours bénéficier des mises à jour d'Android (grâce aux bénévoles de LineageOS) même si Samsung a arrêté le support de votre smartphone. Cependant, le firmware ne pourra jamais être mise à jour, car uniquement Samsung peut le faire ! C'est un énorme risque de sécurité qui ne devrait pas être pris à la légère !
+Si vous changer le système d'exploitation de votre téléphone Android avec un autre Android, imaginons par exemple que vous avez un Samsung et que vous souhaitez installer LineageOS à la place de OneUI (la surcouche Android de Samsung), vous pourrez en effet toujours bénéficier des mises à jour d'Android (grâce aux bénévoles de LineageOS) même si Samsung a arrêté le support de votre smartphone. Cependant, le firmware ne pourra jamais être mise à jour, car uniquement Samsung peut le faire ! C'est un énorme risque de sécurité qui ne devrait pas être pris à la légère !
 
 Le firmware, pour expliquer grossièrement, ne fait pas parti du système d'exploitation d'Android. C'est le mini-système d'exploitation des composants intégrés à votre téléphone.
 
 > Si le firmware n'est pas mis à jour, de grosses failles de sécurités peuvent survenir. Un smartphone qui n'est plus supporté par les constructeurs est complètement vulnérable !
 
-C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même de prendre au minimum un Google Pixel 6 (ou 6 pro, ou 6a), car tous les Google Pixel à partir du 6, bénéficieront de [5 ans de mises à jour de sécurité](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures), et [7 ans à partir des séries 8](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures%2Cpixel-et-pro) !
+C'est pour cela que je vous recommande un Google Pixel. Je vous conseille même de prendre au minimum un Google Pixel 8 (ou 8 pro, ou 8a), car tous les Google Pixel à partir du 8, bénéficieront de [7 ans de mises à jour de sécurité](https://support.google.com/pixelphone/answer/4457705?hl=fr#zippy=%2Ct%C3%A9l%C3%A9phones-pixel-et-versions-ult%C3%A9rieures) !
 
 ---
 
-Cependant, je vous **DÉCONSEILLE** d'[installer LineageOS](https://madaidans-insecurities.github.io/android.html#lineageos) sur votre téléphone, car vous devez [déverrouiller le bootloader](https://madaidans-insecurities.github.io/android.html#unlocking-the-bootloader), et cela détruit tout le modèle de sécurité d'Android. Je vous conseille soit de garder l'Android que vous avez par défaut, ou alors d'installer [GrapheneOS](https://grapheneos.org/install/web), car vous pouvez reverrouiller le bootloader.
+Cependant, je vous **DÉCONSEILLE** d'[installer LineageOS](https://madaidans-insecurities.github.io/android.html#lineageos) sur votre téléphone, car vous devez [déverrouiller le bootloader](https://madaidans-insecurities.github.io/android.html#unlocking-the-bootloader) et vous ne pouvez pas le reverrouiller, et cela détruit tout le modèle de sécurité d'Android. Je vous conseille soit de garder l'Android que vous avez par défaut, ou alors d'installer [GrapheneOS](https://grapheneos.org/install/web), car vous pouvez reverrouiller le bootloader.
 
 ---
 
@@ -88,7 +88,7 @@ Si vous déverrouillez votre bootloader, AVB sera désactivé, et donc vous aure
 
 Vous ne pouvez pas reverrouiller votre smartphone avec LineageOS, mais vous pouvez cependant le faire avec GrapheneOS ! Ne vous inquiétez pas, l'installation de GrapheneOS est moins compliqué qu'il n'y paraît 😉, et tout fonctionnera pareil que d'habitude (mais en plus sécurisé).
 
-Si vous souhaitez l'installer, vous devez posséder un Google Pixel (quelqu'il soit, de préférence à partir des Pixel 6 pour bénéficier des 5 ans de mises à jour), puis vous devez [suivre les instructions](https://grapheneos.org/install/web) sur leur site web (ne sautez pas d'étapes, suivez les instructions à la lettre, et ça fonctionnera).
+Si vous souhaitez l'installer, vous devez posséder un Google Pixel (quelqu'il soit, de préférence à partir des Pixel 8 pour bénéficier des 7 ans de mises à jour), puis vous devez [suivre les instructions](https://grapheneos.org/install/web) sur leur site web (ne sautez pas d'étapes, suivez les instructions à la lettre, et ça fonctionnera).
 
 ### Antivirus
 
@@ -106,24 +106,22 @@ Vous pouvez, en complément, utiliser l'empreinte digitale, cela évitera que le
 
 ## Le problème des prix
 
-Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 6a ou le Google Pixel 7a. Il y a beaucoup de réductions en ce moment (la version charbon du 6a est actuellement disponible aux alentours de [340€](https://fr.camelcamelcamel.com/product/B0B4DN441N) sur Amazon, faites attention à ce qu'il soit neuf, et non d'occasion, c'est trompeur sur Amazon). Vous pouvez également l'acheter neuf via le [Google store](https://store.google.com/config/pixel_6a?hl=fr&selections=eyJ4OSI6ImNHbDRaV3hmTm1FPSJ9) pour la modique somme de 349€. Le Google Pixel 7a est actuellement à [400€ sur Amazon](https://fr.camelcamelcamel.com/product/B0BZYNGVDK), si vous souhaitez le payer au moins cher, je vous conseille d'acheter le 7a ce mois-ci (décembre 2023), vous pouvez également attendre les prochaines soldes début 2024.
+Alors oui la sécurité et la vie privée ont très souvent un prix, je vous conseille donc de prendre la version "a" des Google Pixel, comme le Google Pixel 8a. Il y a beaucoup de réductions en ce moment (actuellement disponible aux alentours de [429€](https://fr.camelcamelcamel.com/product/B0CXJ9XSVZ) sur Amazon, faites attention à ce qu'il soit neuf, et non d'occasion, c'est trompeur sur Amazon). Vous pouvez également l'acheter neuf via le [Google store](https://store.google.com/product/pixel_8a?hl=fr&selections=eyJwcm9kdWN0RmFtaWx5IjoiY0dsNFpXeGZOMkU9In0%3D) pour la modique somme de 429€.
 
-De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car Xiaomi ne possède pas beaucoup de support (2 ans en moyenne) et ils ont une fâcheuse tendance à ralentir rapidement au fil du temps... Si vous rachetez un smartphone tous les 2 ans, au bout de 5 ans vous aurez payé 500€ (200+200+100). Si vous achetez un Google Pixel 6a au prix fort, 349€ au moment où je vous écris, vous économisez bien 91€ sur 5 ans (car le Google Pixel 6a a 5 ans de mises à jour), voire plus si vous arrivez à avoir des réductions (aux alentours de 330€ en ce moment, donc vous économisez 170€ sur 5 ans).
+De plus, si vous achetez des smartphones à 200€ tels que les Xiaomi par exemple, vous perdrez plus d'argent, car Xiaomi ne possède pas beaucoup de support (2 ans en moyenne) et ils ont une fâcheuse tendance à ralentir rapidement au fil du temps... Si vous rachetez un smartphone tous les 2 ans, au bout de 7 ans vous aurez payé 700€ (200+200+200+100). Si vous achetez un Google Pixel 8a au prix fort, 429€ au moment où je vous écris, vous économisez bien 271€ sur 7 ans (car le Google Pixel 8a a 7 ans de mises à jour), voire plus si vous arrivez à avoir des réductions.
 
-En décembre 2023, le Pixel 6a est à ~340€ et le Pixel 7a à ~400€. Le support du Pixel 6a s'arrêtera en Juillet 2027 (3 ans et 7 mois de support restant) et celui du Pixel 7a en Mai 2028 (4 ans et 5 mois restants).
+En Janvier 2025, le Pixel 8a est à ~429€. Le support du Pixel 8a s'arrêtera en Mai 2031 (6 ans et 7 mois de support restant).
 
-Pixel 6a: 340/(3*12+7) = **7.90€/mois**
+Pixel 8a: 429/(6*12+7) = **5.43€/mois**
 
-Pixel 7a: 400/(4*12+5) = **7.54/mois**
-
-Le Pixel 7a coûte un peu moins cher sur le long terme que le Pixel 6a, plus nous avancerons dans le temps, moins le Pixel 7a sera cher comparé au 6a.
+Le Pixel 8a coûte beaucoup moins cher au long terme que la plupart des smartphones du marché.
 
 Car en effet, je vous conseille de garder votre smartphone jusqu'à ce que :
 
-1. Le support s'arrête
+1. Le support s'arrête.
 2. Il soit tellement cassé qu'il soit inutilisable/irréparable.
 
-Pour conclure, oui les smartphones sont chers, mais étalé sur 5 ans, voire 7 ans pour les Pixel 8, ça reste tout à fait abordable. De plus, vous pourrez probablement les avoir à beaucoup moins cher que ça au moment où vous lirez cet article.
+Pour conclure, oui les smartphones sont chers, mais étalé sur 7 ans, ça reste tout à fait abordable. De plus, vous pourrez probablement les avoir à beaucoup moins cher que ça au moment où vous lirez cet article.
 
 Si vous voulez en savoir plus sur les calculs des prix des smartphones, je vous renvoie vers [mon article sur mon blog dédié à ce sujet](https://samsepi0l.dev/blog/cybersec/smartphones-prices/), vous pourrez notamment y lire une fourchette de prix par rapport au prix mensuel.
 
@@ -186,7 +184,7 @@ Vous avez besoin de [Raivo OTP](https://raivo-otp.com/) pour le 2FA (Two Factor 
 
 Pour réitérer :
 
-- Prenez uniquement un Google Pixel (à partir du 6, car 5 ans de support) ou un iPhone récent ([A12+](https://fr.wikipedia.org/wiki/Apple_A12_Bionic)) (à partir de l'iPhone XR/XS/XS Max).
+- Prenez uniquement un Google Pixel (à partir du 8, car 7 ans de support) ou un iPhone récent ([A12+](https://fr.wikipedia.org/wiki/Apple_A12_Bionic)) (à partir de l'iPhone XR/XS/XS Max).
 - N'installez **pas** d'applications qui se disent améliorer la sécurité ou la performance de votre téléphone. Suivez la [règle KISS](https://fr.wikipedia.org/wiki/Principe_KISS).
 - Utilisez un code PIN de 6 chiffres minimum, mais 8 chiffres ou plus est recommandé.
 - Installez GrapheneOS sur votre Google Pixel.
