@@ -68,7 +68,7 @@ Protégez ***toujours*** vos partages avec un mot de passe !
 
 ## Les gestionnaires de mots de passe
 
-Je vous conseille fortement [Bitwarden](https://bitwarden.com/). J'ai fait un [tutoriel](/fiches/bitwarden) si vous souhaitez apprendre à l'utiliser.
+Je vous conseille fortement [Proton Pass](https://proton.me/fr/pass) ou [Bitwarden](https://bitwarden.com/).
 
 ---
 
@@ -77,8 +77,9 @@ Je vous conseille fortement [Bitwarden](https://bitwarden.com/). J'ai fait un [t
 Le 2FA ("Two Factor Authentication" ou "Double Authentification" en français) est essentiel pour votre sécurité en ligne. Si quelqu'un a accès à votre identifiant de compte et votre mot de passe, il ne pourra toujours pas s'y connecter sans le code OTP (One-Time Password), un code à 6 chiffres qui change en général toutes les 60 secondes.
 
 - [Aegis](https://getaegis.app/), disponible sur le [Play Store](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
+- [Ente Auth](https://ente.io/auth/)
 
-> N'oubliez pas de faire des sauvegardes d'Aegis (vous pourrez exporter les codes OTP en naviguant dans les paramètres d'Aegis) ! Vous pouvez ensuite les téléverser (ou *upload* en anglais) dans un service cloud chiffré de bout en bout tel que Proton Drive.
+> N'oubliez pas de faire des sauvegardes d'Aegis (vous pourrez exporter les codes OTP en naviguant dans les paramètres d'Aegis) ! Vous pouvez ensuite les téléverser (ou *upload* en anglais) dans un service cloud chiffré de bout en bout tel que Proton Drive ou sur un disque chiffré en local chez vous.
 
 ---
 
