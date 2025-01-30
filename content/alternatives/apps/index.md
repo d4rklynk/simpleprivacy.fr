@@ -76,8 +76,8 @@ Je vous conseille fortement [Proton Pass](https://proton.me/fr/pass) ou [Bitward
 
 Le 2FA ("Two Factor Authentication" ou "Double Authentification" en français) est essentiel pour votre sécurité en ligne. Si quelqu'un a accès à votre identifiant de compte et votre mot de passe, il ne pourra toujours pas s'y connecter sans le code OTP (One-Time Password), un code à 6 chiffres qui change en général toutes les 60 secondes.
 
-- [Aegis](https://getaegis.app/), disponible sur le [Play Store](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
-- [Ente Auth](https://ente.io/auth/)
+- [Aegis](https://getaegis.app/) - [Play Store](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
+- [Ente Auth](https://ente.io/auth/) - [Play Store](https://play.google.com/store/apps/details?id=io.ente.auth)
 
 > N'oubliez pas de faire des sauvegardes d'Aegis (vous pourrez exporter les codes OTP en naviguant dans les paramètres d'Aegis) ! Vous pouvez ensuite les téléverser (ou *upload* en anglais) dans un service cloud chiffré de bout en bout tel que Proton Drive ou sur un disque chiffré en local chez vous.
 
