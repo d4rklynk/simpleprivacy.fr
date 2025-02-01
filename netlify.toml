@@ -1,5 +1,5 @@
 [build.environment]
-  HUGO_VERSION = "0.142.0"
+  HUGO_VERSION = "0.143.0"
   NODE_ENV = "production"
   GO_VERSION = "1.23.5"
   TZ = "Europe/Paris"  # Set to preferred timezone
