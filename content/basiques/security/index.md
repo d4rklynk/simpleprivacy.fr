@@ -13,7 +13,7 @@ Tandis que la **sécurité** est l'action de protéger des actifs (des objets de
 
 Même si je vous propose des applications, des outils ou des smartphones de premier choix, cela ne veut pas dire qu'il est impossible que vous soyez piraté.
 
-Il faut comprendre que la cybersécurité, c'est essentiellement une question de statistiques. En utilisant un [gestionnaire de mots de passe](/basiques/password-managers) tel que [Bitwarden](/fiches/biwarden) par exemple, vous réduisez drastiquement vos chances d'être piraté, contrairement aux bloc-notes physiques ou via une solution de bloc-notes en ligne (OneNote par exemple).
+Il faut comprendre que la cybersécurité, c'est essentiellement une question de statistiques. En utilisant un [gestionnaire de mots de passe](/basiques/password-managers) tel que [Bitwarden](/fiches/bitwarden) par exemple, vous réduisez drastiquement vos chances d'être piraté, contrairement aux bloc-notes physiques ou via une solution de bloc-notes en ligne (OneNote par exemple).
 
 Cependant, cela ne signifie pas que Bitwarden est impossible à pirater. Il est tout à fait possible que cela arrive.
 LastPass par exemple, un autre gestionnaire de mots de passe, s'est fait [piraté en août 2022](https://www.theverge.com/2023/2/28/23618353/lastpass-security-breach-disclosure-password-vault-encryption-update).

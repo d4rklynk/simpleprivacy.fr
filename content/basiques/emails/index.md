@@ -7,7 +7,7 @@ date: 2022-08-30
 
 Les emails sont très utilisés de nos jours et possèdent pourtant énormément de défauts.
 
-Vous devriez privilégier les [messageries instantanées](/basiques/instant-messengers) plutôt que les emails.
+Vous devriez privilégier les [messageries instantanées](/basiques/instant-messengers/) plutôt que les emails.
 
 ## Fonctionnement
 
@@ -39,7 +39,7 @@ Les [emails polluent énormément](https://cyberworldcleanupday.fr/fichiers/CWCU
 
 Si vous envoyez un email avec une pièce jointe, en moyenne, on considère que cet email fera 1 Mo, si vous envoyez cet email à 5 personnes, vous envoyez en réalité 5 fois l'email, et donc utilisez 5 Mo de place sur des serveurs !
 
-Supprimez les images dans les signatures (ou quand vous répondez à quelqu'un, vérifiez que tout le texte, les images et les pièces jointes ne sont pas recopiés dans votre réponse), évitez d'attacher des pièces jointes ou alors envoyez-les via une [messagerie instantanée](/basiques/instant-messengers) comme [Signal](/basiques/instant-messengers/#signal) ou via [Send](https://send.vis.ee/), protégées par un mot de passe de préférence, puis donnez le lien et le mot de passe dans l'email.
+Supprimez les images dans les signatures (ou quand vous répondez à quelqu'un, vérifiez que tout le texte, les images et les pièces jointes ne sont pas recopiés dans votre réponse), évitez d'attacher des pièces jointes ou alors envoyez-les via une [messagerie instantanée](/basiques/instant-messengers/) comme [Signal](/basiques/instant-messengers/#signal) ou via [Send](https://send.vis.ee/), protégées par un mot de passe de préférence, puis donnez le lien et le mot de passe dans l'email.
 
 ---
 
@@ -98,5 +98,5 @@ Quant à l'écologie, les mails sont vraiment à bannir. Privilégiez des messag
 
 ### Les solutions
 
-- [Les alternatives 📨️ # Les mails - SimplePrivacy](/alternatives/providers#les-mails)
-- [Les alternatives 📨️ # Les services d'aliasing - SimplePrivacy](/alternatives/providers#les-services-daliasing)
+- [Les alternatives 📨️ # Les mails - SimplePrivacy](/alternatives/providers/#les-mails)
+- [Les alternatives 📨️ # Les services d'aliasing - SimplePrivacy](/alternatives/providers/#les-services-daliasing)

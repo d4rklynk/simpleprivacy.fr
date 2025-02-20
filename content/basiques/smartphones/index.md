@@ -98,7 +98,7 @@ Je vous suggère de lire l'article de Wonderfall concernant la [sécurité sur l
 
 ### Code PIN
 
-Je vous ***déconseille très fortement*** d'utiliser des [schémas](https://wonderfall.space/password/#le-cas-dun-smartphone) (ou [patterns](https://privsec.dev/os/android-tips/#use-a-diceware-passphrase-avoid-pattern-unlock)) pour déverrouiller votre téléphone. Une [étude](Cracking-Android-Pattern-Lock-in-Five-Attempts.pdf) a prouvé l'inefficacité des schémas. Si vous possédez un Google Pixel ou un iPhone vous pouvez utiliser un code PIN, ces deux téléphones sont tellement sécurisés que juste mettre un code PIN à 4 chiffres prendrait plusieurs dizaines d'années à être [bruteforce](/basiques/password-managers#pourquoi-un-mot-de-passe-doit-comporter-des-majuscules-et-des-caract%C3%A8res-sp%C3%A9ciaux-) (mais mettez quand même 8 chiffres au minimum).
+Je vous ***déconseille très fortement*** d'utiliser des [schémas](https://wonderfall.space/password/#le-cas-dun-smartphone) (ou [patterns](https://privsec.dev/os/android-tips/#use-a-diceware-passphrase-avoid-pattern-unlock)) pour déverrouiller votre téléphone. Une [étude](Cracking-Android-Pattern-Lock-in-Five-Attempts.pdf) a prouvé l'inefficacité des schémas. Si vous possédez un Google Pixel ou un iPhone vous pouvez utiliser un code PIN, ces deux téléphones sont tellement sécurisés que juste mettre un code PIN à 4 chiffres prendrait plusieurs dizaines d'années à être [bruteforce](/basiques/password-managers/#pourquoi-un-mot-de-passe-doit-comporter-des-majuscules-et-des-caract%C3%A8res-sp%C3%A9ciaux-) (mais mettez quand même 8 chiffres au minimum).
 
 De manière générale, je vous conseille d'utiliser un code PIN à 6 chiffres. Cependant, il serait plus avisé de mettre un code PIN de 8 chiffres ou plus. Et non, ne mettez **pas** la vitesse de la lumière, le nombre pi, ou n'importe quelle autre constante mathématique. Et surtout ne mettez pas votre date de naissance, celle d'un proche ou de votre animal.
 
@@ -155,7 +155,7 @@ J'avoue ne pas être un grand fan d'Apple et je ne connais pas très bien le suj
 
 Cela dit, je tiens à prévenir que si Apple promet de respecter votre vie privée, nous n'avons en réalité aucune preuve. Peut-être la respecte-il, peut-être que non, peut-être un peu des deux. Parfois, on voit bien qu'Apple n'a pas accès à certaines données car le chiffrement de bout en bout est implémenté ou que les données restent en local. Cependant ce n'est pas toujours le cas.
 
-iCloud ne propose pas de [chiffrement de bout en bout](/basiques/instant-messengers#le-chiffrement-de-bout-en-bout) pour la [plupart des services](https://support.apple.com/fr-fr/HT202303), tels que vos sauvegardes, vos contacts, vos calendriers, vos photos, etc.
+iCloud ne propose pas de [chiffrement de bout en bout](/basiques/instant-messengers/#le-chiffrement-de-bout-en-bout) pour la [plupart des services](https://support.apple.com/fr-fr/HT202303), tels que vos sauvegardes, vos contacts, vos calendriers, vos photos, etc.
 
 > N'ayez confiance en un service cloud **uniquement** si celui-ci propose du **chiffrement de bout en bout** !
 

@@ -8,7 +8,7 @@ weight: 4
 
 Aujourd'hui, je vais vous présenter Signal et ses fonctionnalités de base.
 
-Je vous conseille de lire mon article sur les [messageries instantanées](/basiques/instant-messengers) dont un chapitre est dédié à [Signal](/basiques/instant-messengers#signal).
+Je vous conseille de lire mon article sur les [messageries instantanées](/basiques/instant-messengers/) dont un chapitre est dédié à [Signal](/basiques/instant-messengers/#signal).
 
 Toutes les [informations concernant l'utilisation de Signal](https://support.signal.org/hc/fr) sont disponibles sur leur site web.
 
@@ -36,7 +36,7 @@ Confirmez le code reçu par SMS, validez le captcha et vous arriverez sur cette 
 
 ![signal-pin-creation.png](signal-pin-creation.png#center)
 
-Je vous suggère ***fortement*** de "**Créer un NIP alphanumérique**" et de [créer une phrase de passe avec la méthode diceware](/basiques/password-managers#la-méthode-diceware), puis, enregistrez-le dans votre [gestionnaire de mots de passe](/basiques/password-managers).
+Je vous suggère ***fortement*** de "**Créer un NIP alphanumérique**" et de [créer une phrase de passe avec la méthode diceware](/basiques/password-managers/#la-méthode-diceware), puis, enregistrez-le dans votre [gestionnaire de mots de passe](/basiques/password-managers/).
 
 > Le **code NIP** (ou PIN en anglais) vous permet de [récupérer votre profil, vos paramètres, vos contacts et les personnes que vous avez bloqués](https://support.signal.org/hc/fr/articles/360007059792-NIP-Signal) dans le cas où vous auriez perdu ou changé votre téléphone.
 

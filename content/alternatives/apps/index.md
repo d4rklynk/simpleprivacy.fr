@@ -99,13 +99,13 @@ Si vous possédez déjà Microsoft Office, je vous conseille de l'utiliser (simp
 
 ## Les messageries instantanées
 
-J'ai écris un article sur les [messageries instantanées](/basiques/instant-messengers).
+J'ai écris un article sur les [messageries instantanées](/basiques/instant-messengers/).
 
 Je vous conseille d'utiliser uniquement Signal et de convaincre votre entourage de l'utiliser également. Signal est riche en fonctionnalités, est très joli, et implémente par défaut le chiffrement de bout en bout. C'est la messagerie la plus sécurisée qu'on puisse avoir aujourd'hui.
 
 - [Signal](https://www.signal.org/fr/)
 
-    > Si vous n'avez pas réussi à convaincre une partie de votre entourage, je vous conseille, de réessayer de les convaincre. Si ce n'est pas possible, alors utilisez WhatsApp plutôt que Facebook Messenger. WhatsApp implémente le chiffrement de bout en bout par défaut contrairement à Facebook Messenger où c'est optionnel ! Cependant, WhatsApp collecte énormément vos [métadonnées](/basiques/instant-messengers#métadonnées).
+    > Si vous n'avez pas réussi à convaincre une partie de votre entourage, je vous conseille, de réessayer de les convaincre. Si ce n'est pas possible, alors utilisez WhatsApp plutôt que Facebook Messenger. WhatsApp implémente le chiffrement de bout en bout par défaut contrairement à Facebook Messenger où c'est optionnel ! Cependant, WhatsApp collecte énormément vos [métadonnées](/basiques/instant-messengers/#métadonnées).
 
 - [SimpleX Chat](https://simplex.chat/)
 
