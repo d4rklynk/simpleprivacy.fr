@@ -13,6 +13,19 @@
 /.well-known/openpgpkey/hu/*
   Access-Control-Allow-Origin: *
 
+/.well-known/security.txt
+  Content-Security-Policy : default-src 'none'
+  Content-Type: text/plain; charset=utf-8
+  Content-Disposition: inline
+  Content-Security-Policy : default-src 'none';
+  X-Content-Type-Options : nosniff
+  Referrer-Policy : no-referrer
+  X-Frame-Options : DENY
+  X-XSS-Protection : 0
+  Cross-Origin-Resource-Policy : same-origin
+  Cross-Origin-Embedder-Policy : require-corp
+  Cross-Origin-Opener-Policy : same-origin
+  
 /basiques/security/
   Content-Security-Policy : default-src 'none'; connect-src 'self' https://analytics.simpleprivacy.fr; img-src 'self' https://i.ytimg.com; script-src 'self' https://analytics.simpleprivacy.fr; style-src 'self'; form-action 'none'; frame-src https://www.youtube-nocookie.com https://www.google.com; frame-ancestors 'none'; upgrade-insecure-requests; webrtc 'block'; base-uri 'none'; manifest-src 'self'; require-trusted-types-for 'script'; trusted-types 'none'
   Cross-Origin-Embedder-Policy : unsafe-none
@@ -21,7 +34,7 @@
   Content-Security-Policy : default-src 'none'; img-src 'self' data: https://www.w3.org/; style-src 'self' 'unsafe-inline'; upgrade-insecure-requests; base-uri 'none'
 
 /fsociety00.dat
-  Content-Type: text/plain; charset=utf-8
+  Content-Type: text/plain; charset=utf-yy8
   Content-Disposition: inline
   Content-Security-Policy : default-src 'none';
   X-Content-Type-Options : nosniff
