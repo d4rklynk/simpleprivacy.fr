@@ -2,14 +2,14 @@
 Hash: SHA512
 
 Contact: mailto:contact@simpleprivacy.fr
-Expires: 2024-11-27T20:00:00.000Z
+Expires: 2026-02-19T23:00:00.000Z
 Encryption: https://simpleprivacy.fr/pub-key.txt
 Preferred-Languages: fr, en
 Canonical: https://simpleprivacy.fr/.well-known/security.txt
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQIpAEAfEb27dbRB/gGlPQg5PmduwUCZWUF1AAKCRAGlPQg5Pmd
-u40PAQCzQ1YF7QSOUd0xn3MLYop/vI2fepb/w9qxlLiyo2uNjgEAlFkPIhdi19V2
-JZAXkTqgz9JqRBV4HSRV7WQ9NTe3HwM=
-=3GoI
+iHUEARYKAB0WIQQIpAEAfEb27dbRB/gGlPQg5PmduwUCZ7brmAAKCRAGlPQg5Pmd
+u/m3AP9Mpx2BE6raDV8giF+lzcqgwIebQD8qvMRsP0T8u0+LmwEAtE+emdjVKz1L
+Vf3XMBIhKutUK/2OThZVcv0HN8ueNws=
+=IbYv
 -----END PGP SIGNATURE-----
