@@ -14,9 +14,6 @@ Aucune donnée **personnelle** n'est collectée.
 
 Les informations que je récolte sur vous ne sont pas identifiables, je les collecte dans l'unique but de savoir combien de gens visitent mon site et sur quelles pages. Cette collecte de données ne me permet en aucun cas de vous identifier en tant qu'individu, si vous revenez demain sur mon site web, je ne peux pas savoir si c'est vous ou quelqu'un d'autre, je verrais juste un autre visiteur.
 
-Ce site est également en conformité avec le **Do Not Track Policy**. Si celui-ci est activé sur votre navigateur, absolument aucune donnée ne sera récoltée.
-La politique Do Not Track est disponible en anglais via [ce lien](/.well-known/dnt-policy.txt).
-
 ## Version plus longue
 
 ### Hébergeur web
