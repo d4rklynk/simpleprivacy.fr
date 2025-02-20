@@ -1,5 +1,6 @@
 User-agent: *
-Disallow: /
+Disallow:
+Sitemap: https://simpleprivacy.fr/sitemap.xml
 
 # Based on https://seirdy.one/robots.txt
 
