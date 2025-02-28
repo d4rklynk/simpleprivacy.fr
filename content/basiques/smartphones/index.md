@@ -200,6 +200,6 @@ Pour réitérer :
 - 🇬🇧️ [Android - Madaidan](https://madaidans-insecurities.github.io/android.html)
 - 🇬🇧️ [Android Tips - PrivSec.dev](https://privsec.dev/posts/android/android-tips/) *(j'ai le même thème que son site web car c'est un thème publique et gratuit, ne soyez pas étonné)*
 - 🇬🇧️ [Badness Enumeration - PrivSec.dev](https://privsec.dev/posts/knowledge/badness-enumeration/) (en anglais)
-- 🇬🇧️ [The Android Platform Security Model](android-platform-security-model.pdf) ([Source originelle](https://dl.acm.org/doi/pdf/10.1145/344860))
+- 🇬🇧️ [The Android Platform Security Model](android-platform-security-model.v3.pdf) ([Source originelle](https://arxiv.org/pdf/1904.05572))
 - 🇬🇧️ [What is the most private phone? - The Hated One](https://www.youtube-nocookie.com/embed/lb1BbT5fpwA) (en anglais)
 
